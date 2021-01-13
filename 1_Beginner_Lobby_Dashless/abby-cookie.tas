@@ -1,0 +1,51 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner 3192 160
+   1
+
+#Start
+#lvl_lobby_main
+  36
+   2,L
+   1
+   2,L
+   1
+   3,L
+   1
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,J
+  18,L
+   1,L,J
+   2
+   1,L
+   1
+  10,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+  12,L,D,J
+   7,R,J
+  11,L,K
+   9,R,J,G
+   5,K
+  12,R,J,G
+   4,R,K,G
+   7,R
+   3,L,J
+   4,J
+   8,R,J
+   1,R,K,G
+   1,R,J,G
+  10,R
+   2,R,D,J
+   1,R
+   7,R,J
+  12,R
+   1,R,J
+  32,R,D
+   1,R,J
+  27,R
+   1,X
+#4.250
