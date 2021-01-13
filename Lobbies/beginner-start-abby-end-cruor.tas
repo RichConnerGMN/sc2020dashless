@@ -1,0 +1,71 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner
+   1
+
+#Start
+Read,1_Beginner_Lobby_Dashless\start-abby,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\abby-cookie,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\cookie-rue,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\rue-lichtbaulb,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\lichtbaulb-canadian,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\canadian-dantko,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\dantko-flagpole1up,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\flagpole1up-hennyburgr,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\hennyburgr-snas,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\snas-itsabrody,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\itsabrody-isagoodfriend,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\isagoodfriend-skeleton,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\skeleton-ghajestis,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\ghajestis-cruor,Start
+#95.829
