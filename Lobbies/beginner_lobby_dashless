@@ -2,12 +2,12 @@ console load SpringCollab2020/0-Lobbies/1-Beginner
    1
 
 #Start
-Read,start-abby-end-cruor,Start
+Read,beginner-start-abby-end-cruor,Start
    1,Q
    1,J
   36
 
-Read,start-cat_in_box-end-thegur90,Start
+Read,beginner-start-cat_in_box-end-thegur90,Start
    1,Q
    1,J
   36
