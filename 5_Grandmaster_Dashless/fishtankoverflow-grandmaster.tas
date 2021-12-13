@@ -1,5 +1,4 @@
-RecordCount: 1001
-ChapterTime: 0:41.055(2415)
+RecordCount: 1205
 console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1
 
@@ -89,46 +88,56 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    3
   30,L,J
   25,R,U,X
-  15,R,J,G
-   1,L,J
-   2,K,G
-   7,R,K
-  29,R
-   4,R,D
-   1,R
-#0:12.223(719)
-#0:12.206(718)
-  22,R,J,G
-  23,R
-   3,R,D
-  54,R,J
-   5,R,K,G
-  17,R
-   2,J
-   7,R,J
-  13,R
-   5,R,J,G
-  17,R
-   9,R,J
-  15,R,X
-  22
-   7,R
+   3,R,J,G
    1
    4,R
-   1,R,J
-   1,R,K,G
+   1,R,K
+  11,R,J,G
+  20,R
+   2
+   5,R
+   4,R,D
    1,R,J,G
-  15,R,D
-   9,R,J
+   1,R,K,G
+  17,R
+   1,R,J
+  23,R,D
+  27,R,J
+   1
+  26,R
+   1,R,J,G
+   2,R,K,G
+  15,R
+   2,J
+   6,R,J
+   5,R
+   2,R,K
+   7,R
+   1,R,J,G
+   2,R,K,G
+   8,R
+   1,R,K
+   6,R
+   3,R,J
+   6,R
+  15,R,X
+   5,R
+   1,R,J
+  19,R
+   1,R,J
+   2,R,K,G
+  12,R,D
+  10,R,D,J
    4,R,K
   40
 
 #lvl_fishtank_03
   17,R,D
-  14,R,Z
+  13,R,Z
    1,R,J
    5,R
   90,R,X
+#0:17.170(1010)
   14,R,U,Z
    1,L,J,G
    5,R
@@ -226,6 +235,7 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    4,R,K,G
    2,L,K
    7,L
+#this sucks but idk if it can be faster
    1,J,G
    5,L,J
    1,L
@@ -305,8 +315,36 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1,R,K,G
    1,R,J
    1,R,K
-   7,J,G
+   6,J,G
+   1
   14,R,U,X
- 135
-#0:41.055(2415)
+  12
+  66,L,D
+  32,L
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+ChapterTime: 0:40.494(2382)
 #total 7x
