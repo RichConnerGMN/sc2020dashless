@@ -1,3 +1,6 @@
+console clrsav
+console assist
+Set,SpeedrunClock,2
 console load SpringCollab2020/0-Lobbies/1-Beginner
 EnforceMaingame
    1
@@ -17,6 +20,7 @@ Read,1_Beginner_Lobby_Dashless\abby-cookie,Start
 Read,1_Beginner_Lobby_Dashless\cookie-rue,Start
 Read,EnterLevel
 Read,1_Beginner_Dashless\rue-beginner,Start
+   1
 Read,ExitLevel
 
 Read,1_Beginner_Lobby_Dashless\rue-lichtbaulb,Start
@@ -35,9 +39,11 @@ Read,1_Beginner_Lobby_Dashless\canadian-dantko,Start
   69,O
 
 Read,1_Beginner_Lobby_Dashless\dantko-flagpole1up,Start
-   1,S
-   1,D,J
-  69,O
+Read,EnterLevel
+Read,1_Beginner_Dashless\flagpole1up-beginner,Start
+Read,ExitLevel
+
+
 Read,1_Beginner_Lobby_Dashless\flagpole1up-hennyburgr,Start
 #this map is, uh... special
 unsafe
@@ -67,6 +73,7 @@ Read,1_Beginner_Lobby_Dashless\isagoodfriend-skeleton,Start
    1,S
    1,D,J
   69,O
+
 Read,1_Beginner_Lobby_Dashless\skeleton-ghajestis,Start
 Read,EnterLevel
 Read,1_Beginner_Dashless\ghajestis-beginner,Start
@@ -104,5 +111,15 @@ Read,ExitLevel
    1,Q
    1,J
   31
-
+ 110
+   1,S
+   1,D,J
+   1,U,O
+   1,J
+  10
+   1,S
+   1,D,J
+  34
 Read,1_Beginner_Lobby_Dashless\start-heartside,Start
+Read,EnterHeartside
+Read,1_Beginner_Dashless\heartside-beginner,Start
