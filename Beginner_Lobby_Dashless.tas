@@ -1,0 +1,108 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner
+EnforceMaingame
+   1
+
+#Start
+
+Read,1_Beginner_Lobby_Dashless\start-abby,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\abby-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\abby-cookie,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\cookie-rue,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\rue-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\rue-lichtbaulb,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\lichtbaulb-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\lichtbaulb-canadian,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\canadian-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\canadian-dantko,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\dantko-flagpole1up,Start
+   1,S
+   1,D,J
+  69,O
+Read,1_Beginner_Lobby_Dashless\flagpole1up-hennyburgr,Start
+#this map is, uh... special
+unsafe
+  20
+   1,J
+  30
+   1,J
+  46
+Read,1_Beginner_Dashless\hennyburgr-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\hennyburgr-snas,Start
+   1,S
+   1,D,J
+  69,O
+Read,1_Beginner_Lobby_Dashless\snas-itsabrody,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\itsabrody-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\itsabrody-isagoodfriend,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\isagoodfriend-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\isagoodfriend-skeleton,Start
+   1,S
+   1,D,J
+  69,O
+Read,1_Beginner_Lobby_Dashless\skeleton-ghajestis,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\ghajestis-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\ghajestis-cruor,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\cruor-beginner,Start
+Read,ExitLevel
+  36
+   1,Q
+   1,J
+  31
+
+Read,1_Beginner_Lobby_Dashless\start-cat_in_box,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\cat_in_box-iamdadbod,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\iamdadbod-beginner,Start
+Read,ExitLevel
+
+Read,1_Beginner_Lobby_Dashless\iamdadbod-bissy,Start
+   1,S
+   1,D,J
+  69,O
+
+Read,1_Beginner_Lobby_Dashless\bissy-thegur90,Start
+Read,EnterLevel
+Read,1_Beginner_Dashless\thegur90-beginner,Start
+Read,ExitLevel
+  36
+   1,Q
+   1,J
+  31
+
+Read,1_Beginner_Lobby_Dashless\start-heartside,Start
