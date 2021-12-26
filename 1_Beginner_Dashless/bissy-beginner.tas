@@ -753,6 +753,23 @@ console load SpringCollab2020/1-Beginner/Bissy
    5,G
    1
    5,G
+  21,R,D
+   2,L,D
+   1,J
+   9,L,J
+  31,R,J
+   1,K
+  24,R,K
+   1,J,G
+   3,R,J
+   7,R
+   9,L
+  27,J
+   5,R,G
+   1
+   5,G
+   1
+   5,G
 
   21,R,D
    2,L,D
@@ -1007,36 +1024,38 @@ console load SpringCollab2020/1-Beginner/Bissy
   21,K
   18,J
   18,K
-  15,J
-   7,L,J
-   1,L
-   1,G
+   3,J
+   9,L,J
+   1,R,K
+  10,R,J
    1,R,J
-  11,R,K
-  11,L,J
-  12,R,K
+  12,L,K
+  12,R,J
+   3,K,G
+   1,L
   10,L,J
    2,L
-   1,L,K,G
-   1,L,J,G
-   8,L
-   5,R
+   5,L,K,G
+  11,L
+   4
   19,L,J
-  16,K
+  13,K
   16,J
   16,K
    2,J
   23,R,J
    3,R
-  20,D
-  18,L
+  18,D
+  16,L
+   2
    3,L,J
   12,J
-  15,K
+  16,K
   16,J
-   5,K
-  23,R,K
-  14,D
+   3,K
+  18,R,K
+   6,R
+  15,D
    6
   17,L
   14,L,J
@@ -1044,7 +1063,7 @@ console load SpringCollab2020/1-Beginner/Bissy
    3,L,K
   10,K
   14,J
-  14,K
+  13,K
    1,J
   17,L,J
   39,R
@@ -1095,4 +1114,6 @@ console load SpringCollab2020/1-Beginner/Bissy
   12,K
   12,J
   15,U,X
- 136,D
+   1
+ 135,D
+ChapterTime: 3:06.609(10977)
