@@ -1,6 +1,7 @@
 console load SpringCollab2020/1-Beginner/Bissy
    1
 
+#Start
 #lvl_Bissy_00 (1X)
  190
    3,L
@@ -1113,7 +1114,11 @@ console load SpringCollab2020/1-Beginner/Bissy
   12,J
   12,K
   12,J
-  15,U,X
-   1
- 135,D
+  17,U,X
+  12
+  47,R
+  33,D
+   2,R,D
+   1,D
+  60,R
 ChapterTime: 3:06.609(10977)
