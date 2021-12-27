@@ -1,6 +1,9 @@
+#Made by Algorythm
+#Added entertainment by masrock9
 console load SpringCollab2020/1-Beginner/Flagpole1up
    1
 
+#Start
 #lvl_Flagpole1up_00_Intro
   84
    4,R
@@ -888,10 +891,32 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   13,R,J
    5,R,K
    6,L,J
-   7,R,K
+   7,R
    8,L,J
-   9,R,K
-  11,L,J
-  19,R,K
-   9,L,J
-#1:34.911(5583)
+  25,R,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1
+ChapterTime: 1:34.911(5583)
