@@ -1,7 +1,9 @@
-#by RichConnerGMN and fishmcmuffins
+#Made by RichConnerGMN
+#Optimizations by fishmcmuffins
 console load SpringCollab2020/1-Beginner/iamdadbod
    1
 
+#Start
 #lvl_totk_intro
   88
    1,R
@@ -162,6 +164,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   22,R,K
    4,K
   16,U,X
+#TODO: add dcb through spinners
   11,R,J
   16,L,K
    1,R,K
@@ -589,108 +592,115 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    1,R
    1,L
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   9,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
+   1,R,D
    1,R
-   1,L
+   1,L,D
    1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R,J
- 120
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1
+ChapterTime: 1:05.450(3850)
