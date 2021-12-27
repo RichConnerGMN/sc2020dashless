@@ -1,6 +1,9 @@
+#Made by RichConnerGMN
+#Optimizations by Algorythm
 console load SpringCollab2020/1-Beginner/CANADIAN
    1
 
+#Start
 #lvl_01
  190
    4,R
@@ -500,70 +503,70 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    1,R
    1,L
    1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,J
-#63.886(3758)
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+ChapterTime: 1:03.886(3758)
