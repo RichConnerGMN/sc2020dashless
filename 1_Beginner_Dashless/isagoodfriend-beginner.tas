@@ -1,262 +1,216 @@
-console load SpringCollab2020/1-Beginner/IsaGoodFriend Isa_Intro
+console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1
 
-  36
+#Start
+  88
 
-#lvl_Isa_Intro (1x)
-  52
-   5,R
-  10,R,J
-  49,R,X
+#lvl_Isa_Intro (1X)
+   9,R,J
+  53,R,X
    4,R,J
-  10,R,K
-   6,R
-   1,R,J,G
-   9,R
+  16,R,K
+   4,R,J,G
+   8,R,D,X
+
+#lvl_Isa_00 (3X)
   40
-
-#lvl_Isa_00 (3x)
-   1,R,J
-  24,R,X
-   4,R,J
-   8,R,K
-
-#  18,R
-#   6,R,J,G
-#   4,R
-
-
-#  24,L,D
-#   4,L
-#   4,D,X
-#  11,R,X
-#   4,L
-#   1,L,J,G
-#   1
-#  11,L,J
-#   8,K
-
-#   4,R,K
-#   1,L
-#   2,R,K
-#   1,R
-#   1,L
-#2406.44, -3463.24
-
-#   5,R,J
-#   1,R
-#  20,R,J
-
-
-#   7,R,K
-#   2,L,K
-#2406.22, -3462.99
-
-
-#   5,R,J
-#   1,R
-#  20,R,J
-
-  18,R
-   8,R,J,G
-  17,U,X
-   1,L,J,G
-   1,L,K,G
-   2,R,K
-   2,L,K
-   1,L,J,G
-   1,L,K,G
-  10,L
-   1,L,J
-  14,L
-   4,L,J
-  21,L
-   1,J,G
-   2,L,J
-   9,L
-   6,R
-   1,L
-   1,R
-   1,R,J
-  10,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   9,R
-  18,R,J
-  23,R
-  25,R,X
+  24,R
    4,R,J
    1,R,K
-   8,R
-   4,L
+   4,R
+   3,R,J,G
+   5,R
+   4,R,J
    1,R
+   7,R
+   9,R,J
+  15,R,U,Z
+   4,R,J
+   1,R,K
+   4,R
+  22,R,X
+   4,R,J
+   1,R,K
+  15,R
+   4,R,J
+  40
+
+#lvl_Isa_01
+   1,L,J
+   1,R,J
+   1,R
+   1,L
+   7,R
+   1,R,J
+   3,R
+   1,J
+  19,R,J
+   1,J
+   4,R,J
+   1,R,K,G
+  38,R,J,G
+   4,R,K
+   9,R
+   1,R,J
+  13,R
    1,R,J,G
+   9,R
+   1,R,J
+   5,R
+  11,R,J
+   5,R
+   3,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+  30,R,K
+   8,R
+   1,L
+   1,R,J
+   1,R,K,G
+  10,R,J,G
+  41,R
+   2,R,D
+  11,R,J
+   6,R
+   1,R,J,G
+  14,R
+  11,R,J
+   9,R
+   2,R,J
+  22,R
+   1,L
+   1,R,J,G
+  14,R
+  18,R,J
+   1,K
+   6,R,K
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+  40
+
+#lvl_Isa_02 (2X)
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  19,R,J
+  15,R,U,X
+  22,R
+   8,R,J
+  14,R,K
+  12,L,J
+  12,R,K
+   3,J,G
+   1,L,J
+   7,R,J
+  12,R,K,G
+  11,J
+   1,R,K
+   7,R,J
+   1,L,K
+   6,L,J
+  13,L,K,G
+   1,L,J,G
+   1,L,K,G
+   5,L
+  15,L,U,Z
+  10,L
+   4,L,J,G
+   3,L,K,G
+   4,L
+   1,L,J
+  11,L,K
    6,R,J
   40
 
-#lvl_Isa_01 (1x)
-   8,R,J
-   4,R,J
-   3,L,J
-   1,R,J
-  12,K,G
-   7,L,K
-  15,R,K
-   1,R,J,G
-  34,R,K,G
-   2,L,K
-   2,R,K
-   1,K
-  44,R,J
-  10,R,K
-  30,R
-   4,D,X
-  32,R,X
-   4,R,J
-   3,R,K
-   1,R
-  20,R,K
-   5,L,K
-  12,R,J,G
-   9,R,K,G
-  16,R
-  17,R,J
-   7,R,K,G
-   1,R,J,G
-   8,R
-   1,R,J
-  14,R
-   1,R,J
-   2,R
-  40
-
-#lvl_Isa_02 (2x)
-  12,R
-   1,R,J
-  12,J
-   8,K
-   5,R,K
-  14,L,J,G
-   1,R,K
-  22,R,J
-   1,R,K,G
-   4,R,J,G
-  23,R,X
-   4,R,J
-  12,R,K
-  12,L,J
-  11,R,K
-  11,L,J
-  12,R,K
-   7,R,J,G
-   7,R,K,G
-   6,L,J
+#lvl_Isa_03 (2X)
+   5
+   5,L
+   1
+  12,U,X
+  34,R,J
    7,R,K
-   7,L,J
-  14,L,K,G
-   3,L,J,G
-   8,L
-   4,D,X
-  20,L,U,X
-   4,L,J
-   2,L,K
-   6,L
-   1,R,J,G
-   7,L,J
-  11,R,K
-  40
-
-#lvl_Isa_03 (3x)
-  11,R
-  16,U,X
-  20,R
-   7
-   3,R
-   7,R,J
   28,R
-
-#   9,R,J
-#  17,R,J
-#   1,L,J
-#   1,R,J
-#  12,R,K,G
-#  12,R,J,G
-#  20,R
-#   1,R,J
-#  14,R
-#   3,L
-#   1,R,D
-#   1,L,D
-#   8,R,D
-#   4,R
-#   2,R,D
-#   1,R,J,G
-# 100,R,K,G
-
-   5,R,J
-  23,R,X
-   4,R,J
-  24,R,K
-   5,L,K
-   1,R,J,G
-  34,R,D
-   9,R,J
-  16,R
-   3,L
-   1,R
-   6,R,J,G
+  27,R,K
+   1,J,G
+   1,L
+  10,R,K,G
    5,R
-  12,R,J,G
-   1,L,K
-  22,L,J
-  28,U,X
-  40
-
-#lvl_Isa_04 (2x)
-   4,R
+   9,R,J,G
+  32,R,D
+   5,R
+   2,L
+   1,J
+   2,K,G
+   6
+   3,R
+   1,R,J
+   1,R
+   1,R,J,G
+  40,R,K,G
+   4,J,G
+   1,L,J
+   1,R,J
+  14,R,K,G
    1,R,J,G
    1,R,K,G
-   4,L,K,G
-   6,R,K,G
+   5,R
+   3,R,J
+   3,R
+   1,R,J
+   4,R
+   3,R,J
+   9,R
+  15,R,U,Z
+  20,R
+   3,R,J,G
+   1,K
+  40
+
+#lvl_Isa_04 (2X)
+   1,R,K,G
+   1,J,G
+   1,L,J
+  14,R,K,G
+   1,R,J,G
+  19,R,K,G
+   1,K
+  21,U,X
+   1
+   1,L,J,G
+   1,L,K,G
+  25,L,J,G
+  29,U,X
+  43
+
+#lvl_Isa_Exit (1X)
+   1,L
    1,R,J,G
    1,R,K,G
   13,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   3,R
    5,R,J
-  26,U,X
-   2,L
-  27,L,J,G
-  30,U,X
-  43
-
-#lvl_Isa_Exit (1x)
+   1,R,K,G
    1,R,J,G
   10,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   4,R,J
-   9,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  12,R,J
+  22,R,J
   12,K
-   1,R,J,G
+  12,J,G
    1,R,K,G
-   4,L,K,G
-   7,R,K,G
    1,R,J,G
-   1,R,K,G
-   4,R
-  13,R,U,X
- 135
-#13x 
-#31.535
+  19,R,U,Z
+  75,R,D
+   3,R,J
+  51,L,K
+#0:29.937(1761)
