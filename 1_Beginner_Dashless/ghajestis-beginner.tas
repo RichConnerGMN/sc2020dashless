@@ -1,3 +1,4 @@
+#Made by RichConnerGMN
 console load SpringCollab2020/1-Beginner/Ghajestis
    1
 
@@ -254,7 +255,8 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 #lvl_Ghaj_6
    2,R
   23,R,J
-  19,R,X
+  15,R,X
+   4,R
   12
    1,L
    1,R
@@ -376,5 +378,6 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    1,R
    1,L
    1,R
-   1,L,J
-   1,R,O
+   1,L
+   1,R
+ChapterTime: 0:33.303(1959)
