@@ -1,11 +1,12 @@
-#Made by Vamp, Mlseg, Tyran, & Nebs
+#Made by Vampire Flower, mlseg, Tyran, nebs
 
 console load SpringCollab2020/1-Beginner/Rue
    1
    
-#lvl_Intro
 #Start
  190
+
+#lvl_Intro
    5,R
    1,R,J
   14,R
@@ -604,6 +605,9 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R
    1,L
    1,R
-   4
-   1,O
-#1:10.312(4136)
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+ChapterTime: 1:10.312(4136)
