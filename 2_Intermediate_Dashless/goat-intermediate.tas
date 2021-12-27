@@ -1,7 +1,6 @@
-##Celeste Spring Collab 2020
-##Minimum Dashes TAS
-#Intermediate Lobby:
-#Spirit Spire in 22 Dashes 
+#Made by Kirbz 
+#Optimizations by RichConnerGMN
+#22X
 
 console load SpringCollab2020/2-Intermediate/Goat
    1
@@ -462,6 +461,7 @@ console load SpringCollab2020/2-Intermediate/Goat
    1,J
    1,R,J
    1,R,K,G
+
    3,R,J,G
    7,R
   15,R,X
@@ -475,10 +475,5 @@ console load SpringCollab2020/2-Intermediate/Goat
    1,R,J,G
    4,R,K,G
   36,R
-  54,R,J
-   1,O
-
-#Final Time:
-#0:53.380
-#3140f
-#Dashes: 22
+  55,R,J
+ChapterTime: 0:53.380(3140)
