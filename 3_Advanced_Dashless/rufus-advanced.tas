@@ -1,3 +1,4 @@
+#Made by Cr33pyCat
 console load SpringCollab2020/3-Advanced/Rufus
    1
 
@@ -105,8 +106,7 @@ console load SpringCollab2020/3-Advanced/Rufus
   21,R,U,J,G
   15,R
   26,R,D
-   4,D,X
-  11,R,X
+  15,R,Z
    4,R,J
    3,R,K
   18,R,X
@@ -187,8 +187,7 @@ console load SpringCollab2020/3-Advanced/Rufus
    8,L,K
   20,L
    6,L,D
-   4,D,X
-  15,L,U,X
+  19,L,U,Z
    7,J
    8,K
    2,L,K
@@ -485,3 +484,4 @@ console load SpringCollab2020/3-Advanced/Rufus
   24,R,J
   15,R,U,X
  140,R
+ChapterTime: 1:31.120(5360)
