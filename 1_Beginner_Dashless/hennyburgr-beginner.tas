@@ -1,4 +1,4 @@
-#Made by RichConnerGMN, Algorythm
+#Made by Algorythm, RichConnerGMN
 console load SpringCollab2020/1-Beginner/hennyburgr
    1
 
@@ -22,7 +22,40 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    6,L,K,G
    8,L
    1,R
-  38
+   5
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
    1,J
   14
    1,J
@@ -531,7 +564,10 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   15,R,X
    7,R
   12
-   1,L
+  44,R
+   2,D
+  21,L
+  14,L,D
    1,R
    1,L
    1,R
@@ -548,109 +584,29 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    1,L
    1,R
    1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L,J
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R,J
-#1:04.838(3814)
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1
+ChapterTime: 1:04.838(3814)
