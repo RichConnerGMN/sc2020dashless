@@ -1,6 +1,8 @@
+#Made by RichConnerGMN
 console load SpringCollab2020/1-Beginner/Cruor
    1
 
+#Start
 #lvl_cruor_01
  190
    5,R
@@ -131,6 +133,7 @@ console load SpringCollab2020/1-Beginner/Cruor
    3,L,J
    2,J
    2,L,J
+#somebody please get rid of this neutral
    1,K
   24,R,K
    1,K
@@ -346,5 +349,39 @@ console load SpringCollab2020/1-Beginner/Cruor
 
 #lvl_cruor_04
   11,R
-  20,R,U,X
- 134
+  15,R,U,X
+   5,R
+  12
+  12
+  43,R,D
+   1,R
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  38,R,J,G
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1
+ChapterTime: 0:47.702(2806)
