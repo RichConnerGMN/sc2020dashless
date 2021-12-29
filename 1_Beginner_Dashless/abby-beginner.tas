@@ -1,3 +1,6 @@
+#By iliekchez
+#Dash saves by nebs
+#Optimizations by nebs, RichConnerGMN
 console load SpringCollab2020/1-Beginner/Abby
    1
 
@@ -26,9 +29,10 @@ console load SpringCollab2020/1-Beginner/Abby
   69,O
   13,J
   68,D
-  21,R,D
+  19,R,D
+   2,R
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
   28,R,D
   63,R
   18,D
@@ -54,8 +58,12 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L
    1,R
    1,R,J,G
-   6,R,K,G
-  30,R,D
+   5,R,K,G
+   5,R
+   2,R,K
+   3,R
+   1,R,K
+  20,R,D
   83,R
    5,D
    1,R,J
@@ -86,11 +94,12 @@ console load SpringCollab2020/1-Beginner/Abby
   42,D
   60,D
   10,R
-   5,R,J,G
-  26,R,D
+   4,R,J,G
+   8,R
+   1,R,K
+  17,R,D
   51,L
-  23,D
-  45,D
+  68,D
   21,L,D
   45,L,X
    4,L,J
@@ -139,7 +148,7 @@ console load SpringCollab2020/1-Beginner/Abby
   61
   21,R
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
   20,R,D
   15,D
   82
@@ -169,7 +178,7 @@ console load SpringCollab2020/1-Beginner/Abby
    1,R,J,G
    6,R,K,G
    6,R
-   6,R,J
+   5,R,K
   12,R
   15,R,D
   56,D
@@ -260,4 +269,4 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L
    1,R
    1,L
-ChapterTime: 1:07.150(3950)
+ChapterTime: 1:07.082(3946)
