@@ -1,16 +1,26 @@
-here are the people who contributed to this
-probably not a full list
+The following people contributed inputs to this TAS:
 
-algorythm
+aleph_null
+Algorythm
 atpx8
-cr33pycat
-ddsalvy
+Cr33pyCat
+DDSalvy
 iliekchez
-jatheplayer
-masrock0
-mnstrman06
+JaThePlayer
+Kataiser
+Kirbz
+lmjacks
+masrock9
+mlseg
+Mnstrman06
 nebs
-richconnergmn
+pansear
+RichConerGMN
 sashabell
-thechickenleg
-tntfalle
+TheChickenleg
+TheRoboMan
+tntfalle 
+Tyran
+Vampire Flower
+
+Many additional members of the Celeste community contributed in other ways, inuding finding strategies, suggesting improvements, and answering questions.
