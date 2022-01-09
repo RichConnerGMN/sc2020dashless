@@ -1,5 +1,5 @@
 #Made by Algorythm
-#Optimizations by RichConnerGMN
+#Optimizations by amber, RichConnerGMN
 console load SpringCollab2020/1-Beginner/Bissy
    1
 
@@ -712,75 +712,7 @@ console load SpringCollab2020/1-Beginner/Bissy
   31,R,J
    1,K
   24,R,K
-   1,J,G
-   3,R,J
-   7,R
-   9,L
-  27,J
-   5,R,G
-   1
-   5,G
-   1
-   5,G
-  21,R,D
-   2,L,D
-   1,J
-   9,L,J
-  31,R,J
-   1,K
-  24,R,K
-   1,J,G
-   3,R,J
-   7,R
-   9,L
-  27,J
-   5,R,G
-   1
-   5,G
-   1
-   5,G
-  21,R,D
-   2,L,D
-   1,J
-   9,L,J
-  31,R,J
-   1,K
-  24,R,K
-   1,J,G
-   3,R,J
-   7,R
-   9,L
-  27,J
-   5,R,G
-   1
-   5,G
-   1
-   5,G
-  21,R,D
-   2,L,D
-   1,J
-   9,L,J
-  31,R,J
-   1,K
-  24,R,K
-   1,J,G
-   3,R,J
-   7,R
-   9,L
-  27,J
-   5,R,G
-   1
-   5,G
-   1
-   5,G
-
-  21,R,D
-   2,L,D
-   1,J
-   9,L,J
-  31,R,J
-   1,K
-  24,R,K
+#end of farm
    1,R,J,G
   24,R,K,G
   19,R,J
@@ -834,13 +766,13 @@ console load SpringCollab2020/1-Beginner/Bissy
    1,L,K
   12,R,J,G
   12,R,K,G
-   2,R,J,G
-   1,K
-   7,L,K
+   6,R,J,G
+   5,K
   40
 
 #lvl_Bissy_02
-  12,R,J
+   3
+   8,R
    1,R,K,G
    9,R,J,G
   44,R,K
@@ -1041,40 +973,59 @@ console load SpringCollab2020/1-Beginner/Bissy
    5,L,K,G
   11,L
    4
-  19,L,J
+  20,L,J
   13,K
   16,J
   16,K
-   2,J
-  23,R,J
-   3,R
-  18,D
-  16,L
-   2
-   3,L,J
-  12,J
-  16,K
-  16,J
-   3,K
-  18,R,K
-   6,R
-  15,D
-   6
-  17,L
-  14,L,J
-   1,K
-   3,L,K
-  10,K
-  14,J
-  13,K
    1,J
-  17,L,J
-  39,R
+  24,R,J
+   3,R
+  19,D
+
+  18,L
+   6
+  18,J
+   4,R,G
+   2,L
+   1,L,K
+  15,R,K
+   2,J
+   1,L,J
+   1,J
+   8,L,J
+   1,L,J
+   1,J
+   1,R,K
+  12,R,J
+  30,R,D
+
+  19,L
+  15,J
+   4,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+  20,J
+   1,K
+  16,L,K
+   1,K
+   1
+   1,L
+   1,G
+   1
+   1,J
+   1,K
+  18,L,K
+  40,R
   16,R,J
   16,K
   16,J
-  15,K
-   2,L,K
+  13,K
+   3,L,K
   12,L,J,G
    1,L,K,G
    1,R,J
@@ -1123,4 +1074,4 @@ console load SpringCollab2020/1-Beginner/Bissy
    2,R,D
    1,D
   60,R
-ChapterTime: 3:06.609(10977)
+ChapterTime: 2:56.817(10401)
