@@ -1,7 +1,8 @@
 #Made by nebs and atpx8
+#Dash saves by Cr33pyCat
 #Optimizations by fishmcmuffins
-#25X
-RecordCount: 1299
+#23X
+RecordCount: 1399
 console load SpringCollab2020/5-Grandmaster/BobDole
    1
 #Start
@@ -65,7 +66,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
 #lvl_0
   27,R,U,G
   40
-#lvl_1 4x
+#lvl_1 2x
    5,R,D
    8,J,G
  185,R,U,J,G
@@ -151,210 +152,203 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    4,R,D
    1,G
   21,D
- 319,R,U,J,G
-  42,D
-  24,U,X
-  16,D,G
-   8,R,D,G
+ 309,R,U,J,G
+  12,R,D,G
+   1,D,G
    1,D
-  21,R,D,G
+  21,G
    1,R,D
-  16,D,G
-   5,R,D,G
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  17,R,G
+   3,G
+   1,R,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  17,R,G
+   3,G
+   1,R,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  17,R,G
+   3,G
+   1,R,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  18,R,G
+   3,G
+   1,D
+  16,G
+   5,R,G
+   6,R
+  32,R,D,G
+   7,R
+  15,R,U,X
+  20,R,G
+   1,G
+   1,D
+  21,G
    1,R,D
-  21,D,G
-   1,R,D
-  14,D,G
-   7,R,D,G
-   1,R,D
-  20,D,G
-   1,R,D,G
-   1,R,D
-  15,D,G
-   6,R,D,G
-   1,R,D
-  21,D,G
-   1,R,D
-  21,J,G
-   8,R,J,G
-   1,R,D,J
-  23,J,G
-   6,R,J,G
-   1,R,D,J
-  21,J,G
-   8,R,J,G
-   1,R,D,J
-  23,J,G
-   6,R,J,G
-   1,R,J
-  87,R,U,J,G
-  23,R,D,G
-   3,D,G
+  18,R,G
+   3,G
    1,D
-  17,U,J,G
-   4,R,U,J,G
+  18,R,G
+   3,G
    1,D
-  15,U,G
-   6,R,U,G
+  18,R,G
+   3,G
    1,D
-  17,U,G
-   4,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  17,R,G
+   3,G
+   1,R,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
+  18,R,G
+   3,G
    1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-   1,D
-  16,U,G
-   5,R,U,G
-  22,D
-   5,L,D
-  24,U,X
-  21,R,D,G
-   1,R,D
-  14,D,G
-   7,R,D,G
-   1,R,D
-  20,D,G
-   1,R,D,G
-   1,R,D
-  21,D,G
-   1,D
-  21,D,G
-   1,D
-  21,D,G
-   1,D
-  21,D,G
-   1,D
-  21,D,G
-   1,D
-  21,D,G
-   1,D
-  21,R,D,G
-   1,D
-  14,D,G
-   7,R,D,G
-   1,R,D
-  17,D,G
-   4,R,D,G
-   1,R,D
-  19,D,G
-   2,R,D,G
-   1,R,D
-  17,D,G
-   4,R,D,G
-   1,R,D
-  19,D,G
-   2,R,D,G
-   1,R,D
-  70,R,D,G
- 219,R,U,G
+  14,G
+   1,R,G
+   1,G
+   5,R,G
+   1,L
+  49,R,U,G
+  28,R,D,G
+ 222,R,U,G
   10,D
    4,R
   34,L,J,G
@@ -388,24 +382,35 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   13,L,J,G
   23,R,J,G
    1,D
-  41,K,G
+  11,K,G
+   6,G
+  22,G
    1,R
-   5,R,J,G
-  13,R
-  14,R,J,G
-  32,R,D,G
-  12,D,G
-  35,R,D,G
-  49,R,U,G
-   1,R
-   7,J
-   2
-  11,R,Z
-  13,R,G
+   1,R,J,G
+   3,R,K,G
+  21,R
+   9,R,J
+   5,R
+  14,R,J
+   5,L
+   1,L,J
+   6,L
+  17,R
+   1,R,J,G
+   1,R,K,G
+   2,R,K
+  26,R,G
+  21,R,U,J,G
+   1,R,D,G
+  24,L,D,G
+  11,R,D,G
+  21,R,U,G
+  10,R,D,G
+   5,R,U,G
   40
 #lvl_2 2x
- 127,R,U,G
-  16,R,D,G
+ 150,R,U,G
+  18,R,D,G
  226,R,U,J,G
   15,L,D,G
   25,L,U,G
@@ -413,7 +418,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    1,R
  200,L,G
   20,D
-  19,R
+  16,R
   15,R,Z
   12,D
   10,R,J
@@ -437,7 +442,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
  290
   14,J
   13
-  20,R,D,G
+  21,R,D,G
   41,L,D,G
   40
 #lvl_3 7x
@@ -642,8 +647,9 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    4,R,U,G
    1,D
   15,U,G
-   6,R,U,G
-  25,D
+   7,R,U,G
+   1,D
+  23,D
   16,U,X
    5,L
    3,R
@@ -695,7 +701,11 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   15,D,G
    6,R,U,G
    1,D
- 242,R,U,G
+ 100,R,U,G
+   8,R,D,G
+  10,R,U,G
+   1,R,U,G
+ 122,R,U,G
   11,R,D
   20,J
   30,R,U,J,G
@@ -712,9 +722,10 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    1,R
   36,J,G
    1,D
-  24,R,G
+  23,R,G
    1,R
- 115,R,U,J,G
+  50,R,U,J,G
+  64,R,U,G
   40
 #lvl_4 3x
    3,R,G
@@ -1002,4 +1013,4 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   15,L
   26,L,J
  146,U,X
-ChapterTime: 5:01.070(17710)
+ChapterTime: 4:55.885(17405)
