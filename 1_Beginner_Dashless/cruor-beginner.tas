@@ -1,4 +1,5 @@
 #Made by RichConnerGMN
+#Dash save by pansear
 console load SpringCollab2020/1-Beginner/Cruor
    1
 
@@ -240,16 +241,13 @@ console load SpringCollab2020/1-Beginner/Cruor
   26,R,U,X
   40,R,D
    4,D
-   2
-   1,R
-  24,R,X
-   8,R,U,C
-   4,R,J
-  20,R,K
-  33,U,X
-   7,L,U,C
+  46,R,X
    4,L,J
-   9,L,K
+  41,U,X
+   9,L,U,C
+   4,L,J
+   3,L,K
+   6,L
    1,L,J,G
    5,L
    1,L,J,G
@@ -384,4 +382,4 @@ console load SpringCollab2020/1-Beginner/Cruor
    1,J
    1,K
    1
-ChapterTime: 0:47.702(2806)
+ChapterTime: 0:47.770(2810)
