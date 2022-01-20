@@ -1,4 +1,4 @@
-RecordCount: 348
+RecordCount: 469
 
 console load SpringCollab2020/1-Beginner/Skeleton
    1
@@ -141,14 +141,39 @@ console load SpringCollab2020/1-Beginner/Skeleton
   12,R
    1,G
   26,R,J,G
-   4,R
-  12,R,X
-  20,R,J,G
-   6
-  10,R,D
-   8,J
+  23,R
+  24
+ 166,G
+   1,R,J
    4
-  80,R
+   4,L
+   4
+   2,L
+   2
+   4,R
+   4,R,D
+   1,D,J
+   2,R
+   2
+   3,R
+   4,R
+   1,R,D
+   1,D,J
+   4
+   2,R
+   1,R,J
+  10,R
+   1,R,D
+   1,J
+   5
+  12,R
+   1,J
+   1,R,J
+   3,J
+   6,R,K
+  18,R
+   1,R,D
+  59,R
   11,J,G
    1,L,J
   14,R,K,G
@@ -157,12 +182,11 @@ console load SpringCollab2020/1-Beginner/Skeleton
   14,R,K,G
    2,J,G
    1,L,J
-  10,R,K,G
-   4,R
-   1,R,J,G
-   7,R
+  14,R,K,G
+   5,R,J,G
+  13,R
    1,R,J
-  10,R
+   2,R
   40
 
 #lvl_skeleton2_02
