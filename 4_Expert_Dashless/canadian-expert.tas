@@ -166,7 +166,6 @@ console load SpringCollab2020/4-Expert/CANADIAN
    8,R
   42,R,K
   30,J
-***
   13,L,J
   86,L,U,G
   22,R,J
@@ -202,21 +201,18 @@ Repeat, 2601
    5,G
    1
 EndRepeat
-***
   33,U,G
    1
 Repeat, 2095
    5,G
    1
 EndRepeat
-***
   27,U,G
 9999
 2115
   21,U,G
 9999
 9999
-***
   16,R
 3541
  330,J
@@ -242,7 +238,6 @@ EndRepeat
   18,R,J
    9,K,G
    1,L,K
-***
   20,R,J,G
    8,R,D,X
   12,R,J
