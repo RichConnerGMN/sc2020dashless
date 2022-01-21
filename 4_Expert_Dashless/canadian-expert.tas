@@ -2,7 +2,7 @@
 #Dash saves by Cr33pyCat, amber, RichConnerGMN
 #Optimizations by atpx8, RichConnerGMN
 #40x
-RecordCount: 2178
+RecordCount: 2245
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
@@ -752,26 +752,36 @@ EndRepeat
    1,R,K,G
   22,L
    1,L,J
- 212,L,D
-  10,L
+  78,L,D
+  15,L
+   2
+   1,L
   10,U,X
    1,J
-   1,L,K,G
-  57,R,K
-  27,R,J
- 100,J
-   1,L,J
-  32,J
-   1,K
-  14
-  25,L,D
-   8,L
-  10,L,Z
+  11,K,G
+   1
+   8,R
+   1,R,J
+  41,R,D
+  28,R,J
+  46,L
+  22
+  14,L,J
+  12,R,K,G
+  89,G
+   1,U,G
+   1,G
+   1,D,G
+   2,R
+   1,G
+   1
+  52,K
+  11,L,Z
    1,L,J
    6,L
-  41,L,J
+  42,L,J
   15,L,X
-  20,L,D
+  19,L,D
    7,D
   10,R,D
   40
@@ -790,4 +800,4 @@ Repeat, 12
    1,K
 EndRepeat
    1
-ChapterTime: 32:27.044(114532)
+ChapterTime: 32:26.041(114473)
