@@ -1,8 +1,8 @@
 #Made by atpx8, RichConnerGMN
-#Dash saves by Cr33pyCat, amberlovesarchie, RichConnerGMN
-#Optimizations by atpx8
+#Dash saves by Cr33pyCat, amber, RichConnerGMN
+#Optimizations by atpx8, RichConnerGMN
 #40x
-RecordCount: 2106
+RecordCount: 2178
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
@@ -760,23 +760,34 @@ EndRepeat
   57,R,K
   27,R,J
  100,J
-  10,L,J
-  60,J
-   4,L
-   1,L,D
-   5,L
-  23,L,D
-   6,L,Z
    1,L,J
-   7,L
-  48,L,J
-  18,L,X
-  29,D
+  32,J
+   1,K
+  14
+  25,L,D
+   8,L
+  10,L,Z
+   1,L,J
+   6,L
+  41,L,J
+  15,L,X
+  20,L,D
+   7,D
+  10,R,D
   40
 
 #lvl_7 1x
-  19,R
+   1,R
+  12,R,D
   16,L,D
- 145,L,X
-
-ChapterTime: 32:27.503(114559)
+  11,L,X
+  12
+  32,L
+  28,L,J,G
+  37,K,G
+Repeat, 12
+   1,J
+   1,K
+EndRepeat
+   1
+ChapterTime: 32:27.044(114532)
