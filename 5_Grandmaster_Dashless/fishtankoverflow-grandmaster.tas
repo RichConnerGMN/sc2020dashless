@@ -1,7 +1,7 @@
 #Made by atpx8, RichConnerGMN
 #Dash save by Cr33pyCat
 #7X
-RecordCount: 1205
+RecordCount: 1238
 console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1
 
@@ -36,30 +36,17 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    2,J,G
    3,R,J
    7,R
-  25,G
+  39,G
    1
   20,J
-  20,L,J
-  52,R,X
-   1,R,J,G
-   1,L
-   1,R,J,G
-   1,R,K,G
-   9,R
-   1,R,J
-   8,R
+  15,L,J
+  51,R,X
+  10,R,J,G
+   0,R
   40
 
 #lvl_fishtank_02
-   1
-   4,R
-   1
-   1,R
-   1
-   1,R,J
-   1,R,K,G
-   3,R,J,G
-  14,R
+  15,R
   31,R,U,X
    1,J
    2,L
@@ -140,7 +127,6 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1,R,J
    5,R
   90,R,X
-#0:17.170(1010)
   14,R,U,Z
    1,L,J,G
    5,R
@@ -161,12 +147,11 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    5,R,J
    2,R
    2
-   3,J
-   5,K
-   1,R,J
-  40,R
+   3,R,J
+   1,K
+  43,R
   28,R,X
-   6
+   1,G
    4,L
    1,J
    4,L,J
@@ -349,4 +334,4 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1,L,J
    1,L,K
    1,L,J
-ChapterTime: 0:40.494(2382)
+ChapterTime: 0:40.103(2359)
