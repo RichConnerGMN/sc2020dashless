@@ -1,7 +1,7 @@
 #Made by Renatotheflowey
-#Optimizations by pansear, RichConnerGMN
+#Dash save by amber
 #12X
-RecordCount: 548
+RecordCount: 758
 
 console load SpringCollab2020/2-Intermediate/Bissy
    1
@@ -31,13 +31,8 @@ console load SpringCollab2020/2-Intermediate/Bissy
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-  11,R,J
-   2,L,J
-#0:02.788(164)
-#0:02.822(166)
+  24,R
+  19,R,D,J
   12,L,K,G
   11,J,G
    1,R,J
@@ -45,51 +40,38 @@ console load SpringCollab2020/2-Intermediate/Bissy
   11,J,G
    1,R,J
   14,L,K,G
-   4,J,G
+   2,J,G
    2,R,J
-  18,R,K
-   1,R
-   1,R,K
+  12,R,K
+   7,R
   10,R,J
-   2,J
-   1,R,J
-   1,K
-   4,R,K
-   1,R,K
+   3,L,J
+   7,L,K,G
+   2,K
    1,J
-   4,L,J
-   1,L
-   1,K
+   5,K,G
    2,R,K
-   3,R
    1,R,J,G
    1,R,K,G
    9,R
-   1,R,J
-  12,R
-   3
-   1,R,J
-  12,R,K
-   5,J,G
-   1
-   3,R,J,G
-  10,L,J
-   3,J
-   1,K
-   2,L,K
-   2,R,K
-  14,K
-   1
-   1,G
-   1,L,K
+   1,R,K
+  27,R,J
+   3,K,G
    2,J,G
-  29,L,J
+   7,R,J
+   2,L,J
+   3,J
+   4,R,K,G
+   1,L,K
+   1,R,K
+   9,J
+   3,L,J
+  11,L,K
+  20,L,D
   15,L,U,Z
-   7,L
+   6,L
    9,L,K
   40
-#0:07.310(430)
-#0:07.412(436)
 
 #lvl_Bissy_04
    1,S
@@ -141,38 +123,48 @@ console load SpringCollab2020/2-Intermediate/Bissy
    3,R,J
    1,R,K,G
    4,R,J,G
-  14,R,D
-   9,L,D
-   1
-  43,R,J
-   1,K,G
-   1,L,K
-  14,R,J,G
-   1,R,K,G
-   1,R,J,G
+  16,R,D
+   5,R,D
+  10,R,J
+   5,R
+   8,R,J
+   3,R
+   1,R,K
+  17,R
+   1,R,J
   16,R
-   4,R,D,J
-   2,R
-  15,R,U,Z
-  19,R,J
-  15,R,U,Z
-  11,R
+   1,R,K
+  11,R,J
+   5,R
+   1,R,J
+   1,R
+   3,R,J
+   8,U,X
+  30,R,J
+   3,R
+  18,R,U,Z
+   3,L
+  18,U,X
+  12,L
+  18,U,X
+  14,L,G
+
+   1,K
+  10,L,K
+   2,L
   15,U,X
-   4
-  15,U,X
-   4
-  15,U,X
-   5
-  15,U,X
-   9,L
+  12,L
+   1
    1,L,J,G
    1,L,K,G
-  14,L
+  13,L
    1,L,J
-  14,L
-  19,L,D,J
+   9,L
+   1,L,K
+   4,L
+  18,L,D,J
   12,R,K,G
-  11,J,G
+  10,J,G
    1,L,J
   14,R,K,G
    2,J,G
@@ -184,12 +176,13 @@ console load SpringCollab2020/2-Intermediate/Bissy
    2,L
    1,L,K,G
    1,L,J,G
-  14,L
+  13,L
    8,L,J
-  10,R,K,G
+   8,R,K,G
+   2,R
   11,J,G
    1,L,J
-  15,R,K,G
+  16,R,K,G
    4,J,G
   10,R,U,G
    1,G
@@ -208,4 +201,4 @@ repeat, 60
    1,R
    1,L
 
-ChapterTime: 0:25.245(1485)
+ChapterTime: 0:25.143(1479)
