@@ -1,8 +1,7 @@
 #Made by Renatotheflowey
 #Dash Saves by Cr33pyCat, Tyran
-#Optimizations by Tyran
 #18X
-RecordCount: 4192
+RecordCount: 4613
 console load SpringCollab2020/4-Expert/DeathKontrol
    1
   69
@@ -315,94 +314,85 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   13,R
    1,R,J
   14,R
-   1,R,D,J
-  13,R
+   1,R,J
+  12,R
   40
 
 #lvl_a-01
+   9,R
+   1
    1,R
-  11,R,D,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  14,R
-   2
-   1,R,J,G
-   1,R,K,G
-  10,R
-   2
-   2,J
-   3,R,J
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   7,R,J
    1,R,K,G
    2,R,J,G
-   5,R,D
-   4,D
-   7,R,D
-   7,R,D
-   1,R,J
-   7,R
-  10,D
-   2,R,D
-   1,J
-   5,R,J
-   4,R
-  11,L,J,G
-   1,K,G
-   1,R,K
-  14,L,J,G
-   1,L,K,G
-   1,L,J,G
-  13,L
-   2,L,J
-   1,L,K,G
-  11,L,J,G
-   2,K,G
-   1,K
-   6,R,K
-   1,J
-   2,L,J
-   1,K
-   2,R,K
-   1,J
-   7,R,J
-   1,K
-   2,L,K
-   1,L,J,G
-  11,L,K
-   3,L,D,J
-   4,L,K,G
-   1,L
-   8,L,J
-   3,L,K
-   4,R,J
-   1,R,K,G
-   6,R
-   1,J,G
-   5,J
-   6,R,J
-   3,R,K,G
-   2,R
-   7,R,J
-  21,R
-   2,R,D
-   2,R,J
-   9,R
-   4,R,K
-   1,R,J,G
    5,R
-   1,R,K,G
-   9,R
-   1,R,J,G
+   3,R,J
    6,R,K,G
-   8,K
+   6,R
+   4,R,J,G
+   6,R
+   2,R,D,J
+  20,R,D
+   7,R,D,J
+   5,R,D
+   7,R,J
+   5,L,K,G
+   5,K
+   2,L
+   1,L,J,G
+   5,R,J,G
+   4,L,J,G
+   1,L
+   1,L,K,G
+   1,L,J,G
+  10,L
+  15,L,J
+   7,K,G
+   1,R,K
    1,J
-   8,L,J
-   8,R,K
+  10,R,K,G
+   2,R
+   2,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  10,L
+   4,L,D,J
+   7,L,K,G
    4,L,J
+   1,R,K
+   2,R,J,G
+  15,R,K,G
+   1,R,J,G
+   3,R,K,G
+  23,R
+   2,R,D,J
+  13,R
+   1,R,D,J
+   3,R
+   1,R,K,G
+   2,R,J,G
+   6,R
+   1,R,J
+   1,R
+   2,R,J
+   3,R
+  13,R,J,G
+   1,K
+   8,R,K
+   6,J
+   2,R,J
+   4,K
   40
 
 #lvl_a-02
+#The first half of this room is cyclelocked really badly
    8,R
    2,J
    4,L,J
@@ -698,70 +688,51 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1
    1,R,D
    6,R
-   1,L,D
-   3,R
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1,L,J
-  16,L
-   6,L,J
+   3,L,D
+   9,L
+  10,L,J
+   3,L
+   2
+   1,L
    1,L,K,G
-   3,L,J,G
-  12,L
+   1,L,J,G
+  11,L
    1,L,J
   14,L
    1,L,J
   18,L
    1,L,J
-  17,L
-   1,L,D,J
   14,L
    1,L,J
   14,L
-   1,L,D,J
-   6,L,D
-  29,R,D
+   1,L
+  11,L,J
+  10,L
+  10,L,D
+  16,R,D
+   3,D
+   4,R,J
+  25,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R,D
-  19,L,D
-  13,L
-   1,L,D,J
-  14,L
+   2,R,D,J
+   5,R
+   3,R,J
+   3,R
+  24,L,D
    1,L,J
   14,L
    1,L,J
   14,L
    1,L,J
-  14,L,D
+  14,L
+   5,L,J
+   5,L
+   2,L,J
+  10,L,D
    6,R,D
   40
+
 #lvl_a-02b
    5,L,D
   30,R,D
@@ -819,7 +790,20 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1
    9,R
   20,R,J
-  50
+  30
+   1,L
+   1
+   1,L
+   1
+   1,L
+   1
+   1,L
+   1,L,D
+   1
+   1,L
+   1
+   1,L
+   8
    1,R,J
   14,R
   20,R,J
@@ -830,44 +814,42 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1,R
   27,R,J
    1,R,K
-  15,R
-   5
-  35,R,J
-   2,L
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-   9,J,G
-   4,R,J
-   1,R
-  26,R,J
-  30
+  16,R
+   5,J
+   1,R,J
+  16,R
+   1,R,K,G
+  19,R,J,G
+  17,R
+   4,J,G
+   1,R,J,G
    5,R
-  10,R,J
-   2
-  40,R,G
-  20,R,J,G
-   2,R
-  12,L
-   1,L,J,G
-   1,L,K,G
-   1,J,G
-  13,L
-   4,R
-   9,R,J
+   2,R,J
+   6,R,D
+   7,L,D
+   1,L,J
+   2,K,G
+   9,L
    1,R
-  26,R,J
-   3,R,K
-   1,K
-   1,K,G
-   1,L,K
-   4,R,J,G
-  10,R
+   1,R,J
+  17,J
+  15,R
+   2
+   2,R
    1,R,J,G
    1,R,K,G
-  13,R
-  11,R,J
-  18,R,D,X
+   5,R
+   3,R,J
+   9,R,D
+   9,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+  11,R
+   1,R,J,G
+  19,R,K,G
+  20,R,D,X
    1,S
    1,D,O
   69,J
@@ -1133,6 +1115,7 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1,R,J
   10,R
   40
+
 #lvl_b-00
    4,R
    1,R,J
@@ -1832,9 +1815,9 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1,R,K,G
    4,R,J,G
    4,R
-  10,R,K,G
+  12,R,K,G
   15,U,X
- 124,R
+ 121,R
    1,J
    2,K,G
    1,L
@@ -1848,5 +1831,5 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1,L
    1,R
 #Ends here
-ChapterTime: 2:51.564(10092)
+ChapterTime: 2:48.997(9941)
 #Any Saves below this text 
