@@ -1,0 +1,144 @@
+#Made by Renatotheflowey
+#9X
+RecordCount: 621
+
+console load SpringCollab2020/2-Intermediate/Thegur90
+   1
+
+#Start
+ 192
+   1,R,J
+  15,R,D
+ 110,D
+  16,L,D
+  40
+
+#lvl_2
+  37,L,D
+  27,R,D
+   4,L,D
+   6,D
+  10,L,D,X
+   5,L
+   7,R
+  45,R,D
+  10,R,D,X
+  14,R
+  12,R,D
+  10,L,D
+  45,L
+   6,L,D
+   3,R,D
+   4,R
+  25,R,Z
+  34,R,D
+  16,L,D
+  10,R,D
+  20,R
+  10,L
+   3,D
+   8,R,D
+   4,L,D
+  15,L
+   6,L,D
+  35,D
+  12,L,D
+  40
+
+#lvl_3
+   1,L,D
+  27,D
+  21,L,D
+  10,L,D,X
+  36,L,D
+   8,D
+  13,L,D
+  12,D
+   7,R,D
+   9,R
+  19,L
+   4,L,D
+  13,R,D
+   5,D
+   4,R,D
+  17,R
+  19,L
+   8,R,D
+  10,R,D,X
+  15,R
+  10,R,D
+  18,L,D
+  30,R,D
+  16,L,D
+  15,L,D,X
+  16,L,D
+  55,D
+  40
+
+#lvl_4
+  17,D
+   3,L,D
+  68,D
+   3,L,D
+   7,D
+  15,R,D
+   2,D
+  24,R,D
+  25,R
+  15,R,D
+   3,R
+  14,L
+  16,L,D
+  30,R,D
+  25,D
+  18,L,D
+  28,R,D
+  58,D
+   7,R,D
+   6,D
+  40
+
+#lvl_5
+   1,R,D
+  85,D
+  12,L,D
+  40,D
+   9,L,D
+   5,D
+   6,L
+  11,L,Z
+  24,R,D
+   1,L,D
+  19,L
+   2,R,D
+   2,R
+  24,R,D
+  13,D
+  10,R,D
+   2,R
+   9,R,Z
+  48,R,D
+  30,L,D
+  25,R,D
+   2,D
+  27,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  18,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   5,R,K
+  40
+  15,R
+   8,R,U,X
+ 106,R,D
+  29,L,J
+ 
+ChapterTime: 0:36.533(2149)
