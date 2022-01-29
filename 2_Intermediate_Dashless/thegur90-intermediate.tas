@@ -1,12 +1,12 @@
 #Made by Renatotheflowey
 #9X
-RecordCount: 621
+RecordCount: 627
 
 console load SpringCollab2020/2-Intermediate/Thegur90
    1
 
 #Start
- 192
+ 190
    1,R,J
   15,R,D
  110,D
@@ -141,4 +141,4 @@ console load SpringCollab2020/2-Intermediate/Thegur90
  106,R,D
   29,L,J
  
-ChapterTime: 0:36.533(2149)
+ChapterTime: 0:36.499(2147)
