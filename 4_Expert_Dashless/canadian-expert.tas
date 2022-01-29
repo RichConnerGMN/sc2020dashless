@@ -1,8 +1,8 @@
 #Made by atpx8, RichConnerGMN
 #Dash saves by Cr33pyCat, amber, RichConnerGMN
 #Optimizations by atpx8, RichConnerGMN
-#40x
-RecordCount: 2245
+#39x
+RecordCount: 2467
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
@@ -505,7 +505,7 @@ EndRepeat
    7,R,J,G
   40
 
-#lvl_5b 13x
+#lvl_5b 12x
   13,R
    9
   26,R
@@ -543,7 +543,7 @@ EndRepeat
    6,D
   12,U,X
   45,L,J
- 234,D
+ 413,D
   20,R
    1,L,J
    8
@@ -555,33 +555,57 @@ EndRepeat
    8,L,J
    4,L
   50,R
-  25,R,X
-  26,D
-  10,R,G
-  22,D
-  43,L,J
-   7
-   5,L,Z
+  15,R,X
+  19,R,D
+  23,D
+  26
+   3,L,J
+   3,J
    1,L,J
-   7,L
-   9,L,J
-  17,L
-#can potentially skip fish with really precise movement but i couldnt get it to work
-  15,U,X
+  35,J
+   3,L,K,G
    5,L
-  33,R,J
-   8
+ 440
+   4,R,J
+  60,J
+   1,K
+  28,R,K
+Repeat,10
    1,J
-  20,R,J
-  14,J
-   3,R,J
+  35,R,J
+   1,K
+  35,R,K
+EndRepeat
+   9,G
+   1
    1,J
-   1,R,K,G
-  21
-   7,R
-  15,U,X
-  16,R
-  93,L
+   9
+  19,L,D
+   1,L
+   1,L,D
+   4,D
+  13,L,Z
+   1,L,J
+   6,L
+  12,L,J
+   1,J
+   1,L,J
+  15,L,U,X
+   1,R,J,G
+   2,R,K,G
+   2,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+  16,R,K,G
+   7,R,J,G
+   8,R
+  70,L
+   1,L,D
+   1,L
+  13,L,D
+   1,L
+   2,L,D
   14,L,Z
    1,L,J
    2,L
@@ -612,7 +636,7 @@ EndRepeat
    1,L,J
   73,L,K
   57,L,J
-2155
+2154
    8,R
   12
    1,L,J
@@ -765,17 +789,15 @@ EndRepeat
   41,R,D
   28,R,J
   46,L
-  22
+  16
   14,L,J
-  12,R,K,G
-  89,G
-   1,U,G
-   1,G
+  11,R,K,G
+  99,G
    1,D,G
-   2,R
+   1
    1,G
    1
-  52,K
+  51,K
   11,L,Z
    1,L,J
    6,L
@@ -800,4 +822,4 @@ Repeat, 12
    1,K
 EndRepeat
    1
-ChapterTime: 32:26.041(114473)
+ChapterTime: 32:49.246(115838)
