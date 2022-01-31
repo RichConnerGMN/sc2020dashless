@@ -1,11 +1,12 @@
 #Made by atpx8
 #Optimizations by Cr33pyCat
 #Dash saves by Cr33pyCat
-#50X
+#36X
 
-RecordCount: 1035
+RecordCount: 1712
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
+
 #lvl_Dav_00 3x
  190
    5,L
@@ -82,6 +83,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   24,R,K
   13,L,J
   40
+
 #lvl_Dav_01 6x
   15,R
   17
@@ -119,119 +121,194 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   12,K,G
    7,J,G
   40
-#lvl_Dav_02 22x
+
+#lvl_Dav_02 9x
    6,R
    1,R,J,G
   10,R
    1,R,J
   14,R
+   9,R,J
+   9,R
+   2,R,J
+   7,R
+   1,L
+   3
+   1,L
+   1,K,G
+   6,L
+   1
+   1,R
+   5,R,D
+  21,R,J
+   3,J
+   1,L,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+  14,R,J
+  15,U,X
+   2,R
+  25,R,J
+   1,K,G
+   1,R,K
+   1,K
+   1,L,K
+  14,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+   1,R,K
+  10,L,J,G
+   6,L
+   1
+   1,L
+   6,R,Z
+   5,R,J
+   2,R
+   3,R,J
+   7,R
+   4,R,J,G
+   9,R
+   1,R,J
+  16,R,D
+   3,D
+  41,R,D
+  42,D
+  80
+   7,R
+  30
+  19,R
+  92
+  11,L
+  26
+   1,J
+  24,L
+   1
+   1,J,G
+   2,R,J
+   9,R
+   1,R,J
+   7,R
+  12,R,J
+   4,R
+   4
+   3,R
+   1
+   9,R,D
+   4,R,J,G
+   6,R
    1,R,J
    8,R
-   6
-  12,R,X
-  20,R,J
-  29,R,U,X
-  13,U,C
-  24,R,J
-   1,R
-  11
-   3,D
+   7,D
+   1
+   1,D
    1,L,D
-  11,L,J
-   5,J
-   2,L,J
-   1,R,K,G
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
+   1,D
+   2,L,D
+   1,D
+  19,R,J
    1,J
-  31,R,J
+   3,L,K,G
+   1,R,K
+   1,L,K
    2,R,K
-  16,R
-   3,R,J,G
-  15,R
-  11,R,J
-  21,R
-   7,R,J,G
-  16,R
-  28,R,X
-  10
-   3,R
-   5,U,Z
-  31,R
-   8,L
-  17,R,U,X
-  19,L
-  13,U,X
-   1,J
-  37,L,J
-  10,L,D,X
-  18,R,J
-  22
-  18,L,X
-  15,U,C
-   6,L
-  32,L,J,G
-  15,U,X
-  28,L
-  17,L,U,C
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+   5,K
+   2,R,K
    1,K
-  16,L,K
-   7,L
-  22,R
-  15,R,U,X
-  18,F,90
-  91,F,180
-  46,F,200
+   4,R,K
+   6,L,J
+   2,L,K,G
+   1,K
+  21,L,K
+   7,R
+  14,L,U,X
+   7,R
   15,L,U,X
-  20,D
-  26,L,D
-  10,R
-  15,R,D,X
-  21,R
-   8,L
-  15,L,D,X
-  26,L
-  15,U,X
-  20,L
-   4
+   7,J,G
+   1,R,J
+   1,K
+  12,R
+  13,R,U,Z
+  28,R,D
+  81,F,180
+  36,F,212.94
+   2,F,270
+   3,L
+  39,R
+  10,L
+   1,L,D
+   3,L
+   1
+  12,L
+   3,L,D
+   1,L
+  17,L,X
+   1
    1,L,J,G
-   5,L,K,G
-  35,L
-  17
-  43,L
-   5,L,J,G
-   4,L
-   1,L,J,G
-  50
-  10,L,D,X
+   3,L,K,G
+   5,L
+   1,L,K
+  74,L,D
+  19,L
+  24
+   4,Z
    1,L,J
    6,L
-  36,L,J
-  22,L,X
-  25,R,C
-   6
-  17,R,U,Z
-  15,U,X
-  28,R
-   1,R,D,J
-   5,L,J
-   7,L
+   1,L,J
+   1,L
+  18,L,K,G
+   1,K
+  16,L,K
+  27,R,X
+  14,R,U,Z
+   1,L,J,G
+   8,R,J
+   3,R
+   2,L
+   9,L,J
+   2,L
+   1,R,K,G
+   2,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   9,R,K,G
+   6,R
+   4,K
+   1,R,J,G
+   1,R,K,G
+   1
+   2,R
+   1
+  11,R
+   1,L,K,G
+   4,R,K
+   1,L,K
+   3,L
+   5,L,K
    1,J
-  25,R,J
-   3,R,K,G
-  15,R
- 113
-  22,R,J
- 198,J
+  24,R,J
+   2,R,K,G
+  18,R
+ 119
+  27,R
+ 184
   10,K
   17,R,K
    5,R,J,G
   40
-#lvl_Dav_03 15x
+
+#lvl_Dav_03 14x
    1,S
    1,D,O
    1
@@ -253,12 +330,25 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    8,J
    2,L
    3,R
-   6,J,G
-  24,D
-  17,R
-  14,D,X
-  21
-   5,R
+   1,G
+   4,J,G
+   5
+   3,J
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,J
+  15,D
+   1
+   4,D
+   1,G
+   4,J,G
+  32,L,J
+   7,L
+   3
+   1,L
+  12
   20,U,X
   15,U,Z
    2,R
@@ -299,8 +389,8 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   22,D
   18,R,D
   16,L,U,X
-  30,F,330
-  39,F,315
+  30,F,329.9
+  39,F,314.4
   26,F,225
   21,F,270
   19,F,180
@@ -310,7 +400,9 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,L,J
    5,L
   27,D
-  25,L
+  12,L
+   1
+  12,L
   15,L,X
   20,L,D
    4,J,G
@@ -321,7 +413,9 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   35,L
   17,L,U,Z
   15,U,X
-  32,L,G
+  28,L
+   1,L,D
+   3,D
   12,J,G
   12,K,G
   21,R,J
@@ -343,9 +437,10 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   10,L,K
   35,G
   20,U,G
-  30,J,G
+  29,J,G
   11,R,K
   40
+
 #lvl_Dav_04 3x
    2,R
    1,R,J,G
@@ -423,11 +518,11 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,J,G
    2
    1,G
-   1,S
-  10,J
-   3,J
-   1,J,G
-   3,J
+   1
+   2,J
+   1,G
+   1
+   2,J
    1
    1,J
    1,G
@@ -445,8 +540,9 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    7,R,K
   10,L,J
   40
+
 #lvl_Dav_05 1x
   18,J
   14,U,X
  135
-ChapterTime: 1:35.931(5643)
+ChapterTime: 1:36.662(5686)
