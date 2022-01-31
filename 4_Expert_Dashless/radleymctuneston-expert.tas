@@ -1,7 +1,7 @@
 #Made by Renatotheflowey
-#Dash saves by Cr33pyCat (3)
-#19x 
-RecordCount: 1513
+#Dash saves by Cr33pyCat (5)
+#17x
+RecordCount: 1756
 
 console load SpringCollab2020/4-Expert/RadleyMcTuneston
    1
@@ -10,6 +10,7 @@ console load SpringCollab2020/4-Expert/RadleyMcTuneston
  190
 
 #lvl_?1
+#0x
    5,R
    1,R,J
   18,R,D
@@ -38,6 +39,7 @@ console load SpringCollab2020/4-Expert/RadleyMcTuneston
   40
 
 #lvl_?2
+#0x
   13,R
    1,R,J
   14,R
@@ -130,6 +132,7 @@ EndRepeat
   40
 
 #lvl_?3
+#3x
   12,R
    5,R,J
   21,R
@@ -175,6 +178,7 @@ EndRepeat
   40
 
 #lvl_?3
+#2x
    9,R
    1,R,J,G
    1,R,K,G
@@ -223,6 +227,7 @@ EndRepeat
   40
 
 #lvl_?5
+#2x
   10,R
    1,R,J
    2
@@ -251,6 +256,7 @@ EndRepeat
   40
 
 #lvl_?6
+#9x
    1,S
    1,D,O
   69,J
@@ -345,27 +351,56 @@ EndRepeat
    1,R
   19,R,D,J
    6,D
-  12,R,D
-   5
-   4,R,J,G
-  15,R
-  15,R,U,Z
-   3,R
+  10,R,D
+   1,G
+   1,R,J,G
+  12,R
+  62,G
+   1
+   1,J
+   3,K,G
+   2
+   5,L
+   2,L,J
    1,L
-   1,J,G
-   1,R,J
-  11,R,K
-   8,R,G
-   5,D
-   2,R,J,G
-  11,R
-   8
+   1,L,J
+  11,L
+  15,R
+   1,R,D
   28,R
-  11,U,Z
-   4,J
-  20,R,G
-  13,R,U,G
-  49,R,G
+   2,L
+   1,L,J,G
+   1,L,K,G
+  12,R,J
+   1,R
+   5
+   1,R
+   1,G
+   1,L,J
+   1,L,K
+   5,L
+   3,R,J
+  31,R,D
+  32,G
+   1
+   1,J
+   2,K,G
+   5,L
+   3,R
+   1,R,K
+   1,R
+   1,R,K
+  13,R
+   1,R,D
+  20,R
+   5,L
+  11,L,K,G
+  12,R,J
+   7,R
+  20,U,G
+   3,G
+   1,U,G
+  47,G
   36,R,J,G
   28,R
    5,L,D
@@ -384,7 +419,7 @@ EndRepeat
   18,R
    9
   17,U,X
-  24,D
+  18,D
    6,R,D
   20,U,X
    1,R,J
@@ -394,8 +429,9 @@ EndRepeat
    1,R,J
    4,R
   40
-#lvl_?7
 
+#lvl_?7
+#1x
   10,R
    1,R,J
   14,R
@@ -441,4 +477,4 @@ EndRepeat
    2,R,J
    1,R
   58,R,J
-ChapterTime: 1:07.796(3988)
+ChapterTime: 1:10.890(4170)
