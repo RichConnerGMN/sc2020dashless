@@ -1,13 +1,15 @@
 #Made by Renatotheflowey
 #Dash Saves by Cr33pyCat (1)
+#Timesave by RichConnerGMN
 #16X
 
-RecordCount: 5392
+RecordCount: 5396
 console load SpringCollab2020/4-Expert/DeathKontrol
    1
-  69
 
 #Start
+  69
+
 #lvl_start
 #0x
    4,R
@@ -598,8 +600,10 @@ EndRepeat
    1,S
    1,D,O
   69,J
-   1,K
-  14,R
+   9,R
+   2,D
+   1,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -835,8 +839,10 @@ EndRepeat
    1,S
    1,D,O
   69,J
-   1,K
-  14,R
+   9,R
+   2,D
+   1,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -1186,4 +1192,4 @@ Repeat,7
    1,K
 EndRepeat
    1,J
-ChapterTime: 2:48.249(9897)
+ChapterTime: 2:48.181(9893)
