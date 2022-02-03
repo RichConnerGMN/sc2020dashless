@@ -1,6 +1,8 @@
 #By RichConnerGMN, Vampire Flower
-RecordCount: 753
+#Dash save by Cr33pyCat
+#52x
 
+RecordCount: 846
 console load SpringCollab2020/1-Beginner/DanTKO
    1
 
@@ -8,6 +10,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
  190
 
 #lvl_DanTKO_Intro
+#0x
    5,R
    1,R,J
   14,R
@@ -61,6 +64,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   40
 
 #lvl_DanTKO_01
+#6x
    6,R
    1,R,J
   18,R
@@ -102,6 +106,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   40
 
 #lvl_DanTKO_02
+#8x
    2
   16,R,D
    1
@@ -165,6 +170,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   40
 
 #lvl_DanTKO_03
+#11x
    5,D
    4,R,D
    1,D
@@ -225,6 +231,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   40
 
 #lvl_DanTKO_04
+#12x
    1,R,J,G
    1,R
    3,R,J,G
@@ -299,6 +306,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   40
 
 #lvl_DanTKO_05
+#14x
    3,R,J,G
    2,R
    1
@@ -323,24 +331,34 @@ console load SpringCollab2020/1-Beginner/DanTKO
    3,R
   21,R,G
    1,L
-   7,R
-  30,R,X
+   5,R
+  31,R,X
    4,R,J
    1,R,K
   26,R,X
-   9,R
-  19,D,C
-   3,L
-  15,L,D,X
-   4,L
-  48,R
-  43,R,G
-   4,R,D,G
+   4,L,J
+   1,L,K
+  20,L
+   1
+   2,D
+   1
+   2,D
+  16,R,D,X
+   8,R,D
+   1,L,J
+   7,L
+   1,R
+   5,L
+  17,L,U,J,G
+  48,L,U,G
+  31,R
+  51,R,U,G
    1,L
+   3,R
   31,R,Z
    4,R,J
    2,R,K
-  18,U,X
+  19,U,X
   29,L
   46,R,D
   24,L,D
@@ -368,19 +386,22 @@ console load SpringCollab2020/1-Beginner/DanTKO
   28,R,U,G
    1,L
   27,R,D
-  62,R
-  10,R,U,X
+  60,R
+  11,R,U,X
    6
-  23,R,D
-  11,J
+  25,R,D
+   1,D
+  10,J
    5,L,X
   12
   21,R
   40
 
 #lvl_DanTKO_Outro
+#1x
    2
-  16,R,D
+  15,R,D
+   1,R
    1
    1,R,J
    1,R,K,G
@@ -482,4 +503,4 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,K
    1,J
    1
-ChapterTime: 1:19.560(4680)
+ChapterTime: 1:20.886(4758)
