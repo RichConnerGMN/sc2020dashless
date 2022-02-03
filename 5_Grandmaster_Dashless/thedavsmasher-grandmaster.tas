@@ -1,14 +1,16 @@
 #Made by atpx8
-#Optimizations by Cr33pyCat
+#Optimizations by Cr33pyCat, Renatotheflowey
 #Dash saves by Cr33pyCat
 #36X
 
-RecordCount: 1712
+RecordCount: 2690
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
-#lvl_Dav_00 3x
+#Start
  190
+
+#lvl_Dav_00 3x
    5,L
    1,L,J
   21,L
@@ -49,73 +51,69 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   20,U,X
  110,F,0
   19,F,10
-  27,F,0
+  18,F,0
+Repeat,8
    2,R,J
    2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
+EndRepeat
   11,R,J
   10,K
-   3,L,K
-   4,L
-   4
+  10,L,K
   15,U,Z
    4,L
    8,J
-  30,L
-  60,R,D
-   9,L,J
-  20,L
-   9,R,J
-  20,R
+  29,L,D
+  54,R,D
+   4,L,D
+   6,L,J
+  21,L
+  17,R,J
+   1,R
+  10,R,J
   20,U,X
    1,J
-  34,R,J
-   1,K
-  24,R,K
-  13,L,J
+  29,R,J
+  10,R,K,G
+   3,J
   40
 
 #lvl_Dav_01 6x
-  15,R
-  17
-  10,R,X
-  34,R,J
-  17,U,X
-  40,L,J
+   6,L
+   1,R,D
+   4,L,J
+   6,L,D,X
+   1,R,J
+   7,R
+   1,R,D,J
+  22,R,J
+  13,U,X
+  12,L,J
+   9,L
+   1,L,J,G
+  14,L
    1,L,K
-  21,L,D
+  22,L,D
    1,L,J,G
    1,L,K,G
-   6,L
-   9
-   1,J
+  12,L
    8,L,J
-   8,J
+   5,J
    4,L,K
-  31,L
-   7,L,J
-   6,L
-  11,L,J
-   5
-   3,L,J,G
-  15,L
-   5,D,X
+  23,L
+   7,L,D
+   9,L,J
+  10,L
+   3
+   7,L,D
+   7,L,J,G
+   9,L,D,X
   20,L
   15,U,X
   14,L
   20,L,U,X
   21,L,U,C
    4,L,J,G
-  17,L
+  17,L,D
    1,J
   25,R,J
   12,K,G
@@ -301,19 +299,18 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    2,R,K,G
   18,R
  119
-  27,R
- 184
-  10,K
-  17,R,K
-   5,R,J,G
+  28,R
+ 182
+   1,K
+  16,R,K
+   8,R,J,G
   40
 
-#lvl_Dav_03 14x
+   #lvl_Dav_03 14x
    1,S
    1,D,O
-   1
-  72,O
-   5,R
+  71,J
+   6,R
    2,R,J
   10,R
    4,J,G
@@ -394,155 +391,149 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   26,F,225
   21,F,270
   19,F,180
-  10,D
-  27,L,D
-  24,L,X
-   1,L,J
-   5,L
-  27,D
-  12,L
-   1
-  12,L
-  15,L,X
-  20,L,D
-   4,J,G
-   1,R,J,G
+   2,D
+  30,L,D
+   3,D
+  15,L,Z
+   6,L,D
+  14,D
+  15,L,D
+   5,D
+   4,L,D
+  15,L,Z
+  15,L,D
+   5,D
+   9,L,D
+   3,J,G
+   1,R,J
    5,R,K
   18,R
-  69,D
-  35,L
+  58,D
+  10,L,D
+  31,L
   17,L,U,Z
   15,U,X
-  28,L
+  29,L
+  12,J,G
+  19,R,K
+   4,R
+   1,K
+  10,R,K
+   1,R
+  14,R,K
+  11,J
+   3,L,D
+   9,D
+   5,L,D
+   2,D
    1,L,D
    3,D
-  12,J,G
-  12,K,G
-  21,R,J
-   3,R
-   1,K
-   9,R,K
-  10,R
-   2
-   4,R
-  17,K
-   5,L,D
-   6,D
-  10,L,D
-   2,D
-   6,L,D
+  11,L,D
    1,L,J,G
-   9,L,K,G
+   8,L,K,G
    1,L
-  10,L,K
-  35,G
-  20,U,G
-  29,J,G
-  11,R,K
+  11,L,K
+  32,U,G
+  11,L,J,G
+   5,L,D
+  10,D
+   1,R,D
+   7,J
+  11,R,J
+   7,K,G
   40
 
 #lvl_Dav_04 3x
-   2,R
    1,R,J,G
-   8,R,D
-  15,R,X
-  29,R,D
+   5,R
+   2,R,J
+   3,R
+   5,R,X
+   1,R,J
+  18,R
+Repeat,10
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  16,R
-  23,R,J
+EndRepeat
+   1,R
+   5,R,J
+   1,J
+  17,R,J
   12,U,Z
   35,R,J
    9,L
   15,L,Z
-  46,L,D
+  16,L,D
    5,L
+   1,L,D
+   1,L
+   5,L,D
+   1,L
+  20,L,D
    1,L,D,J
-  10,J
-   1,R,J
+   3,R,J
    1,L,J
-   6,R,J
+  13,R,J
    1,L,K,G
+Repeat,5
    1,R,K
    1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
+EndRepeat
    2,R,K
    1,L,K
    1,J,G
    1,R
-   1,L,K,G
-  10,L,K
-   1,R
+  10,L,K,G
+   1,R,K
    5,L
-   1,S
-  10,J
-   1,L,J
-   1,L,K,G
-   3,R,K
    1,L,K
-   1,J,G
-   1,R,J
-   1,L,K,G
-  12,K
-   5,L,K
-  24,L
+   1,L
+   1,L,J,G
+   3,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+  12,J
+   5,L,J
+  18,R
+   6,L
    3,R
    1,L
    8,R
-   3,R,D
+   2,R,D
    1,R
-   1,J,G
-   2
+   1,R,D
    1,G
    1
-   2,J
    1,G
-   1
-   2,J
-   1
+   3
    1,J
    1,G
+Repeat,4
+   2
+   1,J
+   1
+   1,G
+EndRepeat
+   1
+   2,J
+   1,G
    1,R
-   1,R,J
-   1,R
-   7,R,J
-   1,K
-   1,R,J,G
-   1,L
-   4,R
-  16,R,J
+  10,R,J
   12,R,K
    7,L,J
    7,R,K
-  10,L,J
+   8,L,J
   40
 
 #lvl_Dav_05 1x
-  18,J
-  14,U,X
- 135
-ChapterTime: 1:36.662(5686)
+   4
+   6,J
+  18,U,X
+Repeat,13
+   5,R
+   5,L
+EndRepeat
+   5,R
+ChapterTime: 1:33.347(5491)
