@@ -1,7 +1,7 @@
 #Made by RichConnerGMN, Wirare, Renatotheflowey
 #Dash saves by RichConnerGMN, exopta
 #7x
-RecordCount: 2576
+RecordCount: 2577
 
 console load SpringCollab2020/1-Beginner/Skeleton
    1
@@ -9,7 +9,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
 #Start
  190
 
-#lvl_skeleton2_00 0x
+#lvl_skeleton2_00
    5,R
    1,R,J
   14,R
@@ -83,7 +83,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
   12,R
   40
 
-#lvl_skeleton2_01 2x
+#lvl_skeleton2_01
    2,R
    1,R,J
   14,R
@@ -192,26 +192,50 @@ console load SpringCollab2020/1-Beginner/Skeleton
    2,R
   40
 
-#lvl_skeleton2_02 3x
+#lvl_skeleton2_02
    8,R
    1,R,J,G
-   4,R,K,G
-  29,R,D
-  12,D
-  18,R,Z
-   1,J
-   5,L,J
-   6,L
-  10,R
-  24,R,U,X
-   7
+   1,R,K,G
+   1,R
+   8
+   1,R
+   5
+   1,D
+   1,L
+   1
+ 537,R,D
+   5,R
+   1,R,J
+  20,R
+  14,R,D
+   1,R
+   7,R,D
+   1,R,J
+   6,R
+   1,L,K,G
+   1,L,J,G
+Repeat,3
+   1,R,J
+   1,L,J
+EndRepeat
+   2,R,J
+   1,L,J
+  10,K,G
+   9
+   1,K
+  13
+   1,R,J
+   4,R
+  11
+   9,R
+  25,R,U,X
+   6
   21,R,J
-  30,R
-   3
+  33,R
    1,K,G
    1,J,G
-   3,R,J
-   6,J
+   2,R,J
+   7,J
    1,R,J
    1,L,J
    1,R,J
@@ -228,23 +252,27 @@ console load SpringCollab2020/1-Beginner/Skeleton
    8,L,J
   15,L,K
   15,L
- 143,R,D
+  69,R,D
+   9,D
+  44,R,D
+   7,D
+  23,R,D
    6,J,G
-   6,K,G
-   6,J,G
-   8,K,G
+   5,K,G
+   1
+   4,J,G
    7
   12,K
    1,J,G
    3,R,J
-   6,J
+   4,J
    1,R,J
    1,L,J
    1,R,J
   13,R,K,G
    1,L,J
   38,L,D
-  15,D
+  12,D
   10,L,J
   15,L
    5
@@ -287,7 +315,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,L
    1,R
    1,L
- 190
+ 256
    6,L,J
    2,J
    5,R,J
@@ -303,14 +331,16 @@ console load SpringCollab2020/1-Beginner/Skeleton
   15
   21,J,G
   15
-  19,J,G
-  16
+  23,J,G
+  14
    8,R,J
-  13,R
+  11,R
+   2
   25
   20,L,D
-   3,D
-  16,L,D,J
+   1
+   2,D
+  15,L,D,J
    4,R,K,G
    1,L,K
    1,K
@@ -319,7 +349,11 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,J,G
   21,K
   18
-  42,R,D
+   7,R
+   1
+   8,R,D
+   1,R
+  26,R,D
    1,L
    1,L,J,G
    1,L,K,G
@@ -890,4 +924,4 @@ EndRepeat
   43,R,J
   48,L,K
 
-ChapterTime: 2:18.941(8173)
+ChapterTime: 2:30.161(8833)
