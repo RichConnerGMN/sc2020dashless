@@ -1,5 +1,6 @@
 #Made by Algorythm
 #Dash save by Cr33pyCat
+#
 #38x
 console load SpringCollab2020/2-Intermediate/iamdadbod
    1
@@ -255,12 +256,14 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,R,J,G
    4,R,K,G
    5,R
-   3,R,J
-  11,R
-  12,L,J
-   9,R,J
-  29,R,K
-   2,K
+   2,R,J
+   6,R
+   6,L
+   2,R
+  15,R,K
+  23,R
+   6,K,G
+   1
    1,J,G
    7,R,J
    2,J
@@ -708,4 +711,4 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,R,K,G
   15,R,U,X
  134
-ChapterTime: 1:32.480(5440)
+ChapterTime: 1:32.344(5432)
