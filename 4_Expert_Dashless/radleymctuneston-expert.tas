@@ -1,7 +1,7 @@
 #Made by Renatotheflowey
 #Dash saves by Cr33pyCat (5)
 #17x
-RecordCount: 1756
+RecordCount: 1798
 
 console load SpringCollab2020/4-Expert/RadleyMcTuneston
    1
@@ -452,29 +452,29 @@ EndRepeat
    1,R,K,G
    1,R,J,G
   11,R
-   9,R,J
+  14,R,J
   15,R
-  41,R,J
-  12,R,K,G
-   5,J,G
-  14,L,J
-   1,L,K,G
-  12,L,J,G
-   3,L,K,G
-  11,L
-   1,L,J
-  14,L
-   8,L,J
-  13,L,X
-  60,R,J
-   1,D,J
-   2,R,J
-   7,J
-   1,L,J
-   1,K,G
-   1,R,K
+  23,R,J
+  15,R
+   8,R,J
+   3,K,G
+  14,L,K
    1,L,J,G
-   2,R,J
-   1,R
-  58,R,J
-ChapterTime: 1:10.890(4170)
+  13,L,K,G
+   1,L,J,G
+   1,L,K,G
+   9,L
+   4,L,J
+   9,L
+  15,L,X
+ 110,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+Repeat, 10
+   1,K
+   1,J
+EndRepeat
+   1,K
+ChapterTime: 1:10.652(4156)
