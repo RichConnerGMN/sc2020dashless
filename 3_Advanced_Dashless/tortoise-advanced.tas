@@ -1,5 +1,6 @@
 #Made by Renatotheflowey
-#3x
+#Dash save by exopta
+#2x
 
 console load SpringCollab2020/3-Advanced/Tortoise
    1
@@ -846,25 +847,48 @@ EndRepeat
   52,R,J,G
   40
 
-#lvl_BTortoise_Outro 2x
-  12,R,D
-  16,R,D,X
-   1,R,J,G
-  11,R
-   5,R,J
+#lvl_BTortoise_Outro 1x
+  33,R
+   5,R,D
+   1,R,D,J
+  14,R
+   1,R,D,J
+  14,R
+   2,R,D,J
    5,R
+   1
    1,R,J,G
-  13,R,D
+   1,R,K,G
+  10,R
+   1,R,D,J
+  14,R
+   1,R,D,J
+  14,R
+ Repeat, 4
+   2,R,D
+   1,R
+ EndRepeat
+  11,R,D,J
+   6,R
    1,R,J
-  23,R,D
+  12,R
+   3,R,D
+ Repeat,7
+   2,R,D
+   1,R
+ EndRepeat
+  11,R,D,J
+   6,R
    1,R,J
-  15,R,D,X
-  48,L
-  35,L,D,J
-  10,L,D,K,G
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-  39,L,J,G
- 
-ChapterTime: 2:01.618(7154)
+  12,R
+  10,R,D
+ Repeat,26
+   2,R,D
+   1,R
+ EndRepeat
+   1,R,D
+   1,R,D,J
+  15,R,X
+  39,R
+ 103,R,D
+ChapterTime: 2:05.426(7378)
