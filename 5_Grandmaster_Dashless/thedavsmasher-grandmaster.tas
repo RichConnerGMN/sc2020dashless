@@ -1,9 +1,9 @@
 #Made by atpx8
 #Optimizations by Cr33pyCat, Renatotheflowey
-#Dash saves by Cr33pyCat
-#36X
+#Dash saves by Cr33pyCat, Renatotheflowey
+#35X
 
-RecordCount: 2690
+RecordCount: 3290
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
@@ -306,7 +306,7 @@ EndRepeat
    8,R,J,G
   40
 
-   #lvl_Dav_03 14x
+   #lvl_Dav_03 13x
    1,S
    1,D,O
   71,J
@@ -351,96 +351,134 @@ EndRepeat
    2,R
   21,J
    5,L,J
-   5,L,K,G
-  13,L
-   6,J,G
-  16,L,J
-   8,R
-  18,U,X
+   1,L,K,G
+   3,L,J,G
+   2
+   9,L
+  16,L,J,G
+   4,R
+  20,U,Z
    1,J
-  34,R,J
-  19,R,K,G
+  26,R,J
+   5,R,J
+   1,J
+   2,R,J
+   1,R,K,G
+  16,R,J,G
   11,R,D,X
-  11,R,J
-  17,R,G
-   5,R,J,G
-   5,L,J
-  14,L
-  17,R
-  15,R,X
+   7,R,J
+   1,R
+   8,R,J
+   1
+   9,R
+   1,J,G
+   2,R
+   2,L,D
+  13,R,D
+   2,D
+   2,R,D
+  15,R,Z
   18,D
   14,R,D
-  20,R
-  31,R,D
-  35,R,U,X
-  18,L
-  16,R
-  20,U,X
-   1,J
-  40,R,J
-  14,U,X
-  57,F,330
-  45,F,90
-  45,F,271
-  25,L
-  22,D
-  18,R,D
-  16,L,U,X
-  30,F,329.9
-  39,F,314.4
-  26,F,225
-  21,F,270
-  19,F,180
-   2,D
-  30,L,D
-   3,D
-  15,L,Z
-   6,L,D
-  14,D
-  15,L,D
-   5,D
-   4,L,D
-  15,L,Z
-  15,L,D
-   5,D
-   9,L,D
-   3,J,G
-   1,R,J
-   5,R,K
   18,R
-  58,D
-  10,L,D
-  31,L
+  36,R,D
+  15,R,U,X
+  18,R,D
+  12,L,D
+   1,D
+   4,L,D
+  16,R
+  15,U,X
+   1,J,G
+   4,R,J
+   7,K,G
+  10,R,K
+  14,U,X
+  27
+   1,L,U
+  29,F,354
+   9,F,46
+  22,F,90
+  18,F,180
+  18,F,160
+  19,F,270
+  30,L
+  10,L,U,X
+  27
+   1,L,U
+  15,F,318
+  12,F,335
+   4,F,340
+   1,F,341
+  17,F,270
+  19,F,237
+   1,F,240
+   5,F,270
+   1,F,264
+  13,F,270
+   1,F,270.65
+   3,F,275
+  11,F,305
+   2,F,274
+   6,F,270
+   4,F,272
+   5,F,270
+   4,L
+   1
+   1,L
+   1,L,J,G
+   2,L,K,G
+  14,L
+   2,L,K
+   1,L
+   5,L,J
+  13,L,D
+  13,D
+  27,R,D
+  15,D
+  12,L,D
+  15,L,Z
+  15,L,D
+   4,D
+   3,L,D
+   2,D
+   5,L
+   2,J,G
+   6,R,K
+  16,R,D
+   3
+  59,D
+  41,L,D
   17,L,U,Z
   15,U,X
   29,L
   12,J,G
-  19,R,K
-   4,R
-   1,K
-  10,R,K
+  23,R,K
+   1,J
+  10,R,J
    1,R
   14,R,K
   11,J
-   3,L,D
-   9,D
+   5,D
+  10,L,D
+   6,D
    5,L,D
    2,D
-   1,L,D
-   3,D
-  11,L,D
+   5,L,D
+   1,L
    1,L,J,G
    8,L,K,G
    1,L
-  11,L,K
-  32,U,G
   11,L,J,G
+  12,U,G
+   5,G
+  13,U,G
+   9,L,K,G
    5,L,D
-  10,D
-   1,R,D
-   7,J
+  11,D
+   9,J
   11,R,J
-   7,K,G
+   8,R,K,G
   40
 
 #lvl_Dav_04 3x
@@ -536,4 +574,4 @@ Repeat,13
    5,L
 EndRepeat
    5,R
-ChapterTime: 1:33.347(5491)
+ChapterTime: 1:32.208(5424)
