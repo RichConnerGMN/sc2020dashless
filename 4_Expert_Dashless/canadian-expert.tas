@@ -2,7 +2,7 @@
 #Dash saves by Cr33pyCat, amber, RichConnerGMN
 #Optimizations by atpx8, RichConnerGMN
 #39x
-RecordCount: 2467
+RecordCount: 2594
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
@@ -10,12 +10,23 @@ console load SpringCollab2020/4-Expert/CANADIAN
  190
 
 #lvl_1 2x
-  32,R
- 315,R,D
-  23,L,D
+  34,R
+Repeat,62
+   1,L,D
+   1,R,D
+EndRepeat
+   1,L,D
+   8,J
+   1,K
+  14,R,K
+  20,K
+  20,R,D
+#0:03.655(215)
+ 123,D
+  20,L,D
    1,L,J
-  16,L
-   1,R,J
+  14,L
+   1,J
   14,R
    1,R,J
   14,R
@@ -24,8 +35,8 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,R,J
   14,R
    1,R,J
-  32,R
-  71
+  31,R
+  73
   11,R
    1,R,D,J
   25,R,D
@@ -36,25 +47,34 @@ console load SpringCollab2020/4-Expert/CANADIAN
    9,R,J,G
   26
    1,R
+ 340
+   3,L
+   2
+   1,L
+   2
+   1,L
+   1,D
+   5
+#0:17.306(1018)
+  79
+   2,L
+  28
+   2,R
+   1
+   1,R
+ 350
+   2,L
+   1
+   1,L
+  27
+   2,R
+   1
+   1,R
  351
-   2,L
-   1
-   1,L
-  24
-   2,R
-   1
-   1,R
- 355
-   2,L
-   1
-   1,L
-  24
-   2,R
-   1
-   1,R
- 356
    7,L
-  82
+  81
+   1,L
+   1
    1,L
    1
    1,L
@@ -78,58 +98,53 @@ console load SpringCollab2020/4-Expert/CANADIAN
   14,R
    1,R,J
   24,R
- 180
+  74
   12,L,J
-  12,L,K,G
-  12,L,J,G
-   5,L,K,G
+  13,R,K
+  13,L,J
+  13,R,K
+  13,L,J
+  13,R,K
+  13,L,J
+  13,R,K
+  13,L,J
+  13,R,K
+  91,R
+   1,R,J
+  14,R
+   1,R,J
+  43,R,D
+   1,R,J
+  14,R
   12,R,J
+  12,L,K
+  12,R,J
+  12,L,K
+  61,R,J
+   1,R,D,K
+   4,R
+   1,R,D,J
+   4,R
+ 110,R,J
+  21,R,K
+  43,D
+   7,R,D
+   1,R,D,J
+  36,R,D
+   1,R,J
    1,R
-  25,K
-  13,R,K
-  25,J
-  14,R,J
-  25,K
-  13,R,K
-  25,J
-  11,R,J
-   3
-   1,G
- 321,D
-  11
-  14,R,D
-  25,R,K,G
- 400
-  36,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  35,R,D
-   1,R,J
-   2,R
   40
+#0:47.260(2780)
 
 #lvl_2b 6x
   28,R
    4
    1,R,D
-  10
+   4
   13,R
-1075
+1071
+   1,L
+   1
    5,R
   26,R,J
    5,J
@@ -137,6 +152,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
    5,R
    1
    1,R,J
+#1:17.843(4579)
   26,R,D
    1,R,K,G
    1,R,J,G
@@ -576,7 +592,7 @@ Repeat,10
    1,K
   35,R,K
 EndRepeat
-   9,G
+  10,G
    1
    1,J
    9
@@ -636,7 +652,7 @@ EndRepeat
    1,L,J
   73,L,K
   57,L,J
-2154
+2151
    8,R
   12
    1,L,J
@@ -651,7 +667,7 @@ EndRepeat
   27,L,J,G
   29,L,K,G
   21,R
-2697
+2698
   24,R
   47,R,J
   16,R,K
@@ -790,14 +806,13 @@ EndRepeat
   28,R,J
   46,L
   16
-  14,L,J
+  11,L,J
   11,R,K,G
-  99,G
-   1,D,G
-   1
-   1,G
-   1
-  51,K
+  93,G
+  10,D,G
+   3
+  49,K
+   2,D
   11,L,Z
    1,L,J
    6,L
@@ -822,4 +837,4 @@ Repeat, 12
    1,K
 EndRepeat
    1
-ChapterTime: 32:49.246(115838)
+ChapterTime: 32:39.318(115254)
