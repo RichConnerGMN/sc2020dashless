@@ -1,4 +1,4 @@
-RecordCount: 132
+RecordCount: 133
 
 console load SpringCollab2020/0-Lobbies/4-Expert
    1
@@ -76,16 +76,16 @@ console load SpringCollab2020/0-Lobbies/4-Expert
    1,R,J
    1,R,K,G
    1,R,J,G
-  14,R
+  11,R
    1,R,J
   21,R
    1,R,J
   18,R
    2,R,J
-  26,R
+  22,R
+   3
+   3,R
    1
-   1,D
-   1,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -157,4 +157,4 @@ console load SpringCollab2020/0-Lobbies/4-Expert
    6,L,K
    7,L
    1,X
-#0:13.294(782)
+#0:13.243(779)
