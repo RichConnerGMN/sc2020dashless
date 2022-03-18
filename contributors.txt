@@ -3,6 +3,7 @@ The following people contributed inputs to this TAS:
 aleph_null
 Algorythm
 atpx8
+Bred
 Cr33pyCat
 DDSalvy
 exopta
@@ -17,7 +18,7 @@ Mnstrman06
 nebs
 pansear
 Renatotheflowey
-RichConerGMN
+RichConnerGMN
 sashabell
 TheChickenleg
 TheRoboMan
