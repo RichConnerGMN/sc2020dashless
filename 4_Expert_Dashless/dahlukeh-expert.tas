@@ -1,7 +1,7 @@
 #Made by atpx8
 #Optimizations by RichConnerGMN
 #19X
-RecordCount: 1210
+RecordCount: 1286
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
@@ -328,23 +328,20 @@ AnalogMode, Precise
    4,R
   10,L,K
   13,L
-   9,G
+   8,G
+   1,U,G
    1
    1,J
-   1,L,K,G
-  15,R,D,X
-  10,R
+   1,K,G
+  24,R,D,X
    3,R,J
-   9,R
-   1,R,K
-  13,R
-   1,R,J
-   3,R
+  22,R
+   3,R,J
   40
 
 #lvl_dahlukeh_07
 #1x
-   4,R
+   3,R
   14,R,U,X
  111,R
 Repeat, 12
@@ -352,4 +349,4 @@ Repeat, 12
    1,K
 EndRepeat
 
-ChapterTime: 0:52.887(3111)
+ChapterTime: 0:52.819(3107)
