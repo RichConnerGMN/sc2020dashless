@@ -1,6 +1,6 @@
 #Made by atpx8
 #Optimizations by RichConnerGMN
-#18X
+#19X
 RecordCount: 1210
 console load SpringCollab2020/4-Expert/dahlukeh
    1
@@ -122,7 +122,7 @@ console load SpringCollab2020/4-Expert/dahlukeh
   40
 
 #lvl_dahlukeh_03
-#2x
+#3x
    1,R
    1,R,J
   14,R
@@ -254,7 +254,6 @@ EndRepeat
   13
 #+1f spinner cycle
    1
-#
   50,D,X
   20,R
   40,L,X
