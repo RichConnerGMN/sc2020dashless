@@ -1,7 +1,7 @@
 #Made by atpx8, aleph_null
-#Optimizations by amber
-#Dash saves by aleph_null, amber
-#182X
+#Optimizations by amber, Renatotheflowey
+#Dash saves by aleph_null, amber, Renatotheflowey
+#179X
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -154,8 +154,7 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    2,R,J
    6,R
   40
-
-#lvl_a-01 24x
+#lvl_a-01 21x
 #TheHeck90
    1,S
    1,D,J
@@ -308,98 +307,43 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
   15,R,J
    6,R,K,G
   23,R,J,G
-   8,R
-  16,R,J
-  30,R,K
-   1
-   7,R
-  12,L,D
-  12,R,D
-  11,R
-   3,R,D
-   7,R
-  16,L,D
-   5,D
-   1,L,D
-  40,D
    8,R,D
-  12,R,Z
+  12,R,J
+  14,R
+  15,R,U,X
+  24,R
+   1,L
+  15,L,U,X
+   7
+  13,R,Z
+   1,R,J
+   2,L
+  13,L,D
+   2,R,D
+   1,J
+   3,R,J
+   8,J
    2,R,J
    1,R
-  16,R,J
-   1,G
-   5,J,G
-   1,L,J
-  14,R,K,G
-   1,R,J,G
-   3,R,K,G
-  16,R
-   1,R,G
-   5,R,J,G
-  20,R,D
-  29,D
-   8,L,D
-  13,L,U,Z
-  23,L
-  12,L,Z
-   5,L,J
-  33,L,D
-  15,L,X
-   2,R,J
-   9,R,D
-  26,L,D
-  15,D
-  15,L,D
-   5,R,Z
+  13,R,Z
+  10,R,D
+  12,R,Z
    1,R,J
-   3,R
-   9,R,D,J
-   9,R,K
-   6,K
-  23,U,X
-  13,U,C
-  15,L
-   7,R,Z
-  51,R,J
-   2,J
-   4,R,K,G
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  18,R
-   1,R,J
-  18,R
-   1,R,J
-  18,R
+ 151,R
   40
 
 #lvl_a-02 15x
 #Tripeak Trail
-   1
-   3,R,J
-   9,R
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R
-   1
-   4,R,J
-  17,R
+   1,S
+   1,D,J
+  69,O
    1,R,J
-   1,R,K,G
-   1,R,J,G
+   8,R
+   2,L
+   2,R
+  32,L,D,X
+  20
   11,R
-   4,R,J
-  17,R
-  31,L,D,X
-  14
-  14,R
-   1
    4,R,J
    8,U,X
   26,R,U,J,G
@@ -1714,7 +1658,6 @@ AnalogMode,Precise
    1,R,J
   11,R
   40
-
 #lvl_a-heart 11x
    3,R
   18,R,J
@@ -1934,4 +1877,4 @@ AnalogMode,Precise
   14,U,X
  135
 
-ChapterTime: 5:43.383(20199)
+ChapterTime: 5:37.501(19853)
