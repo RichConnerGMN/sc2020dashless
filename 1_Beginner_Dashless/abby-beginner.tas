@@ -162,8 +162,11 @@ console load SpringCollab2020/1-Beginner/Abby
   66,R,D
   25,D
   44,R
-  15,R,U,X
-  39,R,D
+  13,R,Z
+   4,R,J,G
+   2,R
+  10
+  17,R,D
   44
   26,R
    2,R,J,G
@@ -226,47 +229,9 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L,J,G
    1,L,K,G
    1,L,J,G
+Repeat,21
    1,L
    1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-ChapterTime: 1:07.082(3946)
+EndRepeat
+   1
+ChapterTime: 1:06.946(3938)
