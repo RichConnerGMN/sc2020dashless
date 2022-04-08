@@ -24,29 +24,36 @@ console load SpringCollab2020/1-Beginner/Cruor
    9,R
    1,R,J
   15,R
+   3,R,J
+   5,R
+   2,R,K
+   4,R
+  14,R,Z
    1,R,J
-  20,R
-  14,R,J
-   5,R,Z
-   1,R,J
-   7,R
+   6,R
    1,R,J
   18,R,D
    1,R,J
-  22,R
+  21,R
   28,R,J
    1,R
    1,R,J,G
    7,R
    2,R,J
    5,R
-  23,R,J
+  20,R,J
+   2,J
   12,R,K,G
    3,R,J,G
    3,L,J
    1,R,J
-   9,R,K,G
-  37,R
+  10,R,K,G
+#change to 33R 3RD for 9f dcb
+#but it desyncs
+#couldn't get it to be actually faster
+  28,R
+   8,R,D
+#also change to 7RJ 3R
    8,R,J
    2,R
    1,R,J,G
@@ -98,14 +105,18 @@ console load SpringCollab2020/1-Beginner/Cruor
   39,R,U,X
    1,R,J
    3,L,J
-   6,R,J
+   5,R,J
+   1,R
    1,R,K,G
-   8,R
+   6,R
+   1
+   1,R
    1,R,J,G
-  12,R
-   3,R,J
-   8,R
- 123,R,X
+   1,R,K,G
+  13,R
+   2,R,J
+   7,R
+ 119,R,X
   22,L,C
   19,R,X
    4,R,J
@@ -117,41 +128,44 @@ console load SpringCollab2020/1-Beginner/Cruor
    3,R,K,G
    4,R
    7,R,J,G
-  40
+  43
 
 #lvl_cruor_03_tp
 #2x
-   4,R
+   1,R
   13,R,U,X
    1,R,J,G
-   7,R
-   2,R,J
-   6,R
-   3,L
-  27,R,J,G
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   1
+   9,R
+  26,R,J,G
    4,K
    1,R,J,G
-   5,J
-   3,L,J
-   2,J
+   6,J
    2,L,J
+   1,J
+   1,L,J
+   1,J
 #somebody please get rid of this neutral
    1,K
   24,R,K
-   1,K
-  20,R,J,G
-   8,R
+  17,R,J,G
+  10,R
    1,R,J
-  14,R
+  20,R
+  13,R,J
+   1,R,K
    1,R,J
-  14,R
+   4,R
    1,R,J
-  14,R
-   5,R,J
-   7,R
-   3,R,J
-  15,R
-  23,R,J
+  27,R,D
+   3,R
+  20,R,J
+   1,R
+   1,R,J
    2,R,K,G
    2,K
    2,L,K
@@ -162,11 +176,9 @@ console load SpringCollab2020/1-Beginner/Cruor
    1,R,J,G
    9,R
    9,R,J
-   7,R
+   6,R
    3,R,J
-   1,R
-   1,R,J
-   4,R
+   7,R
    1,R,J,G
    1,R,K,G
    3,R
@@ -336,12 +348,22 @@ console load SpringCollab2020/1-Beginner/Cruor
    1,L,J,G
   10,L
   10,L,J
-  20,L
-   1,L,J,G
-   3,L,K,G
-   6,L
-  23,L,J,G
+   5,L
+   2,L,K
+  12,L
    1
+   1,L,J,G
+   2,L,K,G
+   4,L
+   1,L,J,G
+   3,J
+   8,L,J
+   5,L
+   1
+   1,L
+   1
+   1,L
+   1,D
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -374,28 +396,10 @@ console load SpringCollab2020/1-Beginner/Cruor
    1,R,J,G
    1,R,K,G
   38,R,J,G
+Repeat,11
    1,K
    1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
+EndRepeat
    1
-ChapterTime: 0:47.770(2810)
+
+ChapterTime: 0:48.110(2830)
