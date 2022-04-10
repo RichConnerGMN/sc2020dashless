@@ -3,7 +3,7 @@
 #Dash saves by Cr33pyCat, Renatotheflowey
 #35X
 
-RecordCount: 3290
+RecordCount: 3345
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
@@ -101,22 +101,29 @@ EndRepeat
    4,L,K
   23,L
    7,L,D
-   9,L,J
-  10,L
-   3
+   8,L,J
+   8,L
+   3,L,J
+   3,D
    7,L,D
-   7,L,J,G
-   9,L,D,X
+   1,L,J,G
+   2,L,K,G
+   4,L
+   8,L,D,X
   20,L
   15,U,X
-  14,L
+  13,L
   20,L,U,X
   21,L,U,C
-   4,L,J,G
-  17,L,D
-   1,J
-  25,R,J
-  12,K,G
+   3,L,J,G
+   4,L,D
+   3,L,J
+   3,L,D
+   1,L,J
+   6,L,D
+   1,R,J,G
+  12,J,G
+  12,R,K,G
    7,J,G
   40
 
@@ -194,10 +201,10 @@ EndRepeat
    1,R,J
    7,R
   12,R,J
-   4,R
-   4
-   3,R
-   1
+   4,R,D
+   4,D
+   3,R,D
+   1,D
    9,R,D
    4,R,J,G
    6,R
@@ -307,6 +314,8 @@ EndRepeat
   40
 
    #lvl_Dav_03 13x
+   #Any single change will desync the coin block movement
+   
    1,S
    1,D,O
   71,J
@@ -574,4 +583,4 @@ Repeat,13
    5,L
 EndRepeat
    5,R
-ChapterTime: 1:32.208(5424)
+ChapterTime: 1:31.936(5408)
