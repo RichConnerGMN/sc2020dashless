@@ -2,7 +2,7 @@
 
 #22X
 
-RecordCount: 735
+RecordCount: 1120
 #added late
 
 console load SpringCollab2020/3-Advanced/Holly
@@ -65,12 +65,13 @@ console load SpringCollab2020/3-Advanced/Holly
    5,L
    2,J,G
    2,K,G
-   2,J,G
-   1,L,K,G
-  11
-   3,R
-  22,R,J
-  24,R,U,X
+   1,J,G
+   1,K,G
+   5,L
+   1
+   1,R
+  21,R,J
+  19,R,U,X
    4,J,G
   11,K,G
    2,L,K
@@ -104,61 +105,79 @@ console load SpringCollab2020/3-Advanced/Holly
    1,L,K
    2,L
    1,K,G
-  13,L
-   3,L,J
-  12,L
-   1,L,J,G
-  13,L
-   1,L,J
    9,L
+   4
+   1,L,J
+   6,L
+   1
+   1,L
+   1
+   1,L
+   1
+   1,L
+   1
+   1,L
+   1,L,K
+   1,L,J,G
+   1,L,K,G
+  11,L
+   1,L,J
+   4,L
   40
 
 #lvl_Holly_01b
 #0x
-   5,L
+  10,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
-  21,L,J
-   2,J
-   3,L
+  17,L
+  22,L,K
    1,L,J,G
-  22,L,K,G
+  20,L,K,G
   11,R,J
    8,L,K
    3,R,J
    6,L,K
   11,R,J
-   6,R,K,G
-   6,L,K
+   1,K,G
+   9,R,K
+   1,L,K
    1,J,G
-   5,R,J
+   3,R,J
+   1,R
+   2
    3,R
    1,R,K,G
+   1,R,J,G
   19,R
    1,R,J
   21,R,D
    1,R,J
-  11,R
+   8,R
   40
 
 #lvl_Holly_01 (1)
 #3x
-   3,R
-   1,R,J
-  14,R
+   6,R
    1,R,J
   18,R
    1,R,J
-  15,R
-   1,R,D,J
+  14,R
+   1,R,J
+   7,R
+   1
    1,R
-   1,R,J,G
-   7,R,K,G
-   1,J,G
-   1,L,J
-  17,R,J
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R,D,J
+   1,R,K,G
+   8,R,J,G
+   1,K,G
+   1,L,K
+  16,R,K
+   1,R
    1
    1,G
    8,R,K,G
@@ -168,9 +187,9 @@ console load SpringCollab2020/3-Advanced/Holly
    1,R,J
    1,R,K,G
    9,R,J,G
-  11,R
+   8,R
+   2,L
   14,R,X
-
   22,L,J
   16,U,X
   31,L,J
@@ -240,12 +259,10 @@ console load SpringCollab2020/3-Advanced/Holly
    1,L,K,G
    4,L,J,G
    4,L
-  10,L,J,G
-  14,R,J
-   1,K,G
-   1,L,K
-   6,R,K
-   7,R,J,G
+  21,L,J,G
+   7,K,G
+   5,R,K
+   3,R,J,G
   40
 
 #lvl_Holly_02
@@ -296,25 +313,24 @@ console load SpringCollab2020/3-Advanced/Holly
   15,U,X
   18,R,J
    1,R,K,G
-   2,L,K
-   2,R,K
+   3,L,K
+   4,R,K
    1,R,J,G
-  19,R,K,G
-   5,R,J,G
+  15,R,K,G
+   3,R,J,G
    5,R
-   3,R,J
-   5,R
+   6,R,J
+   2,R
   13,R,D,K
    2,J,G
-   6,K,G
-   1,R,K
+   7,K,G
    1,L,K
   17,R,K
-   1,G
-   3,J,G
-   3,K,G
-   2,J,G
-   8,R
+   4,J,G
+   1,K,G
+   4
+   1,J,G
+   7,R
   10,R,D,J
   21,K,G
    1,L,J
@@ -370,7 +386,8 @@ endrepeat
    1,R,J
    3,L,J
    1,L,K,G
-   4,L,J,G
+   3,L,J,G
+   1,L
    1,K,G
    2,L,K
    2,K
@@ -493,19 +510,20 @@ endrepeat
   14,L
    1,L,J
   21,L,D
-   1,L,J
-  17,L
-   1,L,J
-   6,L
-  19,R,D
-   3,D
+   8,L,J
+   1,L
+   7,L,J
+  10,L,D
+   1,D
+   8,R,D
+   8,D
    8,L,D
    4,L,D,J
    1,L,K,G
    4,L,J,G
    5,L
-   2,L,D,J
-  26,D
+   1,L,D,J
+  27,D
    1,L,D,J
    4,L
    1,L,D,J
@@ -525,11 +543,12 @@ endrepeat
    4,L
    2,L,D,J
   13,R,K,G
-  12,J,G
+  14,J,G
    2,K
-  20,U,X
-  22,L,J
-   8,R,K,G
+  19,U,X
+  20,L,J
+   7,R,K,G
+   1,R
    1,R,J,G
   11,R
    1,R,J
@@ -539,9 +558,12 @@ endrepeat
    1,L,K
   17,R,K
    2,G
-  10,R,J,G
-  12,R,K,G
-   3,J,G
+   9,R,J,G
+   2,R,K,G
+   7,K,G
+   3,R,K
+   1,J,G
+   2,R,J
    2,L,J
   26,L,K
   23,L,U,Z
@@ -551,10 +573,10 @@ endrepeat
   10,R
    1,R,J,G
    1,R,K,G
-  11,R
+  10,R
    1,R,J
-  15,R
-  18,R,J
+  14,R
+  19,R,J
   11,R,K,G
    1,L,K
    1,J,G
@@ -567,9 +589,10 @@ endrepeat
    1,R,J
    1,J
   32,L,J
-  13,R
+  12,R
+   1
    1,R,J
-   2
+   2,L
   14,L,X
    5,L,J
    5,R
@@ -620,16 +643,13 @@ endrepeat
    1,R,J
    4,L,K,G
    3,R,K
-   1,L,J,G
-   4,L,J
-   1,L
+   6,L,J,G
    1,L,K,G
-   2,L,J,G
-  11,L
-  13,L,J
-  12,K,G
+   1,L,J,G
+   9,L
+  15,L,J
+  10,K,G
   40
-
 #lvl_Holly_06
 #1x
   12,J,G
@@ -638,24 +658,26 @@ endrepeat
   10,K,G
    2,R,K
   12,R,J
-   8,K,G
-   1,L,K
+   6,K,G
+   2
+   1,L
    1,L,J
    2,L
    1,L,J,G
-  10,L
+   7,L
   12,L,K
   12,J,G
   12,K,G
   12,J,G
-   9,L,K,G
-   9,L
+   1
+   8,L,K,G
+   8,L
    2,L,J
-   4,J
+   5,J
    8,K,G
-   4,R,K
+   3,R,K
   14,U,X
  136
 
 
-ChapterTime: 1:29.692(5276)
+ChapterTime: 1:28.791(5223)
