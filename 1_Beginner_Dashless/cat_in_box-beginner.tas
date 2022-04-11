@@ -1,14 +1,15 @@
 #Made by pansear
-#Optimizations by Renatotheflowey
+#Optimizations by Renatotheflowey, RichConnerGMN
 # 14X
 
-RecordCount: 725
+RecordCount: 800
 
 console load SpringCollab2020/1-Beginner/Cat_in_Box_01 
    1
 
 #Start
  190
+
 #lvl_cat-00
    5,R
    1,R,J
@@ -38,19 +39,17 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   16,L,J
   11,L,K
   11,R,J
-  11,L,K
-   2,J,G
-   6,K,G
+  13,L,K
+   8,L,J,G
+   3,R,J
+   2,L,J
+  10,K,G
    1,L,K
    1,K
    1,L,K
-   1,R,K
-   1,L,K
-  14,L,J,G
    1,J
-   1,K
-   2,J,G
-  23,R,J
+   2,K,G
+  23,R,K
    4,R
   15,R,X
   18,R
@@ -58,8 +57,8 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    9,D
   17,R,D
    4,D
-  12,R,D
-   1,D
+  11,R,D
+   2,D
    5,R,D
    6,R
    5,R,D
@@ -71,7 +70,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    6,R
    2,R,J
    1,R
-   1,R,J
+   1,R
    5,R
   26,R,J
   10,R
@@ -96,68 +95,65 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   40
 
 #lvl_cat-02
-  12,J,G
-  12,K,G
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
+  11
+  11,J,G
+   1
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R
+  13,R,J,G
+   1,R,K,G
    1,R,J,G
-  10,R
+   9,R
    1,R,J
   14,R
    1,R,J
-  18,R
+  14,R
    1,R,J
   39,R,D
   22
    8,J
    2,R,J
   14,R
-  30,R
+  28,R
   15,R,U,X
   23,L,D
    1,L,J
   14,L
    1,L,J
   14,L
-  15,L,J
+  14,L,J
   38,R,J
    1,R,K,G
    1,R,J,G
-  14,R
+  10,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  14,R
-  31
+  15,R
+  35
    5,L
   19,L,J
   16,L
    1,L,J
   14,L
    1,L,J
-  14,L,D
-  25,R,D
+  11,L,D
+  28,R,D
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   6
-   2,R
+  25,R
    1
+   1,D
    1,R
-   1
-   1,R
-   2,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -352,19 +348,17 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   10,L
    1,L,J
   15,L
-  46
-  27
-  30
+  13
+   1,R
+   1,D
+Repeat,46
    1,L
+   1,R
+EndRepeat
    1
-   1,L
-   1
-   2,L
+   4,L
    2
-   1,L
   12,L
-   1
-   1,L
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -389,7 +383,12 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   14,L
    1,L,J
    4,L
-  20,L,U,X
- 136
-
-ChapterTime: 0:57.613(3389)
+  21,L,U,X
+  12
+Repeat,60
+   1,L
+   1,R
+EndRepeat
+   1,L
+   1,R
+ChapterTime: 0:57.477(3381)
