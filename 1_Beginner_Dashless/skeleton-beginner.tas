@@ -1,7 +1,7 @@
 #Made by RichConnerGMN, Wirare, Renatotheflowey
 #Dash saves by RichConnerGMN, exopta
-#7x
-RecordCount: 2577
+#6X
+RecordCount: 2632
 
 console load SpringCollab2020/1-Beginner/Skeleton
    1
@@ -188,22 +188,28 @@ console load SpringCollab2020/1-Beginner/Skeleton
   14,R,K,G
    5,R,J,G
   13,R
-   1,R,J
-   2,R
+   2,R,J
+   1,R
   40
 
 #lvl_skeleton2_02
-   8,R
-   1,R,J,G
-   1,R,K,G
-   1,R
-   8
-   1,R
+   5,R
+   2,R,K
+   3,R
+   1,X
+  42
+ 233,U
+ 240,D
+   1,X
+  19
+   7,R
    5
-   1,D
-   1,L
+   1,R
    1
- 537,R,D
+   1,R
+   4
+
+#1803.349995970730
    5,R
    1,R,J
   20,R
@@ -872,6 +878,7 @@ EndRepeat
    6,D
    4,R,D
   40
+
 #lvl_skeleton2_04_berry 0x
    4,R,D
    5,D
@@ -882,24 +889,27 @@ EndRepeat
   14,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,J
-   4,R
-  11,L
+   5,R,J
+   9,R
+   1,R,K
+   3,R
+   5,L
    2
    1,K,G
-   6,L
-   4,R
-  39,R,K
-   1,R,J,G
-   3,L,J
-   3,R,J
+   4,L
+   2
+   5,R
+  38,R,J
    1,R,K,G
+   2,L,K
+   1,L
+   1,R
    1,R,J,G
+   1,R,K,G
+   2,R,J,G
   12,R
    1,R,J
-  16,R
+  14,R
   13,R,J
    6,R,K
   10,J,G
@@ -924,4 +934,4 @@ EndRepeat
   43,R,J
   48,L,K
 
-ChapterTime: 2:30.161(8833)
+ChapterTime: 2:29.991(8823)
