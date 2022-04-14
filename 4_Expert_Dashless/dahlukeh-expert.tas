@@ -1,8 +1,8 @@
 #Made by atpx8
-#Dash save by Cr33pyCat
+#Dash saves by Cr33pyCat, RichConnerGMN
 #Optimizations by RichConnerGMN
 #18X
-RecordCount: 1620
+RecordCount: 1777
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
@@ -351,12 +351,14 @@ AnalogMode, Precise
   32,R
   15,R,X
    7,R
-  11,R,J
-   6,L,U,X
-   1,J
-  23,D
+   4,R,J
+   9,J
+   5,L,D,X
+   3,J
+  21
    4,R
-  20,D,J
+   1,R,D,J
+  19,J
    2,L,K,G
    1
    1,S
@@ -373,26 +375,56 @@ AnalogMode, Precise
   21,R,J
    4,R
   10,L,K
-  13,L
-   8,G
-   1,U,G
+   6,L
+   2,R
    1
+   1,R
+   1,L
+   1,R
+   1,L
+   7,G
+   4
    1,J
-   1,K,G
-  24,R,D,X
-   3,R,J
-  22,R
-   3,R,J
+   1,L,K,G
+   5,R
+   9,R,K
+  16,R
+   7,R
+  50,R,J
+   1,R,D
+   1,R
+   1,R,K,G
+   1,L,K
+   3,K
+   1,R,K
+   7,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+  14,R
   40
 
 #lvl_dahlukeh_07
 #1x
-   3,R
-  14,R,U,X
- 111,R
+   1,R,J
+  14,R
+   1,R,J
+  35,R
+   1,R,J
+   1,R,K,G
+   3,R,J,G
+   5,R
+   3,R,K
+   5,R,J,G
+  15,R,K,G
+  13,R,X
+  12
+  97,R
+
 Repeat, 12
    1,J
    1,K
 EndRepeat
-
-ChapterTime: 13:22.213(47189)
+   1
+ChapterTime: 13:25.001(47353)
