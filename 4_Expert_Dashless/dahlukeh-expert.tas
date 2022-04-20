@@ -1,8 +1,8 @@
 #Made by atpx8
-#Dash saves by Cr33pyCat, RichConnerGMN
-#Optimizations by RichConnerGMN
+#Dash save by Cr33pyCat
+#Optimizations by RichConnerGMN, DeRockProject
 #18X
-RecordCount: 1777
+RecordCount: 2097
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
@@ -134,14 +134,150 @@ Repeat,5
 EndRepeat
    2,L
    1
-   3,L
-   6,R
+   2,R
    3
+   3,L
+   3,R
+   2,L
+   1,J
+   2,R,J
+   1,L,J
+   1,R,J
+#double the drift
+Repeat,10
+   1,L
    1,R
-Repeat,11002
+EndRepeat
+   1,J
+   1,R,J
+   1,J
+   1,L,J
+   2,R,J
+   2,L
+Repeat,7
+   1,R
+   1,L
+EndRepeat
+   3,R
+   1,J
+   1,R,J
+   1,L,J
+Repeat,1
+   2,L,J
+   2,R,J
+EndRepeat
+Repeat,4
    2,L
    2,R
 EndRepeat
+   2,L
+   2,R
+   1
+   1,R
+   1
+   1,R
+   4,L
+   4,R
+   1,J
+   1,R,J
+
+#remove above
+   2,L,J
+   2,R,J
+Repeat,4
+   2,L
+   2,R
+EndRepeat
+   1
+   2,R
+   1,J
+   1,L,J
+   2,L
+   1,R
+   1,L
+   2,R
+   1,L
+Repeat,2
+   2,R
+   2,L
+EndRepeat
+   1,L
+   1,J
+   2,R,J
+   1,J
+   1,R,J
+   1
+   1,R
+   1
+   1,R
+   2,L
+Repeat,3
+   2,R
+   2,L
+EndRepeat
+   2,R
+   1,J
+   2,R,J
+   2,L,J
+   2,R,J
+   2,L,J
+   2,R,J
+   2,L,J
+   1,R,J
+   1,L,J
+#+4 J's
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   3,L,J
+   4,R
+   2,R
+   3,L
+   3,L
+   3,R
+   2,R
+   1
+   1,J
+   1,R,J
+   1,L
+   3,L
+   3,R
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,L
+Repeat,1420
+   2,R
+   2,L
+EndRepeat #i think it was... x=1222.265???
+   2,R
+#   1,J
+#   5,R
+#   1,L
+#   1,R
+#   1,L
+#   1,R
+#   1,L
+#   1,R
+#Repeat,4
+#   2,L
+#   2,R
+#EndRepeat
+#   1,D
+#   1,L
+#   1,R
+#   1,D
+#   1,J
+#   3,L
+#   4,L
+#   1
+#   1,R
+#Repeat,11002
+#   2,L
+#   2,R
+#EndRepeat
    6,R
    1,R,J
   21,R
@@ -296,7 +432,7 @@ EndRepeat
   24,R
   13
 #+0f spinner cycle
-   0
+   2
   50,D,X
   20,R
   40,L,X
@@ -427,4 +563,5 @@ Repeat, 12
    1,K
 EndRepeat
    1
-ChapterTime: 13:25.001(47353)
+
+ChapterTime: 2:37.148(9244)
