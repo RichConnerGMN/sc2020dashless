@@ -3,7 +3,7 @@
 #Dash saves by Cr33pyCat, Renatotheflowey
 #35X
 
-RecordCount: 3345
+RecordCount: 3405
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
@@ -50,7 +50,11 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   22,R,J
   20,U,X
  110,F,0
-  19,F,10
+Repeat,9
+   1,F,6
+   1,F,10
+EndRepeat
+   1,F,10
   18,F,0
 Repeat,8
    2,R,J
@@ -58,7 +62,7 @@ Repeat,8
 EndRepeat
   11,R,J
   10,K
-  10,L,K
+   5,L,K
   15,U,Z
    4,L
    8,J
@@ -583,4 +587,4 @@ Repeat,13
    5,L
 EndRepeat
    5,R
-ChapterTime: 1:31.936(5408)
+ChapterTime: 1:31.851(5403)
