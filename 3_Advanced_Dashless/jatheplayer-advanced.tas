@@ -1,6 +1,6 @@
 #Made by Renatotheflowey
-#13x (19x M&B)
-RecordCount: 788
+#6x (10x M&B)
+RecordCount: 1332
 
 console load SpringCollab2020/3-Advanced/JaThePlayer
    1
@@ -8,7 +8,8 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
 #Start
  192
 
-#lvl_JaThePlayer_0 0x
+#lvl_JaThePlayer_0
+#0x
    5,L
    1,L,J
   18,L
@@ -23,7 +24,8 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
   10,L,J
   40
 
-#lvl_JaThePlayer_1 0x
+#lvl_JaThePlayer_1
+#0x
    1,R,J
   10,R
    1,R,J
@@ -64,7 +66,8 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    1,R,J
   40
 
-#lvl_JaThePlayer_2 0x
+#lvl_JaThePlayer_2
+#0x
    1
    6,R,J
    1,R,K,G
@@ -107,56 +110,93 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    8,R
   40
 
-#lvl_JaThePlayer_3 5x (7x counting baddy)
-  12,R
-   2,R,J
-  18,R
-   5,U,X
-  12,R
-  14,R,U,X
-  17,R,J,G
-   3,K,G
-   8,J,G
-  12,R,J
-   6,R
-   1,R,J,G
-   2,R,K,G
-  14,R
-   3
-   7,R
-   4
-   3,R
+#lvl_JaThePlayer_3
+#1x (+1x)
+   4,R,J
+   1,L,J
+   4,R,J
+  12,R,K
+   1,L,J,G
+  11,J
+   5,K,G
+   1,R,K
    1,J
-  25,L,J
-   3,R,K
-  21,R,X
-  15,R,U,C
-  22,L
-  50,L,X
+   3,R,J
+   5,J
    1,R,J
-  21,R,D
-  30,U,C
+   1,K
+   4,R,K
+   1,K
+  19,R,K
+   1,J,G
+   1,L
+   1,R,K,G
+   5,R,J,G
+   1,L,J
+  12,R,J
+   2,R
    1,R,J
-  25,R
-  56,U,C
-  15,R,U,X
-  15,L,U,C
+   4,R
+   1,R,J,G
+   1,R,K,G
+   9,R,D
    5,R
-  60,U,C
+   8,R
+   2,R
+   1,L
+  10
+   1,J,G
+   3,K
+   2
+  13,J
+   5,K
+  17
+  21,R
+  16,R,U,X
+  21,L
+  21
+  65,U
+  25,L,J
+   1,L,K
+   1,J,G
+   2,L,J
+   6,J
+   1,L,J
    1,R,J
-  33,R
-  15,L,U,C
-   7,L
-  20,L,Z
-  63,U,C
+   1,L,J
+  13,L,K,G
+   1,J,G
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+  11,J,G
+   1,R,J
+   1,R,K
+  16,R,J
+  15,L,K
+   1,L,J
+  11,K,G
+   1,R,K
+   1,L,J,G
+  12,L,K,G
+  21
+  38,L,U
+   9,L
+  10,J,G
+  11,R,K
+  21
+  59,U
   40
 
-#lvl_JaThePlayer_3 3x (6x M&B)
-  12
-   1,R,J
-   1,R
-  17,R,D,J
-  21,R,D,K
+#lvl_JaThePlayer_4
+#2x (+2x)
+   1,S
+   1,D,J
+  69,O
+  10,J
   11,L,U,C
    1,J
   25,L,J
@@ -173,34 +213,55 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    5,L,J
    4,L,K,G
   48,R,X
-  14,L,J
-  14,R,K
-   6,L,J
-  18,L
+   1,J
+   9,L,J
+   6,J
+
+   9,K,G
+   1,L
+  11,L,J,G
   11,L,U,X
   19,R,K
   19,L,J
   19,R,K
-   1,J
-   7,R,J
-  37,L,U,X
-   5,J
-   5,R,J
-  10,R,K
-   5,L,J
-  17,U,X
-  34,R,U,Z
-   1,J
-   7,L,J
-   1,K
-   7,R,K
-   1,J
-   7,L,J
-   3,K
-   6,R,K
-   6,L,J
+   7,J
+   4,L,J
    1,L
+   2,J
+   3,J
    1,L,J
+   5,L,J,G
+   1,L,J
+   1,L,K,G
+   1,L,K
+   3,L,K,G
+   1,K,G
+  19,L,K,G
+  13,J
+   5,L,X
+   1,J
+   1,R,J
+   2,R,K
+   4,K
+   1,R,K
+   1,L,J
+   7,R,J
+   4,R,K
+   4,J
+   8,K
+   1,J
+   2
+   2,L
+   1,L,J
+  15,R,U,Z
+   9,L
+  12,K,G
+   5,J,G
+   1,K
+   6,R,K
+   2,K
+   7,L,J
+   2,L
    8,L,K,G
   30,L,X
   24,R,J
@@ -216,24 +277,35 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
  157,L,J
   40
 
-#lvl_JaThePlayer_5 4x (5x M&B)
+#lvl_JaThePlayer_5
+#2x (+1x)
   65,R
    7,L,J
    2,L
    2,L,K
-  26,J,G
-   1,U
-   8
+   6,J,G
+  27,U,X
+   5,R,U,C
    1,R,U
-  34,F,350
-   1,R,U
-  29,F,350
-  52,U
-   1,L,U
-  80,U
-   4,L,U
-  63,U
-  15,R,X
+  80,F,356
+   1,F,340
+  45,F,356
+  72,F,359
+   9
+  10,U
+  14,R,U,X
+   1,J
+  21,R,J
+   4,J
+   3
+  11,K,G
+   1,L,K
+  14,R,J,G
+   4,J
+   4,K,G
+   1,L,K
+  16,R,J,G
+   8,R,K,G
   52,U,C
   14,L,U,Z
   10,L,J
@@ -246,14 +318,13 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    5,R,K
   11,R,U,X
    1,J
-  13,L,J
-   5,L
-   3,R,J
-   5,R
-   5,R,J
-   6,R
-   1,R,J,G
-   7,R
+  21,R,J
+   6,J
+   1,R,J
+   4,K,G
+   1
+   1,R
+  10,R,J,G
   35,L,X
    1,J
   14,L,J
@@ -302,24 +373,59 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    2,R
   25,R,J,G
   17,R,U,X
-  34,U,C
-  14,R,D,X
-   9,L,K
-  19,L
-  45,U,X
-  64,C
-Repeat,56
+  37,U,C
+   1,J
+  10,R
+   2,L,J
+  20,L
+  21,R,X
+   1,G
+   2,L
+   1,R,D
+   1,J
+   2,K,G
+   6,L,K
+   4,L
+   1,R
+   2,R,K
+   4,J,G
+   1,L,J
+   1,K
+   5,L,K
+   3,K
+   1,J
+   5,L,J
+   7,J
+   1,L,J
+   5,K
+  10,L,J,G
+   1,K
+   7,J,G
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+   1,R,J
+   2,J
+   1,R,K,G
+   3,K
+   4,R,K
+   1,K
+  18,L,J
+  20,L,X
+Repeat,78
    1
  #Weeeeeee
    1
 EndRepeat
   40
 
-#lvl_JaThePlayer_6 1x
+#lvl_JaThePlayer_6
+#1x
   73
    6,J
    9,R,J
  120,R,U,X
   32,L,D,J
 
-ChapterTime: 1:02.441(3673)
+ChapterTime: 1:05.399(3847)

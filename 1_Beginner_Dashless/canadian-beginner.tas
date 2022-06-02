@@ -18,36 +18,35 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    1,R
    1,R,J
    4,R
-   7,L,D
-   2,L
+   5,L,D
+   3,L
    1,R,J
    1,R,K
-   1,R,J,G
-   1,R,K,G
+   3,R,J,G
+   8,R
+   1
    1,R,J
-   1,R,K
-  18,R,D
-   1,R,D,J
-   1,R,K
+   8,R,D
    1,R,J
    1,R,K
    1,R,J
-  12,R,K
-  12,J,G
+  14,R,K
+  11,J,G
    4,K,G
    1,L,K
    1,R,K
    1,J,G
-  12,L,J
+  10,L,J
    1,R,J
    1,K,G
-   3,L,K
+   4,L,K
    1,L
   13,L,J
-   2,R,J
+   1,R,J
+   1,L,J
    1,R,K,G
-   4,L,K
-  13,R,K
+   3,L,K
+  15,R,K
    1,R,J,G
    2,R,K,G
   11,R
@@ -268,50 +267,47 @@ EndRepeat
    4,L,K,G
    3,L
   39,R
-   4,R,J,G
+   2,R,J,G
    3,L,J
-   1,R,J
+   5,R,J
    1,R,K,G
-   1,R,J,G
-   1,R,J,G
-  12,R
-  12,R,J
-   2,K,G
-   1,L,J
-  12,L,K
-   7,L,J,G
+  19,R,J,G
+   1,R
+   1,K
+   2,L,K
+   1,K
+   6,L,K
+   2,L
+   1
+   1,J
+   3,K,G
+   5
+   1,J
+   1,R,J
   40
 
 #lvl_05
 #0x
-   1,J
-   1,K,G
-   2
+ 
    3,R
-   1,R,J
-   1,R
-   2,R,J
-   3,R
-   1,R,J
-   1,R
+   1
    1,R,J,G
+   3
    1,R,K,G
-   3,R
+   2,R,J,G
+   1,R
    1,R,J,G
-   9,R
-  12,R,D,K
-   6,R
-  21,D
-   1,K
-   1,R,K
-   6,K
-   1,R,K
-   1,J
-  24,R,J
-   1,J
-   1,K,G
-   6,R,K
-   4,L,K
+  11,R
+  19,R,D,J
+  11,L,J
+   1,L
+   4,L,J
+   3,L,D
+   1,D
+  16,R,K
+   1,J,G
+   7,R,J
+   3,L,J
   23,R,U,X
  129,U,C
    1,R,J
@@ -462,4 +458,4 @@ Repeat,61
    1,L,D
    1,R,D
 EndRepeat
-ChapterTime: 1:04.090(3770)
+ChapterTime: 1:03.563(3739)
