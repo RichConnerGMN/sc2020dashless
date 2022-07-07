@@ -1,6 +1,6 @@
 #Made by pansear
 #Optimizations by RichConnerGMN
-RecordCount: 726
+RecordCount: 752
 
 console load SpringCollab2020/2-Intermediate/Noax 
    1
@@ -185,10 +185,11 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
 
 #lvl_Noax_04
-   7,R
-
-  25,U,X
-   4,R
+  12,R
+   1,X
+   3,L,J
+  27,U,X
+   4,L
   15,R,D,X
   10,R,Z
    4,R,J
@@ -264,7 +265,6 @@ console load SpringCollab2020/2-Intermediate/Noax
    3,R
    6
   13,J,G
-
   12,L,K
   33,U,X
   27,L
@@ -295,52 +295,18 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
 
 #lvl_Noax_05
-  14,U
-   1,R,J
-  13,R,D
-   1,J
-  12,R,J
+   5
+   7,R
+  14,R,J,G
    1,K
    1,R,K
-   3,R
+   4,R
    1,K
-  16,L,J,G
+  10,L,J,G
+   1,J
+   6,L,J
    1,L,K,G
    4,L,J,G
-   2,L
-   1,L,K,G
-   1
-  14,L,U,X
-  12
-  54,L
-  13,D
-   1,L,D
-   1,D
-   1,L,D
-  27,D
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1
-ChapterTime: 0:54.094(3182)
+  16,L,U,X
+ 135
+ChapterTime: 0:54.043(3179)
