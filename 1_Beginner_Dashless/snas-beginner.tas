@@ -1,7 +1,7 @@
 #Made by RichConnerGMN
 #Dash save by amber
 #Optimizations by amber
-RecordCount: 569
+RecordCount: 573
 
 console load SpringCollab2020/1-Beginner/Snas
    1
@@ -88,13 +88,14 @@ console load SpringCollab2020/1-Beginner/Snas
    5
   15,U,X
    8,R
-   1,R,J,G
-   7,L,J
-  12,R,J
-   1,J
+   1,J,G
+   1,L,J,G
    1,R,K,G
-   3,R,J,G
-  33,R
+   1,L,K,G
+  16,R,K,G
+   1,R,J,G
+   1,R,K,G
+  32,R,D
   74,R,X
    1,G
    4,L
@@ -383,4 +384,5 @@ console load SpringCollab2020/1-Beginner/Snas
    1,L,D
    1,R,D
    1,L,D
-ChapterTime: 0:43.911(2583)
+   1,R,D
+ChapterTime: 0:43.843(2579)
