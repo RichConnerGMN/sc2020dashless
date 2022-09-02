@@ -94,29 +94,27 @@ console load SpringCollab2020/1-Beginner/Cruor
    1,R,K,G
    1,R,J,G
   11,R
-  12,R,J
+   6,R,J
+   3,R
+   1,K,G
+   2,L,K
+  15,R,J,G
    1,R,K,G
-   6,K
-   3,L,K
-   1,R,K
-   1,R,J,G
-   1,R,K,G
-  32,R,J,G
-  39,R,U,X
+  26,R,J,G
+   1,R
+   2
+  32,R,U,Z
    1,R,J
    3,L,J
-   5,R,J
-   1,R
+   8,R,J
    1,R,K,G
    6,R
-   1
-   1,R
+   1,R,K
    1,R,J,G
-   1,R,K,G
   13,R
    2,R,J
-   7,R
- 119,R,X
+   9,R
+ 117,R,X
   22,L,C
   19,R,X
    4,R,J
@@ -402,4 +400,4 @@ Repeat,11
 EndRepeat
    1
 
-ChapterTime: 0:48.110(2830)
+ChapterTime: 0:47.923(2819)
