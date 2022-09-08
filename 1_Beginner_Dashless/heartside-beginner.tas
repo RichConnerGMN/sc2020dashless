@@ -1,4 +1,4 @@
-RecordCount: 2918
+RecordCount: 2922
 
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
@@ -628,19 +628,14 @@ AnalogMode, Precise
   10,G
    9,R,G
    5,D
-   5,J,G
-   1
+   4,J,G
+   2
    1,R,K,G
    1,R,J,G
    5,R
   13,G
-   1,R,G
-   1,R,J,G
-   9,R,G
    2,R,J,G
-   1,R,G
-   2,R,J,G
-   2,R,G
+  17,R,G
   26,L,G
    1,R
    8,L,G
@@ -1112,4 +1107,4 @@ EndRepeat
   27,R,U,X
  122,R,D
 
-ChapterTime: 3:19.138(11714)
+ChapterTime: 3:17.897(11641)
