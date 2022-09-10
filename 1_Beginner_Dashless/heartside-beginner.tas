@@ -681,24 +681,23 @@ AnalogMode, Precise
   10,G
    9,R,G
    5,D
-   5,J,G
-   1
+   1,G
+   4,J,G
+   1,R,J
+   1,R
    1,R,K,G
    1,R,J,G
-   5,R
+   4,R
   13,G
-   1,R,G
-   1,R,J,G
-   9,R,G
    2,R,J,G
-   1,R,G
-   2,R,J,G
-   2,R,G
+   3,R,G
+  11,G
+   2,J,G
   26,L,G
    1,R
-   8,L,G
-   6,L,K,G
-   1,L
+   7,L
+   1,G
+   7,L,K,G
    1,J
    1,K,G
   13,G
