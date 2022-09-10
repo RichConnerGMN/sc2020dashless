@@ -1,4 +1,4 @@
-RecordCount: 2922
+RecordCount: 3315
 
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
@@ -60,29 +60,42 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
 #9x
    4,R
    5,R,J
-   8,R
+   7
+   1,R,J
+  12,R
+   2
+   1,N
    1,R,J
   14,R
-  20,R,J
+   1,R,J
+  19,R
+  11,R,J
   15,R,U,X
-  20,R,D
-  31,D
-  25,R
-  38,R,J
-   4
-   5,R,J,G
-  14,R
+  34,R,D
+  17,R
+  21,R,J
+  13,R,D
+   2,R,D
+   3,D
+   4,R,J,G
+  12,R
    5,J,G
-   6,R,J
+   1,R,J
+   3,J
+   2
   15,K
-  14,L,K
+  11,L,K
+   1,J
+   1
+   1,L
   15,J
    7
   12,L
    3,J,G
   16,L
   28,L,G
-   7,U,G
+  10,G
+   2,U,G
    5,R
   30,R,J
    5,L
@@ -166,33 +179,30 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    9,R,U,C
    9,R,D,X
    9,R,U,C
-  83,R,X
-  29,U,G
+  84,R,X
+  32,R,G
+   4
+   2,K
+   5,R,X
+  23,R,J,G
+   1,R
+   1
+  22,R,G
    2
-   1,R,J,G
-   3,L,J
-   2,R,J
-  23,R,K,G
-   2,R
-  15,R,U,X
-  10,R
-  14,G
-   3
-   5,J,G
-   1
-   7,R
-   1,R,J
-   5,R
-   1,R,J
-   6,R
-  14,L,D
+   1,J,G
+   1,L,J
+   1,R,K,G
+   5,R,J,G
+   1,R
    1,L
-   1,L
-   1
-   1,L,D
-  30,U,G
-   6
-  12,J,G
+   8,R
+   4,R,J
+   5,R,D
+  24,L,D
+  24,L,G
+   4
+   4,J,G
+  13,K,G
   14,U,X
   46,L,C
 #0:23.970(1410)
@@ -202,30 +212,35 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   20,R,U,X
   20,L
   15,U,X
-  39,L,G
-  10,R
-  41,L,U,G
-   7
-   1,R,J
-  15,R,K
+  35,L,G
+   2,L
+   1
+   1,J
+   3,R,J
+   1,L,J
+  12,L
+  30,L,G
+   3
+   1,L
+   2,J,G
+   1,K
+   3,J,G
+  14,R,J
   75
   40
 
 #lvl_beg_heart_02
 #11x
-  72
-   5,R
-   7,R,J
-   1,K,G
-   4,R,J,G
-  10,L,K
+   8
+  17,R
+  13,L,J
   43,L
   25,L,U,X
   35
   21,R
   30,U,X
-  37,L,D
-  11,R,D
+  38,L,D
+  10,R,D
   63,L
   29,U,X
   21,L
@@ -249,7 +264,9 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1,U,K,G
    6,R,K,G
    1,L,K
-  24,R,K
+   6,R,K
+   2,R
+  15,R,D
   78,R,G
    6,R,D
   34,R,Z
@@ -260,18 +277,21 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   82,R,U,G
   14,R,D,J
   26,R,X
-   7,L
+   6,L
   23,R,U,X
-  47,L,J
-   3,L,D
+  49,L,J
+   1,L,D
   11,L,K,G
-   3
+   2
    4,L
-   3,L,J
+   4,L,J
   10,L
    1,L,J,G
-  11,L,K,G
-  21,L
+  10,L,K,G
+   5,L
+   3,L,J
+  13,L
+   1,L,D
    2,L,J
   15,L
   11,L,J,G
@@ -565,45 +585,72 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
 
 #lvl_beg_heart_04
 #0x
-  27,U,G
-  21,D
-  12,J
-   5
-  21,G
-   9,D
-   5,R,J,G
-  17,G
-   6,F,90
-   5,U
-  25,F,8.31
-   1,F,18.13
-   1,F,28.55
-   1,F,40.14
-   5,R
-  22,F,85.67
-   6,F,87.32
-   1,F,94.49
-   1,F,101.73
-   1,F,109.16
-   1,F,116.95
-   1,F,125.31
-   1,F,134.67
-  21,F,138.84
-   2,D
-  14,F,161.17
-  27,F,152.81
-   4,F,141.42
-   6,R
-   1,F,84.65
-   7,F,84.29
-   1,F,77.03
-   1,F,69.54
-  18,F,64.22
-   1,F,55.95
-   1,F,46.77
-   1,F,35.92
-  24,F,32.86
-  67,U
+   1,L,G
+  11,R,G
+   3,G
+   7,D
+   1,G
+   1,J,G
+   4,K
+   1,R,J,G
+   4,R,K,G
+  18,U,K,G
+#Waterspeeding is
+#wack, prepare for
+#the big funny
+AnalogueMode, Precise
+   1,G,F,5.73918
+   1,G,F,15.46604
+   1,G,F,25.67934
+  20,G,F,36.8699
+   1,R,G
+Repeat 11
+   1,R,G
+   1,U,G
+EndRepeat
+   2,R,G
+   1,U,G
+  23,R,G
+   1,G,F,92.86586
+   1,G,F,100.07855
+   1,G,F,107.4575
+   1,G,F,115.15057
+   1,G,F,123.36693
+   1,G,F,132.45407
+   7,G,F,143.1301
+Repeat 7
+   1,R,G
+   1,D,G
+EndRepeat
+Repeat 15
+   1,D,G
+   1,R,G
+EndRepeat
+   2,D,G
+Repeat 4
+   1,R,G
+   1,D,G
+EndRepeat
+   5,G,F,143.1301
+  13,R,G
+   1,G,F,87.13414
+   1,G,F,79.92145
+   1,G,F,72.5425
+   1,G,F,64.84943
+   1,G,F,56.63307
+   1,G,F,47.54593
+   1,G,F,36.8699
+   1,R,G
+Repeat 11
+   1,R,G
+   1,U,G
+EndRepeat
+   1,U,G
+Repeat 8
+   1,U,G
+   1,R,G
+EndRepeat
+  67,U,G
    1,D
   12,U
    8,U,X
@@ -762,6 +809,7 @@ AnalogMode, Precise
   14,J
    3,R,J
   38,J
+#seeker manip
   41,L,J
    4,R,K
   13,G
@@ -1107,4 +1155,4 @@ EndRepeat
   27,R,U,X
  122,R,D
 
-ChapterTime: 3:17.897(11641)
+ChapterTime: 3:15.466(11498)
