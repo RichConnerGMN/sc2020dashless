@@ -2,8 +2,10 @@ The following people contributed inputs to this TAS:
 
 aleph_null
 Algorythm
+amber
 atpx8
 Bred
+Cirion02
 Cr33pyCat
 DDSalvy
 EllaTAS
@@ -17,12 +19,15 @@ masrock9
 mlseg
 Mnstrman06
 nebs
+NoHa
 pansear
+Ralp
 Renatotheflowey
 RichConnerGMN
 sashabell
 TheChickenleg
 TheRoboMan
+Toster
 Tyran
 Vampire Flower
 Wirare
