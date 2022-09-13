@@ -2,10 +2,10 @@
 # https://gamebanana.com/mods/150813
 
 #Made by pansear, exopta
-#Dash saves by Cirion02
-#22X
+#Dash saves by Cirion02, Toster
+#21X
 
-RecordCount: 1420
+RecordCount: 1449
 
 console load SpringCollab2020/2-Intermediate/Bonicle
    1
@@ -335,8 +335,8 @@ repeat 4
    6,R,D,G
   40
 
-#lvl_bonicle_04 (0)(2X)
-  22,R,D,G
+#lvl_bonicle_04 (0)(1X)
+  23,R,D,G
    1,R,J,G
   25,R,U,G
   11,R,D,G
@@ -367,51 +367,139 @@ repeat 4
   19,L,D,G
    2,D,G
    1,D,J
-  85,L,U,G
-   3,D
-  14,J,G
-  25,K,G
-   1,D,K
-  10,J,G
-   5
-  26,K,G
-   1,R,U,J,G
-  57,R,K,G
-   4,R,D,G
-   9,R,J,G
+  19,U,G
+   2,L,G
+   1,L
+  87,L,U,G
+  12,L,D
+   1,J
+  21,L,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+   8,G
+  13,L,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+   8,G
+  13,R,G
+   1,D
+   8,G
+  13,R,G
+   1,D
+  16,G
+   5,R,G
+   1,D
+  16,G
+   5,R,G
+   1,D
+  16,G
+   5,R,G
+   1,D
+   3
+   8,U,G
+  13,R,U,G
+   1,D
+  15,U,G
+   6,R,U,G
+   1,D
+  16,U,G
+   5,R,U,G
    1,R
-  16,L
+   8,U,G
+  13,R,U,G
+   1,R
+  12,L
    1,L,J
-  14,L
+  19,L
+  36,L,K
+   2,K
+   1,J,G
+   3,L,J
+   6,J
    1,L,J
-  17,L
-   1,L,J
-  14,L
-  40,L,K
-  11,J,G
    1,R,J
+   1,L,J
   14,L,K,G
-  12,J,G
-  12,K,G
-  11,J,G
-   1,R,J
-  29,R,K
-  14,R,X
-   2,R,J,G
-  13,R
-  27,R,J
-  18,R,G
-   8,L,J,G
-  69,L,U,G
-  35,L,J,G
-   5,L,D
-   6,D
-  11,U,X
-  29,U,G
-  34,R,U,G
-  54,R,U,J,G
+   1,J,G
+   3,L,J
+   6,J
    1,L,J
-   4,R,J
+   1,R,J
+   1,L,J
+  14,L,K,G
+   1,J,G
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+  33,R,K
+  14,R,Z
+  37,R,J
+repeat 57
+   1,G
+   1
+endrepeat
+  15,L,J
+  22,J,G
+   1,D
+   8,G
+  13,L,G
+   1,D
+  14,G
+   7,L,G
+   1,L
+   8,G
+  13,L,G
+   1,L
+  24,L,D
+  19,L
+  14,L,J
+  20,L,J,G
+  14,L,G
+   5,G
+   1,L
+  41,L,G
+   1,D
+  21,G
+   4,D
+   5,L
+   4,J,G
+   2,R,J
+   2,L,J
+  22,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  21,G
+   1,D
+  35,R,U,G
+  52,R,U,J,G
+   1,L
+  16,R
+   9,J,G
   13,K,G
   13,J,G
   11,K,G
@@ -562,5 +650,5 @@ repeat 4
   16,R,U,X
  135,R,D
 
-ChapterTime: 2:20.556(8268)
+ChapterTime: 2:31.844(8932)
 
