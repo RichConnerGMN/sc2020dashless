@@ -1,8 +1,8 @@
 #Made by nebs and atpx8
 #Dash saves by Cr33pyCat
-#Optimizations by fishmcmuffins
+#Optimizations by fishmcmuffins, Toster
 #23X
-RecordCount: 1399
+RecordCount: 1408
 console load SpringCollab2020/5-Grandmaster/BobDole
    1
 #Start
@@ -1011,6 +1011,6 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   14,L
    1,L,J
   15,L
-  26,L,J
- 146,U,X
-ChapterTime: 4:55.885(17405)
+  13,L,J
+ 149,L,U,X
+ChapterTime: 4:55.715(17395)
