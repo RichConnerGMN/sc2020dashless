@@ -6,30 +6,28 @@ console load SpringCollab2020/1-Beginner/Ghajestis
  190
 
 #lvl_Ghaj_1
-   1,R
-   1
+   2,L
+   1,L,J
+  12,R,Z
+   1,R,J
    2,R
    1,R,J
-  18,R
-   1,R,J
-  14,R
-   1,R,J
+   5,R
+   3,R,D,J
+   5,R
+  10,R,J
+   3,R
+  10,J
+   1,K,G
+   1,L,K
+  14,R,J,G
    1,R,K,G
-   5,R,J,G
-   8,R
-   1,R,J
-  15,R,Z
-  14,R
-   6,R,J
-  11,K
-   1,J,G
-   1,L,J
-  14,R,K,G
-   1,R,J,G
-   6,R,K,G
-   4,R
+   4,R,J,G
+  15,R
    1
-  12,R
+   1,R
+   1
+   1,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -268,4 +266,4 @@ Repeat,61
    1,L
    1,R
 EndRepeat
-ChapterTime: 0:32.113(1889)
+ChapterTime: 0:31.348(1844)
