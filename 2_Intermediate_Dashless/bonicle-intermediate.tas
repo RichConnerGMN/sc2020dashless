@@ -3,9 +3,9 @@
 
 #Made by pansear, exopta
 #Dash saves by Cirion02, Toster
-#21X
+#19X
 
-RecordCount: 1449
+RecordCount: 1871
 
 console load SpringCollab2020/2-Intermediate/Bonicle
    1
@@ -251,32 +251,54 @@ repeat 4
   16,R,G
   40
 
-#lvl_bonicle_02 (1) (3X)
+#lvl_bonicle_02 (1) (2X)
    8,R,G
   12,R,J,G
   12,K,G
    1,J,G
    6,R,J,G
-  39,R,D,G
-   1,R
-  15,L
-  37,L,G
-   1,R,J
-  37,R,D
-  14,R,U,X
-  62,L,D,G
-  85,R,U,G
-   1,D
-  21,R,X
-  10,R,D,C
- 130,L,U,G
-  12,L,J,G
-  45,R,U,K,G
-  41,R,D,G
+  35,R,D,G
+  22,L,D,G
+   1,R,D,G
+   2,L,D,G
+   1,L,G
+   1,L,D,G
+   2,L,G
+   1,L,D,G
+  20,R
+  16,G
+  15
+  22,D,G
+   6,R,D,G
+  41,L,D,G
+   1,G
+   1,L,G
+  19,R
+  17,R
+  15,R,D,X
+   1,R,G
+   6
+  19,R,D
+  11,L
+   4,X
+   1,R,D,X
+  12
+   1,L,J
+  22,L,G
+  83,L,U,J,G
+   5,U,G
+   4,J,G
+   1,L,J,G
+   6,J,G
+  42,R,U,K,G
+  16,R,K,G
+  18,R,D,G
    1,R,J,G
   28,R,D,G
-   1,R,J,G
-  28,R,D,G
+   5,R,J,G
+   9,R,G
+   2,R,J,G
+  22,R,D,G
    1,R,J,G
   11,R,D,G
   40
@@ -446,7 +468,7 @@ repeat 4
   33,R,K
   14,R,Z
   37,R,J
-repeat 57
+repeat 54
    1,G
    1
 endrepeat
@@ -495,16 +517,17 @@ endrepeat
    1,D
   21,G
    1,D
-  35,R,U,G
-  52,R,U,J,G
+  32,R,U,G
+  54,R,U,J,G
    1,L
-  16,R
+  17,R
    9,J,G
   13,K,G
   13,J,G
   11,K,G
    1,L,K
-  18,L,J
+   1,L,J
+  18,L,K
   14,L
 #dcb should be possible but dumb
    1,L,J
@@ -555,12 +578,12 @@ endrepeat
    3,R,D,G
   40
 
-#lvl_bonicle_05 (3X)
+#lvl_bonicle_05 (2X)
   25,R,D,G
 #this is faster but gets worse cycles
 #   1,R,J,G
 #  28,R,D,G
-  38,G
+  36,G
    1,R,G
    1,G
   39,R,G
@@ -590,65 +613,67 @@ endrepeat
   79,R,U,J,G
    5,U,G
    4,D
-  13,J,G
-  23,K,G
-   2,L,K
-  56,L,U,J,G
-  18,L
-   8,U,X
-  27,U,G
-  23,R,U,G
-  33,R,U,J,G
-   9,R,U,J,G
-   5,R,D
-  12,J,G
-  22,K,G
-   1,R
-   3
-   1,R
-   2,R,J
-   4,R
-   5
-   1,R
    1,J,G
+   2,R,J
+   7,J
    1,R,J
-   4,R
-   2
-   6,L
-  20,L,J
- 150,L,U,J,G
+   1,L,J
+   1,R,J
+   1,R,K,G
+   2,R,K
+  21,R,K,G
+   8,R,D,K
+   9,J,G
+  24,K,G
+   1,L,J
+  17,L,K
+  31,L,K,G
+  56,L,U,G
+   2,L,D,G
+   2,D,G
+  75,R,U,G
+   4,R,D
+   1,G
+   7,J,G
+   2,R,J
+   1,L,J
+   1,R,J
+   1,R,K,G
+   2,R,K
+  21,R,K,G
+   8,R,D,K
+   9,J,G
+  23,K,G
+  28,U,G
+   1,L,J
+  20,L,K
+ 154,L,U,K,G
   21,L,U,G
- 157,L,U,J,G
+ 156,L,U,J,G
    1,R
   31,L,D
-   6,L,U,X
+   6,L,U,Z
   14,L,D
   19,D
    9,U,X
   23,D
- 110,R,D
+ 109,R,D
   40
 
 #lvl_bonicle_06 (1X)
-   7,L,D
-   5,D
-   7,R,D
-   4,D
-   1,R,D
-   1,D
-  10,R,D
+   9,L,D
+  26,R,D
    1,R,J
   14,R
    1,R,J
   14,R
-   1,R,D,J
-  14,R
+   1,R,J
+   4
+  10,R
    1,R,J
    1,R,K,G
    1,R,J,G
    8,R
   16,R,U,X
  135,R,D
-
-ChapterTime: 2:31.844(8932)
-
+ChapterTime: 2:32.133(8949)
