@@ -1,4 +1,4 @@
-RecordCount: 91
+RecordCount: 194
 
 console load SpringCollab2020/0-Lobbies/5-Grandmaster 504 496
    1
@@ -7,48 +7,58 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 504 496
   36
 #lvl_1
 #2x
-   5,L
+***
+   6,L
    1,L,D,J
-   2,L
+   1,L
    1,L,K,G
-   1,L,J,G
-  37,L
-  15,L,J
-  13,L
-   3
+***
+   9,L,J,G
+  28,L
+  11,L,J
+***
+  18,L
    1,L,J,G
    1,L
-  14,L,J
-  31,R,G
-   1,J,G
+***
+  12,L,J
    1
-  33,L,J
-  54,L,G
-   9
-  13,L,J,G
-  17,L
-  15,L,J
-  23,L,G
+  22,R,G
    1,J,G
-   1
-  27,R,J
+   1,L,J
+  34,L,K
+***
+  32,L,G
+   8,L,J,G
+  22,L
+   2
+***
+   5,L,J,G
+  15,L
+  10,L,J
+***
+  26,L,G
+   1,J,G
+  27,R,K
   17,R,U,Z
   15,U,C
-  14,L
+   8,L
+***
    1,L,J,G
    1,L,K,G
-   1,L,J,G
-  12,L
-   1,L,J
-   1,L,K,G
-   3,L,J,G
-   5,L
-   3,L,J,G
-   2,L
+   3,L
    4,L,J,G
-  16,L
+   9,L
+***
+   1,L,J
+   2,L
+   2,L,K,G
+   5,L
+   4,L,J,G
+  10,L
    1,X
-#0:06.936(408)
+#0:06.290(370)
+
 
 
 
