@@ -3,7 +3,7 @@
 #Dash saves by Cr33pyCat, Renatotheflowey
 #35X
 
-RecordCount: 3405
+RecordCount: 3595
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
@@ -15,52 +15,54 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,L,J
   21,L
   36,L,J
-  12,K,G
-   4,L,J,G
-  16,L
+   1,K,G
+   2,L,K
+   1,R
+  32,L,K,G
    1,J
-  15,R,J
-   8,R
-  10
-  10,J
    7,L,J
-  60,G
-   2,U,G
-   5,R
-   1
-   4,R,J
-  29,L,J
-  14,U,G
-   1
+   4,J
+  15,U,G
+   3,R,D
+   1,D
+   3,R,D
    1,J
+   1,R,J
+   1,R
+   2,L
+   4,L,J,G
+   1,K
   24,L,J
-   1,K
-  14,L,K
-   8,L
-   7
-  28,R,J
-   1,K
-  19,R,K
+   2,J
+  26,R,K
+   2,K
+   1,J,G
+   1,L,J
+   1,R,K,G
+   3,L,K
+  12,R,K
    1,J
-  24,R,J
-   2
-   1,R,J,G
+  23,R,J
+   2,R
    5,R,K,G
-  14,R
-  22,R,J
-  20,U,X
+   9,R
+   1,R,J
+  15,R
+  14,R,J
+  18,U,X
  110,F,0
 Repeat,9
    1,F,6
    1,F,10
 EndRepeat
    1,F,10
-  18,F,0
+  13,F,0
+   5,F,8
 Repeat,8
    2,R,J
    2,L,K
 EndRepeat
-  11,R,J
+  10,R,J
   10,K
    5,L,K
   15,U,Z
@@ -311,14 +313,22 @@ EndRepeat
   18,R
  119
   28,R
- 182
-   1,K
-  16,R,K
-   8,R,J,G
+  55
+   4,R
+  41,D
+  17,L
+  37
+   1,R
+   1,J
+  12,R,J
+   2,J
+   1,R,J
+  12,R,K,G
+  12,L,J
   40
 
-   #lvl_Dav_03 13x
-   #Any single change will desync the coin block movement
+#lvl_Dav_03 13x
+#any single change will desync the coin block movement
    
    1,S
    1,D,O
@@ -388,18 +398,19 @@ EndRepeat
    2,R
    2,L,D
   13,R,D
-   2,D
-   2,R,D
+   3,L,D
   15,R,Z
-  18,D
-  14,R,D
-  18,R
-  36,R,D
+  22,D
+   8,R,D
+   2,D
+   4,R,D
+  16,R
+  32,R,D
   15,R,U,X
   18,R,D
   12,L,D
    1,D
-   4,L,D
+   4,L
   16,R
   15,U,X
    1,J,G
@@ -434,15 +445,15 @@ EndRepeat
   11,F,305
    2,F,274
    6,F,270
-   4,F,272
-   5,F,270
+   5,F,272
+   4,F,270
    4,L
    1
    1,L
    1,L,J,G
    2,L,K,G
   14,L
-   2,L,K
+   2,L,J
    1,L
    5,L,J
   13,L,D
@@ -490,8 +501,8 @@ EndRepeat
    5,L,D
   11,D
    9,J
-  11,R,J
-   8,R,K,G
+  10,R,J
+   9,R,K,G
   40
 
 #lvl_Dav_04 3x
@@ -587,4 +598,4 @@ Repeat,13
    5,L
 EndRepeat
    5,R
-ChapterTime: 1:31.851(5403)
+ChapterTime: 1:29.012(5236)
