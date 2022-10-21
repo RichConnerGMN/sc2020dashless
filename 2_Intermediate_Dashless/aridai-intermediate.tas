@@ -1,7 +1,7 @@
 #drafted by Bred
-#optimizations by Toster, sashabell
+#optimizations by Toster, Sashabell, Renatotheflowey
 
-RecordCount: 3030
+RecordCount: 3732
 console load SpringCollab2020/2-Intermediate/aridai
    1
 
@@ -52,10 +52,12 @@ endrepeat
    1,J
    2,R,J
 #-1f if rounding error
-  25,R,J
-  29,R,D
+  23,R,J
+  31,R,D
   18,D
-   8,R,D
+   7,R,D
+#0:06.987(411)
+
   40
 
 #lvl_aridai-02 (0)(1x)
@@ -66,7 +68,8 @@ endrepeat
    1,R,J
    1,R
    1,R,J
-   3,R,D
+   1,R,D
+   2,R
   20,R,J
    6,R,K,G
    5,R,J
@@ -125,42 +128,30 @@ endrepeat
    7,D,X
    1,J
    1,K,G
-  10
-   1,R
-  29,L,D
+   9
+   3,R
+  12,L,D
+   1,D
+   3,L,D
+  72,O
    1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-   1,K
-  15,L
-   1,L,J
-  14,L
-   1,L,J
-  17,L
-   1,L,J
-   1,L
+   3,L
   40
   
 #lvl_aridai-02 (1)(1x)
-   6,L,D,X
+   7,L,D,X
    1,L,J
-   2,L
-   1,L,J
-   8,L,D
+  10,L,D
   10,R,D
-   4,L,D
+   2,L,D
    1,D
-   1,J
+   3,L,D
+   1,L,J
   11,L
   15,L,X
   19,L,D
-  12,L,J
+   1,L
+  10,L,J
   15,U,X
   15,R
    1
@@ -300,29 +291,45 @@ repeat 3
    1
    1,R
 endrepeat
-  12,R,J,G
-  18,R
-   3,R,J
-   6,R,K,G
-  18,R
-  10,R,J
-  22,R
-   1,R,D
+   1,R,J,G
+   3,L,J
+   2,J
+   5,R,J
+   4,R,K,G
+  11,R
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   1,R
+   9,R,J
+   1,R
+   1,R,J
+   3,R,D
+   1,L,D
+   2,K,G
+   4,R,K
+   1,K
+   1,R,K
+   1,R
+   8,R,J
+  13,R,D
+   3,R
    1,R,J,G
    4,R,K,G
    9,R
    1,R,J
-   7,R
+   7,R,D
   25,R,J
   26,R,D
    1,R,J
-   4,R
+   3,R
    1,S
    1,D,J,O
   34
   19,R
-  22,R,J
-   1,R
+  24,R,J
   12,R,K,G
   12,R,J,G
    4,R,K,G
@@ -338,30 +345,37 @@ endrepeat
    8,R
    1,R,D
    4,R
-  29,R,J
+  22,R,J
+   7,R
   15,U,X
-   6,L
+   1,L
+   5
    1,J,G
    4,L
-   6
-   7,R
-  24,R,J
-  19,R
-   1,R,K,G
-   9
-  13,J
-  11,K,G
-   9,R,J,G
-  15,R
-   1,R,J
-   4,R
-  10,R,J,G
+   2
    1,R
-  14,R,J
-   9
-   8,L
-   1,G
-   4,R,J
+  26,R,J
+  19,R
+   1,J,G
+   9,R,J
+   1,L,J
+   8,R,K,G
+   4,K
+   4,R,K
+  23,R,J,G
+  10,R,K,G
+   1,R
+   7,R,J
+   1,J
+   5,D
+   1,R,D
+   1,D
+   4,R,D
+   3,D
+   1,R,D
+   2,D
+   1,L,D
+   3,R,J
   19,R
    9,R,U,X
    1,L
@@ -385,30 +399,33 @@ endrepeat
   11,R,J
    1,R,K,G
    1,J,G
-   6,R
+   5,R
+   1
    6,L
    1,L,J
-  34,L
-  19,L,J
+  30,L
+  23,L,J
   12,K,G
   10,L,J,G
-   5,J
+   3,R,J
+   1,L,J
    1,K
    2,J,G
-  10,R,J
-   9,R
-   1,R,J
-   9,R
+   9,R,J
+   1,R
+   7,R,J
+  12,R
   14,R,Z
   14,R,J
-  14,R
-   4,R,D
+  12,R
+   5,R,D
+   1,R
    1,R,J,G
    1,K,G
    9,R
    1,R,J
    1,L
-   4
+   4,D
    1,J
    2,K,G
   28,R,K
@@ -422,18 +439,20 @@ endrepeat
    1
    1,J
    1,L,K,G
-  10,R,K
-  20,R
+   9,R,K
+   1,R
+   6,R,J
+  13,R
    1,R,J
   14,R
-   3,R,J
-  25,R,K,G
+   4,R,J
+  24,R,K,G
   11,J,G
    1,L,J
    1,K
    1,J
   11,L,J
-   5,K,G
+   4,K,G
    1,R,K
    1,L,K
    2,J,G
@@ -444,85 +463,83 @@ endrepeat
   40
 
 #lvl_aridai-03 (1)(1x)
-   5,R
-repeat 9
-   1,R,J
-  14,R
-endrepeat
-   3,R
+   1,R
+   1,S
+   1,D,J
+  69,O
    8,R,D,J
-   2,R
-   2
-  12,L,J,G
-  12,K,G
-   1,J,G
-   3,L,J
-   5,J
-   2,L,J
-   1,R,J
-  12,K
-   7,J
+   4,R
+   9,L,K,G
+   3,K
+  12,J,G
+   1,K,G
+   3,L,K
    5,K
-   1
-   1,J
-  10,K
    2,L,K
-   1,J,G
-   3,L,J
-   5,J
-   1,L,J
-   1,R,J
-   1,L,J
-  13,L,K,G
-   1,J,G
-   1,R,J
-   1,K
    1,R,K
-   9,K
+  12,J
+   7,K
+   5,J
+   1
+   1,K
+  10,J
+   2,L,J
+   1,K,G
+   3,L,K
+   5,K
    1,L,K
-   1,J,G
-   4,L,J
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   1,R,K
    1,J
+   1,R,J
+   9,J
    1,L,J
+   1,K,G
+   4,L,K
+   1,K
+   1,L,K
    1,R
    1,L
-  11,L,K,G
+  11,L,J,G
    6,L
-   2,L,K
-   7,L,D,J
-   5,J
-   9,K,G
-   1,R,K
-   1,L,K
-   2,J,G
-   1,R,J
-   2,R
-   1,K,G
-   8,L,K
-   1,R,K
-   1,L,K
-   2
-   8,J,G
+   2,L,J
+   7,L,D,K
+   5,K
+   9,J,G
    1,R,J
    1,L,J
    2,K,G
-  27,R,K
-   8,J
-  10,K
-  12,J
+   1,R,K
+   2,R
+   1,J,G
+   8,L,J
+   1,R,J
+   1,L,J
+   2
    8,K,G
    1,R,K
-   1,K
-   1,R,K
    1,L,K
-   2,R,J,G
-  11,R,K,G
-   1,J,G
+   2,J,G
+  27,R,J
+   8,K
+  10,J
+  12,K
+   8,J,G
+   1,R,J
+   1,J
+   1,R,J
    1,L,J
+   2,R,K,G
+  11,R,J,G
+   1,K,G
    1,L,K
-  32,L,J
-   1,L,K,G
+   1,L,J
+  32,L,K
    1,L,J,G
+   1,L,K,G
   13,L
    1,L,J
   14,L
@@ -593,17 +610,18 @@ endrepeat
    1,L,J
    1,K
    1,R,J,G
-  21,L,J
+  18,L,J
+   1
    9,L
-   1,L,J
-  14,L
-  12,L,J
-  38,L,D
-   4,L
-   2
-  11,L
    1,L,J,G
-  20,L,K,G
+  13,L
+  23,L,J
+  30,L,D
+   8,L
+   2
+   7,L
+   1,L,J,G
+  19,L,K,G
   20,L,X
    6,K,G
    1,J,G
@@ -725,7 +743,7 @@ endrepeat
    1,R,K,G
   14,R,Z
   20,R,J
-  13,U,X
+  12,U,X
    1,S
    1,D,J
   34
@@ -794,24 +812,25 @@ endrepeat
    1,R,K,G
    9,R,J,G
    1,K,G
-   7,R,K
+   6,R,K
    1,L,K
-  12,R,J,G
-   7,K,G
-   1,R,K
-   1,K
-   9,R,K
-   2,R
+   9,R,J,G
+   2,L,J
+   1,R
+   2
+   4,K,G
+   8,R,K
+   7,R
    1,R,J
    9,R
-  10,R,J,G
-   5,R
-  21,R,J
-   1,G
-   2,R,J,G
-  14,R
+   8,R,J,G
+  15,R,D
+   5,D
+   2,R,D
+   1,R,J
+  21,R,D
   12,R,U,Z
-  10,L,J,G
+   7,J
   12,L,U,X
    1,K
   12,R,J,G
@@ -821,21 +840,22 @@ endrepeat
   11,J
   11,K
    1,J
-   5,L,J
-   1,J
-   1,L,J
+   4,L,J
+   1,L
+   1
+   1,L
    1,K
    1,J,G
    1,R,J
    1,R,K,G
    1,R,J,G
-  11,R
+  10,R
 repeat 4
    1,R,J
   14,R
 endrepeat
-  15,R,J
-   9,K,G
+  14,R,J
+  10,R,K,G
    1,J,G
   40,J
 
@@ -905,9 +925,14 @@ endrepeat
    1,R,K
    1,L,K
   13,L,J,G
-   6,L,K,G
+   1,L,K,G
+   3,R,K
+   1,K
+   1,L,K
    7,L
-  20,L,J
+  16,L,J
+   2,R,J
+   1,L,J
    4,R,K
   74,R,D
    1,R,J
@@ -917,7 +942,7 @@ endrepeat
   40
 
 #lvl_aridai-02 (5)(0x)
-   9,R,D
+   8,R,D
    1,S
    1,D,J
   69,O
@@ -974,12 +999,9 @@ endrepeat
   21,L
    1,L,J
   11,L
-  15,L,X
-  10,L,D
-   3,D
-   1,L
-   1,G
-  27,L,J,G
+  10,R,D,X
+   1,L,J
+  22,L,D
   15,D,X
   23,L,D
   19,L,X
@@ -1026,12 +1048,9 @@ endrepeat
   21,L
    1,L,J
    9,L
-  15,L,X
-  10,L,D
-   3,D
-   1,L
-   1,G
-  27,L,J,G
+  10,R,D,X
+   1,L,J
+  22,L,D
   15,D,X
    9,R,D,C
    1,R,J
@@ -1089,13 +1108,16 @@ endrepeat
    1,L,K
    1,R,K
   13,R,J,G
-   4,R,K,G
+   1,R,K,G
+   2,L,K
+   1,R,K
    9,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
+
   40
 
 #lvl_aridai-02 (6)(1x)
@@ -1126,16 +1148,18 @@ endrepeat
    1,R,J,G
    1,R,K,G
   11,R
-  27,R,J
-  33,R
+  24,R,J
+  27,R,D
+  11,R
+   7,J,G
    5
-   1,R
-   1
+   2,R
 #keycycle
-repeat 41
+repeat 39
    1
    1,D
 endrepeat
+   1
 #keycycle
    1,J
    8
@@ -1172,11 +1196,11 @@ endrepeat
   10,R,D
   40
 
-#lvl_aridai-05 (0)(2x)
+#lvl_aridai-05 (0)(1x)
    7,R,D
    1,R,J
    5,R
-  34,D
+  33,D
   19,R,D
   72,O
    1,R,J
@@ -1184,69 +1208,56 @@ endrepeat
   60,D
   46,R,D
   12,R,Z
-   7,R,J
-   3,R
+   8,R,J
+   2,R
    1,R,K,G
-   9,R
-  11,R,D,J
-   5,R
-   9,R,J
-   1,J
-   4,R,J
-  12,U,Z
-   1,J
-  39,L,J
-   8,K,G
+  12,R
+   4,R,D
+  23,R,D,K
+   5,L,K
+  11,L,J,G
+   1,L
+   6,L,J
+   1,K,G
+   9,L,K
+   2,R,K
+   2,L,K
+  12,L,J,G
+   7,K,G
    1,L,K
    1,K
    1,L,K
    1,R,K
-   2,L,J,G
-  12,L,K,G
-   8,J,G
-   1,L,J
-   1,J
-   1,L,J
+   1,L,K
+  13,L,J,G
+   6,K,G
+   1,R,K
+  13,L,J,G
    1,R,J
-   2,L,K,G
-   8,L,J,G
-   1,K
-   2,J,G
-  14,R,J
+  18,R,K
   15,R,U,X
-   8,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,L,K
-   2,R,J,G
-  12,R,K,G
-   8,J,G
-   1,R,J
-   1,J
-   1,R,J
-   1,L,J
-   2,R,K,G
-   6,R,J,G
-   1,J
-   1,R,J
-   1,J
-   1,K
+  12,J,G
+  12,K,G
+  12,J,G
+  11,K,G
+   2,L,K
    1,J
   10,L,J
    9,L
    1,J
-  40,D
+  35,D
+   4,R,D
   15,D,X
    9,D
   17,L,D
    7,L
    1,L,J,G
    1,L,K,G
-  10,L
+   9,L
+   1,R
    1,J
-   1,K
-  10,L
+   2,K,G
+   9,L
   15,L,U,X
    7,L
   14
@@ -1268,82 +1279,70 @@ endrepeat
    1,L,K
    1,R,K
   24,R,J,G
-   7,K,G
-   1,R,K
-   1,K
-   1,R,K
+  11,K,G
    1,L,K
-   1,R,K
-  24,R,J,G
-  10,K,G
-   1,L,K
-   1,R,K
-   2,J,G
-   9,L,J
-   1,K
-  11,R,K
+   1,R,J,G
+  18,R,K,G
+  12,L,J
+  12,K
+   8,J
+   5,R,K
+   1,R
+   7,L,J
+  14,R,K
    1,J
-   2,K,G
-   6,L,K
-   1,R,K
-   1,L,K
-   1,J
-   2,K,G
-   9,R,K
-   5,J,G
-  40,J
+   2,R,J
+  40
 
 #lvl_aridai-outro (0)(1x)
-   3,J
-   1,R,J
+
+   6,R
+   1,R,J,G
+   4,L,J
    1,J
-   1,R,J
-   1,L,J
-   2,R,K,G
-   3,R,J,G
-   1,L,J
-   1,R,J
+   1
+   1,L
    1,R,K,G
    1,R,J,G
-   1,R,K,G
-  10,R
+   3,R,K,G
+  12,R
 repeat 3
    1,R,J
   14,R
 endrepeat
-  24,R,J
+  22,R,J
   12,K
    7,J
    5,R,J
    1,K
-   5,J,G
-   1,L,J
-   1,L
+   3,J,G
+   2
+   2,L
    1,L,K,G
    1,L,J,G
-  11,L
-   1,L,J
-  14,L
-   1,L,J
    9,L
+   7,L,J
+  22,L
+  15,L,D,J
+   2,R,J
    1,L,J
-   4,L
-   8,L,J
-   5,R,J
+   1,R,J
    1,K,G
-   6,R,K
-   1,K
    1,R,K
-   2,K
+   5,K
+   1,R,K
+   1,K
    1,R,J,G
    1,R,K,G
    7,R,J,G
-   8,R
-  15,R,X
    7,R
+  15,R,X
+   6,R
  135
 
-#29x - 6 dashes lost in count
+
+#28x - 7 dashes lost in count
 #1 lost from lvl_aridai-03 (1)
 #5 lost from lvl_aridai-04 (1)
-ChapterTime: 2:56.885(10405)
+#1 lost from lvl_aridai-05 (0)
+ChapterTime: 2:53.111(10183)

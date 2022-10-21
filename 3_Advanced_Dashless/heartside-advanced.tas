@@ -1,13 +1,13 @@
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 3019
+RecordCount: 3084
 
 console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1
 
 #spinner cycle
-   0
+   1
 
 #Start
   36
@@ -145,8 +145,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   15,R,J
    2,R
    2,R,J,G
-   8,R
-   1,R
+   9,R
    6,Z
    1,R,J
    1,R
@@ -408,16 +407,24 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    5,L,K,G
   11,L
    2
-  12
-   3,R
-   1
-   1,K
-  25,R,K
+   2,R
+  10
+   2,R
+   2
+   2,K
+  15,U,X
+   2,L
+   9,L,J
+  11,R,J
+   2,K,G
+   1,L,K
    1,J
-  24,R,J
-  20,L,K
-  16,U,Z
-  19,L,J
+  27,L,K
+   1,L,J,G
+   3,R,J
+   3,J
+   9,L,J
+   7,R,K
   13,L,X
   23,R,J
    1,J
@@ -843,7 +850,6 @@ AnalogMode,Precise
    6,L,D,X
   11
    1,R,J
-#1:46.556(6268)
    5,R,D,X
   17
    1,R,D
@@ -1009,5 +1015,5 @@ AnalogMode,Precise
    1,R,D
    6,R
  135
-ChapterTime: 2:03.845(7285)
+ChapterTime: 2:03.641(7273)
 #78x

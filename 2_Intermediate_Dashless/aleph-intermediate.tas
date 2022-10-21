@@ -1,8 +1,9 @@
 #Made by Toster
 #Dash saves by Cirion02, pansear, baamboo
+#Optimizations by Renatotheflowey
 #27x
 
-RecordCount: 1137
+RecordCount: 1847
 
 console load SpringCollab2020/2-Intermediate/aleph_null
    1
@@ -25,11 +26,13 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,G
    1,J,G
    1,R,J
-   1,L,J
+   1,L
    1,R,K,G
-   2,R,J,G
+   1,R,J,G
+   1,R
    1,R,K,G
-   7,R
+   1,R,J,G
+   9,R
    1,R,J
   14,R
    1,R,J
@@ -41,39 +44,41 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,J
   14,R
    1,R,J
-   6,R
+   3,R
   40
 
 #lvl_aleph_entrance (4X)
-   8,R
+  11,R
    2,R,J
   15,R
-   5,R,J
-   6,R
-   2,R,J
-  10,R
-  34,R,J
-   5,L
+   3,R,J
+  13,R
+   1
+   2,R
+  35,R,J
+   4,L
    1,J
    6,R
    7
   10,L,Z
-  23,R,J
+  24,R,J
   15,U,X
-  13,R
+  10,R
    1,G
    1
    1,J
-   1,K
-   4,L
+   1,K,G
+   1
+   3,L,K
    1,R,J,G
    8,R,K,G
    1,R,J,G
-   7,J
-   5,L,J
-   3
+   6,J
+   4,L,J
+   4,R,J
+   1,R
   15,R,X
-  15,R,D
+  15,R
    1,R,J
   14,R
    1,R,J
@@ -82,7 +87,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   24,R
   22,R,J
   15,R,U,X
-  13,R
+  12,R
    1,J,G
   23,R,D
    2,R
@@ -146,11 +151,11 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   11,L,K
    1,L,J,G
    1,L,K,G
-   5,L
-   3,L,J
+   1,L
+   7,L,J
    6,L
-   2,L,D,J
-   9,L
+   1,L,D,J
+  10,L
    4,L,J
    6,L
    1,L,J,G
@@ -166,7 +171,16 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 #lvl_aleph_left (7X)
    8,L
    1,L,J
-  21,L
+   1,L,J
+   4,R,J
+   1,K
+   1,J,G
+   2
+   1,L
+   1
+   7,L
+   1
+   1,L
    1,L,D,J
    1,L
    1,L,K,G
@@ -184,58 +198,62 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    2,R,J
    1,K,G
   13,L,K
-   7,K
-   1,L,G
+   1,K
+   2,G
+   3,L,G
   12,L,J,G
-   6,L,K,G
-   1,L
+   7,L,K,G
    5,J,G
-   6,R,J
+   5,R,J
+   1,L
    1,L
   15,L,U,X
-  13,L
-   1
-   1,L,G
-   2,L,J,G
+  12,L
+   2,L,G
+   3,L,J,G
    1,L
    4,L,K
-  17,L,D
-   5,D
+  16,L,D
+   6,D
   39,U,X
   14,R,Z
   19,R,J
    9,U,X
    9,L,J
    4,R,J
-   6,R
+   1,R
+   5,R,K
    1,R,J,G
   13,R,K,G
   12,L,J,G
    5,K,G
    1,R,K
-   1,J
-  20,R,K
-   2,K
-   1,R,J,G
-   2,L,J
-   9,J
-   7,L,K
+   1,L,K
+   3,J,G
+  19,R,J
+   1,R,K,G
+   2,L,K
+   9,K
+   1,L,J
+   6,K
    5,L,U,J,X
   27,L,J
   20,L,D
    6,J
   14,L,J
-  17,L,D
-  18
+  30,L,D
+   8
   15,U,X
-   6
-   1,R
-  13,J,G
+   3
+   2,L
+   3,J
+   5,R
    1,R,K,G
    1,R,J,G
-  13,R
-   8,R,J
-  19,R,D,X
+   9,R
+   2,R,J
+   4,R
+  17,R,D,X
    1,S
    1,D,J
   69,O
@@ -243,26 +261,31 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,J
   27,D
    5,L,U,J,X
-  29,L,J
-   7,L,D
-  37,D
-   8,R,D
+  17,L,J
+  10,L
+  11,L,D
+  23,D
+  13,R,D
+   3,R
+  15,R,Z
+  24,R,D
+  12,D
+   1,R,D
+   2,L,D
    2,D
-   1,R,J
-   2,R
-  15,R,X
-  25,R,D
-  13,D
-  12,L,J
+  11,L,J
    1,L
   21,L,J
   16,L,X
   15,L,D,C
-  14,D
-  13,L,D
-   7,L,J
-  17,L,D
-  10,R,D
+   7,L,D
+   1,R,D
+  19,L,D
+   6,L,J
+   1,L
+   2,L,J
+  12,L,D
+  11,R,D
   40
 
 #lvl_aleph_entrance (1) 0x
@@ -277,55 +300,56 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,J
   14,R
    1,R,J
-  21,R
-  19,R,K
+  20,R
+  20,R,K
    1,R,J,G
-   4,L,J
+   3,L,J
+   1,J
    4,R,J
    1,R,K,G
    1,R,J,G
   12,R
-   5,R,J
+   3,R,J
   40
 
 #lvl_aleph_main (1) 0x
-   7,R,J
+   7,R,K
+   3,K
    1,J
-   9,K
+   8,K
    9,R,J
    2,R
-   7,R,J
-   9,R
+   8,R,J
+   8,R
    2
    1,R,K,G
    1,R,J,G
-  23,R,D
+  20,R,D
+   2,R
    2,R,D,J
    1,J
    1,R
    1
    1,R
    1
-   2,R
+   1,R
    1,R,J,G
    1,R,K,G
-  14,R,D
-   3,R,D,J
-   7,R
+  11,R,D
+   1,R,D,J
+   1
+   9,R,K
    1,R,J,G
-   7,R,K,G
-   8,R
-   1
-   1,R
-   1
-   1,R
+   5,R,K,G
+   5,R
+   6,R,K
+   1,K
+   1,R,K
    1,R,J,G
    1,R,K,G
   12,R
    1,R,J
-   8,R
-   1
-  12,R
+  17,R
    3,R,J
    5,R
   20,R,J
@@ -339,75 +363,87 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   13,R,D
    8,R,J
    2,R
-   4,R,J
+  11,R,J
   26,R,D
-   6,F,110
-  38,F,152
+  32,F,139
    6,D
   40
 
 #lvl_aleph_down (6X)
    3,D
   50,F,241
-  13,D
-   4,R,D
-  15,R,Z
-  28,R,D
-   6,L,J
+   1,D
+   7,R,D
+   9,D
+   4
+   5,R,J,G
+   3,R
+  23,R,D,X
+   5,L,J
    3,L
   20,L,J
   14,L,D
-  36,L
-  11,L,U
+  35,L
+   3,F,278
+  10,L,U
    1,L,K
    1,L,J
    1,L,K
    1,L,J
    1,L,K
    1,L,J
-   5,L,K
-  13,L
-   5,R
+   1,L,K
+   3,L,J,G
+   5,L,D
+  12,R,D
    1,R,J
-  13,R,D
-   7,D
-  12,F,230
-  13,L
-   8,L,U
-   1,F,300
-   7,U
+   3,R,D
+   1,L,D
+   9,R,D
+   1,L,D
+   5,D
+   1,F,182
+  13,F,230
+  10,L
+   5,F,276
+   6,L,U
+   8,U
    1,J
    1,K
    1,J
    1,K
    1,J
    1,K
-   6,J
-  25,D
+   5,J
+  24,D
+   1,F,175
    1,F,120
    7,R,D
    1,F,120
   14,R
    1,F,45
-  17,R,U
+  14,R,U
+   3,U
    1,K
    1,J
    1,K
    1,J
-   1,K
-  19,R,J
-   4,R
-   9
-  15,U,X
-  15,R,U
-  37,F,280
+   1,R,K
+   1,R,J
+  12,R,K
+  13,R
+   2
+   3,R
+  18,U,X
+  31,L
   26,L,D,X
   15,L,U,Z
   15,L,U,X
    7,F,290
   15,L,Z
-  46,F,280
-  20,L,D,X
+  16,F,280
+  34,L
+  17,L,D,X
    1,S
    1,D,J
   69,O
@@ -449,25 +485,34 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R
    1
    1,R
-   6,R,J,G
-   2
-   3,K,G
-   3,R,J
-   1,R,K
-  14,R
+   1,R,J,G
+   1,R
+   6,R,J
+   4,R,K,G
+   7,R
    1,R,J
-  38,R
+   1,R
+   1
+  36,R
+   1
+   1,R
+   1
+   1,R
    7,R,J
    1,R,K,G
    1,R,J,G
   13,R
    5,R,J
-  10,R
+   1,R
+   7,R,J
+   2,R
    1,R,K,G
-   3,R,J,G
+   2,R,J,G
    7,R
-  10,K
-   2,J
+   5,K
+   2,R,K
+   3,K
+   3,J
   12,R,K,G
   12,J,G
    5,K,G
@@ -499,21 +544,18 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,J,G
   10,R
    2,R,J
-   9,R
-  10,R,J
-   5,R
-   2,R,J
-   1
+   2,R,K,G
+  22,R,J,G
    4,R
-   1,R,J,G
-   7,R,K,G
-   5,R
-   3,R,J
-   6,R
+   7,R,J,G
+   1,R
+   5,R,J
+   7,R
   15,R,Z
   12,R
    1,R,J
-  20,R,D,X
+   1,R
+  21,R,D,X
    1,S
    1,D,J
   72,O
@@ -535,36 +577,40 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,L,J
   14,L
   19,L,J
-  15,L,U,Z
-   6,L
+  15,L,U,X
+   4,L
+   1
+   1,L
    1,L,J,G
-  24,L
+   2,L,K,G
+  14,L
   20,L,K
   15,L,U,X
-  11,L
-   9,J,G
+  12,L
+   2
+   7,J,G
+   2
+   1,J,G
    6,L
    3,R
-  14,R,J
-  23,R
+   9,R,J
+  21,R
   15,U,X
-   5
-  35,L,J
+   1
+  13,L
+   2
+  24,L
+   2
    8,L,K,G
-  11,L
-repeat 6
-   3
-   3,D
-endrepeat
-   3
-  14,L,D,X
+  10,L
+   2
+   1,L,J
+  13,L,Z
    1,R,J
    8,R
-  17,R,J
-  15,U,X
-   6,L
-  12,L,J,G
-   4,L,K,G
+  23,R,J
+  15,U,Z
+  12,L,J
   40
 
 #lvl_aleph_end (1X)
@@ -581,4 +627,4 @@ repeat 9
    1,K
 endrepeat
 
-ChapterTime: 1:16.806(4518)
+ChapterTime: 1:14.596(4388)
