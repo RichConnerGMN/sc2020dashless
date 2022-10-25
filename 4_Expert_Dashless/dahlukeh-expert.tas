@@ -1,8 +1,8 @@
-=#Made by atpx8
+#Made by atpx8
 #Dash save by Cr33pyCat, DeRockProject
-#Optimizations by RichConnerGMN
+#Optimizations by RichConnerGMN, Renatotheflowey
 #18X
-RecordCount: 4139
+RecordCount: 4256
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
@@ -15,18 +15,19 @@ console load SpringCollab2020/4-Expert/dahlukeh
    1,R,J
   14,R
    1,R,J
-  24,R
+  23,R,D
   14,R,Z
    1,R,J
-   6,R
-  11,R,J
-  31,R,D
-   7,R,J
-   5,R
-   2,R,K
-   2,R
-   1,R,K
+   7,R
+  10,R,J
    1,R
+   5,R,J
+  25,R,D
+   7,R,J
+   1,R
+   4,R,J
+   4,R
+   1,R,K
   11,J,G
    1
    2,L
@@ -438,9 +439,9 @@ EndRepeat
   23,J
    3,L,K,G
   24,R
-  14
+   9
 #+0f spinner cycle
-   3
+   1
   50,D,X
 #***
   20,R
@@ -572,7 +573,5 @@ Repeat, 12
    1,K
 EndRepeat
    1
-   1,J,G
-  14,R,J
 
-ChapterTime: 0:57.477(3381)
+ChapterTime: 0:57.324(3372)

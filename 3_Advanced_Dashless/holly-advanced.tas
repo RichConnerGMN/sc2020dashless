@@ -3,7 +3,7 @@
 #Optimisations by Renatotheflowey and RichConnerGMN
 #22X
 
-RecordCount: 2091
+RecordCount: 2146
 #added late
 
 console load SpringCollab2020/3-Advanced/Holly
@@ -265,10 +265,9 @@ console load SpringCollab2020/3-Advanced/Holly
    7,L
   10,L,J
    4,L
-  10,R,K,G
-   7,R,J,G
+  12,R,K,G
+   5,R,J,G
   40
-
 #lvl_Holly_02
 #3x
    1,J,G
@@ -302,18 +301,15 @@ console load SpringCollab2020/3-Advanced/Holly
    3,L
   12,R,J
    1,J
-  12,L,K
+   1,L,K
+  11,L,J
    1,K
-  12,R,J
-   2,L,K
-   5,L
-   2,L,K
-   1,L
-   2
-   2,R
-   7,R
-   5
-  26,R
+  10,R,J
+   4,L,K
+  18,R
+   4,D
+  17,R,D
+   8,R
   14,U,Z
   18,R,J
    1,R,K,G
@@ -344,12 +340,14 @@ console load SpringCollab2020/3-Advanced/Holly
   24,L,J
    6,R,K,G
    1,R,J,G
-   3,R,K,G
-  13,R
+   2,R,K,G
+  12,R
    1,R,J
-  16,R
+  14,R
    9,R,D,J
-   9,K,G
+   4,J
+   4,K,G
+   1,R,K
    1,L,K
    1,R,K
    2,J,G
@@ -363,9 +361,8 @@ repeat 12
   38,R,K
 endrepeat
   14,L,J
-   6,J
-   1,L
-   1,J,G
+   5,J
+   2,G
    1,R,K
   22,R
    1,R,J
@@ -376,7 +373,7 @@ endrepeat
    1,R,D
    1,D
    1,R,D
-   1,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -711,4 +708,4 @@ endrepeat
   15,U,X
  135,L
 
-ChapterTime: 1:25.136(5008)
+ChapterTime: 1:24.966(4998)
