@@ -1,4 +1,6 @@
 #By Tyran, Kataiser, lmjacks, sashabell
+#Optimizations by Bred
+#1X
 
 console load SpringCollab2020/1-Beginner/itsabrody
    1
@@ -6,7 +8,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
 #Start
  190
 
-#lvl_intro
+#lvl_intro (0X)
    4,L
    1,L,J
   15,L
@@ -138,7 +140,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,L,K
   40
 
-#lvl_1
+#lvl_1 (0X)
    7,L
    1,L,J,G
    6,L,K,G
@@ -316,7 +318,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R
   40
 
-#lvl_2
+#lvl_2 (0X)
   22,R,D
   23,F,180
    5,F,172.97
@@ -540,7 +542,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    3,R
   40
 
-#lvl_3
+#lvl_3 (0X)
    1
   20,R,D
   17,F,180
@@ -785,7 +787,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    3,R
   40
 
-#lvl_4
+#lvl_4 (0X)
    1,L,D
   21,D
    2,F,135,0.29
@@ -1043,7 +1045,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R
   40
 
-#lvl_5
+#lvl_5 (1X)
   17,R
    1,R,J
   26,R,D

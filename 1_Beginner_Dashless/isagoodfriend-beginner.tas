@@ -1,4 +1,6 @@
-#Made by RichConnerGMN
+#Made by RichConnerGMN, Algorythm
+#11X
+
 console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1
 
@@ -38,7 +40,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    3,R
   40
 
-#lvl_Isa_01
+#lvl_Isa_01 (0X)
    3,R
    1
    8,R,D
@@ -215,108 +217,11 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1,R,K,G
    3,R,J,G
   13,R,U,X
-#0:27.863(1639)
   12
   21,R
+Repeat,50
    1,G
    1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
+EndRepeat
    1,G
 ChapterTime: 0:29.121(1713)

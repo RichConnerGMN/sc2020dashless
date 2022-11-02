@@ -1,12 +1,12 @@
-#Made by RichConnerGMN
+#TASed by RichConnerGMN
 #Dash saves by pansear, Cr33pyCat
-#18x
+#18X
+
 console load SpringCollab2020/1-Beginner/Cruor
    1
 
 #Start
-#lvl_cruor_01
-#0x
+#lvl_cruor_01 (0X)
  190
    5,R
    1,R,J
@@ -19,8 +19,7 @@ console load SpringCollab2020/1-Beginner/Cruor
    5,R
   40
 
-#lvl_cruor_01
-#4x
+#lvl_cruor_01 (4X)
    9,R
    1,R,J
   15,R
@@ -76,8 +75,7 @@ console load SpringCollab2020/1-Beginner/Cruor
   78,R,Z
   40
 
-#lvl_cruor_02
-#6x
+#lvl_cruor_02 (6X)
    2,R
   29,R,D
   40,R,X
@@ -128,8 +126,7 @@ console load SpringCollab2020/1-Beginner/Cruor
    7,R,J,G
   43
 
-#lvl_cruor_03_tp
-#2x
+#lvl_cruor_03_tp (2X)
    1,R
   13,R,U,X
    1,R,J,G
@@ -229,8 +226,7 @@ console load SpringCollab2020/1-Beginner/Cruor
   14,R
   40
 
-#lvl_04
-#5x
+#lvl_04 (5X)
    1,R,D,J
    7,R
    1,R,J
@@ -380,8 +376,7 @@ console load SpringCollab2020/1-Beginner/Cruor
   19,R,J
   40
 
-#lvl_cruor_04
-#1x
+#lvl_cruor_04 (1X)
   11,R
   15,R,U,X
    5,R

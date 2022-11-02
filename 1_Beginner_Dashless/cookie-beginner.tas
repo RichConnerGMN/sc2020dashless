@@ -1,3 +1,5 @@
+#TASed by sashabell, exopta
+#4X
 RecordCount: 6165
 
 console load SpringCollab2020/1-Beginner/Cookie
@@ -260,7 +262,7 @@ console load SpringCollab2020/1-Beginner/Cookie
   19,R,G
   40
 
-#lvl_ CookieBeg_4
+#lvl_ CookieBeg_4 (0X)
    5,R
    1,R,J
   14,R
@@ -435,7 +437,7 @@ console load SpringCollab2020/1-Beginner/Cookie
    3,R,J
   40
 
-#lvl_ CookieBeg_3
+#lvl_ CookieBeg_3 (0X)
    2,R,J
    2,R
    1
@@ -602,7 +604,7 @@ console load SpringCollab2020/1-Beginner/Cookie
   11,R,G
   40
 
-#lvl_ CookieBeg_5
+#lvl_ CookieBeg_5 (0X)
    4,R,G
    1,R,J,G
   14,R,G
@@ -792,7 +794,7 @@ console load SpringCollab2020/1-Beginner/Cookie
    7,R,J,G
   40
 
-#lvl_ CookieBeg_Outro
+#lvl_ CookieBeg_Outro (0X)
    1,R,J,G
   19,R,G
  137,R

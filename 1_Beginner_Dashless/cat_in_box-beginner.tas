@@ -1,6 +1,6 @@
-#Made by pansear
+#TASed by pansear
 #Optimizations by Renatotheflowey, RichConnerGMN
-# 14X
+#14X
 
 RecordCount: 931
 
@@ -10,7 +10,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
 #Start
  190
 
-#lvl_cat-00
+#lvl_cat-00 (0X)
    5,R
    1,R,J
   14,R
@@ -26,12 +26,11 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   12,R
   40
 
-#lvl_cat-01
+#lvl_cat-01 (5X)
    2,R
    1,R,J
   14,R
   15,R,J
-
   14,R,X
    1,L,J
    4,J
@@ -92,7 +91,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    6,K,G
   40
 
-#lvl_cat-02
+#lvl_cat-02 (1X)
   11
   11,J,G
    1
@@ -160,7 +159,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   13,R
   40
 
-#lvl_cat-03
+#lvl_cat-03 (1X)
    5,R
   24,R,K
    8,J,G
@@ -215,7 +214,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    4,R
   40
 
-#lvl_cat-04
+#lvl_cat-04 (5X)
   10,R
    1,R,J
   38,R,D
@@ -372,7 +371,7 @@ EndRepeat
    2,L
   43
 
-#lvl_cat-05
+#lvl_cat-05 (1X)
    4,L
    1,L,J
    5,L

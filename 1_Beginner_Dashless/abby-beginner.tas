@@ -1,11 +1,13 @@
-#By iliekchez
+#TASed by nimiala
 #Dash saves by nebs
 #Optimizations by nebs, RichConnerGMN, Noha
+#14X
+
 console load SpringCollab2020/1-Beginner/Abby
    1
 
 #Start
-#Jude_00
+#Jude_00 (0X)
   61
    2,R
    1,R,J
@@ -22,7 +24,7 @@ console load SpringCollab2020/1-Beginner/Abby
   83
   40
 
-#Jude_01 (2x)
+#Jude_01 (2X)
    8
    1,S
    1,D,J
@@ -79,7 +81,7 @@ console load SpringCollab2020/1-Beginner/Abby
   55
   40
 
-#Jude_02 (3x)
+#Jude_02 (3X)
   37
   51,R,X
    4,R,J
@@ -106,7 +108,7 @@ console load SpringCollab2020/1-Beginner/Abby
   65
   40
 
-#Jude_03 (3x)
+#Jude_03 (3X)
    4
   44,R
   27,R,X
@@ -140,7 +142,7 @@ console load SpringCollab2020/1-Beginner/Abby
   62
   40
 
-#Jude_04 (1x)
+#Jude_04 (1X)
   10
   41
   97,L,D
@@ -156,7 +158,7 @@ console load SpringCollab2020/1-Beginner/Abby
   82
   40
 
-#Jude_05 (4x)
+#Jude_05 (4X)
    4
   48,R
   46,R
@@ -202,7 +204,7 @@ console load SpringCollab2020/1-Beginner/Abby
   68
   40
 
-#Jude_end (1x)
+#Jude_end (1X)
   68,R
    5,R
    1,R,J

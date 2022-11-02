@@ -1,6 +1,6 @@
-#By RichConnerGMN, Vampire Flower
+#TASed RichConnerGMN, Vampire Flower
 #Dash save by Cr33pyCat
-#51x
+#51X
 
 RecordCount: 1038
 console load SpringCollab2020/1-Beginner/DanTKO
@@ -9,8 +9,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
 #Start
  190
 
-#lvl_DanTKO_Intro
-#0x
+#lvl_DanTKO_Intro (0X)
    5,R
    1,R,J
   14,R
@@ -63,8 +62,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    5,R
   40
 
-#lvl_DanTKO_01
-#6x
+#lvl_DanTKO_01 (6X)
    6,R
    1,R,J
   18,R
@@ -105,8 +103,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    8,R
   40
 
-#lvl_DanTKO_02
-#7x
+#lvl_DanTKO_02 (7X)
    2
   16,R,D
    1
@@ -204,8 +201,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   27,R
   40
 
-#lvl_DanTKO_03
-#11x
+#lvl_DanTKO_03 (11X)
    5,D
    4,R,D
    1,D
@@ -265,8 +261,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,J
   40
 
-#lvl_DanTKO_04
-#12x
+#lvl_DanTKO_04 (12X)
    1,R,J,G
    1,R
    3,R,J,G
@@ -340,8 +335,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,K
   40
 
-#lvl_DanTKO_05
-#14x
+#lvl_DanTKO_05 (14X)
    3,R,J,G
    2,R
    1
@@ -432,8 +426,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   21,R
   40
 
-#lvl_DanTKO_Outro
-#1x
+#lvl_DanTKO_Outro (1X)
    2
   15,R,D
    1,R

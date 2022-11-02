@@ -1,11 +1,13 @@
-#Made by RichConnerGMN
+#TASed by RichConnerGMN
+#
+
 console load SpringCollab2020/1-Beginner/Ghajestis
    1
 
 #Start
  190
 
-#lvl_Ghaj_1
+#lvl_Ghaj_1 (1X)
    2,L
    1,L,J
   12,R,Z
@@ -45,7 +47,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    7,R
   40
 
-#lvl_Ghaj_1
+#lvl_Ghaj_1 (9X)
    4,R
    2,R,J
   11,R
@@ -89,7 +91,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    7,R,D,X
   40
 
-#lvl_Ghaj_3
+#lvl_Ghaj_3 (2X)
    5,R
    1,R,J
    9,R,D
@@ -111,7 +113,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
   12,R,Z
   40
 
-#lvl_Ghaj_4
+#lvl_Ghaj_4 (3X)
    1,R,Z
    1,R,J
    3,R
@@ -170,7 +172,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    8,R,X
   40
 
-#lvl_Ghaj_5
+#lvl_Ghaj_5 (6X)
   52,R
   11,L,D,X
    4,R,J
@@ -256,7 +258,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
   10,R
   40
 
-#lvl_Ghaj_6
+#lvl_Ghaj_6 (1X)
    2,R
   23,R,J
   15,R,X

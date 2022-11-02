@@ -1,7 +1,9 @@
 #Made by RichConnerGMN
 #Dash save by amber, Tyran, exopta
 #Optimizations by amber
-RecordCount: 723
+#15X
+
+RecordCount: 724
 
 console load SpringCollab2020/1-Beginner/Snas
    1
@@ -9,7 +11,7 @@ console load SpringCollab2020/1-Beginner/Snas
 #Start
  190
 
-#lvl_Snas00 1x
+#lvl_Snas00 (0X)
    5,R
    3,R,J
   28,R
@@ -45,7 +47,7 @@ console load SpringCollab2020/1-Beginner/Snas
    1,R,J
   40
 
-#lvl_Snas01
+#lvl_Snas01 (1X)
    6,R,J
   19,R
   51,R,X
@@ -66,7 +68,7 @@ console load SpringCollab2020/1-Beginner/Snas
   10,R
   40
 
-#lvl_Snas02 1x
+#lvl_Snas02 (1X)
    7,R,J
   31,R,D
   12,R,J
@@ -146,7 +148,7 @@ console load SpringCollab2020/1-Beginner/Snas
    7,R
   40
 
-#lvl_Snas04 3x
+#lvl_Snas04 (3x)
    7,R
    1,R,J
    3,J
@@ -193,7 +195,7 @@ console load SpringCollab2020/1-Beginner/Snas
    6,R
   40
 
-#lvl_Snas05 6x
+#lvl_Snas05 (6X)
    1,R,J
    5,R
    8,R,D,J
@@ -243,7 +245,7 @@ console load SpringCollab2020/1-Beginner/Snas
   76
   40
 
-#lvl_Snas06 1x
+#lvl_Snas06 (1X)
   69
    5,L
    1,L,J
@@ -285,126 +287,12 @@ console load SpringCollab2020/1-Beginner/Snas
   16,R
   16,R,U,X
   12
+Repeat,25
    1,R
    1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
+EndRepeat
+Repeat,36
    1,R,D
    1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
+EndRepeat
 ChapterTime: 0:44.336(2608)

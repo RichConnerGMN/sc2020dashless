@@ -1,6 +1,7 @@
 #Made by RichConnerGMN, Wirare, Renatotheflowey
 #Dash saves by RichConnerGMN, exopta
 #6X
+
 RecordCount: 2632
 
 console load SpringCollab2020/1-Beginner/Skeleton
@@ -9,7 +10,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
 #Start
  190
 
-#lvl_skeleton2_00
+#lvl_skeleton2_00 (0X)
    5,R
    1,R,J
   14,R
@@ -83,7 +84,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
   12,R
   40
 
-#lvl_skeleton2_01
+#lvl_skeleton2_01 (2X)
    2,R
    1,R,J
   14,R
@@ -192,7 +193,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,R
   40
 
-#lvl_skeleton2_02
+#lvl_skeleton2_02 (2X)
    5,R
    2,R,K
    3,R
@@ -208,8 +209,6 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1
    1,R
    4
-
-#1803.349995970730
    5,R
    1,R,J
   20,R
@@ -390,7 +389,7 @@ EndRepeat
    3,L,K
   40
 
-#lvl_skeleton2_03 1x
+#lvl_skeleton2_03 (1X)
    4,R
    1,R,J,G
    1,R
@@ -573,7 +572,8 @@ EndRepeat
   12,K,G
    7,J,G
   40
-#lvl_skeleton2_04 0x
+
+#lvl_skeleton2_04 (0x)
    6,R
    7,L,J
    6,R,K
@@ -879,7 +879,7 @@ EndRepeat
    4,R,D
   40
 
-#lvl_skeleton2_04_berry 0x
+#lvl_skeleton2_04_berry (0X)
    4,R,D
    5,D
    4,R,D
@@ -916,7 +916,7 @@ EndRepeat
    1,K
   40
 
-#lvl_skeleton2_04 0x
+#lvl_skeleton2_04 (0X)
    1,J
    6,L,J
    1,K
@@ -926,7 +926,7 @@ EndRepeat
    2,R
   40
 
-#lvl_skeleton2_05 1x
+#lvl_skeleton2_05 (1X)
   34,R
   28,R,J
   15,R,U,X

@@ -1,11 +1,13 @@
 #Made by Algorythm, RichConnerGMN
+#5X
+
 console load SpringCollab2020/1-Beginner/hennyburgr
    1
 
 #Start
-#hennyburgr-intro
-#0x
  190
+
+#hennyburgr-intro (0X)
    5,R
    1,R,J
   14,R
@@ -67,8 +69,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   10,J
   40
 
-#lvl_hennyburgr-1
-#0x
+#lvl_hennyburgr-1 (0X)
   11,R
    1,R,J,G
    2,R,K,G
@@ -171,8 +172,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   14,R
   40
 
-#lvl_hennyburgr-2
-#1x
+#lvl_hennyburgr-2 (1X)
    1,R,J
   18,R
    1,R,J
@@ -246,8 +246,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    9,R
   40
 
-#lvl_hennyburgr-3
-#0x
+#lvl_hennyburgr-3 (0X)
    1,R,J
   14,R
    1,R,D,J
@@ -309,8 +308,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   13,R,K
   40
 
-#lvl_hennyburgr-4
-#1x
+#lvl_hennyburgr-4 (1X)
   12,R
    1,R,J,G
    1,R,K,G
@@ -369,8 +367,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    8,R
   40
 
-#lvl_hennyburgr-5
-#1x
+#lvl_hennyburgr-5 (1X)
    2,R,J
    3,R
    2,R,J
@@ -587,8 +584,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   10,R
   40
 
-#lvl_hennyburgr_outro
-#0x
+#lvl_hennyburgr_outro (0X)
    4,R
    1,R,J
   14,R
@@ -602,45 +598,13 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    2,D
   21,L
   14,L,D
+Repeat, 8 
    1,R
    1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
+EndRepeat
+Repeat, 12
    1,J
    1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
+EndRepeat
    1
 ChapterTime: 1:05.909(3877)

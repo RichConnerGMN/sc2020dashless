@@ -1,17 +1,17 @@
 #TASed by RichConnerGMN, atpx8
 #Optimizations by Ralp, Cr33pyCat, NoHa
 #Xna/Fna resync from Bred
+#55X
 
 RecordCount: 3400
 
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
 
-#55x
+
 
 #Start
-#lvl_beg_heart_00
-#0x
+#lvl_beg_heart_00 (0X)
   36
    7,R
   10,R,J
@@ -67,8 +67,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    6,R
   40
 
-#lvl_beg_heart_01
-#9x
+#lvl_beg_heart_01 (9X)
    1,R
    1
    1,R
@@ -172,10 +171,6 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    8,J
   15,U,X
   15,R,U,C
-#0:17.170(1010)
-#0:18.343(1079)
-#-69f
-#nice
   15,L,U,X
   16,L,U,C
   15,R
@@ -212,9 +207,6 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   13,K,G
   14,U,X
   46,L,C
-#0:23.970(1410)
-#0:24.055(1415)
-#-5f
   19,R
   20,R,U,X
   20,L
@@ -236,8 +228,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   75
   40
 
-#lvl_beg_heart_02
-#11x
+#lvl_beg_heart_02 (11X)
    8
   17,R
   13,L,J
@@ -479,8 +470,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   23,R,U,K,G
   40
 
-#lvl_beg_heart_03
-#7x
+#lvl_beg_heart_03 (7X)
   42,R,U,G
   14,R,D,G
   25,G
@@ -590,8 +580,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   68,U,G
   43
 
-#lvl_beg_heart_04
-#0x
+#lvl_beg_heart_04 (0X)
    1,L,G
   11,R,G
    3,G
@@ -726,8 +715,7 @@ AnalogMode, Precise
    6,R,D,G
   40
 
-#lvl_beg_heart_05
-#2x
+#lvl_beg_heart_05 (2X)
   22,R,D,G
   27,R,J,G
   15,L,K,G
@@ -883,8 +871,7 @@ AnalogMode, Precise
   10,R,G
   40
 
-#lvl_beg_heart_06
-#25x
+#lvl_beg_heart_06 (25X)
   11,R,G
    4,R,D
    6,R,G
@@ -1075,8 +1062,7 @@ EndRepeat
    5,R,J,G
   40
 
-#lvl_beg_heart_07
-#1x
+#lvl_beg_heart_07 #1X
   11,R
    2,J,G
   14,L,J

@@ -1,11 +1,13 @@
 #Made by Vampire Flower, mlseg, Tyran, nebs
+#1X
 
 console load SpringCollab2020/1-Beginner/Rue
    1
-   
-#lvl_Intro
+
 #Start
  190
+
+#lvl_Intro (0X)
    5,R
    1,R,J
   14,R
@@ -21,7 +23,7 @@ console load SpringCollab2020/1-Beginner/Rue
   12,R
   40
 
-#lvl_Rue_01
+#lvl_Rue_01 (0X)
    2,R
    1,R,J
   14,R
@@ -113,7 +115,7 @@ console load SpringCollab2020/1-Beginner/Rue
    3,R
   40
 
-#lvl_Rue_02
+#lvl_Rue_02 (0X)
    2,R
    1,R,K
    3,R
@@ -180,7 +182,7 @@ console load SpringCollab2020/1-Beginner/Rue
    3,R
   40
 
-#lvl_Rue_03
+#lvl_Rue_03 (0X)
    2,R
    2,R,J
    2,R
@@ -214,7 +216,7 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R,J
   40
 
-#lvl_Rue_04
+#lvl_Rue_04 (0X)
    1
   72,O
   14,L,D,J
@@ -271,7 +273,7 @@ console load SpringCollab2020/1-Beginner/Rue
    5,R
   40
 
-#lvl_Rue_05
+#lvl_Rue_05 (0X)
    9,R
    1,R,J
    7,R
@@ -474,7 +476,7 @@ console load SpringCollab2020/1-Beginner/Rue
   10,R
   40
 
-#lvl_Rue_Outro
+#lvl_Rue_Outro (1X)
    4,R
    1,R,J
   30,R,D
@@ -490,30 +492,18 @@ console load SpringCollab2020/1-Beginner/Rue
    3,R
    1,R,J,G
   23,R
-   8,R,J
+   5,R,J
+   3,R
   21,R,X
   13
-#1:07.541(3973)
-   1,L
+Repeat,9
    1,R
    1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
+EndRepeat
    1,R,D,J
-Repeat,52
+Repeat,51
    1,L
    1,R
 EndRepeat
+   1,L
 ChapterTime: 1:09.292(4076)
