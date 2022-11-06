@@ -1,8 +1,8 @@
 #Made by DDSalvy, msleg, TheChickenLeg, Vampire Flower
 #Dash saves by RichConnerGMN, pansear
-#Optimizations by RichConnerGMN
+#Optimizations by RichConnerGMN, Renatotheflowey
 #TODO: check who actually just did optimizations lol
-#7X
+#6X
 
 console load SpringCollab2020/3-Advanced/Thegur90
    1
@@ -28,30 +28,59 @@ console load SpringCollab2020/3-Advanced/Thegur90
   16,R,K,G
   15,R,U,X
    4,R
-  15,R,X
-  26,R,D
-  14,R,D,X
+  28,R,D,X
    1,R,J
-   3,R
-   1,R,J,G
-  10,R
-  24,R,J
-   3,R,K,G
+   2,R
+   1
+  11,R
+   5,R,J
    7,R
+   1,R,J
+   1,R,J
+  13,R
+   1,J
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   9,R
+   9,R,J
+  26,R
+  11,R,K
+   5,R
+   2,R,K
+   1,R
+   1,R,K
+   3
+   3,K,G
+   3,R,K
+   1,K
+   3,R,K
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   4,R,J
   40
 
-#lvl_1 (4x)
-   1,R
-   2,R,K
-   5,R
-   2
-   1,R,J
-   1,J
-   1,R,K,G
-   4,R
-   1,R,J,G
+#lvl_1 (3x)
+   2,R,J
    9,R
-  18,R,J
+   1,R,J
+  11,R
+   1,R,K
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   2,R
+   1,R,J,G
+   1,R
+   1
+   7,R
+  28,R,J
    6,R,U,C
    7,R,X
    6,R,D,C
@@ -74,12 +103,12 @@ console load SpringCollab2020/3-Advanced/Thegur90
    9,L,D,C
    7,D,X
   15,R,C
-   8,R
-  15,U,X
-   7,L
-  29,R
-   4
-   4,R
+   1,R
+   3,L
+   3,R
+  15,U,Z
+   2,L
+  37,R
    5,R,X
    5,R,C
    9,D,X
@@ -204,13 +233,16 @@ console load SpringCollab2020/3-Advanced/Thegur90
    5,R,C
   16,R,X
   15,R,U,C
-  11,R,D
-  13,D
-  14,R,Z
-  11
-   2,R
-   6,D
-  63,R,J
+  11,L,D
+   4,D
+  16,R,D
+   1,R
+   2,R,D
+  11,R,Z
+   1,R,J,G
+   3,J
+   4,R,J
+  36,R
   15,R,X
   11,R
   15,R,X
@@ -283,4 +315,4 @@ Repeat,34
    1,R
 EndRepeat
 
-ChapterTime: 0:36.873(2169)
+ChapterTime: 0:37.774(2222)

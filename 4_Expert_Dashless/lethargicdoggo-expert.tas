@@ -1,7 +1,8 @@
 #Made by pansear
+#Optimizations by Renatotheflowey
 #64X
 
-RecordCount: 999
+RecordCount: 1175
 
 console load SpringCollab2020/4-Expert/LethargicDoggo
    1
@@ -55,9 +56,10 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   21,R,D,X
   27,R,J
   10,U,X
-  56,R,J
+  50,R,J
+   6,R,D
   23,R,X
-   5
+   4,R
   12,U,C
   21,R
   18,R,D,X
@@ -67,7 +69,8 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   12,R,J
    2,R
   24,R,D,X
-  38,R,J
+  26,R,J
+  12,R
   33,R,Z
    4,R,J
   26,U,X
@@ -107,16 +110,18 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
    1,L,K
   21,D
    5,L,D
-  23,D
-   2,R,D
-   1,D
-   5,R,D
+   2
+  19,D
+   1,R,D
+   4,R
+   2
+   1,R
   23,R,X
    4,R,J
    5,R,K
    5,R
-   1,R,J
-  27,R,D
+  23,R,D
+   5,R
   14,R,Z
   32,R,J
   14,U,X
@@ -126,7 +131,7 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
    1,L,K
   19,D
    3,R,D
-   1,R
+   1,R,D
    1,D
    2,D
   29,R,Z
@@ -140,7 +145,7 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
    7,D,X
   30,R
   15,R,X
-  15,L
+  15,L,D
    1
    8,L
   24,R
@@ -320,43 +325,49 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   40
 
 #lvl_6 (22X)
-  28,R,D
+  22,R,D
+   3,D
+   2,R,D
+   1,D
    1,R,J
   18,R
    1,R,J
-   7,R,K,G
-   1,R,J,G
+   1,R,K,G
+   5,R,J,G
+   2,R,K,G
    2,R
    1,R,J,G
-  11,R
-   6,R,J
-   3,R
-  28,R,Z
+  10,R
+   5,R,J
+   2,R
+  27,R,Z
    4,R,J
    9,R,K
    1,R
-  23,R,D,J
+  12,R,D,J
+  10,R,D
   15,R,Z
-   3,D
+   3,R,D
    1,R,D
    1,D
-  14,R,D
-   1,R
+   2,R
+   2,D
+  10,R,D
   18,R,X
   15,U,Z
-  24,L
+  23,L
   15,L,U,X
-   4,L
-  52,R
-   9,R,D
-  14,L,D,X
-   4,R,D
+   3,L
+  45,R
+  10,R,D
+   7,D
+  15,L,D,X
+   3,R
   17,R,Z
    4,R,J
-   8,R,K
+   9,R,K
    5,R
-  24,R,J
-   2,R,J
+  25,R,J
   37,U,X
   15,L,C
   27,R,D
@@ -376,13 +387,13 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   26,R,Z
    8,L,J
    1,L,K
-   9,R,K
-   1,R,K
+  10,R,K
   24,R,X
    4,L,J
    6,L,K
   24,L,U,X
-  50,R
+  30,R
+  20,R,D
   11,D,X
   58,R,D
    4,R
@@ -415,4 +426,4 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   15,U,X
  135,D
 
-ChapterTime: 1:11.655(4215)
+ChapterTime: 1:11.485(4205)
