@@ -1,7 +1,10 @@
 #Made by mathb0y, Toster
-#35x
+#Dash saves by Renatotheflowey
+#Optimizations by Renatotheflowey
 
-RecordCount: 4567
+#34x
+
+RecordCount: 5507
 
 console load SpringCollab2020/2-Intermediate/hennyburgr
    1
@@ -12,7 +15,8 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
 #2x
   34,L,J
   13,D
-  16,J
+  12,J
+   4,R,J
   14,U,X
   14,R,J
    8,R
@@ -25,8 +29,8 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    1,R
   40
 
-#lvl 1 stuff
-#1x
+#lvl 1 (1)
+#2x
    5,R
    5,R,J
    5,R
@@ -44,27 +48,138 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
   12
    8,R
   35,R,J
-   8
-   4
-repeat 216
-   3,D
-   3
-endrepeat
-  16
-  12,R
-   4
+   7
+   5,R
+   1,R,J
+  13,R
+   2,R,J
    1,R
-  17
+   5,R,J
+   3,R
+   8,R,K,G
+  22,R,X
+   4,R,J
+   7,R,K
+   3,R
+   1,L
+  13,U,X
+   9,R,J
+   1,R
+  11,R,J
+   3,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,R,J
+   9,R
+  40
+
+#lvl_3
+#14x
+   5,R
+   1,R,D,J
+   2,L,J
+   9,L,K,G
+   5,L
+   1,J,G
+   1,K,G
+  26,R,K
+   1,L,K
+   1,L,J,G
+  29,R,K
+  37,R,U,X
+   4,R,J
+  20,R,K
+  15,U,X
+  13
+   2,L
+  13,L,X
+   4,L,J
+  11,L,K
+  10,L
+  43
+   9,J
+   4,R,J
+  21,U,X
+  10
+  15,R,U,X
+   2
+   7,R
+  10,R,D,X
+  25,R,J
+  24,U,X
+  27,L
+   2,R,D
+   3,D
+   7,R
+  12,L
+   1,L,J
+  19,L
+  13,L,J
+   1,R,J
+  15,U,X
+  17,R,J
+  25,R,U,X
+   4,R,J
+   8,R,K
+  24,U,X
+   4,L
+  33,L,X
+   4,L,J
+   8,L,K
+  17,L,D,X
+   1,S
+   1,D,J
+  69,O
+   8,L
+   1
+   1,L
+   1
+   1,L
+   1
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+   8,L,D
+ 228,D,X
+   2,L,D
+  18,R,D
+   1,R,J
+   4,R
+  52,D,X
    6,L
    1,L,J
+  14,L
+   1,L,J
+  14,L
+  10,L,J
+  40
+
+#lvl_1 (2)
+#2x
   10,L
-   6,L,J
-  24,L
-  34,L,U,J,G
+   4,L,J,G
+  61,L,U,G
+  58,L,X
+   4,L,J
+   3,L,K
+   8,L
+   3,L,J
+   1,L
+   7,L,J
+  14,L
+  27,L,J
+   6,J
+   8,K,G
+   2,R,K
+   3,R,J
   16,R,U,X
    1,L,J
   21,L
-***
    1,L,J,G
    4,L,K,G
    8,L
@@ -104,7 +219,6 @@ endrepeat
   27,L
   15,L,U,Z
    8
-
    1,L
   12,J,G
    2,R,J
@@ -120,26 +234,21 @@ endrepeat
    1,D
   20,L,D
    1,L,J
-
   14,L
    1,L,J
   21,L
   40,L,J
-
   25
   10,L
-
   30,L,J
   24,L
   16,L,D
   12,L,U,Z
    1,R,J,G
-
   10,L,J
   27,L
   15,L,U,X
    6,L
-
    3,L,J,G
    1,J
    1,R,J
@@ -154,44 +263,46 @@ endrepeat
    1,L,J
   14,L
    1,L,J
-  10,L,D
-  25,D
-   1
+   8,L,D
+  27,D
+   1,L,D
    5,L
    1,L,J
   13,L
    1,L,J
-   5,L
-  13,L,K,G
+   1,L
+   4,L,J
+  10,L,K,G
   21,U,X
   14,L,Z
-  11,L,J
-  15,L,D,X
-  11
+   9,L,J
+   2,L
+  25,L,D,X
    1,S
    1,D,J
   69,O
    5,L
    2,L,J
   12,L
-   8,L,J
-  15,U,X
-   1
- 305,R,X
+   2,J
+   6,L,J
+  14,U,X
+   2,L,J
+ 306,R,X
    1,R,J
-   5,R
+   3,R
   25,D,X
   18,R,C
   40
 
-#lvl_1 (1)
+#lvl_1 (3)
 #2x
   31,R
    1,R,J
-  15,R,D
-   1
+  10,R,D
+   5,L,D
    2,R,D
-  17,R
+  18,R
   15,U,X
    5,R
    1,R,J
@@ -202,14 +313,13 @@ endrepeat
    1,J
    2,K,G
   23,R,K
-   1,R,K
-   3
+   4,R,K
    7,L,Z
    1,R,J
    7,R
   27,R,D,J
-   5,J
-  12,K,G
+   4,R,J
+  11,K,G
    1,L,J
   14,L,K
   40
@@ -231,7 +341,6 @@ endrepeat
   16,L
    3,J,G
   15,K,G
-***
   15,L
   31
   23,L,J
@@ -253,7 +362,6 @@ endrepeat
   25,L
    1,L,J,G
    4,L,K,G
-***
   27,L,D
    4,D
    1,L,D
@@ -268,35 +376,34 @@ endrepeat
   11,U,X
    1,R,J
    9,L,J
-***
   36,D
   14,R,D
   10,L,J
    7,L
   23
-***
    1,J
    7
   10,L
    1,L,J
   19,L
   19,L,J
-  12,K,G
+  11,K,G
    2,J,G
    1,K
-   8,R,J
-   8,R,D
-  40,L,D
+   6,R,J
+   1,R,K,G
+  48,L,D
    9,L
-***
-   2,L,D
+   1,L,D
    1,L,D,J
-   7,L
+   4,L
    1,L,J
-  14,L
-  12,L,J
-  15,L,D,X
-   4
+   2,L
+   4,L,J
+   1,R,J
+   1,K,G
+  11,L,J
+  22,L,D,X
    1,S
    1,D,J
   69,O
@@ -306,73 +413,66 @@ endrepeat
    1,L,K,G
    1,L,J,G
   13,L
-  16,L,D,J
-   1,K,G
-   1,R,K
-   1,L,K
-   2,J,G
-  17,R,J
+  14,L,J
+   1,L,J
+  10,R,K
+   1,R
+   5,R,K
+   1,R,J
   11,R,K
-  11,J,G
-   1,L,J
-  12,L,K
+  11,L,J
+  12,K,G
   10,J,G
-   1,R,J
-   1,L,J
-  12,R,K
-   2,J,G
-   1,R,J
-   1,L,J
-   1,R,J
-  10,R,K,G
-   2,R
-   2
+   2,R,J
+  11,R,K
+   4,J,G
+   1,L
+  14,R,K,G
    1,R,J,G
    1,R,K,G
+   9,R
+   1,R,J
   12,R
+   2
    1,R,J
-  14,R
-   1,R,J
-   7
+  17
+   1,R
+   1
    1,J
-   5
-   2,J
-   5,R
-   1,R,J
-  25,R
-  31,R,J
-  26,R,D
-   1,R,J
-  22,R
-   6,R,J
-  13,R
-  15,R,U,Z
-   9,R
-  11,L,K,G
-   1,J
-  43,R,K
-   5,R,J,G
-  18
-   1,K
-   1,J
-   9,R,J
   16,R
-   4,R,J,G
-   9,R
-  24,L
-   1,G
-   8,J,G
-   1,K
-   7,J
-  17,R
-  53
-   7,R,Z
-   4,R,J
-  68,R,D
-  13,L,D
-   1,L,J
-   1,L,K
-  10,L,D
+   1,R,J
+   7,R
+   1,R,J
+   6,R
+   5,R,J
+   1,R
+   6,R,J
+  32,R,D
+  33,R,J
+  15,R,U,Z
+   1,L,K,G
+   4,L,J,G
+   5,R,J
+  41,R,K
+  10,R,J,G
+  12,R
+   9,R,J
+  15,R
+  16,L
+  11
+  11,R
+   1,R,J
+   6,R
+   2
+   6,R,J
+  20,R,D
+  61,D
+   2,L,D
+   1,R,D
+   1,J
+   1,K,G
+   1,D
+   9,L,D
    1,L,J
   14,L
    1,L,J
@@ -391,129 +491,28 @@ endrepeat
   24,L,D
   40
 
-#lvl_1 (2)
-#2x
+#lvl_1 (4)
+#0
   20,D
-  30,R,D
-  13,D
-  20
-   5,R
-   1,R,J
-  23,R
-   4,R,J
-   6,R
-   9,R,J,G
-  22,R,X
-   4,R,J
-   5,R,K
-   3,K
-   4
-  13,U,X
-   9,R,J
-  12,R
-   1
-   1,R
-   1
-   1,R
-   1,R,J,G
-   1,R,K,G
-  10,R
-   1,R,J
-   9,R
-  40
-
-#lvl_3
-#15x
-   5,R
-   1,R,D,J
-   2,L,J
-   9,L,K,G
-   5,L
-   1,J,G
-   1,K,G
-  26,R,K
-   1,L,K
-   1,L,J,G
-  29,R,K
-  37,R,U,X
-   4,R,J
-  20,R,K
-  15,U,X
-  13
-   2,L
-  13,L,X
-   4,L,J
-  11,L,K
-  10,L
-  43
-   9,J
-   4,R,J
-  21,U,X
-  10
-  15,R,U,X
-   2
-   7,R
-  10,R,D,X
-  25,R,J
-  24,U,X
-  27,L
-   5,D
-  10,R
-  11,L
-   1,L,J
-  21,L
-  13,L,J
-  15,U,X
-  22,R,J
-  22,R,U,X
-   4,R,J
-   8,R,K
-  28,U,X
-   3,L
-  33,L,X
-
-   4,L,J
-   8,L,K
-   5,L,D,X
-  12
-   1,S
-   1,D,J
-  69,O
-  12,L
-   1
-   1,L,D,J
-   1,L,K,G
-   1,L,J,G
-  13,L
-   1,L,J
-  14,L,D
- 220,D,X
-  26,R,D
-   5,R
-   1,R,J
-  47,D,X
-   9,L
-   1,L,J
-  14,L
-   1,L,J
-  16,L
-   9,L,X
-  40
-
-#lvl_1 (3)
-#0x
-  57,L
-   1,L,J
-  35,L,D
-  21,D
+  23,R,D
+  20,D
+   2,R,D
+   3,D
+   4,L,D
+  15,L
+   3,L,D
+  12,D
+   7,D
   40
 
 #lvl_outro
 #1x
-   2,D
-  10,R,D
-  20,R
-   9,R,D
+   1,D
+  11,R,D
+  12,R
+   4,R,D
+   2,R
+   8,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -522,7 +521,6 @@ endrepeat
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
   15,R,U,X
  103,R
    1,G
@@ -554,5 +552,6 @@ endrepeat
    1,K
    1,J
    1,K
-
-ChapterTime: 1:53.628(6684)
+   1,J
+   1,K
+ChapterTime: 1:28.757(5221)
