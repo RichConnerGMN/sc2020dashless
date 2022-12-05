@@ -6,7 +6,7 @@
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 6180
+RecordCount: 7104
 
 console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1
@@ -398,37 +398,40 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    6
   14,U,X
   21,R,U,G
-  15,U,G
+  14,U,G
+   1,L,U,G
    1,R
-  26,R,U,K,G
-  34,R,G
-   5,R,D,G
-   1,R
+   1,R,J
+  25,R,U,K,G
+  30,R,U,G
+   3,R,G
+   1,G
+   1,R,G
+   7,R
    1,R,K,G
-  34,R,J,G
-  23,R,D,G
+   1,R,J,G
+   3,J
+   1,R,J
+   1,J
+   7,R,J
+  45,R,D,G
   53,D,G
   14,R,D,G
    2,D,G
    1,R,D,G
-  30,D,G
-  30,R,D,G
-  15,D,G
-  25,L,D,G
-  28,D,G
-   8,L,D,G
-  24,R,D,G
-  22,D,G
-  26,L,D,G
-  20,R,D,G
-   5,L,D,G
-   3,D,G
-  23,R,D,G
-   1,R,U,J,G
+  25,D,G
+  24,L,D,G
+  42,D,G
+  13,L,D,G
+  89,D,G
+  48,R,D,G
+   1,D,G
+   1,R,D,G
+  70,R,U,G
+  10,R,D,G
    1,R,G
-  60,R,U,J,G
-  21,R,D,G
-  39,R,U,J,G
+  36,R,U,J,G
+   2,R,G
    1,L,K,G
    1,R,K,G
    2,K,G
@@ -437,41 +440,47 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    3,L,K,G
   13,R,J,G
    1,L,K,G
-  23,L,J,G
-  17,R,K,G
-   1,L,J,G
-  10,L,K,G
-  12,R,J,G
-  12,R,G
-   8,L,K,G
-  11,L,D
+  14,L,J,G
+   1,R,K,G
+  13,R,J,G
+   1,L,K,G
+  14,L,J,G
+  14,R,K,G
+   7,L,J,G
+   4,L,D
   37,L,K,G
    5,R,J,G
-  10,R,D
-  39,R,U,J,G
-  30,L,K,G
-  15,R,J,G
-  17,R,G
-  25,L,J,G
-  11,R,K,G
-   1,L,J,G
-   9,L,K,G
-  11,R,J,G
-  11,L,K,G
-  26,R,J,G
+   7,R,D,J
+   1,R,J,G
+   5,R
+   4,R,U,K,G
+   1,K,G
+  17,R,U,K,G
+   9,R,G
   12,L,K,G
+  12,R,J,G
+  12,L,K,G
+  12,R,J,G
+  13,L,K,G
+  12,R,J,G
+  12,L,K,G
+  12,R,J,G
+  12,L,K,G
+  12,R,J,G
+   3,L,K,G
+   3,L,G
+   7,L,K,G
   11,R,J,G
   10,L,K,G
-   9,R,J,G
-   2,R
-  11,J,G
-   1,L,J
-  29,L,K,G
-   1,R,U,J,G
-  10,L,U,K,G
-   1,L,J
-  44,R,U,J,G
-  18,R,D,G
+  10,R,J,G
+  11,L,K,G
+   1,R,J,G
+  12,R,K,G
+   1,R,J
+  42,R,U,J,G
+  12,R,D,G
+   4,U,G
+   4,R,U,G
    1,R,J,G
   13,R,D,G
    1,R
@@ -551,33 +560,29 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   31,R,J,G
    4,R,K,G
    1,J,G
-   7,R,J
-   1,L
-   6,R
-  29,R,U,G
-   2,L,U,G
-   1,L
+   4,R,J
    1,J
-  14,L,J
-   3,R,J
-  21,J,G
-   1,D
-  21,G
-   1,D
-  17,G
-   4,R,G
-   2,G
-   1,R
-   4,L
+   1,L,J
+   1,J
+   9,L,J
+  24,L,J,G
+   1,L,D
+  13,G
+   8,R,G
+   1,R,D
+  13,G
+   2,R,G
+   6,G
    2,R
-   2,L
-  16,U,G
-  10,J,G
-   7,G
-  23,R,G
-  17,R,D,G
-   3,G
-  16,R,G
+   1,L
+  21,R,U,G
+   4,L,U,G
+  14,J,G
+  10,G
+   4,U,G
+  14,R,G
+  13,R,D,G
+  28,R,D,G
    5,R,J,G
    1,L,J
   17,R,J,G
@@ -585,13 +590,12 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   75,R,U,J,G
    1,L
    2,R
-  47,R,U,Z
+  45,R,U,Z
   27,U,X
    9,L
-   1,R
   36,R,D
-  29,R,U,Z
-   6,D
+  28,R,U,Z
+   7,D
   43,R
   15,R,X
    8,R,D
@@ -610,27 +614,24 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   20,R,J
   26,R,D,X
    4,R,J
-  41,R,K
-   2,R,D
-  21,R,U,Z
-   1,J
-  21,L,J
-   3,R,J
-   9,R,K
-   8,R
+  20,R,K
+  19,R,D
+   4,D
+   1
+   2,R
+   1,R,D
+  20,R,J
+  14,U,X
+  18,R,J
   14,R,Z
   31,R,J
   15,R,U,Z
-  23,R
-   2,R,D
-   1,R
+  44,R,D
+   1,L,D
    1,R,D
-  15,R
-   4,L
-   1,R
-  14,R,U,X
-  25,L
-  15,L,U,X
+  13,U,X
+  24,L
+  14,L,U,X
   58,R,D
   18,R,J
   15,R,D
@@ -854,25 +855,24 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,R,D
    1,J
   37,R,U,J,G
-   2,R,D
-   1,J
-  16,R,U,K,G
-  28,R,U,G
-   2,R,D,G
-   8,R,U,G
+   1,R,D
+   1,J,G
+   1,L,J
+  47,R,U,K,G
+  18,R,D,G
    1,R,J,G
-  36,R,G
+  21,R,U,G
+   2,U,G
    1,R,J,G
-  23,R,D,G
-   6,D,G
-   5,R,J,G
-   1,R,G
-  13,R,U,J,G
-  10,R,G
+  33,R,D,G
    1,R,J,G
-  28,R,D,G
-  55,R,U,J,G
-  28,R,D,G
+   4,R,D,G
+  19,R,U,G
+   1,R,J,G
+  21,R,G
+  14,R,D,G
+  54,R,J,G
+  20,R,D,G
    1,R,J,G
   28,R,D,G
   20,R,U,J,G
@@ -883,10 +883,10 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   28,R,D,G
    1,R,J,G
   11,R,D,G
-  23,R,U,G
-   1,R,G
+  22,R,U,G
+   2,R,G
    1,R
-   8,R,D,K
+   8,R,D,J
    4,R
    1,J
   22,R,K,G
@@ -901,9 +901,11 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,R,J,G
    2,R,G
   12,R,J,G
-  39,R,U,G
-  36,R,U,J,G
-  24,R,D,G
+  36,R,U,G
+   7,R,D,G
+  33,R,U,J,G
+   1,R,U,G
+  22,R,D,G
    1,R,J,G
   28,R,D,G
    1,R,J,G
@@ -911,10 +913,14 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,R,J,G
   28,R,D,G
    1,R,J,G
-  28,R,D,G
-  40,R,J,G
-  12,R,D,G
-   1,D,G
+   1,R,G
+  10,R,U,J,G
+  45,R,U,G
+   4,R,J,G
+   1,R,G
+  12,R,J,G
+   6,R,U,G
+   1,U,G
    1,R,J,G
   28,R,D,G
    4,R,U,J,G
@@ -1046,9 +1052,10 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    2,L,J
    4,J
   11,R,J
-  99,R,U,J,G
-   3,D,J,G
+  97,R,U,J,G
+   2,D,J,G
    1,L
+   2,R
    1,R,J,G
    2,L,J
    2,R,J
@@ -1270,27 +1277,26 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    2,J,G
   17,R,D,X
   60,R,J
-   3,R
-  29,R,K
-   1,K
-   1,R,K
+  10,R
+  25,R,K
    9,J,G
    1,L,J
-   1,K
-  16,R,J,G
+   1
+  14,R,J,G
    1,R,K,G
    2,R,J,G
    1,J
    7,R,J
-   7,R
-   2,R,J
+   9,R
   10,R,D
-  87,D
+  88,D
    1,R,D
    1,D
    5,R,D
    1,D
-   5,R,D
+   3,R,D
+   1,D
+   1,R,D
   10,L,D,X
    5,R,J
   11,R,D
@@ -1319,15 +1325,15 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    2,R,D
    1,D
    1,L,D
-   8,D
+   7,D
    3
+   1,L,D
   15,R,X
-  24,L
-  61,R
-  27,R,U,X
+  25,L
+  55,R
+  33,R,U,X
    1,R,J,G
-   5,J
-   1,L,J
+   2,L,J
    2,L
    1
    1,R,K,G
@@ -1430,16 +1436,16 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    3,K,G
    3,L,K
   15,U,X
- 108,L,D
+ 108,R,D
    9,U,X
-  26,R,J
+  26,L,J
    9,K,G
-  13,R,U,X
+  13,L,U,X
 Repeat,67
-   1,L,J
-   1,R,K
+   1,R,J
+   1,L,K
 EndRepeat
-   1,L,J
+   1,R,J
 
-ChapterTime: 4:05.463(14439)
+ChapterTime: 4:02.556(14268)
    
