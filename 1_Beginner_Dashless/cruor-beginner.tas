@@ -6,8 +6,10 @@ console load SpringCollab2020/1-Beginner/Cruor
    1
 
 #Start
-#lvl_cruor_01 (0X)
+#console display_message 1 0.65 50 false Cr33pyCat, pansear, RichConnerGMN
  190
+
+#lvl_cruor_01 (0X)
    5,R
    1,R,J
   14,R

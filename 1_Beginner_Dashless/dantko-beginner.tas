@@ -1,4 +1,4 @@
-#TASed RichConnerGMN, Vampire Flower
+#TASed by RichConnerGMN, Vampire Flower
 #Dash save by Cr33pyCat
 #51X
 
@@ -7,6 +7,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1
 
 #Start
+#console display_message 1 0.65 50 false Cr33pyCat, RichconnerGMN, Vampire Flower
  190
 
 #lvl_DanTKO_Intro (0X)

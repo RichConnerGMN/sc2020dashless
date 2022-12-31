@@ -7,8 +7,10 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    1
 
 #Start
-#lvl_01 (1X)
+console display_message 1 0.65 50 false Algorythm, Cr33pyCat, NoHa, RichConnerGMN 
  190
+
+#lvl_01 (1X)
    4,R
    1,R,J
   14,R
@@ -64,7 +66,9 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    1,R,J,G
   12,R
   15,R,D,J
+console display_message 1 0 2000 true
   40
+
 
 #lvl_02 (0X)
    7,R,J

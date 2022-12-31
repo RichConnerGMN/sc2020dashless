@@ -4,7 +4,7 @@
 
 #30x
 
-RecordCount: 1211
+RecordCount: 1213
 
 console load SpringCollab2020/3-Advanced/NeoKat
    1
@@ -78,6 +78,7 @@ EndRepeat
    1
   13,L,X
   45,R,J
+***S
   33,R,U,Z
    2,R,J,G
    3,L,J
@@ -90,6 +91,7 @@ EndRepeat
    1,R,K,G
    9,R
   12,R,J
+***
   14,R,X
   22,L,J
   11,L,Z
@@ -97,6 +99,7 @@ EndRepeat
    1,L
    2,L,J
    2,L
+***
   11,L,J
   11,L
   14,L,Z
@@ -250,6 +253,7 @@ EndRepeat
    1,R,G
    1
   10,R,G
+***S
   46,R,U,G
   14,U,X
    8,J
