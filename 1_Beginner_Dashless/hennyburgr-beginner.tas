@@ -1,4 +1,4 @@
-#Made by Algorythm, RichConnerGMN
+#TASed by Algorythm, RichConnerGMN
 #5X
 
 console load SpringCollab2020/1-Beginner/hennyburgr
@@ -7,7 +7,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
 #Start
  190
 
-#hennyburgr-intro (0X)
+#lvl_hennyburgr-intro (0X)
    5,R
    1,R,J
   14,R
@@ -79,13 +79,34 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    7,R
    2,R,K,G
    5,R
+***S
    1,R,J
    4,R
    7,R,J
   17,R
    2,L
+***S
    1,R
    1,L
+   1,J
+   2,L,J
+   9,J
+  20
+***
+   5,J
+   7
+   1,K
+   9
+   2,R,D
+   8,D,G
+   2,G
+   1,R,J,G
+   1,R,K,G
+   7,R
+  11,R,J
+   5,K,G
+  23,L,J
+  40,R,K
   16,R,J
   21,J
   26
@@ -171,6 +192,8 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    1,R,J
   14,R
   40
+#0:14.722(866)
+
 
 #lvl_hennyburgr-2 (1X)
    1,R,J
