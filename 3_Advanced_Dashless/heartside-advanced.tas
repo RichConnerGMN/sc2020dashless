@@ -1,18 +1,21 @@
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 3100
+#68x
+
+RecordCount: 5033
 
 console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1
 
 #Spinner Cycle
-   0
+   2
 
 #Start
   36
 
 #lvl_Heartside_0
+#0x
    3,R
    1,R,J
   18,R
@@ -64,6 +67,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   40
 
 #lvl_Heartside_1
+#17x
   18,R
    1,J,N
    3,R,J
@@ -161,47 +165,86 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   14,R,J
   47,R,X
    1,G
-  10,D
-   1,J
-   1,D
-  16,L,D
-   1,L,J,G
-   3,L,K,G
-  15,L
-  21,L,J
-  33,L,U,X
-  96,R,C
-  22,U,X
    9,L,J
-   2,R,J
-   5,R
-   1,R,J,G
-   5,R,K,G
-   5,R
-   1,R,J
-  16,R
+   5,L
+  17
+   1,J,G
+   5,L
    1
-   1,R,J,G
-   1,L,J
-   1,R,J
-   2,J
-   5,R,J
-  12,R
-   7,D
    1,R
-  10,R,J
-  15,U,X
-  45,L,J
-  15,U,X
-  23,R,J
-  12,L,U,X
-  42,R
-  15,R,X
-  23,R
-  21,R,J
-  15,U,X
+   3,R,J
+   5,R
+   2,R,J
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,K,G
+  27,R,J,G
+  13,R,D
+   9,R,J
+   5,R
+   2,R,J
+  15,R,D
+   1,R
+   1,R,D
+   1,R,J,G
+   2,R,K,G
+   6,R
+   1,R,K
+   8,R
+   1,J
+   6,R,J
+   1,J
+  12,R,J
+  14,U,X
+   7,J
+   1,J
+   9,J
+   3,R,J
+   1,R,K
+   1,R
+   1,R,J,G
+   2,R,K,G
+   1,K
+   5,R,D
+   4,R
+   2,R,K
+  10,D
+   3,J,G
+   4,R,J
+   5,R
+   1,R,J
+   5,R
+   1
+   1,R
+   3
+   1,R
    2
+   9,R,J
+   1,R
+  14,U,X
+   1,J
+  10,J
+   1
+  15,U,X
    2,R
+  13,J
+   3
+   5,L
+   1,L,J
+   1,L
+   2,L,J
+   1
+  49,R
+   1,R,D
+   1,R
+   1,R,D
+   1,L,D
+   1,J,G
+  35,R,J
+  25,R,U,X
+  12,U,C
   54,R,J
    1,R,K,G
    5,R,J,G
@@ -235,7 +278,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    5,R
    5,J
    1,R
-  35
+  30
    1,L
    1
    5,R
@@ -268,6 +311,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   40
 
 #lvl_Heartside_2
+#30x
   23,R
    4,J
    7,R,J
@@ -620,6 +664,7 @@ AnalogMode,Precise
   40
 
 #lvl_Heartside_3
+#12x
    3
   10,R
    1,R,J
@@ -647,212 +692,283 @@ AnalogMode,Precise
    9,R
    9
   66,R,X
-  17,R,D,C
-  15,R,X
+  29,L,C
    1,R,D
   17,F,119
-   7,F,90
-   1,R,U
-   7,F,90
-  34,F,63
-  14,F,90
-  10,F,90
+  11,F,90
+  28,F,63.6
+#i realized you could
+#use dash only binds
+#to optimize this (AL,F,75)
+#but the spinner deload
+#doesnt work with it
+#for some reason
+   1,L
+   1,F,63.6
+   7,F,111
+   8,G,F,111
+   5,G,F,112
+  73,R,G
+   2,R,J
+   2,R
    1,R,D
-  52,F,90
-   5,R,X
-  18
-   1,R,D
-  46,R
-  24,R,U,X
-  27,F,58.7
-  41,F,90
-   4,R,Z
+  19,R
+   1,R
+  82,R
    1,R,U
-  16,R,D
+   9,F,86.08
+   1,AD,F,86.08
+  78,F,86.08
+   4,X
+   1,D
+   1,R
+   3,D
+   6,L,J
+   1,K,G
+  10,K
+   1,K
+  27,R,K
+  22,K
+   1,ARD
+Repeat,29
+   1,G
    1
-  23,R
-   1,R,J,G
+EndRepeat
+   1,G
+   1,ARU
+Repeat,71
+   1,G
+   1
+EndRepeat
+   1,G
+  12,L
+  18
+   1,R,U
+  28,F,98.31
+  12,F,34
+  17,F,348.26
+   8,F,0
+  17,F,7.54
+   6,F,0
+  11,F,359.39
+  12,F,64
+   1,F,69
+   7,R,J
    5,R
    1,R,J
-   3,R
-   1,R,J
-   7,R
+   1,R
    1
-  30,R,U
-  10,F,90
-  20,F,88
-  11,F,20
-   7,F,350
-  16,F,344
-  25,F,17
-  15,F,351
-  12,F,50
-   4,F,70
-   1
-  32,R,D
-   9,R
-   1,G
-   1,R,J,G
-   2,L,J
-   5,J
-   8,R,J
-   1,R,K,G
-  34,R,J,G
-   5,R,U,Z
-   4,R
-   6
-   1,R
-   8
-   1,R,J,G
-   7,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   2,R
-   1
-   6,R
-   1
-   1,R,J
-   8,R
-   5,R,U,Z
-  13,U
-   1
-   1,R
-   1,J,G
-   7,R,D
-   5,D
-   1,R,D
-  13,D
-   2,R,D
-  14,L,D
-  17,R
-   5,R,U,X
-   6,R,D
-  11
-   2,R,D
-   8,R
-   9,R,J
-  16,R
-   5,R,U,Z
-   4,U
-   1
-  14,U
-   6,L,J
-   4,J
-   1,L,J
-   1,J
-  16,R,K
-   1,R,J,G
-   1,R,K,G
-   8,R
-   1,R,J
-   1,R
-   6,R,J
-   2,J
-   6
-   1,R
-   1,G
-   1
-   1,J
-  27,L,D
-   7,L,J
-  12,L
-   1,L,J,G
-   7,J
-   7,L,J
-  25,R
-   5,R,X
-   5,U
-   1
-  12,R,D
-   1,R,J
-   5,R,D,X
-  18
-   1,R,D
-   8,R
-   1,J
-   2,L,J
-   3,L
-   1,J
-   9,R,J
-  15,R
-   1,G
-   1
-   1,J
-  24,R,J
-   1,R,K,G
-   1,R,J,G
   11,R
-  53,R,X
-   5,R,U,C
+   1,R,J,G
+   1,R,K,G
+   5
+   4,R
+   1,R,J
+   9,R
+   1,R,J
+  14,R,D
+   1,D
+   1,R
+  18,R,J
+   1,R,K,G
+   1,J
+  16,R,K,G
+   1,R,J,G
+   2,R,K,G
+   1,K
+   9,R,K
+   1,J
+   1,L,J
+   1,R,J
+   5,R
+   2
+  27,R
+   1,R,D,J
+  25,R,D,K
+   3,R
+   1,K,G
+   3,R,K
+   5,K
+   1,L,K
+   1,R,J,G
+   3,R,J
+  11,R,J
+   1,K
+   1,R,J,G
+   1,L,J
+   8,J
+   1,K
+   5,J,G
+   1,R
+   7,R,K
+   1,R
+   7,R,J,G
+   6,R
+   8,R,J
+   9,R
+  15,R,D
+   7,D
+   7,R,D
+#this is where i
+#stopped being optimal
+#because this absolutely
+#sucks to optimize
+#(you need badeline
+#to enter a feather
+#or bubble while you
+#dash with madeline)
+   1,J
+   2,K,G
+  14,L,K
+   2,L,J,G
+   3,R,J
+   2,L,J
+   2,L
+   1,L,K,G
+   1,L,J,G
+  10,L
+   1,L,J
+  11,L,D
+   1,R,J
+   2,L,J
+   1,L,J
+   2,R,J
+  16,R
+   1,R,K
+   9,R
+   1,R,K,G
+   1,R,J,G
+   2,R
+   1,R,J
+   2,R,D
+   2,R,D,K,G
+   2,R,D
+   5,L,D
+   2,D
+   1,L,J
+  12,L
+   1,L,J
+   1,L,K
+   1,L
+   1,L,J,G
+   8,L,K,G
+   2,L,J,G
+   2,R
+   6,R
+  13,R,J
+   8,R,U,X
+  11,U
+   1,L
+   2,R,U
+   3,U
+   8,R,U,J
+   7,U,J
+   4,R,U,J
+   1,G
+  12,K,G
+  12,J,G
+  10,K,G
+   1,L,K
+   1,L,J
+  11,L,K
+   5,L
+   1,L,J,G
+   1,L,K,G
+   7,L
+   1,L,J
+   9,L,D,J
+   3,D,J
+  14,D
+   6,R,J,G
+   3
+   1,R,J,G
+   1,L,U,K
+   2,R,J
+   2,R
+   1,R,K
+  20,R,D
+  10,R,J
+   5,R
+   1,R,J
+  14,R,D
+   3
+   1,R,D
+   1,R
+   2,R,D
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   8,R
+   8,R,J
+  10,R
+   5,R,D,X
+  26,R
+   1
+   9,J
+   1,K,G
+   6,R,K
+   1,L,K
+  14,R,J,G
+   2,J
+   1,K,G
+   1,L
+   1,R,J,G
+   1,L,J
+  17,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+  25,F,325
+   1,AR,F,280
+  29,F,325
+  21
+   1,D
+   5,R,U,X
    5,U
    7,R
    1
   10,R
-   8,R,J
-   6,K
-  27,R,K
-   1,K
-   1,R,K
-   1,K
-   3,R,K
-   5,U,Z
-  21,L
-   4,L,J
-   6,D
-  19,L,D
-   2,D
-   4,L,D
-   5,L,D,X
-   1,D
-   4
-   1,L
+   5,R,J
+  11,R,K
+   7,R,J
+  19,J
    3
-  17,L
-   6,G
-  36,R
-   4,R,J
-   8,R
    1,R,J
-   7,R
-   1,R,J
-   8,R
-   1,R,J
-  10,R
-   1,R,J
-  10,R
-   1,R,J
-  13,R
-   1,R,J
-  13,R
-   1,R,J
-  12,R
-   5,L,Z
-   1,L,D,J
-   8,L
+   1,J
+   4,L,U,Z
+   6,L,U
+   1,U
+   6
+  10,L
+   4,J
+   1,L
+   1
+   2,L
+  15
+#definitely optimizable
+#but just resyncing
+#with old inputs
+   5,L,D,X
+   1,R,U
+  18,F,85
+   4,L
+  19,L,D
+  10,R,D
+  21
    1,L,J
-   6,L,D,X
-   9
-   6,L,D,X
-  11
+  38,L,D,J
+   1,R,G
+  11,L,G
+   2,G
+   2,L,G
+   1,G
+   4,R,J
+   2,R
+  14,L,Z
    1,R,J
    5,R,D,X
   17
@@ -872,6 +988,7 @@ AnalogMode,Precise
   40
 
 #lvl_Heartside_4
+#8x
   12,U
    7,R
    4,R,X
@@ -947,6 +1064,7 @@ AnalogMode,Precise
   40
    
 #lvl_Heartside_5
+#1x
    6,R,J
   11,K,G
    1,L,K
@@ -1019,5 +1137,5 @@ AnalogMode,Precise
    1,R,D
    6,R
  135
-ChapterTime: 2:03.590(7270)
-#78x
+
+ChapterTime: 2:08.928(7584)
