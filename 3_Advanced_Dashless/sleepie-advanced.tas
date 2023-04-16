@@ -1,9 +1,9 @@
 #made by Toster
 #Dash saves by atpx8, RichConnerGMN, Wirare
 #Optimizations by Bred, RichConnerGMN
-#54x
+#53x
 
-RecordCount: 1089
+RecordCount: 1234
 
 console load SpringCollab2020/3-Advanced/_sleepie
    1
@@ -70,13 +70,11 @@ console load SpringCollab2020/3-Advanced/_sleepie
    4,R,D
   31,R
   15,R,U,X
-  47,R
-   7,R,J
-   2,R
-   1
-   6,R
-   1,R,K
-  17,R
+  33,R
+  12,R,D
+   1,R,J,G
+   6,R,K,G
+  25,R
    5,R,D
   11,R,J
    5,R
@@ -98,9 +96,9 @@ console load SpringCollab2020/3-Advanced/_sleepie
   42,R,J
   15,R,U,X
   44,R
-  71,R,X
+  73,R,X
   15,R,U,C
-  46,R
+  41,R,D
   31,L,U,X
   10,R,U,C
   33,R
@@ -148,15 +146,20 @@ console load SpringCollab2020/3-Advanced/_sleepie
   14,L
    1
    1,G
-  36,R
-   7,R,D
-   4,R,J
+  26,R
+  13,R,D
+   2,D
+   1,R,J,G
+   4,R,K,G
   13,R
   47,R,U,X
   15,U,C
-   3,R
-  83,L,D
+   3,R,D
+  82,L,D
   47,L,X
+#Spinner cycle 0-2
+   0
+#-----------------
   38,L,U,C
   15,L,X
   16,L,D
@@ -201,12 +204,13 @@ console load SpringCollab2020/3-Advanced/_sleepie
    6,L
    5,L,D
    8,L,J
-  10,L,K,G
-   4,L
-  15,R,D,X
-   1,R
-   1,R,D
-   6,D
+   9,L,K,G
+  24,L,D
+   7,R,D
+   3,D
+   1,R,J
+  11,R
+  11,U,X
   15,R,C
   15,D,X
    1,R
@@ -409,7 +413,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
    7,L
    3,L,J
   10,U,X
-  16,U,C
+  15,U,C
+   1,L
   11,L,J,G
    1,L,K,G
    8,K,G
@@ -509,5 +514,6 @@ console load SpringCollab2020/3-Advanced/_sleepie
   31,R,D,X
   99,R,J
   17
-ChapterTime: 1:18.659(4627)
+
+ChapterTime: 1:18.999(4647)
 
