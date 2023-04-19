@@ -1,15 +1,15 @@
 #Made by atpx8, RichConnerGMN
 #Dash saves by Cr33pyCat, amber, RichConnerGMN
 #Optimizations by atpx8, RichConnerGMN
-#39x
-RecordCount: 2594
+#35x
+RecordCount: 2598
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
 #Start
  190
 
-#lvl_1 2x
+#lvl_1 1x
   34,R
 Repeat,62
    1,L,D
@@ -132,9 +132,8 @@ EndRepeat
    1,R,J
    1,R
   40
-#0:47.260(2780)
 
-#lvl_2b 6x
+#lvl_2b 3x
   28,R
    4
    1,R,D
@@ -150,7 +149,6 @@ EndRepeat
    5,R
    1
    1,R,J
-#1:17.843(4579)
   26,R,D
    1,R,K,G
    1,R,J,G
@@ -577,9 +575,9 @@ EndRepeat
    3,J
    1,L,J
   35,J
-   3,L,K,G
-   5,L
- 440
+   4,L,K,G
+   6,L
+ 438
    4,R,J
   60,J
    1,K
