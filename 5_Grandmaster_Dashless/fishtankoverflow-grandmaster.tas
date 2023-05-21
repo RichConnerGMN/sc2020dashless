@@ -5,7 +5,7 @@ RecordCount: 1238
 console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1
 
-#lvl_fishtank_00
+#lvl_fishtank_00 1x
   69
    5,R
    7,R,J
@@ -24,7 +24,7 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    2,R,J
   43
 
-#lvl_fishtank_01
+#lvl_fishtank_01 0x
    6,R
    3,R,J
    9,R,K,G
@@ -45,7 +45,7 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    0,R
   40
 
-#lvl_fishtank_02
+#lvl_fishtank_02 1x
   15,R
   31,R,U,X
    1,J
@@ -121,7 +121,7 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    4,R,K
   40
 
-#lvl_fishtank_03
+#lvl_fishtank_03 2x
   17,R,D
   13,R,Z
    1,R,J
@@ -142,7 +142,7 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    9,R
   40
 
-#lvl_fishtank_04
+#lvl_fishtank_04 0x
    6,R
    5,R,J
    2,R

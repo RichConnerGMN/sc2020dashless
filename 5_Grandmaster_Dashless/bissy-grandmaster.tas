@@ -1,7 +1,8 @@
 #Made by Toster
-#63x
+#Dash saves by: Cr33pyCat, Toster
+#53x
 
-RecordCount: 1396
+RecordCount: 2476
 
 console load SpringCollab2020/5-Grandmaster/Bissy
    1
@@ -56,79 +57,103 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    1,R,J
   14,R
    1,R,J
-  11,R
+  12,R
   40
 
 #lvl_Bissy_01
-#13x
-   1
-   1,S
+#10x
+   1,S,N
    1,D,J
   69,O
    4,R
    9,R,J
-  12,R,K,G
-   2,R,J,G
    1,R,K,G
-   1,R,J,G
-  12,R
-  12,R,D,X
+  11,K
+   1,J,G
+   1,L,J
+  14,R,Z
    1,R,J
-   7,R
-   9,R,J
+   4,R
+   1,R,J
+   2,R
+   8,R,J
    5,R
+   2,R,J
   15,R,U,Z
    1,L
    1,L,J,G
-   2,L,K,G
+   1,L,K,G
+   2,L,J,G
+   1,R
+   1,K
+  12,L,J,G
+  16,L
+  14,L,Z
+   1,L,J
+   6,L
+  37,L,J
+  20,L,U,X
+   1,L
+   1,R,J,G
+   7
+   8,U,G
+   2,G
+   1,U,G
+   2,G
+   3,L
+   9
+   5,R
+  19
+   5,R,Z
+   4,R,J,G
+   5,R
+   3,R,J
+   1,K,G
+   2,R,K
+   3,K
+   3
+   1,R
+   1,L
+   1,R
+   5,K,G
+   1
+   5,K
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L
+   4,R
+   1,K,G
+   1,J,G
+   5
+   2,J
+  11,K,G
+   8,L,K
    1,L
    1,J
-   8,L,K,G
-   1,R,K,G
-   8,L,K,G
-   4,L
-   5,L,J,G
-   7,L
-  14,R,D,X
-   1,L,J
-   5,L,D,X
-   1,L,J,G
-  14,L
-  22,L,J
-   1
-   8,L
-  14,L,U,X
-   1,R,J,G
-  20,R,D,G
-  21,R,G
-   5,R,X
-   1,R,J,G
-  23,R
-   1
-  17,U,G
-   4,R,G
-   1,R,U,G
-   1,J,G
-   1,K,G
-   1,R,J,G
-   5,L,J,G
-   1,R,K,G
-   5,L,K,G
-   5,K,G
-   9,U,X
-  30,R,J
-   1,R
-  15,R,Z
-   7,R
-   3
-   2,L,J,G
-   3,R,J
-   1,J
+  24,L,J
+   1,L
+   8,R,K
+   9,R
    2,R,J
-   4,J
-   1,R,J
+   8,R
+  32,R,U,Z
+   7,D
+   1,D
+   1,R,D
+   1,R,D
+   1,D
+   1,D
+   1,L,D,J
+   5,R,J
    1,J
-   1,R,J
+  12,R,J
+   1,L,K,G
+   1,R,K
+   2,J
+   6,R,J
+   1,R
+   1
    6,R,K
    5,R
   19,R,K
@@ -175,57 +200,63 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    1,J
    1,K,G
   16,R,D,X
-   2,L,J
-   1,L
-   6,R,D,X
-   1,L,J,G
-   8,R,J
-  28,R,D
-   4,R,J
+  40,R,J
+  12,R,D
+   3,R,K
+   8,R,J,G
   40
 
-#Bissy_02 6x
+#Bissy_02
+#4x
    2,R,J
-  16,R
-  20,R,Z
-  16,U,X
-  23,L,J,G
-  17,L,D
-  23,L,J,G
-  15,L,U,Z
-   3,L
-   4,R
-   1,R,J,G
-   5,R,J
-   1,K
-   4,D,X
-   1,R,U,X
-   1,R
-   1,R,J,G
-  12,J
-   5,R,J
-   3,K,G
-   2,R,K
-   4,L,K
-   6,L
-   1,L,K
-   5,L
-   7,R,G
-   1,J,G
-   1,K,G
-   1,R,J,G
-  17,L,J,G
   15,U,X
-   7,L
-  15,U,C
-   1,G
+   6,R
+   1,R,J,G
+   1,L,J
+   2,L,J
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   4,J
+   3,R,J
+   5,R
+   9,R,J
+   6,R,D
+   3,D
+   1,X
+ 108,R
+   1,X
+  19
+   4,Z
+   1,R,J
+  13,R,D
    1,J
-  13,L,J
+  13,R,J
+   6,R,X
+   1,J
+  18,R,J
+  10,J
+  10,D,X
+  35,R,J
+  10,R,K
+   5,R
+   2,L
+   1,L,K,G
+  17,L,G
+   8,L,J,G
+  13,L,K,G
+   8,K
   40
 
 #Bissy_03
-#18x
-  32,L
+#15x
+   5,L,J
+   7,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
    1,L,J
   14,L
    1,L,J
@@ -235,24 +266,29 @@ console load SpringCollab2020/5-Grandmaster/Bissy
   11,L,J
    6,L
   14,L,U,X
-   4,L,J,G
-   9,L
+   3,L,J,G
+   7,L
    5,D,X
   10,L
-  33
-  25,L
-  11,U,X
-  15,J
-  12,R,J
-   7,R,K,G
+  36
+  22,L
+   1,J
+   8,L,J
+   3,L
+  23,R,K
+   5,R,J,G
+   3,L,J
+   1,R,J
+   1,R,K,G
+  10,R,J,G
+   3,R
    2,K,G
-   2,J,G
    7,R
   20,R,J
    7,L,U,X
   31,L
-  13,L,U,G
-   2,L,G
+  12,L,U,G
+   3,L,G
    1,J,G
    1,K,G
    5,J,G
@@ -340,48 +376,45 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    1,R,K,G
    2,R,K
   17,R,K
-   6,R
-  13,R,D,X
-   1,R,K,G
-  11,R
-   1,R,J
+  27,R
   40
-#lvl_Bissy_04
-#19x
 
-  26,R,J
-  15,U,X
-   1,R
-   8,R,J
-   4,R
-  12,L,X
-   1,K
-   1,J
+
+#lvl_Bissy_04
+#16x
+   6,R
   19,R,J
-   7,J
-  18,R
-   4,D,X
-  11,R,U,X
-   5,L
-   1,K
-   1,J
-   5,R,J
-   5,U,X
-   3,L,J
-   7,L
-   7,L,D,X
-  29,L
-   4
-   4,D,X
-   1,R,J
-   7,R
+   8,J
+  15,U,X
+   3,R
   12,R,J
-  13,R
-  16,R,K
-   4,D,X
-   6,U,X
-  13,R,J
-   4,J
+  11,L,Z
+  20,J
+  15,D
+   2,L,D
+   8,G
+   2,D,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   6,R,J
+  15,U,X
+  17,R
+   9,D,X
+  20,R
+  13
+   4,Z
+   1,R,J
+  12,R,D
+  28,R,D,J
+   6,J
+   1,L,J
+   1,K
+   9,L,K
+  16,L
+  16,J
+   3,R,K
+   9,R
    9,L,X
   12,L,J,G
   11,K,G
@@ -389,10 +422,10 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    8,L,J,G
    5,L,K,G
    1,L
-   6,L,K
-   4,L
+   7,L,K
+   3,L
    8,R
-  15,R,X
+  14,R,X
   12,R
    7,R,D
   14,D
@@ -408,10 +441,10 @@ console load SpringCollab2020/5-Grandmaster/Bissy
   15,U,X
   15,L
   18,U,X
-  21,L
-   4
-  14,R,U,X
-  61,R,G
+   2
+   8,R,X
+  52,R,G
+  14,R,U,G
    1,R,J,G
    1,R,K,G
    4,L,K
@@ -423,90 +456,76 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    4,R
    5,D,X
    1,J
-   8,R
-   6
+   4,R
+  10
    1,R,J
    4,D,X
   10,R,X
    2,R,J
    5,R
-  14,R,J
-  10,J
+  13,R,J
+  11,J
   16,L,U,X
-  21,L
-   1
-   2,L
-  16,L,D,G
-  17,L,G
+   2
+   1,R
+  20,L
+  26,L,G
+   8,D,G
    1,L,J,G
    1,L,K,G
    1,J,G
   15,R,D,X
    5,R,D
-   7,R,J
+   8,R,J
+  45,R
+  10
+  12,U,X
+   1
+   1,L,J,G
+  15
+  37,G
+   5,L,X
+   1,J
+   9,L,J
+  19,L
+   8,G
+  40,U,G
+  12,L,J,G
+  12,L,K,G
+   1,J,G
+   3,R,J
    5,R
-   9,R,K
-  43,R,D
-   4,D,X
-  11,R,U,X
-   4,R
-  15,R,U,C
-   6,R
-  15,R,U,X
-  23,R
-   3
    1,R,J,G
-  13,R
+  12,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   6,R
+  12,R
   40
 #lvl_Bissy_05
 #1x
-
-   8,R
-   1,R,J
-  18,R
-   1,R,J
-   1,J
-   1,R,J
-   1,J
+   2,R
+   5,R,J
+   2,R
+   2,R
+   1,R,J,G
+  22,R
+  25,R,J
+   6,R
+  15,R,U,X
+  36,R,D
+  25,D
+repeat 25
+   1,D
    1
+endrepeat
+   1,R,D,K
+   1,R,J,G
    1,R,K,G
    1,R,J,G
-  10,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R,D
-   1,R,J
-  14,R
-   1,R,J
-  20,R
-  18,R,J
-   2,R,K,G
-   2,R,J,G
-   2,R,K,G
-   7,R,J,G
-  15,R,X
-  16,R
-   1,R,J
-  67,D
-   1,L,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-repeat 20
+   1,R,K,G
+repeat 12
    1,J
    1,K
 endrepeat
+   1
 
-ChapterTime: 1:05.858(3874)
+ChapterTime: 1:09.258(4074)

@@ -6,7 +6,7 @@
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 7104
+RecordCount: 7135
 
 console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1
@@ -1265,27 +1265,24 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    6,R
   16,L,J
    2,K,G
-   9,L
-  11,G
-   1,D,G
-   1,G
-   1,D,G
-   1,J,G
-   1,R,J
-   1,L,J
-   1,K
+   1,L
+   3,R,G
+  13,L,G
+  12,U,G
+   1,L,J,G
+   1,L,K,G
    2,J,G
-  17,R,D,X
+  16,R,D,X
   60,R,J
-  10,R
-  25,R,K
+  11,R
+  20,R,K
    9,J,G
    1,L,J
    1
   14,R,J,G
    1,R,K,G
    2,R,J,G
-   1,J
+   1,R,J
    7,R,J
    9,R
   10,R,D
@@ -1295,8 +1292,7 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    5,R,D
    1,D
    3,R,D
-   1,D
-   1,R,D
+   2,D
   10,L,D,X
    5,R,J
   11,R,D
@@ -1447,5 +1443,5 @@ Repeat,67
 EndRepeat
    1,R,J
 
-ChapterTime: 4:02.556(14268)
+ChapterTime: 4:02.539(14267)
    
