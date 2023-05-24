@@ -1,12 +1,14 @@
 #Made by pansear
 #Dash saves by amber, Cr33pyCat
-#29x
-RecordCount: 1529
+#28x
+RecordCount: 1625
 
 console load SpringCollab2020/4-Expert/Zerex 
    1
-#start
+
+#Start
  190
+
 #lvl_Zerex_01
 #0x
    5,R
@@ -142,7 +144,7 @@ console load SpringCollab2020/4-Expert/Zerex
   40
 
 #lvl_Zerex_04
-#6x
+#5x
    1,R
    1,R,J
    5,R
@@ -226,39 +228,50 @@ console load SpringCollab2020/4-Expert/Zerex
    1,R,D
    7,L,D
    1,G
-   1,L,J,G
-   2,L
-   4
+   3,L,J,G
+   4,R
    1,L
-   6,R,J
-   6,R
-  22,R,J
-   5,R,D
-  15,U,X
+   4,R
+   1,K
+   4,R,K
+   1,K
+   2,R,K
    5,R
-   5
-   8,R
-  15,D,X
-   5
-  15,R,U,Z
-  12,L,D
-   9,R,D
-   2,R
+  21,R,K
+   5,R,D
+   1,R,D
+  18,U,Z
+   3,L
+   4,R
+   1,J,G
+Repeat,3
+   1,R,J
+   1,J
+EndRepeat
+   1,K
+   1,L,K
+  17,L
+   1,D
+   2,L
+   3
+   1,D
    1
-   7,R
+   1,D
+  10
+  14,R,D,X
+  18,R,D
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-   2,R
+   1,R
   40
 
 #lvl_Zerex_05
 #6x
   12,R
-   1,R,J
-  32,R,X
+  33,R,X
    4,R,J
    7,R,K
   15,R
@@ -319,9 +332,7 @@ console load SpringCollab2020/4-Expert/Zerex
   27,R,U,Z
    4,R,J
    2,R,K
-   5,R
-   1,R
-  10,R
+  16,R
    1,L
    6,J,G
    5,R,J
@@ -441,4 +452,4 @@ console load SpringCollab2020/4-Expert/Zerex
   14,R,U,X
  134
    1,L,D,J
-ChapterTime: 0:52.598(3094)
+ChapterTime: 0:52.768(3104)
