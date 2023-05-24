@@ -1,8 +1,8 @@
 #Made by: Toster
-#25x
+#Dash save by Cr33pyCat
+#24x
 
-
-RecordCount: 3166
+RecordCount: 3302
 
 console load SpringCollab2020/3-Advanced/Spoopy
    1
@@ -11,6 +11,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   61
 
 #lvl_spoopy_01
+#0x
    1,R,J
    7,R
    1,R,J
@@ -57,6 +58,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   40
 
 #lvl_spoopy_02
+#5x
   13,R
    1,R,J
   14,R
@@ -168,15 +170,29 @@ console load SpringCollab2020/3-Advanced/Spoopy
   27,L,J
   12,K,G
    7,L
-   3,K
-   2
+   1,J
+   4,R,J
    1,R
-   3
-  13,R
-  14,L,D,X
-   1,L,J
-  15,L,Z
-  10,L,G
+   4
+   1,J
+  18,D
+   7,L,D
+   2,L,J
+   5,L
+   2,L,J
+   1
+  31,L,Z
+#lazy resync, most likely
+#faster to climbjump here
+   1,J
+  10,L,J
+   5,L
+   2,L,J
+   3,L
+   1
+   4,L
+   1
+   1,G
    1,J,G
    1,R,J
    3,L,K,G
@@ -300,6 +316,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   40
 
 #lvl_spoopy_03
+#3x
   13,L
    1,L,J
   14,L
@@ -434,6 +451,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   40
 
 #lvl_spoopy_05
+#3x
   21,R,D
    1,D
    5,R,J
@@ -537,6 +555,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   43
 
 #lvl_spoopy_06
+#0x
   12,R
   14,R,J
    1,R
@@ -552,6 +571,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   40
 
 #lvl_spoopy_05
+#0x
    4,L,D
    6,L,J
   10,L
@@ -562,6 +582,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   43
 
 #lvl_spoopy_06
+#12x
   15,R
    9,R,J
    4,R
@@ -741,6 +762,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,R,J
    1,R,K,G
   76,R
-
-ChapterTime: 1:38.158(5774)
-  
+ChapterTime: 1:38.940(5820)
