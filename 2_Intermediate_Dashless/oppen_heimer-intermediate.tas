@@ -1,5 +1,5 @@
 #TASed by Bred
-RecordCount: 4895
+RecordCount: 4902
 
 console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1
@@ -1348,19 +1348,19 @@ endrepeat
    2,R,J
    5,R
    1
-   8,F,90.0000001
+   8,F,90.0001
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   4,F,180
-   2,F,90.000001
+   4,F,179.999
+   2,F,90.0001
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   8,F,90.000001
+   8,F,90.0001
    1,R,K
   10,R
    2,L
@@ -2591,5 +2591,4 @@ endrepeat
   16,K
   20,U,X
  135
-
 ChapterTime: 6:16.108(22124)
