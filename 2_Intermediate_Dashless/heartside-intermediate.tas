@@ -3,7 +3,7 @@
 #Optimizations by Renatotheflowey, Cr33pyCat
 #46x
 
-RecordCount: 5793
+RecordCount: 5805
 
 console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1
@@ -837,7 +837,7 @@ EndRepeat
    1,L,J,G
   18,L,K
   23,L,K,G
-  16,F,360
+  16,F,359.999
    1,L,J,G
    1,R,J,G
    1,R,K,G
@@ -1160,7 +1160,7 @@ EndRepeat
    7,R
   14,R,U,Z
   13,R,J,G
-  18,F,90
+  18,F,89.999
    3,F,70.31
    9,L,D
   11,R,J
@@ -1534,5 +1534,4 @@ EndRepeat
    1,J
    1,K
    1,J
-
 ChapterTime: 3:24.799(12047)
