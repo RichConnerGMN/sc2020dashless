@@ -1,11 +1,13 @@
 #Made by: Toster
-#12x
+#Dash saves by Cr33pyCat
+#10x
 
 console load SpringCollab2020/2-Intermediate/phant
    1
 
 #Start
  190
+
 #lvl_phant-start
 #2x
   10,L
@@ -40,7 +42,7 @@ console load SpringCollab2020/2-Intermediate/phant
   40
 
 #lvl_phant-01
-#5x
+#4x
   72
    4,R
    1,R,J
@@ -55,134 +57,122 @@ console load SpringCollab2020/2-Intermediate/phant
   11,R
    4,R,J
   17,R
-  56,G
+  58,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   8,R
-   1,D,J
-  38,L,J
-  13,L
-  10,L
-  14
-   3,R
+   7,R
+   1,D
+   6,L,D,J
+   9,L
+   2,L,J
+   9,L
+   1,L,K,G
+   2,L,J,G
+   5,L
+   2,L,J
+   5,L
+   8
    1,R,J
-   9,J
-   2,R
+   7,R
+   8,D,G
+   3,G
+   1,D,G
+  32,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,D
+  12,L,D,J
+   5,L
+   1,L,J
+  16,L,D
+  11,L,K
   15,R,Z
-  19,L
-   3,L,J,G
-   7,L
-  24,L
-   2,R,J
-   8,J
-   2
-  15,R,Z
-  30,L
-   2,R
-
-  74
+  36,L
+   1,R
+  78
    1,J
    8
   10,R
    4,K,G
    2,L,K
    4,R,K
-   1,R
-   5,R,K
-  16,R
+   9,R
+   2,R,K
+  10,R
+   1,R,D
   14,R,Z
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
    7,R
-  17,R,J
-   2,K
-  12,R,J,G
-   3,R,K,G
-   1,R,J,G
-   1,R,K,G
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  11,R,J
-   2,J
-   1,K
-  10,R,J
-  26,R,D
-   7,R
-   1,R,J,G
-   1,K,G
-   4,R
-   5,L,Z
-   1,R,J
-  12,R,D
-   3,R,J
-  26,R
-   1,D
-   1,R
-   1,D
-   1,R
-   1,D
-   1,R
-   5,R,D,J
-   1,K,G
-   1,L,K
-   1,R,K
-   4,R,J,G
-   1,L,J
-   3,R,J
-   1,K,G
-   1,L,K
-   1,R,J,G
-   1,K,G
-   1,L,K
-   5,D
-  10,R,D
-   9,D
-   2,L,D
-   5,R,D
-   1,R,J
-   1,R
-  14,R,J
-   1,K
-   1,J,G
-  13,L,D
+   2,R,J
    1,J
-   1,L,J
-   2,R,J
-   2,L,J
-   2,R,J
-   2,L,J
-  28,R,J
-   9,L
-   3
-repeat 12
-   3,D
-   3
-endrepeat
-   4,L
-  55
-   5,R
-   4,R,J
-   3,R,J
+   1,R,J
+   1,J
+  11,R,J
+   1,K
+   4,L,K
+   4,K
+   9,R,J,G
+   1,J
+   1
+  14,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  19,R
+   1,R,K,G
+   1
+  15,R
+  10,R,J
+   6,R
+  26,R,J
+   2,J
+   1,L,K
    1,R
-   9,U,X
-  12,R,J
+   1,R
+   4
+   1
+   3
+   4,L
+   2,L,D
+   3,D
+   1,R,J
    3,R
-  22,L,K
-   3,J,G
+   1
+   4,R
+   1,R,J
+   9,R
+   1
+   1,G
+  19,R,J,G
+   1,R,D
+   1,R
+   2,R,D
+   1,R
+  15,U,X
+   1,R
+  15,R,J
+   1,R
+   9
+   1,R
+   1,G
+   1,L,J
+  18,L,K
+   2,K
+   2,L,K
+   1,J,G
    1,R,J
    1,K
+   1,J
    3,R,J
   12,R,K
-  12,L,J
-   7,R,K
+  12,J
+   6,R,K
    1,R,J,G
    1,R,K,G
    1,J
@@ -193,7 +183,8 @@ endrepeat
    1,R,J,G
   11,R
    2
-  13,R,J
+  12,R,J
+   1,J
   17,U,Z
   17,L,J
    3,J
@@ -261,7 +252,7 @@ endrepeat
   40
 
 #lvl_phant-03
-#2x
+#1x
   10,R
    4,R,J
   14,R
@@ -281,39 +272,53 @@ endrepeat
   47
   30,U
    3,J
-  20,R,J
-  24,R
-  64,U
-   6,L,U
-   5,U
-  10
+   9,R,J
+  21,R,D
+  11,L,D
+   7,L,U
+  60,U
+   8,R,U
+   1
+   1,R,J
+  17,R,D
+   1,R,J
+   5,R
+  28,L,J
+   1,J
+   3,L,J
+   1,K
    8,L,K
-  26,R
-   9,G
-   4,J,G
-   4,L,J
-  15,R,Z
-   8,R
-   3,R,D
-  12,R,G
-   2,R,D,G
+   5,L
+   1,L,K
+  11,L
+   1,J,G
+   3,L,J
+  11,R,J
+   2,R,K,G
+   7,R
+   1,G
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   4,R,K,G
+   4,R,J,G
    5,R,D,X
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  12,R
-  11,R,J
-  40,R
+   5,R
+   1
+   1,K
+   2,R
+   9,R,J
+  42,R,D
   40
 
 #lvl_phant-end
 #1x
-  10,R,D
-  12,R,U,X
- 135
-ChapterTime: 0:44.302(2606)
+   3,R,D
+   1,R,J
+   3,R
+  16,R,U,X
+  12
+ 122,L,D
+ChapterTime: 0:39.950(2350)
