@@ -2,13 +2,14 @@
 #Dash save by Cr33pyCat
 #10x
 
-RecordCount: 1539
-
+RecordCount: 1541
 
 console load SpringCollab2020/2-Intermediate/ProXas 
    1
+
 #Start
   76
+
 #lvl_intro
 #1x
    4,R
@@ -44,7 +45,7 @@ console load SpringCollab2020/2-Intermediate/ProXas
   22,R,U,X
    3
    9,F,3
-   5,F,270
+   5,F,269.999
    1,L,J
   10,R,J
    1,R,J
@@ -748,7 +749,6 @@ console load SpringCollab2020/2-Intermediate/ProXas
   17,R
   15,R,J
    9,F,20
- 
    1,R,K
    1,R,J
    1,R,K
@@ -954,4 +954,3 @@ EndRepeat
  136
 
 ChapterTime: 1:37.563(5739)
- 
