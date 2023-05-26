@@ -1,6 +1,8 @@
 #Made by pansear
-#12X
-RecordCount: 1687
+#Dash save by Cr33pyCat
+#11X
+
+RecordCount: 1924
 
 console load SpringCollab2020/2-Intermediate/Rocketguy2 
    1
@@ -116,7 +118,7 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
    1,K
   40
 
-#lvl_RG2_3 (3X)
+#lvl_RG2_3 (2X)
    1,R,J,G
    1,R,K,G
   12,R
@@ -156,38 +158,97 @@ endrepeat
    1
    1,J,G
    1,L,K,G
-  17,R,K
-  16,R,J,G
-   1,L,K,G
-  51,R,K
-   1,J
-  10,R,J
-   5,R
-   2,R,J
-  10,R
-   1,R,J
-  15,R
-   3,L
-   7,L,U,G
-   1,J,G
-   1,K,G
-   1,L,J,G
-  11,R,J
-   8
-   4,R,J
-   2,R
-   1,R,J
+  10,R,K
+   7,R
+   1,G
+   1,R,J,G
+   1,R,K,G
   12,R
+   9,R,J
+  19,R,D
+  10,L,D
+   4,L
+   6,L,J
    1,J
-   3
+   4,L,J
+  13,L
+  58,G
+   3,D,G
+   1,L,J,G
+   7,R,J
+   1,R,K
+  22,R,J
+   1,R,K,G
+   1,K
+   2,L,K
+   3,R,K
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   5,R
+   1,R,J
+   5,R
+  17,L,D
+   1,D
+   1,L,D
+   4,D
+   1,G
+   1
+   1,G
+   1
    1,J
-  19,L,K
-  15,U,X
-   5,L
-   6,G
+   1
+   1,G
+Repeat,11
+   2
+   1,J
+   1,G
+EndRepeat
+  12,J,G
+   1,K,G
+   5
+   1,L
+   1
+   2,K
+   1,L,K
+   1,R,K
+   5,R
+  18,R,J
+   3,R
+   2,R
+   5,L,D
+   1,J
+   1,L,K,G
+   1,R,K
+   9,R,D
+   1,R,D
+  18,R,D
+   1,D
+   1,R
+   5,R,D
+   1,R,J,G
+   1,R,K,G
+   3,K
+   5
+  47
+   3,R
+   1,D
+   6,R
+  11,R,J
+  13,R
+  13,R,J
+  22,R,J,G
+   1,R
+   7,R,D
+   4,R
+  35
+  26,K
+  10
+  14,L
    1,L,K,G
    1,K
-   1,R,K,G
+   1,R,K
    1,L,J,G
    3,L,K,G
    1,J
@@ -580,5 +641,4 @@ endrepeat
    1,L,J
   14,L,K,G
   49
-
-ChapterTime: 1:21.362(4786)
+ChapterTime: 1:27.669(5157)
