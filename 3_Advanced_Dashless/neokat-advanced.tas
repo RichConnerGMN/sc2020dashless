@@ -1,10 +1,9 @@
 #Made by pansear, Toster
-#Dash saves by Renatotheflowey
+#Dash saves by Renatotheflowey, Cr33pyCat
 #Optimizations by Renatotheflowey
+#26x
 
-#30x
-
-RecordCount: 1213
+RecordCount: 1499
 
 console load SpringCollab2020/3-Advanced/NeoKat
    1
@@ -49,7 +48,6 @@ Repeat,4
    1,L,K
 EndRepeat
   14,J
-
   40
 
 #lvl_2
@@ -78,7 +76,6 @@ EndRepeat
    1
   13,L,X
   45,R,J
-***S
   33,R,U,Z
    2,R,J,G
    3,L,J
@@ -91,7 +88,6 @@ EndRepeat
    1,R,K,G
    9,R
   12,R,J
-***
   14,R,X
   22,L,J
   11,L,Z
@@ -99,7 +95,6 @@ EndRepeat
    1,L
    2,L,J
    2,L
-***
   11,L,J
   11,L
   14,L,Z
@@ -125,7 +120,7 @@ EndRepeat
   40
 
 #lvl_3
-#14x
+#13x
    2,K,G
    5,L,K
    2,L
@@ -181,15 +176,16 @@ EndRepeat
   15,D
    1,L,D
    1,R,D
-  10,R,G
-  12,D,G
-   1,R,J,G
-   1,K,G
+  20,D,G
+   5,G
+   1,D,G
+   1,G
+   2
    1,J,G
-  15,L,D,X
-   6,L,J
+   1,R,K,G
+   5,L,K
    5,L
-   6,L,J
+  27,L,K
   34,L,U,G
   12,U,X
   15,J
@@ -253,7 +249,6 @@ EndRepeat
    1,R,G
    1
   10,R,G
-***S
   46,R,U,G
   14,U,X
    8,J
@@ -265,10 +260,14 @@ EndRepeat
   17,L,D,X
    9,R
   15,R,D,X
-  22,L
-   8,L,D
-  15,D
-   4,D,C
+  19,L
+  16,L,D
+   1,S,N
+   1,D,J
+  69,O
+  10,L
+   1,L,J
+   4,Z
    3,L,J
    4,L
   12,L,J
@@ -303,7 +302,7 @@ EndRepeat
   40
 
 #lvl_4
-#8x
+#5x
    1,L,J
    6,L,K
    6,R,J
@@ -325,121 +324,78 @@ EndRepeat
    1,R,J,G
   17,R,K,G
   15,L,U,X
-  15,L,J,G
-  12,R,K
-  24,R
-   8,D
-   1,L,D
-   3,D
-   1,R
-   4
-   9,L,D,X
-   1,R,J
-   1,R
-   6
-   1,R,J
-  15
-   1,R,J
-   7,J
-  18,R,J
-  15,U,X
-   5,L
-  25,R,J
-  24,L
-   6,L,D
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   2,L,J,G
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-   1,L,G
-   1
-  13,L,G
-   5,L,D,G
-   1,L,J,G
-  10,R
-   4,D,X
-   9,U,X
-  28,R,J
-  11,R
-   3,L,D
-   1,L,J
-   9,L
-  11,L,D,X
-   1,R,J
+  57,R,J
+  23
    7,R
-   1,R,D,J
-   1,R
-   5,R,D,X
-   1,L,J,G
-   2
-   3,R
-   3,R,J
-   4,J
-  15,R,D,X
-   6,R,D
-  17,R
-  10,R,J
-   6,R
-  17,R,J
-  15,U,Z
-   5
-  18,J
+  32,R,J
+  20,U,X
+  32,R,J
+  28,L,J
+  75,G
+  10,U,X
+  46,R,J
    1,K
-   7,R,J,G
-   9,R
+  37,R,K
+  19
+  17,R
+   1,R,J
+   1,L,K,G
+   4,R,K
+  45,L,K
+   4,J
+   5
+  29,L,J
+  15,G
+   8,U,X
+  35,R,J
+   1,J
+   6,R,J
+  23,L,J
+  28,G
+  14,D,G
+   1,G
+   1,D,G
+  70,G
+   1
+   1,L,J,G
+   5,R
+  30,R,J
+   3,R,D
+   1,R
+   1,K,G
+   1,R,K
+   9,K
+   1,L,K
+   1,J
+   1,K
+   7,L,K
+   4,K
+   5,J,G
+   1,R,J
+   1,L,J
+  12,L,K,G
+   2,K
+   1,J,G
+   1,L,J
+   1,J
+   1,R,J
+   1,J
+  15,U,X
+   5,R,J
+   2,R
    1,R,K,G
    1,R,J,G
-   9,R
-   4,R,J
+   1,R
+   1
+   7,R
+   1,R,J
+   1,R
   40
 
 #lvl_5
 #1x
-  10,R,D
-   2,D
+  19,D
    1,R,D
-   7,D
-   2,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -479,6 +435,4 @@ EndRepeat
   16,L
    1,L,J,G
   16,L,K,G
-
-
-ChapterTime: 0:46.308(2724)
+ChapterTime: 0:52.972(3116)
