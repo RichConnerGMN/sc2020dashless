@@ -1,16 +1,18 @@
 #Made by Renatotheflowey
-#6x (10x M&B)
-RecordCount: 1332
+#Dash saves by Cr33pyCat
+#9x
+
+RecordCount: 1352
 
 console load SpringCollab2020/3-Advanced/JaThePlayer
    1
 
 #Start
- 192
+ 193
 
 #lvl_JaThePlayer_0
 #0x
-   5,L
+   4,L
    1,L,J
   18,L
    1,L,J
@@ -111,7 +113,7 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
   40
 
 #lvl_JaThePlayer_3
-#1x (+1x)
+#1x
    4,R,J
    1,L,J
    4,R,J
@@ -140,21 +142,24 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    1,R,J,G
    1,R,K,G
    9,R,D
-   5,R
-   8,R
-   2,R
-   1,L
-  10
+   5,R,G
+   8,R,G
+   2,R,G
+   1,L,G
+  10,G
    1,J,G
    3,K
    2
-  13,J
-   5,K
-  17
-  21,R
-  16,R,U,X
+   1,J
+  16,J,G
+   1,J
+   4,X,G
+  16,R,G
+   1,R
+   4,X,G
+  12,R,U
   21,L
-  21
+   4,X,G
   65,U
   25,L,J
    1,L,K
@@ -181,13 +186,14 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
   11,K,G
    1,R,K
    1,L,J,G
-  12,L,K,G
-  21
+  11,L,K,G
+   1,L,K
+   4,X,G
   38,L,U
    9,L
   10,J,G
   11,R,K
-  21
+   4,X,G
   59,U
   40
 
@@ -216,7 +222,6 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    1,J
    9,L,J
    6,J
-
    9,K,G
    1,L
   11,L,J,G
@@ -427,5 +432,4 @@ EndRepeat
    9,R,J
  120,R,U,X
   32,L,D,J
-
-ChapterTime: 1:05.399(3847)
+ChapterTime: 1:04.243(3779)
