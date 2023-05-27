@@ -105,29 +105,35 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    1,L,J
    3,L
   21,L,D,K
-   2,K
-  15,U,X
-  21,R
    1
-   1,R,J,G
-   1,R,K,G
    1,K
-   2
-   9,R
-  10,R,J
-   4,R
+  15,U,X
+   7,R
+   1
+  12,R
    1
    1,R
-  13,R,J
-   1,G
-  11,R,J,G
-  14,R,D,X
-  15,R,J
-   1,R
-   2,R,J
-  13,R,D
-  18,L,D
-  20,R,D
+   1,J,G
+   1,R,J
+   2,R
+   1
+   4,R
+  11,R,Z
+   1,R,J
+   3,R
+   1,R,J
+  11,R
+   1,R,K,G
+   9,R
+   7,R,K
+  24,R,D
+   1,D
+   1,R,D
+  14,L,D
+   2,R,D
+   1,D
+  17,R,D
+
   11,R,X
    1,J
    2,R
@@ -147,9 +153,9 @@ EndRepeat
    1,K
   22,R,D
    9,R,J
-   9,R
+   8,R
    2,R,J
-  10,R
+  11,R
    1,R,D
    1,R,J,G
    1,R,K,G
@@ -283,96 +289,87 @@ EndRepeat
    5,R,U
    8,L,U
    1,L,D
-   2,L,U
+   4,L,U
    1,S,N
    9,O
    1,J
-  22,L,U,J
-   3,U,J
+   8,L,U,J
+   1,U,J
+  11,L,U,J
+   2,R,U
    1,S,N
    9,O
    1,K
-   3,R,U,K,G
-   5,L,U,K
-   1,R,U
-   1,S,N
-   9,O
-   1,J
-  13,U,J,G
-   6,R,U
+   5,R,U,K,G
+   6,L,U,K
+   2,R,U,K
+   2,U
+   1,U,J
+   7,U,J,G
+   1,U
+   5,R,U
    1,U
    1,S,N
    9,O
    1,K
-   1,L,D,K
-   7,L,U,K
+   1,D,K
+   5,L,U,K
+   1,R,U,K
+   2,L,U,K
+   1,R,U,K
+   1,L,U,K
+   1,R,U,K
    1,S,N
    9,O
    1,J
-   1,R,U,J,G
-   2,L,U,J
-   4,R,U,J
-   1,L,U,J
-   6,R,U,J
+   9,U,J,G
+   1,R,U,J
    1,S,N
    9,O
    1,K
-   2,R,U,K,G
-   4,U,K
+   3,R,U,K,G
+   3,U,K
    2,L,U,K
    1,U,K
    1,L,U,K
    1,U,K
    1,L,U,K
-   1,R,U,K
    1,S,N
    9,O
    1,J
-   1,R,U,J,G
+   4,R,U,J,G
    1,S,N
    9,O
    1,K
-   7,U,K,G
+   2,R,U,K,G
+   3,L,U,K
    1,R,U,K
-   1,U,K
-   1,L,U,K
-   1,R,U,K
-   1,S,N
-   9,O
+   2
    1,J
-   7,J,G
-   8,L,J
+   1,U,J,G
+  11,L,U,J
+   1,L
+   6
    1,S,N
    9,O
    1,K
-   1,K,G
-   1,R,K
-   1,L,K
-   1,S,N
-   9,O
-   1,J
-   1,L,J,G
-   1,S,N
-   9,O
-   1,K
-   2,L,K,G
-   1,R,K
-   1,L,K
+   2,R,K
+   3,L,K
+   4,R,K
    1,S,N
    9,O
    1,J
    1,J
-   3,R,J
-   7,J
+   4,R,J
+   1,J
    1,R,J
    4,J
+   2
    1,S,N
    9,O
    1,K
-   4,K,G
-   6,R,K
-   1,K
-   3,R,K
+   5,K,G
+   9,R,K
    1,S,N
    9,O
    1,J
@@ -388,12 +385,12 @@ EndRepeat
    9,O
    1,K
   26,R,K
-  10,R
+   9,R
    1,S,N
    9,O
    1,J
    1,R,J
-  45,R
+  46,R
    1,S,N
    9,O
    1,K
@@ -430,7 +427,7 @@ EndRepeat
    8,L
    8,U,G
  150,G
-  19,L,D
+  19,L
    2,L
    1,S,N
    9,O
@@ -444,41 +441,32 @@ EndRepeat
    1,R,D,K
    2,L,D,K
    4,L,D
+   3,D
    1,S,N
    9,O
    1,J
-   1,D,J,G
-   1,L,D,J
    1,R,D,J
-   1,L,D,J
-   1,S,N
-   9,O
-   1,K
-   1,L,D,K,G
-   1,S,N
-   9,O
-   1,J
-   2,L,D,J,G
+   2,D,J
    1,R,D,J
-   1,L,D,J
-   1,R,D,J
+   1,D,J
+   4,R,D,J
+   1,D
    1,S,N
    9,O
    1,K
    1,D,K
-   4,R,D,K
-   8,D,K
-   1,R,D,K
+   6,R,D,K
+   5,D,K
    1,S,N
    9,O
    1,J
-   5,D,J,G
-  10,R,D,J
-   2,D,J
+   6,D,J,G
+   8,R,D,J
    1,S,N
    9,O
    1,K
-  11,L,D,K
+  10,L,D,K
+   1,L
    1,S,N
    9,O
    1,J
@@ -548,7 +536,7 @@ EndRepeat
    1,S,N
    9,O
    1,J
- 121,R,J
+ 118,R,J
    1,S,N
    9,O
    1,K
@@ -977,9 +965,9 @@ EndRepeat
   17,F,180
   15,F,144.2
   63,F,93.2
-  16,F,90
+  16,F,89.999
   52,F,28.3
-   3,F,90
+   3,F,89.999
 Repeat,5
    1,R,J,G
    1,R,K,G
@@ -1002,8 +990,7 @@ EndRepeat
   29,R,D
    1,D
    1,R
-   1,R,D
-   2,R,D
+   3,R,D
    1,J
    1,R,J
    9,J
@@ -1043,84 +1030,96 @@ EndRepeat
    1,J,G
    1,J
    7,L,J
-   6,R,K
-   1,R
+   7,R,K
   14,R,G
    1,G
    6,R,G
-   1,D,N
-  34
-Repeat,157
+   1,L
+   2,R,D
+   1,G
+   2
+   1,G
+   1
+   1,G
+   3
+   1,G
+   4
+   1,G
+   5
+   1,G
+   1
+   1,G
+   5
+   2,G
+   1,N
+  40
+Repeat,149
    1,U
    1,R
    1,D
    1,L
 EndRepeat
-  45,D
-  30,L
+  38,D
+  32,L,D
+   5,D
    1,S,N
    9,O
    1,J
+   1,J
+   5,L,J
+   1,S,N
+   9,O
+   1,K
+  11,R,K
+   9,K
+   1,S,N
+   9,O
+   1,J
+   1,L,J,G
+   4,R,J
+   2,J
+   1,R,J
    2,J
    1,S,N
    9,O
    1,K
-   3,L,K,G
-   1,S,N
-   9,O
-   1,J
-  11,R,J
-   7,J
-   1,S,N
-   9,O
    1,K
-   1,L,K,G
-   4,R,K
-   2,K
-   1,R,K
-   2,K
-   1,S,N
-   9,O
-   1,J
-   1,J
-  22,L,J
+  22,L,K
    4,L
    1,S,N
    9,O
-   1,K
-   4,L,K
-   1,L,K
-   4,L,K
+   1,J
+   9,L,J
    6,L
    2
   31,R
    1,S,N
    9,O
-   1,J
-   7,J,G
-   1,L,J
-   5,J
-   1,S,N
-   9,O
    1,K
-   1,K
-   5,L,K
+   7,K,G
+   1,L,K
    5,K
    1,S,N
    9,O
    1,J
    1,J
-  22,R,J
-   7,R
+   5,L,J
+   5,J
    1,S,N
    9,O
    1,K
-  12,R,D,K
-  16,R
+   1,K
+  22,R,K
+   7,R
    1,S,N
    9,O
    1,J
-   6,R,J
+  12,R,D,J
+  16,R
+   1,S,N
+   9,O
+   1,K
+   6,R,K
   36,R
    1,R,J
   14,R
@@ -1489,9 +1488,7 @@ EndRepeat
    1,S,N
    9,O
    1,K
-  12,R,K
-   1,R,K
-  46,R,K
+  59,R,K
    1,R,D
    1,R
    3,R,D
@@ -1578,4 +1575,4 @@ Repeat,32
    1,L,J
    1,R,J
 EndRepeat
-ChapterTime: 3:34.251(12603)
+ChapterTime: 3:32.738(12514)
