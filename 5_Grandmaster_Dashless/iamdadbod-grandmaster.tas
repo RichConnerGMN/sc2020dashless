@@ -132,16 +132,17 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   14,L,D
    2,R,D
    1,D
-  17,R,D
-
+  13,R,D
+   1,R
+   1,R,D
+   1,R
   11,R,X
    1,J
-   2,R
-  18,L,D
-   1,R,D
-   3,L,D
-   4,L
-   1,L,D
+   3,R
+  17,L
+   7,L,D
+   1,L
+   1,D
    1,L,J,G
    2,R,J
 Repeat,3
@@ -153,9 +154,9 @@ EndRepeat
    1,K
   22,R,D
    9,R,J
-   8,R
+   9,R
    2,R,J
-  11,R
+  10,R
    1,R,D
    1,R,J,G
    1,R,K,G
@@ -1549,30 +1550,35 @@ EndRepeat
    1,R,J,G
    1,R
    1
-   8,R
-   8,R,J
-   6,R
-   1,R,J
+  10,R
+   9,R,J
+   4,R
    1,R,K,G
    1,R
    1
+   6,R
+   1,R,K
+   1,R
+   8,R,J
    9,R
-   1,R,J
-   9,R
-   1,R,K,G
-  29,R,D
+   2,R,J
+   7,R
+  12,R,D
+   3,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   5,R,J
+   1,R,J
+   1,R,K
+   3,R,J
   27,R,U,X
-Repeat,29
+Repeat,27
    1,L,D
    1,R,D
 EndRepeat
-Repeat,32
-   1,L,J
-   1,R,J
+Repeat,34
+   1,L,D,J
+   1,R,D,J
 EndRepeat
-ChapterTime: 3:32.738(12514)
+ChapterTime: 3:32.721(12513)
