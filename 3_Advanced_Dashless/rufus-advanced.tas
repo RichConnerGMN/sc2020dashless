@@ -1,11 +1,14 @@
 #Made by Cr33pyCat
 #21x
+
 console load SpringCollab2020/3-Advanced/Rufus
    1
 
 #Start
-#lvl_Intro 1x
  190
+
+#lvl_Intro
+#1x
    5,R
    1,R,J
   12,R
@@ -33,7 +36,8 @@ console load SpringCollab2020/3-Advanced/Rufus
    2,R,D,G
   40
 
-#lvl_Rufus_01 4x
+#lvl_Rufus_01
+#4x
    2,R,D
   14,D
    1,R,D
@@ -136,7 +140,8 @@ console load SpringCollab2020/3-Advanced/Rufus
    3,R,J
   40
 
-#lvl_Rufus_02 10x
+#lvl_Rufus_02 (0)
+#10x
    3,R,J
    1,R
    5,R,J
@@ -215,7 +220,8 @@ console load SpringCollab2020/3-Advanced/Rufus
    8,R
   40
 
-#lvl_Rufus_03 0x
+#lvl_Rufus_03 (0)
+#0x
    6,R
    1,R,J
   14,R
@@ -230,13 +236,15 @@ console load SpringCollab2020/3-Advanced/Rufus
   25,R,D,J,G
   40
 
-#lvl_Rufus_02 0x
+#lvl_Rufus_02 (1)
+#0x
    3
    1,R,D,J,G
    9,R,D,G
   40
 
-#lvl_Rufus_03 2x
+#lvl_Rufus_03 (1)
+#2x
   20,R,D,G
    1,R,D
    1,J
@@ -379,7 +387,8 @@ console load SpringCollab2020/3-Advanced/Rufus
   28,R,D,G
   40
 
-#lvl_Rufus_04 3x
+#lvl_Rufus_04
+#3x
   19,R,D,G
   16,R,U,J,G
   15,L,U,K,G
@@ -477,7 +486,8 @@ console load SpringCollab2020/3-Advanced/Rufus
   14,R,D,G
   40
 
-#lvl_Outro 1x
+#lvl_Outro
+#1x
   13,R,D,G
    1,L
    1,R,J
