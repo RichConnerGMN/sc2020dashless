@@ -1,8 +1,8 @@
 #Made by atpx8
-#Dash save by Cr33pyCat, DeRockProject
+#Dash saves by Cr33pyCat, DeRockProject
 #Optimizations by RichConnerGMN, Renatotheflowey
-#18X
-RecordCount: 4256
+#13X
+RecordCount: 4888
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
@@ -52,7 +52,6 @@ console load SpringCollab2020/4-Expert/dahlukeh
 
 #lvl_dahlukeh_02
 #1x
-#***
    5,J
    1,L,J
    1,K,G
@@ -88,61 +87,11 @@ Repeat,5
    1,L,J
    1,R,J
 EndRepeat
-#***
    1,R,J
    5,L,J
   10,R,J
    5,R,D,J
    3,R,J
-#   1,R,G
-
-#   2,J
-#   2,K
-#   2
-#   1,J
-#   1,K,G
-
-#   1,J,G
-#   1,R,J
-#   2,R
-#   1,J
-#   1,R,J
-#   1,R
-#   1,R,J
-#   3,R,J
-#   4,R
-#  12,R,J
-#  13,R,D,J
-#  43,R,J
-#   1,R,G
-
-#   4,R,K
-#  18,L,K
-#Repeat,3
-#   1,R,K
-#   1,L,K
-#EndRepeat
-#   2,L
-#   1,R
-#   1,J
-#   4,R,J
-#   2,L,J
-#   1,R,J
-#   0,L,J
-#   1,R
-#   1,K
-#   1,R,K
-#   1,R
-#   7,R,K
-#   2,L,K
-#   2,R,K
-#   6,L,K
-#   6,R,K
-#   1,L,K
-#   7,R,D
-#   5,R
-#   1,R,D
-#   7,R
    0,R,D
    1,J,G
    2,J
@@ -249,7 +198,6 @@ EndRepeat
    1,R,J,G
   15,R,K,G
   18,R,U,X
-#***
    9
    2,G
    2
@@ -270,16 +218,13 @@ repeat 4
    1
 endrepeat
    1,K,G
-#***
    1,R,K
    8,K
    4
    3,K
    1
-
    7,L,K
    5,R,K
-
    1,R,J
    5,L,J
 repeat 5
@@ -293,30 +238,6 @@ endrepeat
    6
   11,L,J
    2,L
-#   1,L
-#   2
-#   1,R
-#   1
-#   2,L
-#   2
-#   2,L
-#   2
-#  11,L,J
-#   2,L
-
-#   2
-#   2,L
-#   3,R
-#   1,L
-#   1
-#   1,R
-#   1
-#  11,L,J
-#   2,L
-
-#Set, Player.Position.X, 1394.1554236
-#Set, Player.Position.X, 1394.1554297
-
    1,J
   26,R,J
 Repeat,1
@@ -324,7 +245,6 @@ Repeat,1
    1
 EndRepeat
   11,J,G
-#***
    3,L,J
    1,J
    1,K
@@ -417,7 +337,7 @@ EndRepeat
   40
 
 #lvl_dahlukeh_04
-#6x
+#5x
    2,R
    9,R,J
    1,K
@@ -430,112 +350,112 @@ EndRepeat
   21,R
   21
   12,R
-   1,R,J
-   4,R
-   6,L,X
-   1,J
-  10,R
-  13
-  23,J
-   3,L,K,G
-  24,R
-   9
-#+0f spinner cycle
+   4,R,J
+   1,R
+   6,L,Z
+   1,L,J,G
+   1,L,K,G
+   5,L
+   3,L,K
+   2,L
+   1,L,D,J
+   5,L
    1
-  50,D,X
-#***
-  20,R
-  40,L,X
-   3
-  10,L,Z
-   1,R,J
-   7,R
-   2,R,J
-   2,R
-  15,R,D,X
+  16,L
+   4
+  26,D
+   5,D,X
+  31
+  11,R
+  14,R,K
+   8,R
+   5,L,X
+   1,L,K,G
+   1,L,J,G
+   5,L
+   2
+   1,L
    5,R
-   5,R,D
-   2,R,J
-  45,R
-   3,R,J
+  11,D
+   8,L,D,G
+  13,G
    2,R
+   1
+   1,L,K,G
+   1,J,G
+   1,R,K,G
+   2,K
+   1,L,J,G
+   3,R,J
+   3,R
+  17,R,D,X
+   1,R,J
+  39,R,D
+   1,R,J
   40
 
 #lvl_dahlukeh_05
-#1x
-  15,R
-  11,R,J
-   1,R
-  24,R,J
-   5
-   5,R,K,G
-   9,R
-   4,R,J
-  11,R
-  14,R,U,Z
-   1,L,J,G
-   7,R,J
-   1,R
-  22,R,J
+#0x
+   5,R
+   2,R,J
+   6,R
+   3,R,K
+   5,R
+  12,R,K
+   8,R
+   4,R,D
+  13,R,J
+   1,L,K,G
+   9,K
   10,R,K
-  27,R
-   5,R,J
+  17,K
+   8,J,G
   40
 
 #lvl_dahlukeh_06
-#3x
-   8,R,J
+#1x
+   8,J
    1,L,K,G
-  27,R,K
-  27,R,D
-AnalogMode, Precise
-  45,F,82
-  15,F,80
-  13,F,90
-  49,F,99
-   1,F,45
-  32,R
-  15,R,X
+   4,R,K
+   5,R
+   3,R,K
+   2,R
+  40,R,U
+ 120,F,90
+   3,F,78
    7,R
-   4,R,J
-   9,J
    5,L,D,X
    3,J
-  21
-   4,R
-   1,R,D,J
-  19,J
+   9
+   1,J
+  12
+   3,D
+  11,R,D,J
+   9,J
    2,L,K,G
    1
-   1,S
+   1,S,N
   17,J
    1,K,G
    1,R
   18,L
-  10,L,G
-   6,L
+   9,L,G
+   7
    1,J
    1,L,K,G
   30,R,D
    1,J
-  21,R,J
-   4,R
+  25,R,J
   10,L,K
    6,L
-   2,R
-   1
-   1,R
-   1,L
-   1,R
-   1,L
-   7,G
-   4
+   7
+   8,G
+   3
    1,J
    1,L,K,G
    5,R
    9,R,K
-  16,R
-   7,R
+  23,R
   50,R,J
    1,R,D
    1,R
@@ -573,5 +493,4 @@ Repeat, 12
    1,K
 EndRepeat
    1
-
-ChapterTime: 0:57.324(3372)
+ChapterTime: 0:54.757(3221)
