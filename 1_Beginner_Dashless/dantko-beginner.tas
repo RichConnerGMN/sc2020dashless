@@ -2,12 +2,12 @@
 #Dash saves by Cr33pyCat
 #51X
 
-RecordCount: 1038
+RecordCount: 1041
 console load SpringCollab2020/1-Beginner/DanTKO
    1
 
 #Start
-#console display_message 1 0.65 50 false Cr33pyCat, RichconnerGMN, Vampire Flower
+console display_message 1 0.65 50 false Cr33pyCat, RichConnerGMN, Vampire Flower
  190
 
 #lvl_DanTKO_Intro (0X)
@@ -61,6 +61,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,R,K,G
    1,R,J,G
    5,R
+console hide_message 1
   40
 
 #lvl_DanTKO_01 (6X)

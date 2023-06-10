@@ -31,7 +31,7 @@ console display_message 1 0.65 50 false nebs, nimiala, NoHa, RichConnerGMN
    1,S
    1,D,J
   27,O
-console display_message 1 0 2000 true
+console hide_message 1
   42,O
    2,R,J
    2,K

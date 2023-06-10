@@ -7,13 +7,15 @@ console load SpringCollab2020/2-Intermediate/Thegur90
 
 #Start
  190
+
+#lvl_1 (0X)
    1,R,J
   15,R,D
  110,D
   16,L,D
   40
 
-#lvl_2
+#lvl_2 (3X)
   37,L,D
   27,R,D
    4,L,D
@@ -45,7 +47,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
   12,L,D
   40
 
-#lvl_3
+#lvl_3 (3X)
    1,L,D
   27,D
   21,L,D
@@ -75,7 +77,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
   55,D
   40
 
-#lvl_4
+#lvl_4 (0X)
   17,D
    3,L,D
   68,D
@@ -98,7 +100,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    6,D
   40
 
-#lvl_5
+#lvl_5 (2X)
    1,R,D
   85,D
   12,L,D
@@ -136,6 +138,8 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    1,R,J
    5,R,K
   40
+
+#lvl_6 (0X)
   15,R
    8,R,U,X
  106,R,D

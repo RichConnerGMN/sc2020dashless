@@ -51,13 +51,11 @@ endrepeat
    7,R,J
    1,J
    2,R,J
-#-1f if rounding error
+# -1f if rounding error
   23,R,J
   31,R,D
   18,D
    7,R,D
-#0:06.987(411)
-
   40
 
 #lvl_aridai-02 (0)(1x)

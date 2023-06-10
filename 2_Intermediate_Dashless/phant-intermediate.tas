@@ -8,8 +8,7 @@ console load SpringCollab2020/2-Intermediate/phant
 #Start
  190
 
-#lvl_phant-start
-#2x
+#lvl_phant-start (2X)
   10,L
    1,D
    1
@@ -41,8 +40,7 @@ console load SpringCollab2020/2-Intermediate/phant
  133
   40
 
-#lvl_phant-01
-#4x
+#lvl_phant-01 (4X)
   72
    4,R
    1,R,J
