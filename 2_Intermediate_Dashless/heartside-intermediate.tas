@@ -1,9 +1,9 @@
 #Made by Toster, Renatotheflowey, Cr33pyCat
 #Dash saves by Renatothefowey, Cr33pyCat
-#Optimizations by Renatotheflowey, Cr33pyCat
+#Optimizations by Renatotheflowey, Cr33pyCat, Ratatouy
 #46x
 
-RecordCount: 5805
+RecordCount: 5823
 
 console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1
@@ -207,10 +207,13 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   12,R
    2
    1,R,J
-  19,R
+   9,R
+   1,R,J
+   9,R
    1,R,J,G
-  38,R,K,G
-  37,R,U,G
+  37,R,K,G
+   7,D,G
+  30,R,U,G
    4,R,J,G
    1,K,G
    1,L,K
@@ -1534,4 +1537,4 @@ EndRepeat
    1,J
    1,K
    1,J
-ChapterTime: 3:24.799(12047)
+ChapterTime: 3:24.782(12046)
