@@ -7,7 +7,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
 #Start
   88
 
-#lvl_Isa_Intro (1X)
+#lvl_Isa_Intro 
   11,R,J
   51,R,X
    4,R,J
@@ -98,7 +98,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
   10,R
   40
 
-#lvl_Isa_02 (2X)
+#lvl_Isa_02 
    4,R
    1,R,J
   14,R
@@ -134,7 +134,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    6,R,J
   40
 
-#lvl_Isa_03 (2X)
+#lvl_Isa_03 
    5
    5,L
    1
@@ -178,7 +178,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1,K
   40
 
-#lvl_Isa_04 (2X)
+#lvl_Isa_04 
    1,R,K,G
    1,J,G
    1,L,J
@@ -194,7 +194,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
   29,U,X
   43
 
-#lvl_Isa_Exit (1X)
+#lvl_Isa_Exit 
    1,L
    1,R,J,G
    1,R,K,G

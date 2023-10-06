@@ -1,5 +1,6 @@
 #Made by: Toster
 #Dash saves by Cr33pyCat
+#Optimizations by atpx8
 #9x
 
 console load SpringCollab2020/2-Intermediate/phant
@@ -328,11 +329,11 @@ console load SpringCollab2020/2-Intermediate/phant
 #lvl_phant-end
 #1x
    3,R,D
-   2,R,J
-   5,R
-  14,R,U,X
+   3,R,J
+   4,R
+  12,R,U,X
   12
   23,R,D
-  98,L,D
+  99,L,D
    1,L,J
-ChapterTime: 0:39.899(2347)
+ChapterTime: 0:39.882(2346)

@@ -1,5 +1,5 @@
 #TASed by RichConnerGMN
-#24
+#24X
 
 console load SpringCollab2020/1-Beginner/Ghajestis
    1
@@ -91,7 +91,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    7,R,D,X
   40
 
-#lvl_Ghaj_3 (2X)
+#lvl_Ghaj_3 
    5,R
    1,R,J
    9,R,D
@@ -258,7 +258,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
   10,R
   40
 
-#lvl_Ghaj_6 (1X)
+#lvl_Ghaj_6 
    2,R
   23,R,J
   15,R,X

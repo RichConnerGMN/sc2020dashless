@@ -92,7 +92,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    6,K,G
   40
 
-#lvl_cat-02 (1X)
+#lvl_cat-02 
   11
   11,J,G
    1
@@ -160,7 +160,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   13,R
   40
 
-#lvl_cat-03 (1X)
+#lvl_cat-03 
    5,R
   24,R,K
    8,J,G
@@ -372,7 +372,7 @@ EndRepeat
    2,L
   43
 
-#lvl_cat-05 (1X)
+#lvl_cat-05 
    4,L
    1,L,J
    5,L

@@ -1,9 +1,9 @@
 #Made by Toster
 #Dash saves by Cirion02, pansear, baamboo
-#Optimizations by Renatotheflowey
+#Optimizations by Renatotheflowey and atpx8
 #27x
 
-RecordCount: 1847
+RecordCount: 2063
 
 console load SpringCollab2020/2-Intermediate/aleph_null
    1
@@ -29,7 +29,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,L
    1,R,K,G
    1,R,J,G
-   1,R
+   1,R,J,G
    1,R,K,G
    1,R,J,G
    9,R
@@ -44,22 +44,21 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,J
   14,R
    1,R,J
-   3,R
+   2,R
   40
 
 #lvl_aleph_entrance (4X)
-  11,R
+  12,R
    2,R,J
   15,R
-   3,R,J
-  13,R
-   1
-   2,R
-  35,R,J
-   4,L
+   2,R,J
+  16,R
+  34,R,J
+   5,L
    1,J
    6,R
-   7
+   6
+   1,R
   10,L,Z
   24,R,J
   15,U,X
@@ -94,7 +93,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    5,R,J
   40
 
-#lvl_aleph_main 0x
+#lvl_aleph_main (1) 0x
    7,R,J
    1,J
   11,K
@@ -170,8 +169,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 
 #lvl_aleph_left (7X)
    8,L
-   1,L,J
-   1,L,J
+   2,L,J
    4,R,J
    1,K
    1,J,G
@@ -312,7 +310,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    3,R,J
   40
 
-#lvl_aleph_main (1) 0x
+#lvl_aleph_main (2) 0x
    7,R,K
    3,K
    1,J
@@ -364,18 +362,25 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    8,R,J
    2,R
   11,R,J
-  26,R,D
-  32,F,139
-   6,D
+  27,R,D
+Repeat, 10
+   1,D
+   1,R
+EndRepeat
+  12,D
   40
 
 #lvl_aleph_down (6X)
    3,D
-  50,F,241
+   4,F,215
+   3,L
+Repeat, 19
    1,D
-   7,R,D
-   9,D
-   4
+   1,L
+EndRepeat
+  19,D
+   2
+   2,R,D
    5,R,J,G
    3,R
   23,R,D,X
@@ -441,9 +446,9 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   15,L,U,X
    7,F,290
   15,L,Z
-  16,F,280
-  34,L
-  17,L,D,X
+  14,F,359.999
+  23,L
+  23,L,D,X
    1,S
    1,D,J
   69,O
@@ -451,8 +456,15 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   12,U
   40
 
-#lvl_aleph_main (2) (1X)
-  40,F,54
+#lvl_aleph_main (3) (1X)
+   6,F,45
+   2,R
+   1,U
+Repeat, 14
+   1,R
+   1,U
+EndRepeat
+   1,R
    1,R,J
    1,R,K
    1,R,J
@@ -566,7 +578,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    4,L,D
   40
 
-#aleph_main (3) (5X)
+#aleph_main (4) (5X)
   22,L,D
    1,L,J
   57,L,D
@@ -622,9 +634,9 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   70,L,D
   32,D
   15,L,D
-repeat 9
+Repeat, 9
    1,J
    1,K
-endrepeat
+EndRepeat
 
-ChapterTime: 1:14.596(4388)
+ChapterTime: 1:14.290(4370)

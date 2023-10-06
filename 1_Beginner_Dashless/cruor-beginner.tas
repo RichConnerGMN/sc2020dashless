@@ -129,7 +129,7 @@ console hide_message 1
    7,R,J,G
   43
 
-#lvl_cruor_03_tp (2X)
+#lvl_cruor_03_tp 
    1,R
   13,R,U,X
    1,R,J,G
@@ -379,7 +379,7 @@ console hide_message 1
   19,R,J
   40
 
-#lvl_cruor_04 (1X)
+#lvl_cruor_04 
   11,R
   15,R,U,X
    5,R

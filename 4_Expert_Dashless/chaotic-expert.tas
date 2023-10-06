@@ -1,7 +1,8 @@
 #TASed by Wirare, Renatotheflowey
-#Dash saves by Cr33pyCat
-#8X
-RecordCount: 5095
+#Dash saves by Cr33pyCat, atpx8
+#Optimizations by atpx8
+#7X
+RecordCount: 5367
 
 console load SpringCollab2020/4-Expert/ChaotiC
    1
@@ -244,16 +245,16 @@ EndRepeat
    1,R
    1
   20,R,J
-  28,R,K
-   4
-   5,R,J
-  20,R,D
+  29,R,K
+   3
+   1,R,J
+  21,R,D
   13,L,D
-   3,L
    7,L,J,G
+   7,L
+   1,L,J
    1,L
-   4,L,J
-   5,L,G
+   2,L,G
    2,L
    7
    1,L
@@ -314,15 +315,14 @@ EndRepeat
   21,R,J
    5,R,K
   22,R
-   6,R,D
-   1,L,D
-   3,L
+   5,R,D
+   1,R
+   1,L
+   2,L,D
    1,L,J
-   1,L
-   2,K,G
-   4,L
-   2
-   1,L
+   1,K,G
+   5,L
+   1
    6,R,D
   15,R,D,J
    1,L
@@ -411,16 +411,20 @@ EndRepeat
    5,R,J
   17,R,D
    1,R,J,G
-  30,R,K,G
+  24,R,K,G
+   6,R
    1,R,J,G
+   1,R,K,G
   11,R
-   2,R,J,G
-  16,R
-   2,R,J,G
-  12,R
+   8,R,J
+  18,R
    2
    1,J
-  14,D
+   4,D
+   2,L,D
+   3,D
+   2,L,D
+   3,D
    7,R,D
   25,R
    8,L,D
@@ -706,7 +710,7 @@ EndRepeat
    2,K,G
   40
 
-#lvl_ChaotiC_04 (1X)
+#lvl_ChaotiC_04 (0X)
    4
    1,J
    4,K,G
@@ -736,14 +740,34 @@ EndRepeat
    4,L,J
    5,L
    2,L
-   2,L,J
-  15,U,X
-  11,L,G
-   1,J,G
-   6,R,J
-   3,J
-   6,R,G
+   9
+  16,R
+  11,R,D
+  96,D
+   6,L
+   1,L,J
+   1,L,K,G
+   1,R,K
+   6,K
+   2,L,K
+   1,L,J,G
+   1,L,J
+  14,J
+   3,L,J
+   1,K
+  17,R,K
+   3,R
    1,G
+  12,L,K,G
+   4,J,G
+   1,R,J
+   7,R,K
+  30,L,J
+  17,L,D
+   2,D
+   1,G
+   1,R,J
+  12,R
   24,R,G
    2,R,D,G
    3,R,J
@@ -799,7 +823,6 @@ EndRepeat
   40
 
 #lvl_ChaotiC_05 (1X)
-
    4,R
    1,R,J,G
    2,R,K,G
@@ -974,16 +997,15 @@ EndRepeat
   40
 
 #lvl_ChaotiC_outro (1X)
-   3,R,J
-   1,R
+   2,R,J
+   2,R
    7,R,K,G
    1,R
-   6,L
-   8,L,J
-   5,R,K,G
+   3,R
+   5,J,G
    6,L,J
+  11,K
   15,U,X
-  55,L
-  83
+ 135
 
-ChapterTime: 2:02.859(7227)
+ChapterTime: 2:06.565(7445)

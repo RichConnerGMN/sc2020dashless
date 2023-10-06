@@ -1,5 +1,6 @@
 #Made by Toster
 #Dash saves by Cr33pyCat
+#Optimizations by atpx8
 #75x
 
 console load SpringCollab2020/4-Expert/Mineman
@@ -251,12 +252,10 @@ unsafe
    5,D
    1,R,D
    1,D
-   6,R,D
+   5,R,D
    2,R
-   1,R,D
-   1,R
-  30,R,J
-  32,R,U,Z
+   9,R,X
+  26,R,J
   15,U,X
    1,R
   23,R,U,Z
@@ -279,17 +278,18 @@ unsafe
    5,L,J
    8,L
    1,G
-  24,R,J
-  34,U,X
-   1,R
-  14
-  19,L
-   1,G
-   7,L,J,G
-  23,U,X
-   4
+  19,R,J
+  22,L,U,X
+   5,R,J
+   3,R,J
+  26,R,K
+  36,U,X
   15,U,C
   11,L,D,X
+#0:46.223(2719)
+#0:45.951(2703)
+
+
   18,R,J
   16,R
   22,R,J
@@ -367,7 +367,7 @@ unsafe
 #-------------
 #Spinner cycle
 #0-2
-   2,D
+   0,D
 #-------------
   20,X
    5,L,J
@@ -524,6 +524,10 @@ unsafe
    8,F,
   18,F,321
   15,L,U,X
- 135
-
-ChapterTime: 1:25.612(5036)
+  13
+Repeat,60
+   1,R,D,P
+   1,L,D
+EndRepeat
+   2
+ChapterTime: 1:24.796(4988)

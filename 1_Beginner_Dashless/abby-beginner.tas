@@ -26,7 +26,7 @@ console display_message 1 0.65 50 false nebs, nimiala, NoHa, RichConnerGMN
   83
   40
 
-#lvl_Jude_01 (2X)
+#lvl_Jude_01 
    8
    1,S
    1,D,J
@@ -161,7 +161,7 @@ console hide_message 1
   62
   40
 
-#lvl_Jude_04 (1X)
+#lvl_Jude_04 
   10
   41
   97,L,D
@@ -224,7 +224,7 @@ console hide_message 1
   68
   40
 
-#lvl_Jude_end (1X)
+#lvl_Jude_end 
   68,R
    5,R
    1,R,J

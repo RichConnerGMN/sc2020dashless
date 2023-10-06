@@ -324,7 +324,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    4,R,D,J
   40
 
-#lvl_totk4 (1X)
+#lvl_totk4 
    4,R,J
    2,R
    2,L
@@ -505,7 +505,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    8,K,G
   40
 
-#lvl_totk_exit (1X)
+#lvl_totk_exit 
    2
    1,L
   14,R,J,G

@@ -84,7 +84,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
   12,R
   40
 
-#lvl_skeleton2_01 (2X)
+#lvl_skeleton2_01 
    2,R
    1,R,J
   14,R
@@ -193,7 +193,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,R
   40
 
-#lvl_skeleton2_02 (2X)
+#lvl_skeleton2_02 
    5,R
    2,R,K
    3,R
@@ -389,7 +389,7 @@ EndRepeat
    3,L,K
   40
 
-#lvl_skeleton2_03 (1X)
+#lvl_skeleton2_03 
    4,R
    1,R,J,G
    1,R
@@ -926,7 +926,7 @@ EndRepeat
    2,R
   40
 
-#lvl_skeleton2_05 (1X)
+#lvl_skeleton2_05 
   34,R
   28,R,J
   15,R,U,X

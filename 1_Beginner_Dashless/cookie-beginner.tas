@@ -6,10 +6,10 @@ console load SpringCollab2020/1-Beginner/Cookie
    1
 
 #Start
-#console display_message 1 0.65 50 false exopta, sashabell
+console display_message 1 0.65 50 false exopta, sashabell
  190
 
-#lvl_ CookieBeg_intro (1X)
+#lvl_ CookieBeg_intro 
    1,R,J
   14,R
    1,R,J
@@ -55,9 +55,10 @@ console load SpringCollab2020/1-Beginner/Cookie
    1,R,J,G
   14,R,G
    2,R,J,G
+console hide_message 1
   40
 
-#lvl_ CookieBeg_1 (2X)
+#lvl_ CookieBeg_1 
   14,R,J,G
    1,J
   15,U,X
@@ -149,7 +150,7 @@ console load SpringCollab2020/1-Beginner/Cookie
    4,R
   40
 
-#lvl_ CookieBeg_2 (1X)
+#lvl_ CookieBeg_2 
   10,R
    1,R,J
   14,R

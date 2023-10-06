@@ -716,7 +716,7 @@ AnalogMode, Precise
    6,R,D,G
   40
 
-#lvl_beg_heart_05 (2X)
+#lvl_beg_heart_05 
   22,R,D,G
   27,R,J,G
   15,L,K,G
