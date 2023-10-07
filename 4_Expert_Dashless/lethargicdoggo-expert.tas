@@ -1,8 +1,8 @@
 #Made by pansear
-#Optimizations by Renatotheflowey
+#Optimizations by Renatotheflowey, RichConnerGMN
 #64X
 
-RecordCount: 1175
+RecordCount: 1251
 
 console load SpringCollab2020/4-Expert/LethargicDoggo
    1
@@ -218,45 +218,39 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   30,R,D
   15,R,X
    2
-  68,R,D
+  62,R,D
+   6,R,D
    1,R,J,G
    1,R,K,G
    3,R
-   1,R,J,G
-  12,R
-#dcb loses a frame idk why
-#   1,R,J
-#   2
-#repeat 3
-#   1,R
-#   1
-# endrepeat
-#   8,R
-#   1,R,J,G
-#   1,R,K,G
-#  13,R
-#--------
-
-   1,R,J
-  15,R
-   1,R,J
-  14,R
-   1,R,J
+   5,R,J,G
+   5,R
+   1,R,K
+   9,R
+   1
    4,R
+   1,R,J
+   3,R
+   1
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+   3,R
   40
 
 #lvl_5 (10X)
-  10,R,D
+  11,R
    1,R,J
-  30,R,D
+  31,R,D
    1,R,J
-  14,R
-  13,R,D,X
+   4,R
+  17,R,D,X
    4,R,J
-   4,R,K
+   5,R,K
    5,R
-   1,R,J
-   8,R
+   4,R,J
+   4,R
   19,R,D,X
    4,L,J
   28,R,U,X
@@ -426,4 +420,4 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   15,U,X
  135,D
 
-ChapterTime: 1:11.485(4205)
+ChapterTime: 1:11.417(4201)

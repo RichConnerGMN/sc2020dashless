@@ -1,6 +1,6 @@
 #Made by Toster
 #Dash saves by Cr33pyCat
-#Optimizations by atpx8
+#Optimizations by atpx8, RichConnerGMN
 #75x
 
 console load SpringCollab2020/4-Expert/Mineman
@@ -286,10 +286,6 @@ unsafe
   36,U,X
   15,U,C
   11,L,D,X
-#0:46.223(2719)
-#0:45.951(2703)
-
-
   18,R,J
   16,R
   22,R,J
@@ -526,7 +522,7 @@ unsafe
   15,L,U,X
   13
 Repeat,60
-   1,R,D,P
+   1,R,D
    1,L,D
 EndRepeat
    2
