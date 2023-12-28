@@ -7,6 +7,7 @@ atpx8
 Bred
 Cirion02
 Cr33pyCat
+Curcuit
 DDSalvy
 DeRockProject
 EllaTAS
@@ -26,6 +27,7 @@ pansear
 Ralp
 Renatotheflowey
 RichConnerGMN
+rosellarade
 sashabell
 TheChickenleg
 TheRoboMan
@@ -34,4 +36,4 @@ Tyran
 Vampire Flower
 Wirare
 
-Many additional members of the Celeste community contributed in other ways, inuding finding strategies, suggesting improvements, and answering questions.
+Many additional members of the Celeste community contributed in other ways, including finding strategies, suggesting improvements, and answering questions.
