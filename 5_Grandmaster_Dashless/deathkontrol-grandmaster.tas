@@ -5,7 +5,7 @@
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 1856
+RecordCount: 1942
 
 console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1
@@ -213,7 +213,9 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
   31,R,D,X
   47,L,D,C
    1,F,46
-  39,F,90
+   7,F,90
+   4,F,89.9
+  28,F,90
    4,F,71
   28,F,23
   18,F,61
