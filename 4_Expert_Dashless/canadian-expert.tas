@@ -1,8 +1,8 @@
 #Made by atpx8, RichConnerGMN
 #Dash saves by Cr33pyCat, amber, RichConnerGMN
 #Optimizations by atpx8, RichConnerGMN
-#35x
-RecordCount: 2598
+#34x
+RecordCount: 2845
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
@@ -517,7 +517,7 @@ EndRepeat
    7,R,J,G
   40
 
-#lvl_5b 12x
+#lvl_5b 11x
   13,R
    9
   26,R
@@ -610,34 +610,140 @@ EndRepeat
    1,J,G
    1,L,J
   16,R,K,G
-   7,R,J,G
-   8,R
-  70,L
+Repeat, 6
+   1,J
+  21,R,J
+   2,J
+   8
+   1,R
+   1
+   1,R,D
+   1,D
+   1,R,D
+EndRepeat
+   1,J
+   8,R,J
+  13,R
+   5
+   1,R
+   1,D
+   1,J,G
+   4,R,J
+   6,R
+   1,L
+   9
+   1,L
+   8,R,J,G
+   9,R
+  44,D
+   4,L,D
+   4,D
    1,L,D
-   1,L
-  13,L,D
-   1,L
-   2,L,D
-  14,L,Z
+   1,R,J
+  25,L,J
+  11,L
+   9
+   3,R
+   1,J
+   2,K,G
+  67,L,K
+   1,L,J,G
+   1,L,K,G
+  14,L
    1,L,J
-   2,L
+   4,L
   40
 
 #lvl_6 8x
-  12,L
-  17,L,D,J
-   9,L,K
-  12,L
-  23,R
+#technically possible tave
+#im not doing it
+#i want to be free oomfie
+  51,L
+  65
+   5,L
+Repeat, 2
+4550
+   2,L,J
+   6,L
+1588
+   5,D,J
+  10,R,J
+  14
+   2,R
+   2,R,D
+ 220
+EndRepeat
+4550
+   2,L,J
+   6,L
+1588
+   5,D,J
+  14,R,J
+   1,R,K
+  55
+   6,L
+   1,L,D
+   1,L,J
+   1,L,K
+   1,L,J
+   4,J
+  17,R
+1590
+  39
+   1,L
+   1
+   5,D,J
+  12,R,J
+   4,R,K
+  50
+   1,L
+   1
+   7,L
+   1,L,D
+   1,L,J
+   1,L,K
+   1,L,J
+   4,J
+  17,R
+1590
+  43
+   6,D,J
+   7,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  30,L
+  32
+   4,L
+   4,L,D,J
+   3,L
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   5,L
+   5,L,J
+   4,L
+  31,R
+# 100,R
+#1000
+#  12,L
+#  17,L,D,J
+#   9,L,K
+#  12,L
+#  23,R
+##RESYNC
    3,L,J
    1,L
-  20,L,J
+  19,L,J
    1,K
    9,R,K
   12,R,J,G
   12,K,G
-   4,R,J,G
-   2,R
+   5,R
    9,L,Z
   33,L,J
   12,K,G
@@ -648,7 +754,7 @@ EndRepeat
    1,L,J
   73,L,K
   57,L,J
-2151
+2116
    8,R
   12
    1,L,J
@@ -663,7 +769,7 @@ EndRepeat
   27,L,J,G
   29,L,K,G
   21,R
-2698
+2697
   24,R
   47,R,J
   16,R,K
@@ -804,11 +910,12 @@ EndRepeat
   16
   11,L,J
   11,R,K,G
-  93,G
+  92,G
   10,D,G
-   3
+   5
   49,K
-   2,D
+   1,D
+   1
   11,L,Z
    1,L,J
    6,L
@@ -833,4 +940,4 @@ Repeat, 12
    1,K
 EndRepeat
    1
-ChapterTime: 32:39.318(115254)
+ChapterTime: 39:09.247(138191)
