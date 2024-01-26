@@ -1,8 +1,8 @@
-#Made by FantasyForces, Renatotheflowey
-#Dash saves by FantasyForces, Renatotheflowey, Cr33pyCat
-#Optimizations by Toster
+#Made by rosellarade, Renatotheflowey
+#Dash saves by rosellarade, Renatotheflowey, Cr33pyCat
+#Optimizations by Curcuit, RichConnerGMN, Toster
 #47x
-RecordCount: 3197
+RecordCount: 3232
 console load SpringCollab2020/4-Expert/deskilln
    1
 
@@ -159,25 +159,22 @@ console load SpringCollab2020/4-Expert/deskilln
   14,R,Z
    1,R,J
    6,R
-  15,R,D,J
-   6,J
-  24,R,U,X
-   9,U,G
+  16,R,D,J
+   4,J
    1
-   5,L
+  24,R,U,X
+   1,G
+   2
    1,J
-  10,R,J
-   1,R
-   6,R,J
-   8,R
-   1,J,G
+   1,K
+  20,R,K
+   3,R
+  27,R,J
+   1,K,G
    1,L
-   1,R
-   2,R,K,G
-  13,R
-  23,R,K
-   1,J,G
-  17,L,K
+   1,L,J
+  15,L,K
+
    7,R,J,G
    2,L,J
    3,R,J
@@ -484,43 +481,41 @@ console load SpringCollab2020/4-Expert/deskilln
    1,L
    1,R
   15,R,K
- 172,R,U,J,G
-   1,L,J
-  10,R,J
-  12,K,G
-   1,R,J,G
-   5,R
-   1
-   2,R
+ 172,R,U,K,G
+   1,L,K
+  10,R,K
+   5,J,G
+   1,R,J
+   1,L,J,G
+   2,R,K,G
+   2,R,J,G
+   1,J
+   6,R
+   2,R,J
+   1,R,D,K
    1,R,J,G
    1,R,K,G
-  11,R
+   9,R
    2,R,J
   40
 
 #lvl_Deskilln_Outro (1x)
-   5,R
    1,R,J
-  12,R
-   2,R,J
-   2,R,K,G
-   3,R
-   1,R,J,G
-   5,R
-   1,R,J
-   9,R
-   1,R,J
-   2,R,K,G
+   2,R,D,K
   15,R
    1,R,J
-  12,R
-   1,R,J,G
    1,R,K,G
-  12,R
+   1,R,J,G
+  13,R
    1,R,J
+   1,R,K,G
   14,R
-   8,R,J
+   1,R,J
+   6,R
+   1,R,J,G
+  14,R
+  13,R,J
   14,R,U,X
- 137,R,D
+ 135,R,D
 
-ChapterTime: 1:13.729(4337)
+ChapterTime: 1:12.794(4282)
