@@ -1,9 +1,9 @@
 #TASed by RichConnerGMN, atpx8
-#Optimizations by Ralp, Cr33pyCat, NoHa
+#Optimizations by Ralp, Cr33pyCat, NoHa, Guest_
 #XNA/FNA resync from Bred
 #55X
 
-RecordCount: 3402
+RecordCount: 3727
 
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
@@ -107,6 +107,9 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   30,R,J
    5,L
    3,D
+
+
+
    1
    1,R,D
    1
@@ -326,28 +329,25 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   29,R,U,J,G
    8,R,D,G
   43,R,U,G
-  11,L,J,G
-  10,R,K,G
-   6,R,G
-   7,L,J,G
-   8,L,G
-  12,R,J,G
-  15,R,U,G
-   1,U,G
-  10,R,U,G
-   9,R,D,G
-   1,R,D
-   2,L,J,G
+  12,L,J
+   5,L,K,G
+   2,K
+   2,R,J
+  56,R,U,J,G
+   2,R,G
+   1,L,D
+   1,J,G
+   1,L,J
   21,G
    1,D
   13,G
    8,R,G
    1,D
-  13,G
-   8,R,G
+  14,G
+   7,R,G
    1,D
-  15,G
-   6,R,G
+  16,G
+   5,R,G
    1,D
   17,G
    4,R,G
@@ -360,14 +360,14 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1,R
   13,G
   41,R,U,J,G
-  14,R,G
-   5,R,D,G
-   8,R,D
+  10,R,D,G
+   4,R,G
+   5,R,D
+   2
    1,J,G
-  18,G
+  13,G
    3,L,G
-   1,D
-  21,G
+   5,G
    1,D
   24,G
    1,D
@@ -383,92 +383,56 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   17,G
    4,R,G
    1,D
-  15,G
-   9,R,G
+  17,G
+   4,R,G
+   1,D
+  20,G
+   4,R,G
+   1,D
+  13,G
+   8,R,G
+   1,D
+  19,G
+   5,R,G
    1,D
   17,G
    4,R,G
    1,D
-  16,G
-   8,R,G
+  21,G
+   1,D
+  17,G
+   4,R,G
    1,D
   15,G
    6,R,G
    1,D
-  17,G
-   4,R,G
-   1,D
-  15,G
-   6,R,G
-   1,D
-  17,G
-   4,R,G
-   1,D
-  15,G
-   6,R,G
-   1,D
-  17,G
-   4,R,G
-   1,D
-  15,G
-   9,R,G
-   1,D
-  28,G
-   1,D
-  13,G
-   8,R,G
-   1,D
-  13,G
-   8,R,G
-   1,D
-  17,G
-   4,R,G
-   1,D
-  17,G
-   3,R,G
-   1,J,G
-   4,D
-  13,G
-   8,R,G
-   1,D
-  13,G
-   4,R,G
-   3,G
-   1,R,G
-   1,D
-  13,G
-   3,R,G
-   3,G
+  19,G
+  30,R,J,G
+   1,R
+  21,G
+   2,D
+  19,G
    2,R,G
    1,D
-  13,G
-   3,R,G
-   3,G
-   2,R,G
-   1,D
-  13,G
-   2,R,G
-   3,G
-   3,R,G
-   1,D
-  13,G
-  38,R,J,G
+  14,G
+   7,R,G
+   1,R,D
+  13,R,G
+  32,R,U,J,G
   27,L,K,G
   26,L,J,G
    1,L,K,G
   18,R,K,G
-  18,R,J,G
-  18,R,K,G
-  18,R,J,G
-  18,R,K,G
-  70,R,U,J,G
-  44,R,U,K,G
-   4,R,D
-   1,J
-  13,R,J
-  13,J,G
-  57,R,U,J,G
-  23,R,U,K,G
+  20,R,J,G
+  20,R,K,G
+  20,R,J,G
+  20,R,K,G
+  65,R,U,J,G
+  45,R,U,K,G
+   2,R,D
+   2,D
+  68,R,U,J,G
+  20,R,U,K,G
   40
 
 #lvl_beg_heart_03 (7X)
@@ -1153,4 +1117,4 @@ EndRepeat
   27,R,U,X
  122,R,D
 
-ChapterTime: 3:15.398(11494)
+ChapterTime: 3:11.624(11272)
