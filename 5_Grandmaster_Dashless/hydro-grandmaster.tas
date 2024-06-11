@@ -2,7 +2,7 @@
 #Optimizations by RichConnerGMN
 #22x
 
-RecordCount: 1018
+RecordCount: 1071
 console load SpringCollab2020/5-Grandmaster/Hydro0
    1
 
@@ -239,13 +239,18 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    1,R,K,G
   22,L,K
    2,K
-  12,L,J,G
-  12,L,K,G
-   1,J
-  24,L,J
-   1,K
-  24,L,K
-   7,L,J,G
+   2,J,G
+   4,L,J
+   3,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   5,J,G
+   1,R,J
+  14,L,K,G
+   3
+   2,L,G
+   5,L,J,G
    1,R,J
    7,R
   12,L,G
@@ -289,4 +294,4 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    1,R,K,G
    1,R,J,G
   72,R,K,G
-ChapterTime: 0:44.387(2611)
+ChapterTime: 0:43.945(2585)
