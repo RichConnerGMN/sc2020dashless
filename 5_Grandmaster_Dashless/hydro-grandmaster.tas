@@ -1,7 +1,7 @@
 #Made by atpx8
 #22x
 
-RecordCount: 774
+RecordCount: 778
 console load SpringCollab2020/5-Grandmaster/Hydro0
    1
 
@@ -48,7 +48,6 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    1,R,J
    1,R,K
    9,R
-#0:05.168(304)
   40
 
 #lvl_hydro_01 5x
@@ -269,6 +268,10 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
   20,R
    1,R,J
    9,R,K
-  74,R
+  21,R
+  40
+
+#lvl_hydro_outro
+  12,R
  147,R,U,X
-ChapterTime: 0:44.931(2643)
+ChapterTime: 0:44.948(2644)
