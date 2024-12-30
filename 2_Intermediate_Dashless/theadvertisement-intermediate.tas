@@ -3,7 +3,7 @@
 #Optimizations by Toster
 #4x
 
-RecordCount: 2638
+RecordCount: 2788
 
 console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1
@@ -13,41 +13,48 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
 #lvl_TheAd_00
 #0x
-   4,R
-   1,R,D,J
+   1,R,J
   18,R
-   1,R,D,J
+   1,R,D
+   1,R,D
+   1,R
+   1,R,J
    1,R,K,G
    1,R,J,G
-   6,R
-   4,J
+   4,R
+   2
+   2,J
+   2,R,J
    1,R,K,G
    9,R
    1,R,J
-  15,R
-   1
+   4,R
+   1,R,J
    1,R
-   1
+   1,R,J
+   4,R
+   6
    1,R
-   1,R,D,J
+   1,R,J
    1,R,K,G
-   2,R,J,G
-   3,R
+   1,R,J,G
+   4,R
    1,R,K,G
+   9,R
+   1,R,J
+  21,R,D
+   2,R,J
   10,R
-   1,R,J
-  21,R
-   1,R,J
-  18,R
    1
-   1,R
-   1,R,K
-   1,R,J,G
-   3,R,K,G
+   4,R
+   1,R,J
+   1,R,K,G
+   3,R,J,G
    2,R
-   1,R,J,G
-  12,R
+   1,R,K,G
+   2,R
    1
+  10,R
    1,R,J
    1,R,K,G
    7,R
@@ -61,7 +68,7 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1,R,J
   14,R
    1,R,J
-  24,R
+  21,R
   19,R,J
   14,R
    1
@@ -97,7 +104,8 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    7,L,K,G
    1,J
    3,K,G
-  16,R,K,G
+  13,R,K,G
+   3,R,K
   18,L,U,X
    1,J
    1,R,J
@@ -614,4 +622,5 @@ endrepeat
    8,R,K,G
   15,R
  135
-ChapterTime: 1:44.431(6143)
+
+ChapterTime: 1:44.261(6133)

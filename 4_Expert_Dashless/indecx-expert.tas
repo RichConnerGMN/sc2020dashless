@@ -1,7 +1,8 @@
 #Made by RichConnerGMN, Toster
+#Dash saves by Renatotheflowey
 #Optimisations by Renatotheflowey
-#10x
-RecordCount: 1907
+#9x
+RecordCount: 2245
 
 console load SpringCollab2020/4-Expert/Indecx
    1
@@ -95,7 +96,7 @@ console load SpringCollab2020/4-Expert/Indecx
   14,R
   40
 
-#lvl_2
+#lvl_2 (0x)
    1,R,J
   14,R
    1,R,J
@@ -114,13 +115,13 @@ console load SpringCollab2020/4-Expert/Indecx
    6,R,D,G
   40
 
-#lvl_1 (1)
+#lvl_1 (0x)
   22,R,D,G
    1,R,J,G
   11,R,D,G
   40
 
-#lvl_2 (1)
+#lvl_2 (2) (0x)
   17,R,D,G
    1,R,J,G
   20,R,G
@@ -189,128 +190,122 @@ endrepeat
    1,D
   21,G
    1,D
-  21,G
+  21,L,G
+   1,L,D
+   8,L,G
+  10,L,G
+   3,G
+   1,L,D
+  15,L,G
+   6,G
    1,D
-   8,G
-  13,L,G
+  19,G
+   2,L,G
    1,D
-  18,G
-   3,L
-   1,D
-repeat 8
-  21,G
+repeat 4
+  23,J,G
    1,D
 endrepeat
-   8,G
-  13,R,G
+  15,G
+   6,R,G
+   2,J,G
    1,D
-   8,G
-  13,R,G
-   1,D
-  18,G
-   3,R,D,G
-   4,D
-   8,U,G
-  13,R,U,G
-   1,D
-   8,U,G
-  13,R,U,G
-   1,D
-  21,U,G
-   1,D
-  21,U,G
-  20,D
-   1,L
-repeat 18
-   1,G
-   1
-endrepeat
-  14,J,G
-   6
-  27,U,G
-   1,L
-  21,G
-   1,L
-  20,L
-  57,R
-  10,R,J
-  15,R
-  15,R,U,X
-   8,R
-  15,R,D,G
-  40,D,G
-  24,R,U,G
-  20,R,D,G
-  16,D,G
-   1,D
-   8,D,G
-  14,L,U,G
-   4,G
-   1,D
-   1,J
-   8,G
-  13,L,G
-   1,D
-  16,G
-   5,L,G
-   1,D
-  21,G
-   1,D
-  16,G
-   5,R,G
-   1,D
-  13,G
-   8,R,G
+   5,G
+  18,R,J,G
    1,R
-  69,R,U,G
-   1,D
-  21,G
-  14,D
-   5,L,D
+  28,R,J,G
+  11,R,J
+   6,K,G
+  13,R,K
+  20,R,D
+  10,L,D
+   9,L
+  31,R,D
+   9,L
+   1,K
+  12,L,K
+   4,K
+  22,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,R,D,J
+  20,J,G
+   4,R,U,J,G
+   1,R,J
+  20,R,U,J,G
+   1,L,J,G
+   1,R,J,G
+  10,R,J
+   1,R
+  26,R,J
    1,J
-   8
-   4,R
-   1
-   5,J
-   4,J
-  27,J,G
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+  13,R
+  43,R,J
+   3,L,J
+   8,L,K
+  30,R,K,G
+   3,K,G
+   1,D,J
+  18,R,J,G
+   3,J,G
+   1,D,J
+  19,R,J,G
+   2,J,G
+   1,D,J
+  19,R,J,G
+   2,J,G
+   1,R,J
+  20,R,G
+   3,L,G
+  60,R,U,G
+   8,R,D,G
+   2,U,D,G
+   1,R,D,J
+  21,D,G
+   1,R,D,J
+  20,R,U,G
+  20,L,D,G
+   1,L,G
+   4,L,J,G
+   7,R,J,G
+   1,L,D
+  21,R,G
    1,D
+  21,R,U,G
+   1,D
+  21,R,U,G
+   1,D
+  17,R,U,G
+   4,U,G
+   1,D
+Repeat, 3
   21,G
    1,D
-   8,G
-  13,R,G
+EndRepeat
+  18,R,U,J,G
+   3,J,G
+   1,D,J
+  18,R,U,J,G
+   3,J,G
+   1,D,J
+  21,R,U,G
    1,D
-   8,G
-  13,R,G
-   1,D
-  16,G
-   5,R,G
-   1,D
-  16,G
-   5,R,G
-   1,D
-  21,G
-   1,D
-  21,G
-   1,D
-  21,G
-   1,D
-  21,G
-   1,D
-  21,G
-   1,D
-  21,G
-   1,D
-  15,U,G
-  23,R,G
+  21,R,U,G
+   1,L,J
+  21,R,U,J,G
   16,R,D,G
-   4,D,G
-  23,R,D,G
+   2,L,D,G
+  22,R,D,G
+   7,D,G
+   1,R,D,G
    1,R,J,G
   15,R,D,G
   40
 
-#lvl_3 0x
+#lvl_3 (0x)
   13,R,D,G
    1,R,J,G
   33,R,D,G
@@ -385,7 +380,7 @@ endrepeat
   10,R
   40
 
-#lvl_4 3x
+#lvl_4 (3x)
    4,R
    1,R,J
   14,R
@@ -439,7 +434,7 @@ endrepeat
   12,R
   40
 
-#lvl_5 0x
+#lvl_5 (0x)
    2,R
    1,R,J
   14,R
@@ -451,11 +446,11 @@ endrepeat
    1,R,J,G
   40
 
-#lvl_4 (1) 0x
+#lvl_4 (1) (0x)
   20,R,D,G
   40
 
-#lvl_5 1x
+#lvl_5 (1x)
    8,R,D,G
    1,R,J,G
   25,R,D,G
@@ -686,7 +681,7 @@ endrepeat
    4,R
   40
 
-#lvl_5-outro 1x
+#lvl_5-outro (1x)
    8,R
    2
 repeat 29
@@ -701,4 +696,4 @@ endrepeat
   15,R,U,Z
   71,R,D
   66,L,K
-ChapterTime: 2:03.998(7294)
+ChapterTime: 1:59.952(7056)

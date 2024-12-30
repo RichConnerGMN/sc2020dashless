@@ -3,7 +3,7 @@
 #Optimizations by fishmcmuffins, Toster, Renatotheflowey
 #19X
 
-RecordCount: 5535
+RecordCount: 5607
 
 console load SpringCollab2020/5-Grandmaster/BobDole
    1
@@ -11,7 +11,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
 #Start
   54
 
-#lvl_0
+#lvl_0 (0)
 #5x
    6,R,Z
    1,R,J
@@ -58,7 +58,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    6,R,J
   40
 
-#lvl_1
+#lvl_1 (0)
 #1x
   18,R,J
   15,U,X
@@ -71,13 +71,13 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    1,R,J,G
   14,R
    1,R,J
-   8,R
-   6,L
+   7,R
+   7,L
+   1,L,J
   13,L,G
    1,L,J,G
-  10,L,D,G
-  24,L,U,G
-   3,L,G
+  17,L,D,G
+  17,L,U,G
  110,L,U,J,G
    5,L,G
    1,G
@@ -93,12 +93,12 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    8,R,U,G
   40
 
-#lvl_0
+#lvl_0 (1)
   14,R,U,G
    2,R,G
   40
 
-#lvl_1
+#lvl_1 (1)
 #2x
    7,R,D,G
    3,R,G
@@ -483,9 +483,12 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    1,G
   11
    2,G
- 160
+Repeat, 16
+   5,D
+   5
+EndRepeat
    7,L
-  20,L,J
+  20,L,D,J
   12,K,G
    2,J,G
    3
@@ -1040,7 +1043,20 @@ Endrepeat
    9,L
    1,L,J
   14,L
-  17,L,J
- 152,L,U,X
+   7,L,J
+  10,L
+  30,L,U,X
+  49,L,D
+  41,R,D
+   1,G
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+Repeat, 13
+   1,J
+   1,K
+EndRepeat
+   1
 
-ChapterTime: 4:06.619(14507)
+ChapterTime: 4:06.585(14505)
