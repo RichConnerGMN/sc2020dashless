@@ -1,7 +1,7 @@
 #Made by atpx8
-#61x
+#60x
 
-RecordCount: 798
+RecordCount: 848
 
 console load SpringCollab2020/2-Intermediate/SilverStar
    1
@@ -80,34 +80,39 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   20,U,X
   40
 
-#lvl_Room2 10x
+#lvl_Room2 9x
    1
   72,O
 #Spinner Cycle, 0-2
-   0
-   5,L
-   1,L,J
-  13,L
-   1
-   1,X
-  73,R
-   1,X
-  18
-  10,L,X
-   8,L,J
-  14,L,U,Z
-  11,J,G
-   1,R
-  17,L,K,G
-  11,J,G
-   1,R
-  13,L,K,G
-   1,L
-   1,J
+   7,R
    2,R,J
-   2
-   3,R
-   1,L
+  12,R
+   8,L
+   2,L,J
+  41,L
+   1,X
+ 151,R,U
+   1,J
+  23
+   1,X
+ 128,R,U
+   1,X
+  19
+  12,L,C
+  15,L,K
+  10,J,G
+   1,R,J
+   1,L,J,G
+  14,L,K,G
+  13,J,G
+   1,R,J,G
+   1,L,J,G
+  14,L,K,G
+   6,J,G
+   1,R,J,G
+   1,K
+   1,J
+   7,R,J
    1,K
   25,L,K
    6,J,G

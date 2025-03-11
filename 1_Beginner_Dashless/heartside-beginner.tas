@@ -3,7 +3,7 @@
 #XNA/FNA resync from Bred
 #55X
 
-RecordCount: 3727
+RecordCount: 3730
 
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
@@ -12,7 +12,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
 
 #Start
 #lvl_beg_heart_00 (0X)
-#console display_message 1 0.65 50 false atpx8, Bred, Cr33pyCat, NoHa, RichConnerGMN 
+#console display_message 1 0.65 50 false atpx8, Bred, Cr33pyCat, NoHa, RichConnerGMN
   36
    7,R
   10,R,J
@@ -680,7 +680,7 @@ AnalogMode, Precise
    6,R,D,G
   40
 
-#lvl_beg_heart_05 
+#lvl_beg_heart_05
   22,R,D,G
   27,R,J,G
   15,L,K,G
@@ -901,24 +901,20 @@ AnalogMode, Precise
   12,L,K
   27,U,X
    4,R
-  83,R,Z
+  65,R,Z
   14,U,X
-   1,L
-   1
-   2,R
-   1
    1,R
    1
-   2,R
-   1,L
-   5,J,G
-  11,L
-   7,L,D
-   5,L
-Repeat, 4
-   1,L,J
    2,L
-EndRepeat
+   1
+   1,L
+   1
+   2,L
+   1,R
+   5,J,G
+  11,R
+   6,R,D
+   1,R
   71,U,X
    9,L
   15,U,C
@@ -1117,4 +1113,4 @@ EndRepeat
   27,R,U,X
  122,R,D
 
-ChapterTime: 3:11.624(11272)
+ChapterTime: 3:11.029(11237)

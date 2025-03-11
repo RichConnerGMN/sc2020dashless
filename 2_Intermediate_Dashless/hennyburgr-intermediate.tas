@@ -1,46 +1,53 @@
 #Made by mathb0y, Toster
-#Dash saves by Renatotheflowey, Cr33pyCat
+#Dash saves by Renatotheflowey, Cr33pyCat, ninz
 #Optimizations by Renatotheflowey
-#31x
+#30x
 
-RecordCount: 5622
+RecordCount: 5705
 
 console load SpringCollab2020/2-Intermediate/hennyburgr
    1
 
 #Start
 #lvl_hennyburgr_intro
-#2x
-  34,L,J
-  13,D
-  12,J
-   4,R,J
-  14,U,X
-  14,R,J
-   8,R
+#1x
+  28,L,J
+  11
+   1,L
+   3,J
+   7
+  12,R
+  12,L,J
+   4,L
+   9
+   1,L
+   1
+   1,G
+   3,J,G
+  10,K,G
+   1,J
+  14,R,K
+  10,R,Z
    1,R,J
-   3,R
+   7,R
    1,R,J
-  14,R
-  14,R,Z
-   1,R,J
-   1,R
+   6,R
   40
 
 #lvl_hennyburgr_1(1)
 #1x
-   5,R
-   5,R,J
-   5,R
-  10,R,J
    8,R
-   3,R,K
-   3,R,J,G
-   4,R
-  11,J,G
-   1,L,J
-   6,J
-  22
+   8,R,D,J
+   5,R
+   3,R,J
+  13,R
+   2,R,J
+   2,R
+   2,R,J,G
+   5,R
+  21,J,G
+   5,L
+   9
    5,L
   15,L,J
   12
@@ -302,7 +309,7 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
   18,R,C
   40
 
-#lvl_hennyburgr_1 (3)
+#lvl_hennyburgr_1 (0)
 #2x
   31,R
    1,R,J
@@ -499,7 +506,7 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
   15,L,D
   40
 
-#lvl_hennyburgr_1 (4)
+#lvl_hennyburgr_1 (1)
 #0
    5,D
    2,L,D
@@ -568,4 +575,4 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    1,K
    1,J
    1,K
-ChapterTime: 1:29.352(5256)
+ChapterTime: 1:29.556(5268)

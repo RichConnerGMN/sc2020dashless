@@ -1,5 +1,5 @@
 #Made by masrock9
-#Dash saves by exopta, aptx8, Cr33pyCat
+#Dash saves by exopta, atpx8, Cr33pyCat
 #Optimizations by RichConnerGMN, atpx8, Renatotheflowey, exopta, Cr33pyCat
 #14x
 
@@ -9,7 +9,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
 #Start
  190
 
-#lvl_11(0x)
+#lvl_1 (0x)
    7,L,J
    2,J
    1,K
@@ -110,7 +110,7 @@ EndRepeat
    1,R,J
   40
 
-#lvl_3 (1x)
+#lvl_3 (1) (1x)
   14,R
   21,R,J
    1,G
@@ -265,23 +265,19 @@ EndRepeat
    2,L,J,G
    1,J
    2,L,J
-  24,L
-   1,L,J
-   5,L
-   4,L,J
-   1,L
-   2
-   1,L
-   1
-   1,L
-   1
+   8,L
+  11,L,J
    7,L
+   2,L,J
+  15,L
+   3,L,D
+   1
   10,L,J,G
    2,J
    2,L,J
    1,L,K,G
-  13,L,J,G
-   7,K
+  12,L,J,G
+   8,K
   40
 
 #lvl_5 (0x)
@@ -292,7 +288,7 @@ EndRepeat
   46,R,D
   40
 
-#lvl_3_part2 (0x)
+#lvl_3 (2) (0x)
    2,R,D
    1,R,J
   10,D
@@ -309,7 +305,7 @@ EndRepeat
    3,R,D
   40
 
-#lvl_7 (0x)
+#lvl_7 (1) (0x)
    7,R,D
    1,R,J
   14,R
@@ -427,11 +423,11 @@ EndRepeat
    1,R,J
   40
 
-#lvl_8 (0x)
+#lvl_8 (1) (0x)
    1,R
   40
 
-#lvl_7_part2 (0x)
+#lvl_7 (2) (0x)
    1,S
    1,D,J
   69,O
@@ -440,7 +436,7 @@ EndRepeat
   13,L
   40
    
-#lvl_8_part2 (1x)
+#lvl_8 (2) (1x)
    1,L
    1,L,J
   14,L
@@ -660,6 +656,7 @@ EndRepeat
    9,R
    6,R,J
    5,J
+#0:54.213(3189)
   15,U,X
    1
    2,L
@@ -830,25 +827,25 @@ EndRepeat
    9,L
    2,L,J
    1,L
-   8,L,J
+   9,L,J
    1,K,G
   10,L,K
    1,R,K
-  15,L,J,G
-   5,K,G
-   6,L,K
+  14,L,J,G
+   3,K,G
+   8,L,K
    1,R,K
   14,L,J,G
   12,K,G
    3,L,J,G
    7,L
   12,L,J
-   9,K,G
-   1,R
+   8,K,G
+   1,R,K
   14,L,J,G
    1,L,K,G
   12,L,J,G
    6,R,K
   14,L,U,X
  135
-ChapterTime: 1:10.958(4174)
+ChapterTime: 1:10.924(4172)

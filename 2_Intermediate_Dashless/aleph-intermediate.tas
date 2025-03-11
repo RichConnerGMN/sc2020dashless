@@ -1,9 +1,9 @@
 #Made by Toster
-#Dash saves by Cirion02, pansear, baamboo
+#Dash saves by Cirion02, pansear, baamboo, Tyran
 #Optimizations by Renatotheflowey, atpx8, Curcuit
-#27x
+#26x
 
-RecordCount: 2413
+RecordCount: 2427
 
 console load SpringCollab2020/2-Intermediate/aleph_null
    1
@@ -457,14 +457,16 @@ EndRepeat
    5
   15,U,X
   30,F,270.0001
-  27,L,D,X
-  15,L,U,C
-   6,L
-  19,L,U,X
+  26,L,D,X
+  15,L,U,Z
+  22,L
   15,L,Z
-  14,F,359.999
-  14,L
-  23,L,D,X
+   7,L
+  12,L,J,G
+   1,L,K,G
+  11,U
+  43,F,290
+  18,L,D,X
    1,S
    1,D,J
   69,O
@@ -647,4 +649,4 @@ Repeat, 9
    1,K
 EndRepeat
   30
-ChapterTime: 1:09.853(4109)
+ChapterTime: 1:10.533(4149)

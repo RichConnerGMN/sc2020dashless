@@ -1,6 +1,6 @@
 #Made by atpx8
-#8x
-RecordCount: 3034
+#7x
+RecordCount: 3203
 
 console load SpringCollab2020/2-Intermediate/Evilleafy
    1
@@ -125,48 +125,37 @@ EndRepeat
   11,J
    6,L,J
   13,G
-   2,L,J,G
-   8,J,G
+   1,L,J,G
+   4,J,G
+   7,G
+   1,L,G
+   2,G
   26
    1,R,D
 #should i have used featherline? yes
 #did i? no
-  39,F,95
-   8,F,45
-  51,F,181.8
-  32,F,50
-  39,F,5
-  33,F,9.8
-  24,F,42.0
-   4,F,90
-   1,F,65,0.69
-  33,R
-   4
-   1,R
-   4
-   2,L,G
-   2
-   1,L,G
-   1
-   2,L,G
-   1,J,G
-   1,L,J
-   3
-   6,L
-   3,R
-   2,R,D
-   1,R,J
-   1,R
-  11,R,J
-  16,U,Z
-  12,L,J,G
-   6,L,K,G
+  34,F,98.961
+   1,F,95.987
+  13,F,64.539
+   1,F,64.019
+   1,F,63.018
+  11,F,3
+  54,F,0.038
+   3,F,359,0.69
+   2,F,0,0.69
+  19,L
   40
 
-#lvl_Evilleafy_03 3x
-  12,L,J,G
-   9,L
+#lvl_Evilleafy_03
+   1
+  72,O
+   6,L
+   1,L,D
+   1,L
    2,L,J
+   9,L
+   1,L,K
+   5,L
    1,J
    5,L,J
    3,J
@@ -441,9 +430,7 @@ EndRepeat
    1,F,18,0.69
    1,R
   26
-StartExportGameInfo infodump.txt
    1,R,D
-FinishExportGameInfo
   33,F,98.409
    1,F,95.582
   33,F,84.504
@@ -490,4 +477,4 @@ FinishExportGameInfo
    9,F,23
  146,R,X
 
-ChapterTime: 1:35.234(5602)
+ChapterTime: 1:33.109(5477)

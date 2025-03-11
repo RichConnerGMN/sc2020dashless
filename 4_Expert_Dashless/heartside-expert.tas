@@ -1,12 +1,11 @@
 #Made by Renatotheflowey
-#Dash saves by Cr33pycat
-#53x
-
+#Dash saves by Cr33pycat, Tyran
+#52x
 
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 7135
+RecordCount: 7166
 
 console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1
@@ -81,39 +80,36 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,R,K
    2,R
    2,R,J,G
-   1,R
-   4,R,J
+   5,R,J
   40,J
 
 #lvl_ExHS_01
 #7x
-   3,R,J
-   1,R,K,G
-  13,R
-  11,R,J
-  15,R,D
-  10,R,D,J
-  17,R
-  14,R,Z
-  33,R,J
-  10,L,D
-  23,L
-   1,L,K,G
-   2,L,J,G
-   1,L
-   4,L,K
-   3,L,J,G
-   2,D
-  17,L,D
-  10,L,K
-  30,L,D
-   8,L,J
-   1,L
-   5,L,J
-  12,L,D
-   1,L
-  33,L,D,X
-   4,L,J
+  14,R
+   9,R,N
+ 342,U
+   1,J
+  23
+   1,N
+ 413,U
+   1,J
+  23
+   1,N
+ 487,U
+   1,J
+  23
+   1,N
+ 553,U
+   1,J
+  19
+   5,R,Z
+   1,R,J
+   2,R
+   2,R,J
+   5,R
+   7
+  23,D
+  19,R,D
   15,D,C
   11,R,D
   16,R,Z
@@ -1443,5 +1439,4 @@ Repeat,67
 EndRepeat
    1,R,J
 
-ChapterTime: 4:02.539(14267)
-   
+ChapterTime: 4:31.422(15966)
