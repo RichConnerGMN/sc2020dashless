@@ -1,9 +1,9 @@
 #Made by Toster
 #Dash saves by Cr33pyCat, atpx8, RichConnerGMN, Wirare
-#Optimizations by Bred, RichConnerGMN
-#43x
+#Optimizations by Bred, RichConnerGMN, atpx8
+#43X
 
-RecordCount: 2229
+RecordCount: 2282
 
 console load SpringCollab2020/3-Advanced/_sleepie
    1
@@ -11,8 +11,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
 #Start
   84
 
-#lvl_room_0
-#0x
+#lvl_room_0 (0X)
    1,R,J
   14,R
    1,R,D,J
@@ -26,8 +25,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
   45,R,X
   40
 
-#lvl_room_1
-#5x
+#lvl_room_1 (5X)
   26,R
    1,J
   41,R,D
@@ -109,8 +107,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
   15,R
   40
 
-#lvl_room_2
-#5x
+#lvl_room_2 (5X)
    4,R
    1,R,J
   29,R,D
@@ -121,10 +118,12 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1,L,J
   19,L,D
    3,R,D
-  20,R
-  57,D
+   1,R,J
+  18,R,D
+  30,D
+   4,R
   10,R,Z
-  47,R,J
+  45,R,J
   15,R,U,X
    4
    1,J
@@ -195,7 +194,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
   36,L,J
   26,L,D
 #Spinner cycle 0-2
-   1
+   0
 #-----------------
   15,U,X
   16,L,G
@@ -223,8 +222,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
    7,R,U,Z
   40
 
-#lvl_room_3
-#0x
+#lvl_room_3 (0X)
   29,R,J
    1,R
   11,R,K
@@ -271,8 +269,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1,R,J
   40
 
-#lvl_room_4
-#32x
+#lvl_room_4 (32X)
   22,R,D
    6,R,D,J
    5,R
@@ -580,8 +577,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
  209,U,X
   43
 
-#lvl_room_5
-#1x
+#lvl_room_5 (1X)
    1,S,N
    1,D,J
   72,O
@@ -590,4 +586,5 @@ console load SpringCollab2020/3-Advanced/_sleepie
   31,R,D,X
   99,R,J
   17
-ChapterTime: 1:28.553(5209)
+
+ChapterTime: 1:28.094(5182)

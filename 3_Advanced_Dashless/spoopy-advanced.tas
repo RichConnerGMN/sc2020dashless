@@ -2,7 +2,7 @@
 #Dash saves by Cr33pyCat
 #22x
 
-RecordCount: 3439
+RecordCount: 3532
 
 console load SpringCollab2020/3-Advanced/Spoopy
    1
@@ -450,7 +450,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    4,R,D
   40
 
-#lvl_spoopy_05
+#lvl_spoopy_05 (0)
 #3x
   21,R,D
    1,D
@@ -554,7 +554,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    8,R
   43
 
-#lvl_spoopy_06
+#lvl_spoopy_06 (0)
 #0x
   12,R
   14,R,J
@@ -570,7 +570,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    4,L
   40
 
-#lvl_spoopy_05
+#lvl_spoopy_05 (1)
 #0x
    4,L,D
    6,L,J
@@ -581,7 +581,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    4,R
   43
 
-#lvl_spoopy_06
+#lvl_spoopy_06 (1)
 #10x
   15,R
    9,R,J
@@ -759,32 +759,27 @@ EndRepeat
 #lvl_spoopy_07
 #1x
   11,R
-   3,R,J
-  20,R,D
+   2,R,J
+   1,R
+   6,R,J
+   9,R,D
+   8,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-  15,R,J
+   1,R,J
+   1,R,K
+  11,R,J
   15,R,X
-  49,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K,G
-  76,R
-ChapterTime: 1:40.759(5927)
+  16,R,D
+  43,L,D
+   3,L
+Repeat,20
+   1,L,J
+   1,L,K
+Endrepeat
+  33,L
+ChapterTime: 1:40.674(5922)

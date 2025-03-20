@@ -1,6 +1,8 @@
 # Made by RichConnerGMN
-# 41X
-RecordCount: 930
+# Dash saves by atpx8
+# Optimizations by atpx8
+# 39X
+RecordCount: 1133
 console load SpringCollab2020/3-Advanced/BeefyUncle
    1
 
@@ -54,13 +56,10 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   15,R,U,Z
    8,R
    9
-   5,R
-  16,D
-  15,U,X
-   3
-  24,R
-  13,R,J
-  14,U,X
+  20,L
+  30,R,U,X
+  20,R,D,J
+   5,U,X
   33,R,J
   20,R
    6,R,D
@@ -71,7 +70,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   10,R
   40
 
-#lvl_beefy_02 (9X)
+#lvl_beefy_02 (8X)
    4,R
    1,R,J
   14,R
@@ -143,19 +142,24 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   18,L,D
    6,L
    1,L,J,G
-  15,L
+  14,L
   16,R,D
-  34,L
-  15,L,X
-  13,L
-  15,L,U,Z
-  12,U,X
-  36,R,J
-   3,K,G
+   9,L,Z
+  23,L,J
+   8,L
+   5
+  12,L,J,G
+   2
+  15,U,X
+   2,R
+   2
+  35,R,J
+   1,R,J
+   4,J
+  11,K,G
    1,L,K
-  11,L,J
-   1,L
-   7,K,G
+  12,L,J
+   4,K,G
    1,R
   14,L,J,G
    1,L,K,G
@@ -165,17 +169,15 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    4,L
   40
 
-#lvl_beefy_03 (8X)
+#lvl_beefy_03 (7X)
   11,L
   18,L,J
-  13,U,X
-  34,L,J
-  28,L,X
-  34,L,C
-  15,U,X
-   3,L
-  15,U,C
-  13,L
+  12,U,X
+  33,L,J
+  27,L,U,Z
+  21,L,U,V
+  39,L,U,X
+   4,L,D
   33,R
   15,R,Z
   18,D
@@ -198,20 +200,23 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   40
 
 #lvl_beefy_04 (0) (4X)
-  12,L
-  14,L,Z
+   6,L
    1,L,J
-  10,L,D
-  11,L,D,J
-  33,L,K
-  10,J
-  11,R,J
-   4,K,G
-   2,R,K
-  14,R
-  33,R,J
-  15,U,X
-  14,U,C
+  12,L
+  17,L,U,Z
+   1,R,J,G
+   1,R
+   1,R,K,G
+   1,R
+   5,R,J,G
+   9,R
+  12,R,Z
+   1,L,J
+   6
+  17,L,J
+  17,U,X
+   8,L
+   1,G
   26,R
   15,U,X
   10,J,G
@@ -369,4 +374,4 @@ Repeat,61
    1,R,D
 EndRepeat
 
-ChapterTime: 0:56.066(3298)
+ChapterTime: 0:54.485(3205)

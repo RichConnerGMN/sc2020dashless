@@ -2,7 +2,7 @@
 #Dash saves by rosellarade, Renatotheflowey, Cr33pyCat
 #Optimizations by Curcuit, RichConnerGMN, Toster
 #47x
-RecordCount: 3234
+RecordCount: 3341
 console load SpringCollab2020/4-Expert/deskilln
    1
 
@@ -147,8 +147,8 @@ console load SpringCollab2020/4-Expert/deskilln
    1,L,J,G
    1,L,K,G
   11,L
-  12,L,J
-  11,K,G
+  13,L,J
+  10,K,G
    1,R,J
    7,R,K
   11,U,X

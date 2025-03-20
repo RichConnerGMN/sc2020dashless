@@ -1,10 +1,10 @@
 # Made by Renatotheflowey
-# Dash Saves by deliciousandnutritious
-# 31x
+# Dash Saves by deliciousandnutritious, Tyran
+# 29x
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 1692
+RecordCount: 1930
 
 console load SpringCollab2020/4-Expert/Bissy
    1
@@ -46,7 +46,7 @@ console load SpringCollab2020/4-Expert/Bissy
   10,R
   40
 
-#lvl_Bissy_01 (6x)
+#lvl_Bissy_01 (4x)
    4,R
    1,R,J,G
    8,R
@@ -100,68 +100,83 @@ console load SpringCollab2020/4-Expert/Bissy
    2,R,D
    1,R,J
    1,L,K,G
-
-  10,L,K
-   1,K
-   5
-   3,K
-   1,L,K
-   1,L
-   1
-   1,K
-   7
-  24,L,J
-   1,L,K
-  36,L
-  47,L,U,X
-  42,R
-  15,U,X
+   7,L,K
+   1,J
+  10,J
+   2
    2,R
-  11,R,J
-   6,R
-   1,R,J,G
-  14,R
-   1,R,J
-  16,R
+   7,R,G
+Repeat,16
    1
-   9,R,Z
+   1,R,G
+EndRepeat
+   8,J,G
+   5,L
+   1,L,J
+   1,L
+  11,L,K,G
+   1,K
+  11,L,K,G
+   3,L,K,G
+   1,L
+  15,U,X
+   4,L
+   6,R,J
+   8,R
+   1,R,K,G
+   1,R,J,G
+  18,R
+   3,R,J
+   5,R
+   2,R,J
+   7,R
   40
 
 #lvl_Bissy_02 (7x)
-   4,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  11,R,K,G
-   1,R
-   6,R,J
-  13,R
-  14,R,Z
-   1,R,J
-   6,R
-   2,R,D,J
-   1,R
-   6,R,J
-   9,R
+   5,R
+   1,R,G
    1
-   1,R
+   1,R,G
+   3
+   1,R,G
+   6,L,D,X
+   1,R,J
+   2,R,K,G
+   5,R
+   1
+   5,R
+   1,R,K
+   3,R,J,G
+  12,R,K,G
+   5,R
+   1,R,J
+  13,R
+   4
    1,R,J,G
+   3
+   9,R
+  42,R,J
+   1,R,K,G
+   2,L,K,G
+   1,R,J,G
+   9,R,K,G
+   9,R
+   1,R,J
   12,R
-   7,R,J
-   8,R
-   1,R,D
-  22,L,D
-   1,D
-   1,L,D
-   7,L
-   2,L,D
+   5
+  28,R
+  10,D
+   5,L,D
+  18,L
   14,L,Z
    5,L
    1,L,J
    1,L
-  38,L,J
-   5,L,D
-   1,L
+   5,L,J
+   2,J
+  31,L,J
+   4,L,D
+   2,L
    1,J,G
    6,L,J
    1,L
@@ -170,12 +185,14 @@ console load SpringCollab2020/4-Expert/Bissy
    2,L,J
    1,L
    5,L,J
-  16,L,D
+  14,L,D
+   2,L
    8,L,J
    4,L
   27,L,X
   10,L,J
    6,R,J
+   5,J
    1,R,K,G
    1
    1,L
@@ -213,30 +230,30 @@ console load SpringCollab2020/4-Expert/Bissy
   16,L,J
    3,J
    2,L,J
-  43,R,J
+  46,R,J
   14,U,X
    1,R,J
-  11,R
-   1,R,J,G
-   3,R,J
+  10,R
+   1,R
+   1
+   1,R,D,J
+   1,R
    1,R,K,G
-  13,R
+   1,R,J,G
+  12,R
+   2,R,J
+  16,R
    1,R,J
-  18,R
-   1,R,J
-   7,R
-   1,R,J
-   9,R
+  10,R
   40
 
 #lvl_Bissy_03 (7x)
-   6,R
+   4,R
    1,R,J
-  16,R
    1
-   1,R
+   2,R
    1
-   1,R
+  18,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -434,4 +451,4 @@ console load SpringCollab2020/4-Expert/Bissy
   69,R,D
   66
 
-ChapterTime: 0:58.701(3453)
+ChapterTime: 0:58.837(3461)

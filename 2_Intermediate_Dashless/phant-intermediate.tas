@@ -1,7 +1,7 @@
 #Made by Toster
 #Dash saves by Cr33pyCat
 #Optimizations by atpx8
-#9x
+#9X
 
 console load SpringCollab2020/2-Intermediate/phant
    1
@@ -22,22 +22,16 @@ console load SpringCollab2020/2-Intermediate/phant
    9,L,J,G
   11,L,D,X
    2,L
+Repeat, 4
    2,R
    2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
+EndRepeat
    5,U,X
    2,R
+Repeat, 3
    2,L
    2,R
-   2,L
-   2,R
-   2,L
-   2,R
+EndRepeat
  133
   40
 
@@ -177,8 +171,7 @@ console load SpringCollab2020/2-Intermediate/phant
    1,J
   40
 
-#lvl_phant-02
-#2x
+#lvl_phant-02 (2X)
    1,R,J,G
   11,R
    2
@@ -250,8 +243,7 @@ console load SpringCollab2020/2-Intermediate/phant
    4,R
   40
 
-#lvl_phant-03
-#0x
+#lvl_phant-03 (0X)
   10,R
    4,R,J
   14,R
@@ -326,8 +318,7 @@ console load SpringCollab2020/2-Intermediate/phant
   43,R,D
   40
 
-#lvl_phant-end
-#1x
+#lvl_phant-end (1X)
    3,R,D
    3,R,J
    4,R

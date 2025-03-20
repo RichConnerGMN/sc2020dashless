@@ -1,9 +1,9 @@
 #Made by Renatotheflowey
-#Dash saves by Cr33pyCat (1)
-#Optimizations by RichConnerGMN
-#5x
+#Dash saves by Cr33pyCat
+#Optimizations by RichConnerGMN and atpx8
+#5X
 
-RecordCount: 1500
+RecordCount: 1525
 
 console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1
@@ -11,8 +11,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
 #Start
  190
 
-#lvl_1a start
-#0x
+#lvl_1a start (0X)
    4,L,J
   28,L,G
    1,L,K,G
@@ -33,8 +32,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   12,R,D
   40
 
-#lvl_1b
-#1x
+#lvl_1b (1X)
    7,R,D
   40,R
    9
@@ -79,8 +77,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   11,L
   40
 
-#lvl_1c
-#1x
+#lvl_1c (1X)
    1,S,N
    1,D,O
   69,J
@@ -118,8 +115,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   38,L,D
   40
 
-#lvl_1d
-#1x
+#lvl_1d (1X)
    2,L,D
    3,L,J
   16,L,G
@@ -207,8 +203,7 @@ EndRepeat
    1
   40
 
-#lvl_1e
-#1x
+#lvl_1e (1X)
   21,R,G
    8,L
    2
@@ -222,7 +217,8 @@ EndRepeat
    1,R,J
    1,R,K,G
    2,R,J,G
-  30,R
+  21,R
+   9,R
    1,R,J
   22,R
   13,R,J
@@ -253,17 +249,14 @@ EndRepeat
    1,L,K,G
    1,L,J,G
    1,L,K,G
-   5,K
+   4,L,J,G
+   1,K
   40
 
-#lvl_1f end
-#1x
-   1,R
-   1
+#lvl_1f end (1X)
    1,L,J,G
    1,L,K,G
-   1,L,J,G
-  14,L
+   9,L
    1,L,J
   14,L
    1,L,J
@@ -272,5 +265,6 @@ EndRepeat
   14,L
    4,L,J
   15,L,U,X
- 135,L
-ChapterTime: 0:43.299(2547)
+ 134,L
+
+ChapterTime: 0:43.163(2539)

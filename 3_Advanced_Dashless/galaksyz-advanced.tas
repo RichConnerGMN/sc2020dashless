@@ -2,15 +2,14 @@
 #Dash saves by Cr33pyCat
 #Optimizations by Renatotheflowey, RichConnerGMN
 #33x
-
-RecordCount: 1940
+RecordCount: 1980
 
 console load SpringCollab2020/3-Advanced/Galaksyz
    1
-   
+
 #Start
   84
-   
+
 #lvl_Galaksyz_00 0x
    5,R
    1,R,J
@@ -238,15 +237,14 @@ EndRepeat
    9,R,J
   16,U,X
   27,D
-   7,F,179.62
-  25
-  12,F,115,0
-  12,F,50,0
-  10,F,0,0
-  21
+   7,F,179.41
+  28
+  12,F,115
+  12,F,50
+  10,F,0
+  20
   12,F,65
-  19,F,90
-   1,F,90,0
+  18,F,88.95
    1,R
   27,R,D
   44,F,102.369
