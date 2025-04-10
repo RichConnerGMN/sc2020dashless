@@ -1,0 +1,83 @@
+# SpringCollab2020
+# https://gamebanana.com/mods/150813
+
+RecordCount: 33
+
+console load SpringCollab2020/0-Lobbies/1-Beginner 3096 80
+   1
+
+#Start
+  36
+
+#lvl_lobby_main
+   5,R
+Repeat, 5
+   1,R,J
+  14,R
+EndRepeat
+  12,R,J
+   3,R
+   2
+   3,K
+   8,R,J,G
+   1
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   7,R,J
+   1,L,J
+   1,K
+   1,J,G
+   1
+   8,R
+   1,R,J
+  21,R
+   1,R,J,G
+   4,R,K,G
+   8,R
+   1
+   1,R,J
+  14,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   7,R
+   1,R,J
+   1,R
+   1,R,K
+   5,R
+   4,R,J,G
+   5,R
+   2,R,J
+   1
+   9,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   1,R,J
+  18,R
+  12,R,D
+   9,R,J
+   9,R
+   1,R,J
+  14,R
+   2,R,D
+   1,R,J,G
+   1,R,K,G
+   9,R
+   6,R,J
+  23,R
+   1,N
+#0:06.477(381)

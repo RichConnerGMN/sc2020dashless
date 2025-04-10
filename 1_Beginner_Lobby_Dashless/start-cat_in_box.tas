@@ -8,9 +8,7 @@ console load SpringCollab2020/0-Lobbies/1-Beginner
    1,R,J
   18,R
    6,R,J
-  14,R
-   1,R,J
-  11,R
+  26,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -55,8 +53,9 @@ console load SpringCollab2020/0-Lobbies/1-Beginner
    1
    1,D
    1
-   2,R,J
-   1,L,K,G
+   1,J
+   1,R,J
+   1,R,K,G
    1,R,J,G
    1,R
    1
@@ -69,33 +68,63 @@ console load SpringCollab2020/0-Lobbies/1-Beginner
    5,R,D
    1,R,J
   16,R
-   2,D
+   1,D
+   1
    2,R
    1,R,J
    1,R,K,G
    1,R,J,G
-  11,R
+#  11,R
+#   1,R,J
+#  14,R
+#   1,R,J
+#  18,R
+#   3,R,D
+#   1,R,J
+#  10,R
+#   1,R,J,G
+#   3,R,K,G
+#   6,R
+#   1,R,J
+#  35,R,D
+#  46,L,D
+#0:08.296(488)
    1,R,J
-  14,R
-   1,R,J
-  21,R,D
-   1,R,J
+   1
+   4,R
+   3,R,J
   10,R
-   1,R,J,G
-   3,R,K,G
-   6,R
    1,R,J
-  35,R,D
-  46,L,D
-   2,L
-   5,L,J
+   2
+   1,R,J,G
+   1,R,K,G
+  18,R
+   2,R,D
+   1,R,J
+   9,R
+   5,R,J,G
+  18,R
+  24,R,D
+  33,L,D
+   2,D
+   1,L,D
+   1,D
+   3,L,D
    4,L
+   1,L,D
+   1,L
+   5,L,J
+   5,L
    1,R
    1,K
-   3,J,G
+   2,J,G
   18,L
-  13,L,D
+   8,L,D
+   1,L
+   1,L,D
+   3,L
    2,L,J
-   7,L
-   1,X
-#0:09.265(545)
+   8,L
+   1,N
+#0:09.180(540)
+#rolled by aurora

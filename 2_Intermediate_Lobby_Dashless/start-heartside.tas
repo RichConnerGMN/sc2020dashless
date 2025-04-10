@@ -1,14 +1,22 @@
-RecordCount: 109
+# Made by Toast
+# Resynced by Gregovin
+RecordCount: 267
 console load SpringCollab2020/0-Lobbies/2-Intermediate
    1
 
-#lvl_Biggo_1
+#start
  190
+
+#lvl_Biggo_1
    4,R
    1,R,J
   14,R
    1,R,J
-  14,R
+   4,R
+   1,S
+   1,D,O
+  34
+  10,R
    1,R,J
   18,R
    1,R,J
@@ -16,57 +24,73 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
    1,R,J
    1,R,K,G
    1,R,J,G
-  11,R
+   1,R
+   1
+   9,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  28,R,D
+  18,R
+  10,R,D
    1,R,J
   25,R
    1
    1,R,J
    1,R,K,G
    1,R,J,G
-  18,R
+
+  19,R
+   1,R,J
    1
+  17,R
+   1,R,J
+   1
+  11,R
+   2
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   2,R
+   1
+   1,R
+   2
+   4,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   8,R
+   1,R,J
+   6,R
+   1,R,K,G
+  14,R
+   1,R,D,J
+   2,R
+   1,R,K,G
+  12,R
    1,R,D,J
    5,R
    1
-  12,R
-   1,R,J
-  14,R
-   1,R,D,J
-   2,R,K,G
-   2
+   1,R
+   3
+   1,R,J,G
+   1,R,K,G
    6,R
-   1
+   2
+   5,R
+   1,R,J,G
+   1,R,K,G
    1,R
    1
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  12,R
-   1,R,J
-   4,R
-   3,R,J,G
-  10,R
-   3
-   4,R
-   1,R,D,J
-   1,R,K,G
-   1,R,J,G
-   2,R
-   1
    8,R
    1,R,J
-   8,R
-   1
-   2,R
-   3
-#Set,Player.Position,1919.14,2424.00007009806
-   1,R,J
-   1,R,K,G
-   1,R,J,G
   14,R
+   1,R,J
+  18,R
+  14,R,D
+   5,R,J
+  14,R
+   1,N
+#0:07.293(429)

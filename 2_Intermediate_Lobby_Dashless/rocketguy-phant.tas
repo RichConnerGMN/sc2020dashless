@@ -1,34 +1,36 @@
+RecordCount: 147
+
 console load SpringCollab2020/0-Lobbies/2-Intermediate 2072 2056
-    1
+   1
 
 #Start
-   36
+  36
+
 #lvl_Biggo_1
    5,R
    1,R,J
   14,R
    1,R,J
-  28,R,D
+  18,R
+  10,R,D
    1,R,J
-   7,R
+   4,R
    1
-   9,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R
-   1,R,K
-   3,R
+   4,R
+   5,R,J
+   8,R,J
+   3,R,K
    1,R,J,G
    2,R,K,G
    7,R
+   1,R,J
+   6,R
    2,R,J
-   5,R
-   2,R,J
-   8,R
-   2
-   5,R
-   4,R,J
+  10,R
+   1,R
+   1,R
+   1,R
+   4,R,D,J
    1,R
    1,R,K,G
    1,R,J,G
@@ -38,9 +40,11 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 2072 2056
    8,R,J
    1,R,K
    1,R,J,G
-   8,R
+   1,R
+   1
+   6,R
    1,R,K
-   1,R,J
+   1,R,D,J
    4,R,K,G
    5,R
    1,R,K
@@ -49,7 +53,8 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 2072 2056
    5,R
    1,R,J,G
    1,J
-  14,R,J
+  10,R,J
+   4,R
    2,R,K,G
    1,K
    3,R,K
@@ -62,24 +67,23 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 2072 2056
    2,R,K
    6,R,J,G
    6,R
-   3,L,J
-  12,L
-  31,L,D
+   2,J
+  11
+   2,D
+  30,L,D
    1,L,J
-   1,L
-   1
-   2,L
-   3
-   4,L
+   9,L
    1
    1,L
-   2,L,J
+   1
+   1
+   1,L
+   3,L,J
    1,L,K,G
-   1,L,J,G
-   2,L,K,G
+   3,L,J,G
+   4,L,K,G
    2,L
-   4,L,J,G
-   5,L
-   5,L,J
-   1,X
-#0:05.134(302)
+   1
+   6,L
+   1,N
+#0:05.066(298)

@@ -1,40 +1,55 @@
 console load SpringCollab2020/0-Lobbies/1-Beginner 3416 -1264
    1
-
 #Start
-#lvl_lobby_main
   36
-   5,R
+
+#lvl_lobby_main
+   5,L
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+   8,L,J
+   7,L
+   2,L,J
+   9,L
+   1
+   7,D
+ 141,R,D
+  26,R
+   2
+   1,R
+   1,R,J,G
+   1,R,K,G
+  12,R
    1,R,J
   18,R
+  12,R,D
    1,R,J
   14,R
    1,R,J
-  28,R,D
-   4,R
-  13,R,J
-   1,R,K,G
-   4,L,K
-   1,R,K
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  12,R
-   1,R,J
-  18,R
-   4,R,J
    6,R
    1,R,J
   13,R
- 137,D
-  31,R,D
-   1,G
    1
-   8,R,D
    1,R,J,G
    1,R,K,G
-  12,R
+   1,R
+   1
+   7,R
    7,R,J
-  19,R
-   1,X
-#6.256
+  22,R
+   1,N
+#0:06.222(366)
+
+#reroute+resync
+#go left around top platform
+#and move right throughout entire
+#fall, rather than going right
+#and falling straight - each still
+#frame is effectively 1/2 of a left
+#moving frame so this method reduces
+#distance travel a lot - also reaches
+#ground sooner which allows for better
+#speed chaining
+#-2f (expected +23f resync -25f reroute)

@@ -1,0 +1,45 @@
+RecordCount: 119
+console load SpringCollab2020/0-Lobbies/1-Beginner 3096 80
+   1
+#Start
+  36
+
+#lvl_lobby_main
+   5,R
+Repeat, 5
+   1,R,J
+  14,R
+EndRepeat
+  12,R,J
+   3,R
+   2
+   3,K
+   8,R,J,G
+   1
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   4,R,J
+  18,R
+  10,R,D
+  10,D
+   7,R,D
+   6,R
+   1,R,D
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   6,R,J
+  18,R
+   3,R,D
+   1,N
+#0:04.182(246)

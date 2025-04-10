@@ -1,0 +1,88 @@
+# SpringCollab2020
+# https://gamebanana.com/mods/150813
+
+RecordCount: 15
+
+console load SpringCollab2020/0-Lobbies/2-Intermediate 480 296
+   1
+
+#Start
+  36
+
+#lvl_Biggo_1
+   1,L,D,J
+   5,L
+   8
+   5,R
+  21,R,D
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+   6,R
+   9
+  36,L
+   7,L,D
+  13,G
+   4,L,G
+   4,L,J,G
+  19,L,G
+  17,L,D,G
+  72,D,G
+  65,L,D,G
+   1,D,G
+  22,L,D,G
+   1,L,G
+   1,L,D,G
+   1,L,G
+   1,L,G
+   1,L,D,G
+   1,D,G
+   1,L,D,G
+   5,L
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+   1,J
+   1,L,J
+   6,L
+   1,L,J
+  13,G
+   6,L,J,G
+   9,L,G
+   1,L,J,G
+   5,L,G
+   8,L,J,G
+  13,L,G
+   1,L,J,G
+   2,L,G
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1
+   7,L
+  12,L,J
+   2,L
+  13,G
+   9,L,G
+   4,L,J,G
+   1,R,J
+   2,L,J
+   1,L
+   1,L,K,G
+  10,K
+   1
+   4,L,J,G
+   1
+   1,L
+   1,L,K,G
+   1,L,J,G
+  10,L
+   1,N
+#0:09.486(558)

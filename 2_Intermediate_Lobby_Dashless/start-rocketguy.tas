@@ -2,8 +2,9 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
    1
 
 #Start
-#lvl_Biggo_1
  190
+
+#lvl_Biggo_1
   15,U,X
    8,L
    2
@@ -27,67 +28,64 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
    1,R,K,G
    4,R,J,G
    2,R
+
    1,R,J,G
-  10,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R,D
-   2,R
-   4,R,J
-   6,R
-   1,R,J
-   2,R
+   1,R
    1
+   8,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   3,R,D
+   1,R,J
+  17,R
+   1,D
    1,R
    2
-   2,R
-   1
    1,R
    1,R,J
    1,R,K,G
    4,R,J,G
    7,R
    1,R,J
-   3,R
+   1,R,J
+   1,R
    1,R,J,G
    3,R
    1,R,K,G
-   8,R
-   2,R,K
+  10,R
    1,R,J
    2,R,K,G
    5,R
    1,R,J,G
    1,R
    1
-   1,R
-  16,R,D
-   1,R,D,J
-  18,R,D
+  17,R
+   1,R,J
+  18,R
    1,R,J
    9,R
-   1
+   1,R,J
    8,R
+   1,R,J
    2,R
-   1
+   1,R,J,G
    1,R
-   1,R,D,J
-   1,R,K,G
-   4,R,J,G
+   1,K,G
+   1,R,K
    7,R
    1,R,J
-   3,R,K,G
+   4,R,K,G
    6,R
-   1,R,K
    1,R,J,G
-   1,J
    2,R
    1,R,K,G
    8,R
-   2,R,K
+   1,R,K
+   1,R
    1,R,J
    4,R
    7,R,J,G
@@ -95,7 +93,8 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
    4,R,J,G
    2,R,K,G
   12,R,J,G
-  13,R,D
-  15,D
-   1,X
-#0:06.647(391)
+  12,R
+   6
+   9,D
+   1,N
+#0:06.545(385)

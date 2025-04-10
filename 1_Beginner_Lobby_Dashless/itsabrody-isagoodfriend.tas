@@ -2,14 +2,14 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4120 832
    1
 
 #Start
-#lvl_lobby_main
   36
+
+#lvl_lobby_main
    6,L
    1,L,J
    1,L
    1,L,J,G
-   1
-   1
+   2
    9,L
    6,L,D,J
    5,J
@@ -50,10 +50,11 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4120 832
    1,L,K,G
    2,L,J,G
    1,J
-   4,L,J
-   8,L
    3,L,J
+   6,L
+   5,L,J
    1,L
+   1,L,J
    1
    4,L
    1
@@ -68,20 +69,21 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4120 832
    1,L,K,G
    1,L
    1
-   9,L
-   1,L,J
-  17,L
-   1,L,J
-  12,L
-   1
    1,L
+   6,L
    1,L,J
+  18,L
+   1,L,J
+  11,L
+   1
+   2,L
+   1,L,D,J
    1,L,K,G
    1,L,J,G
    1,L
    1
    9,L
    2,L,J
-  37,L
-   1,X
-#0:05.406(318)
+  36,L
+   1,N
+#0:05.219(307)

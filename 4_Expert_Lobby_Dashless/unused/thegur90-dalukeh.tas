@@ -1,0 +1,49 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 2080 432
+   1
+
+#start
+  36
+
+#lvl_1
+   5,L
+   4,L,J
+  20,L
+   1,R
+   4
+   3,D
+  11,R,D
+   1,R
+  24,R,D
+  27,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   9,R
+   1,R,J
+  30,R
+  46,R,D
+   7,R
+   1
+   1,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   9,R
+   1,R,J
+  18,R
+   2,R,J
+   5,R
+   2,R,J
+   3,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   8,R
+   1,N
+#0:04.403(259)

@@ -2,11 +2,13 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3568 152
    1
 
 #Start
-#lvl_lobby_main
   36
-   1,R
+
+#lvl_lobby_main
+   4,R
    1
-   7,R
+   2,R
+   1,D
    1,R,J
    1,R,K,G
    6,R,J,G
@@ -29,5 +31,5 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3568 152
    9,R
    6,R,J
   23,R
-   1,X
-#0:01.921(113)
+   1,N
+#0:01.904(112)
