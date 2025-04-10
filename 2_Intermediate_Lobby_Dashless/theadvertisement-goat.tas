@@ -1,0 +1,55 @@
+console load SpringCollab2020/0-Lobbies/2-Intermediate 64 1520
+   1
+
+#start
+  36
+
+#lvl_Biggo_1
+   1,R,J
+#walking off slower by 1.001 pixel
+  18,R
+   2,D
+  23,R,D
+  11,L,D
+  32,D
+   1,R,D
+   1,D
+  29,R,D
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   3,R,D
+   1,R,J
+  18,R
+   3,R,D
+  10,R,J
+   9,R
+   1,R,J
+   9,R
+   6,R,D
+   1,D
+   1,R,D
+  56,L,D
+   1,L,J
+  14,L
+   4,L,J
+   9,L
+   1,L,J
+  30,L
+   2
+   2,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1
+   9,L
+   7,L,J
+  20,L
+   1,N
+#0:06.953(409)

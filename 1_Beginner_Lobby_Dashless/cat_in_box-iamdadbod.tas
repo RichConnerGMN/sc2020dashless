@@ -3,6 +3,7 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3256 704
 
 #Start
   36
+
 #lvl_lobby_main
    1,R
    2,R,J
@@ -11,67 +12,65 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3256 704
    1,R,K,G
    1,R,J,G
    5,R
-   1,R,J
-   1,R
    2,R,J
+   1,R
+   1,R,J
    2,R
    1,R,J
    1,R,K,G
    9,R
-   1,R,J
-   1,R,K,G
-   3
-   5,R
+   1,R,J,G
+   2,R,K,G
+   1,K
+   3,R,K
+   9,R
+   1,R,K
+   1,R
+   9
+   7,D
+   8,L,D
+   2,L
+  18,L,D
+   1,L
+   1,L,D
+   1,L
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
    1
-   1,R,J
-  24,L,D
-   3,D
-  29,L,D
-   1,L,J
-   1,L,K
-  11,L,D
-   1,L,J
-   1,L,K
-   1,L,J
-  48,F,242.7
-  94,F,269.257
-  29,F,270.001
-  10,F,270
-  68,F,270.159
- 103,F,270.1
-  10,L
-   1,U
-   1,L
-   1,U
-   1,L
-   1,U
-   1,L
-   1,U
-   1,L
-   1,U
-   1,L
-   3,U
-   1,L
-Repeat, 30
+   5,L
+  17,D
+   1,F,180.3048
+   2,F,350.40598
+   1,F,350.4059
+   4,L
+   2,U
+ 283,F,270.07257
+  13,F,270.07254
+   8,L
+Repeat, 38
    1,U
    1,L
 EndRepeat
-  23,F,290
+   7,U
    1,L,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,J
    1,R,K
    1,R,J
    1,R,K
   12,R,J
    2,R,K,G
-   1
-  10,R
-   5,R,J
-   7,R
-   2,R,J
-  10,R
-   1,X
-#0:10.744(632)
+   1,K
+   1,R,K
+  13,R
+   1,R,J
+  15,R
+   1,N
+#0:09.826(578)

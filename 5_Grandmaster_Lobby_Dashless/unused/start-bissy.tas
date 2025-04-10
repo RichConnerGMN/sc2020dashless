@@ -1,0 +1,70 @@
+# SpringCollab2020
+# https://gamebanana.com/mods/150813
+
+RecordCount: 59
+
+console load SpringCollab2020/0-Lobbies/5-Grandmaster
+   1
+
+#Start
+ 190
+
+#lvl_1
+   6,R
+  11,R,J
+   1,R,K,G
+   1,R,J,G
+  23,R
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+   1,R,J
+  12,R
+   1
+   2,R
+   1,R,J
+   1
+   2,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   1,R,J
+   3,R
+   2,R,J
+   7,R
+   1,R,J
+   1,R,K,G
+   2,R
+   1,R,J,G
+   1,R
+   1
+   5,R
+   4,R,K
+   1,R,J
+   5,R,K,G
+   5,R
+   1,R,J
+  13,R
+   6,R,D
+  80,D
+  25,L,D
+  25,D
+  13,R,D
+ 108,R,X
+   3,J
+   2
+   1,K
+  10,R,J,G
+   6,R
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   8,R
+   4,R,J
+   5,R
+   2,R,J
+   7,R
+   1,N
+#0:07.548(444)

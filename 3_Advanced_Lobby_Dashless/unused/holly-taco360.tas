@@ -1,0 +1,33 @@
+# SpringCollab2020
+# https://gamebanana.com/mods/150813
+
+RecordCount: 32
+
+console load SpringCollab2020/0-Lobbies/3-Advanced 1352 320
+   1
+
+#Start
+  36
+
+#lvl_Adv_01
+   3,L
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+   1,L,J
+   1,L
+   1
+  16,L
+ 127,L,D
+   9,L,J
+   7,L
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+  18,L
+   6,L,J
+  17,L
+   1,N
+#0:04.369(257)

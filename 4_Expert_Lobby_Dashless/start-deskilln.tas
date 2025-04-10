@@ -3,56 +3,60 @@ console load SpringCollab2020/0-Lobbies/4-Expert
 
 #Start
  190
+#lvl_1
+
    1,L,D,J
-  18,L
-   1,L,D,J
-  22,L,D
-   2,L
+  15,L
+   1,J
+  20,L
+   6,L,D
    1,L,J,G
    2,L,K,G
    5,L
    3,L,K
    1,L,J,G
    1,L,K,G
-   9,L
+   1,L
+   1,L
+   7,L
    1,L,J
-  27,L
+  18,L
+   5,L,D
+   3,L
    1,L,J
-  15,L
-   7,L,J
-  20,L
-  12,L,D
+  14,L
+   8,L,J
+  19,L
+  13,L,D
   35,D
-  23,L,D
+  24,L,D
    1,D
   16,L,D
    1,L,J
   14,L
   10,L,J
   48,L
-  10,L,D
-   5,R,D
-   2,R
-   1,R,D
-   1,R
-   1,R,G
+   7,L,D
+   2,D
+   2,L,D
+   4,D
+   2
+   2,D
    1,R,J,G
-   1,R
-   1,K,G
-  38,R,K
-   1,L,J,G
-   4,R
-   1
-   1,R
-  10,L
-  17,L,D
-  40,R
-   3,R
+  12,R,K,G
+   5,R
+   8,R,K
+  13,R
+   1,K
+  13
+   6,L
+  14,L,D
+  43,R
    1
    1,R
    1,R,J
    1,R,K,G
    9,R,J,G
    9,R
-   1,X
-#0:07.786(458)
+   1,N
+#0:07.718(454)
