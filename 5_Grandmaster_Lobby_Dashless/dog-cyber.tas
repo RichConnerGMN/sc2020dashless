@@ -1,64 +1,79 @@
-RecordCount: 194
+RecordCount: 366
 
 console load SpringCollab2020/0-Lobbies/5-Grandmaster 504 496
    1
 
 #Start
   36
+
 #lvl_1
 #2x
-***
-   6,L
-   1,L,D,J
-   1,L
-   1,L,K,G
-***
-   9,L,J,G
-  28,L
-  11,L,J
-***
-  18,L
-   1,L,J,G
-   1,L
-***
-  12,L,J
+   4,L
    1
-  22,R,G
-   1,J,G
+   2,L
+   1,D
    1,L,J
-  34,L,K
-***
-  32,L,G
-   8,L,J,G
-  22,L
-   2
-***
-   5,L,J,G
-  15,L
+   1,L,K,G
+   1,L,J,G
+   1,J
+   6,L,J
+  21,L
+  12,L,J
+   5,L
   10,L,J
-***
-  26,L,G
-   1,J,G
-  27,R,K
-  17,R,U,Z
+  10,L
+   1,L
+   1,L,J,G
+   5,L
+   1,L,J
+   1,L,J
+   1,L
+   3,L,J
+   3,J
+   6
+  12,R,G
+   1,L,J
+  12,L,K
+   7,L,K
+  11,L,K
+   3,L,K
+  23,G
+   1
+   2,R
+   2
+   3,L,J,G
+   1,J
+   1,L,J
+  19,L
+   9,L,J,G
+   8,L
+   2,L,J
+   7,L
+   1,J
+   8,L,J
+   1,J
+   1,L,J
+   7,L
+  12,G
+   6,J
+   1,L,J
+   1,K
+  11,R,K
+  11,R
+  15,R,U,X
+   5,R
   15,U,C
    8,L
-***
    1,L,J,G
-   1,L,K,G
-   3,L
-   4,L,J,G
-   9,L
-***
+   3,L,K,G
+   1,L
+   3,L,J,G
+   7,L
    1,L,J
-   2,L
+   4,L
    2,L,K,G
-   5,L
-   4,L,J,G
-  10,L
-   1,X
-#0:06.290(370)
-
-
-
-
+   4,L
+   3,L,J,G
+   9,L
+   1,N
+#0:05.984(352)
