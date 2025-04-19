@@ -1,9 +1,10 @@
 # Made by Toast
 # Resynced by Gregovin
-RecordCount: 267
+RecordCount: 269
+console wipedebug
 console load SpringCollab2020/0-Lobbies/2-Intermediate
    1
-
+console hearts 22
 #start
  190
 
