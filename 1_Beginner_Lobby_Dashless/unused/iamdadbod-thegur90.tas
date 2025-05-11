@@ -1,21 +1,26 @@
 console load SpringCollab2020/0-Lobbies/1-Beginner 3085 680
    1
+
 #Start
   36
 
 #lvl_lobby_main
-   1,L,D,J
    5,L
-   1
-  15,L
-   4,L,J
-   1,L,K,G
-   7,L,J,G
-  20,L
-   1
-   2,L
-   1
+   2,L,J
+   6,L
+   1,L,J
    1,L
+   1,L,J
+  10,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   7,L
+   1,L,J
+   5,L
+   2,L,J
+  12,L
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -25,62 +30,63 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3085 680
    1,L,J
   14,L
    1,L,J
-   2,L
-  10,R
-   1,L
+   3,L
+  15,R
+   8,R,D
    1,R
-   5,R,D
-   1,R,J
-  17,R,D
-   5,D
-   5,L,D
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   6,L,J
-   2,L,K,G
-  16,L
-   3,L,J
-   5,L
-   1
-   7,L
-   1,J,G
-   4,L,J
-   2,R,J
-   7,J
-   1,L,J
-   1,K,G
-   7,L,K
-   3,K
-   1,R,K
-  14,L,J,G
-   1,K,G
-   4,L,K
-   6,K
-   1,R,K
-   1,L,K
-   2,J,G
-  25,R,J
-   1,R,K,G
-   2,R,J,G
-   5,R
-   3,R,J
-   1,R,K,G
-  11,R
    1,R,J
    7,R
-   1,R,K
-   6,R,J,G
+   2,R,D
+   1
+   1,R,D
+   1
+   5,L,D
+   1,F,141.357
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   7,L,K
+   2,L,J,G
+   1
+   9,L
+  12,L,J
+   1
+   4,L
+   4,L,J
+  12,K,G
+  12,J,G
+  10,K,G
+   2,R,K
    1,J
-   7,R,J
+  11,R,J
+   5,R
+  10,R,J
    1,R,K,G
-   4,R,J,G
-  10,R
-  10,D
+   2,R
+   1
+   7,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   5,R
+   1,R,J
+   3,R
+   1,R,J
+   5,R
+   2,K,G
+  10,R,K
+   3,R
+   1,R,J,G
+   2,R,K,G
+   1
+   5,R
+   1,R,J
+  13,R
    1,N
-#0:05.729(337)
+#0:05.321(313)
