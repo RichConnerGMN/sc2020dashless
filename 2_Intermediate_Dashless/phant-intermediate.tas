@@ -7,6 +7,7 @@ console load SpringCollab2020/2-Intermediate/phant
    1
 
 #Start
+console display_message 0 0.65 50 false "atpx8, Cr33pyCat, Toster"
  190
 
 #lvl_phant-start (2X)
@@ -34,7 +35,7 @@ Repeat, 3
 EndRepeat
  133
   40
-
+console hide_message 0
 #lvl_phant-01 (4X)
   72
    4,R

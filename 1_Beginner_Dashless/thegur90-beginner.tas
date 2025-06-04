@@ -6,6 +6,7 @@ console load SpringCollab2020/1-Beginner/Thegur90
 
 #Start
 #lvl_Thegur90_Beginner_I (0X)
+console display_message 1 0.65 50 false "amber, sashabell"
   36
    5,R
    1,R,J
@@ -44,6 +45,7 @@ console load SpringCollab2020/1-Beginner/Thegur90
   21,R
   13,R,J
   34,R
+console hide_message 1
    1,R,J
    9,R
    1,R,J
@@ -688,7 +690,7 @@ console load SpringCollab2020/1-Beginner/Thegur90
    5,R
   40
 
-#lvl_Thegur90_Beginner_O 
+#lvl_Thegur90_Beginner_O
    2,R
    6,R,J
    4,R

@@ -1,0 +1,127 @@
+Set,SpeedrunClock,2
+
+# 100
+#   1,O
+#  46
+#Read,prologue,Start
+unsafe
+Add 197
+Add 1
+console wipedebug
+
+console load SpringCollab2020/0-Lobbies/3-Advanced
+
+#EnforceMaingame
+   1
+
+#Start
+Read 3_Advanced_Lobby_Dashless/start-iamdadbod start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/iamdadbod-advanced Start
+Read, ExitLevel, Start, extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 3_Advanced_Lobby_Dashless/start-jatheplayer start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/jatheplayer-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/jatheplayer-linj start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/linj-advanced start
+Read, ExitLevel, Start, extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 3_Advanced_Lobby_Dashless/start-percussive start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/percussive-advanced Start
+Read, ExitLevel, Start, extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 3_Advanced_Lobby_Dashless/start-rufus start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/rufus-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/rufus-neokat Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/neokat-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/neokat-orbittwz Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/orbittwz-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/orbittwz-marshall start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/beefyuncle-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/marshall-holly Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/holly-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/holly-realvet Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/realvet-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/realvet-taco360 Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/taco360-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/taco360-_sleepie start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/sleepie-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/_sleepie-thegur90 start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/thegur90-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/thegur90-bissy Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/bissy-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/bissy-tortoise Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/tortoise-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/tortoise-cookie Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/cookie-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/cookie-ezel start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/ezel-advanced Start
+Read, ExitLevel, Start, extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 3_Advanced_Lobby_Dashless/start-spoopysoup Start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/spoopy-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/spoopysoup-dozing start
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/dozing-advanced Start
+Read, ExitLevel, Start, extra frame
+Read 3_Advanced_Lobby_Dashless/dozing-galaksyz Start
+AnalogMode, Ignore
+Read, EnterLevel, Start, extra frame
+Read 3_Advanced_Dashless/galaksyz-advanced Start
+Read, ExitLevel, Start, extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 3_Advanced_Lobby_Dashless/start-heartside start
+Read EnterHeartside
+Read 3_Advanced_Dashless/heartside-advanced Start
+FileTime: 34:43.231(122543)

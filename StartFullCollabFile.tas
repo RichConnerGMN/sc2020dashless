@@ -1,0 +1,29 @@
+#Start
+Set,Language,english
+Set,ScreenShake,Off
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,False
+Set,Everest.UseKeyboardForTextInput,False
+Set,DashCountMod.countDreamDashRedirectsAsDashes,true
+Set,DashCountDisplayInLevel.Active,true
+Set,DashCountDisplayInLevel.format,Both
+Set,DashCountMod.doNotResetDashCountOnDeath,true
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,GravityHelper.ControlScheme,Absolute
+SelectCampaign, SpringCollab2020/0-Lobbies
+EnforceLegal
+Unsafe
+Add 2
+Add 1,J
+Add 89
+Add 1,J
+Add 94
+Add 1,J
+Add 61
+
+   1,O
+Add 131
+   1

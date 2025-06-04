@@ -1,0 +1,115 @@
+Set,SpeedrunClock,2
+
+# 100
+#   1,O
+#  46
+#Read,prologue,Start
+unsafe
+Add 197
+Add 1
+console wipedebug
+
+console load SpringCollab2020/0-Lobbies/4-Expert
+
+#EnforceMaingame
+   1
+
+#Start
+Read 4_Expert_Lobby_Dashless/start-deskilln Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/deskilln-expert Start
+Read,ExitLevel,Start,extra frame
+  36
+   1,Q
+
+   1,J
+  31
+
+Read 4_Expert_Lobby_Dashless/start-minemah Start
+Read,EnterLevel,Start
+ 184
+   1,J
+ 136
+Read 4_Expert_Dashless/mineman-expert lvl_mineman_intro
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/minemah-thegur90 Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/thegur90-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/thegur90-mun start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/mun-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/mun-radleymctuneston start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/radleymctuneston-expert Start
+Read,ExitLevel,Start,extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 4_Expert_Lobby_Dashless/start-chaotic Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/chaotic-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/chaotic-lethargicdoggo Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/lethargicdoggo-expert Start
+Read,ExitLevel,Start,extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 4_Expert_Lobby_Dashless/start-indecx Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/indecx-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/indecx-canadian Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/canadian-expert Start
+Read,ExitLevel,Start,extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 4_Expert_Lobby_Dashless/start-iamdadbod Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/iamdadbod-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/iamdadbod-bissy start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/bissy-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/bissy-dahlukeh start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/dahlukeh-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/dahlukeh-zerex Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/zerex-expert Start
+Read,ExitLevel,Start,extra frame
+Read 4_Expert_Lobby_Dashless/zerex-deathkontrol Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/deathkontrol-expert Start
+Read,ExitLevel,Start,extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 4_Expert_Lobby_Dashless/start-kube Start
+Read,EnterLevel,Start,extra frame
+Read 4_Expert_Dashless/kube-expert Start
+Read,ExitLevel,Start,extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 4_Expert_Lobby_Dashless/start-heartside Start
+Read EnterHeartside
+Read 4_Expert_Dashless/heartside-expert Start
+MidwayFileTime: 58:15.795(205635)

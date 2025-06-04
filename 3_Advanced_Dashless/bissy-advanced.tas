@@ -1,18 +1,13 @@
-#Made by Renatotheflowey
-#Hane
-
-# SpringCollab2020
-# https://gamebanana.com/mods/150813
-
-RecordCount: 856
-
+# Made by Hane
+# 36X
+RecordCount: 858
 console load SpringCollab2020/3-Advanced/Bissy
    1
 
 #Start
  190
 
-#lvl_Bissy_00
+#lvl_Bissy_00 (10X)
    5,L
   16,L,J
   29,U,X
@@ -66,7 +61,7 @@ console load SpringCollab2020/3-Advanced/Bissy
    9,L
   40
 
-#lvl_Bissy_01
+#lvl_Bissy_01 (11X)
   35,L
   14,L,J
    5,U,X
@@ -152,7 +147,7 @@ AnalogMode,Precise
   16,F,353
   40
 
-#lvl_Bissy_02
+#lvl_Bissy_02 (5X)
   18,F,348
    1,F,359,0.69
   30,L
@@ -205,7 +200,7 @@ AnalogMode,Precise
    5,L
   40
 
-#lvl_Bissy_03
+#lvl_Bissy_03 (7X)
    9,L
    1,L,J
   14,L
@@ -273,7 +268,7 @@ AnalogMode,Precise
   11
   40
 
-#lvl_Bissy_04
+#lvl_Bissy_04 (3X)
    1,S
    1,D,J
   69,O
@@ -290,4 +285,5 @@ AnalogMode,Precise
    5,R,D
   14
  142,R
+
 ChapterTime: 0:39.491(2323)

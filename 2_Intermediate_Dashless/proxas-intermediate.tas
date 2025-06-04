@@ -2,12 +2,13 @@
 #Dash save by Cr33pyCat
 #10x
 
-RecordCount: 1541
+RecordCount: 1542
 
-console load SpringCollab2020/2-Intermediate/ProXas 
+console load SpringCollab2020/2-Intermediate/ProXas
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, pansear"
   76
 
 #lvl_intro
@@ -73,6 +74,7 @@ console load SpringCollab2020/2-Intermediate/ProXas
   13,F,87
    5,R,J
   23,R,D
+console hide_message 0
    1,R
    1,R,J
    1,R,K
@@ -291,7 +293,7 @@ console load SpringCollab2020/2-Intermediate/ProXas
    5,R
    9,L,D
    2
- #slow subpixel manip
+#slow subpixel manip
    7,U,G
    1,G
   20,R

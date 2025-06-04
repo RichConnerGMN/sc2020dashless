@@ -7,6 +7,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1
 
 #Start
+console display_message 0 0.65 50 false "atpx8, Cr33pyCat, exopta, masrock9, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_1 (0x)
@@ -40,7 +41,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
   12,J
    8,K
   40
-
+console hide_message 0
 #lvl_2 (3x)
    1,S
    1,D,J
@@ -435,7 +436,7 @@ EndRepeat
    1,L,J
   13,L
   40
-   
+
 #lvl_8 (2) (1x)
    1,L
    1,L,J

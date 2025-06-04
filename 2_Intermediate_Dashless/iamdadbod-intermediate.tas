@@ -7,6 +7,7 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
 
 #Start
 #lvl_dad0
+console display_message 0 0.65 50 false "Algorythm, Cr33pyCat, pansear, RichConnerGMN"
   69
    1,R,J
   14,R
@@ -54,6 +55,7 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,R,J
   41,R,K
    4,Z
+console hide_message 0
    7,R
   36,R,J
   11,U,X

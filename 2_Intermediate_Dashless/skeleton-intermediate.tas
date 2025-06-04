@@ -7,6 +7,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
 #Start
 
 #lvl_skeleton_00_start
+console display_message 0 0.65 50 false "Cr33ps, Exopta, Tyran"
  190
    4,R
    9,R,J
@@ -32,6 +33,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   24,R
    7,R,J
   14,R
+console hide_message 0
    7,R,J
   14,R
    7,R,J

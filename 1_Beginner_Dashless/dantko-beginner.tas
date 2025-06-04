@@ -7,7 +7,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1
 
 #Start
-console display_message 1 0.65 50 false Cr33pyCat, RichConnerGMN, Vampire Flower
+console display_message 1 0.65 50 false "Cr33pyCat, RichConnerGMN, Vampire Flower"
  190
 
 #lvl_DanTKO_Intro (0X)
@@ -428,7 +428,7 @@ console hide_message 1
   21,R
   40
 
-#lvl_DanTKO_Outro 
+#lvl_DanTKO_Outro
    2
   15,R,D
    1,R

@@ -1,11 +1,12 @@
 #Made by atpx8
 #7x
-RecordCount: 3203
+RecordCount: 3204
 
 console load SpringCollab2020/2-Intermediate/Evilleafy
    1
 
 #Start
+console display_message 0 0.65 50 false atpx8
   36
 
 #lvl_Evilleafy_00 (1) 1x
@@ -32,6 +33,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   26
    1,R,U
   67,F,346.504
+console hide_message 0
    1,F,347.944
   47,F,25.715
    1,F,25.713

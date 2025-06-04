@@ -6,10 +6,10 @@ console load SpringCollab2020/1-Beginner/Bissy
    1
 
 #Start
-console display_message 1 0.65 50 false Algorythm, NoHa, RichConnerGMN
+console display_message 1 0.65 50 false "Algorythm, NoHa, RichConnerGMN"
  190
 
-#lvl_Bissy_00 
+#lvl_Bissy_00
    3,L
    1,L,J
   14,L
@@ -40,9 +40,10 @@ console display_message 1 0.65 50 false Algorythm, NoHa, RichConnerGMN
   14,R
    1,R,J
    8,R
+console hide_message 1
   40
 
-#lvl_Bissy_01 
+#lvl_Bissy_01
    6,R
    1,R,J
   14,R
@@ -54,6 +55,7 @@ console display_message 1 0.65 50 false Algorythm, NoHa, RichConnerGMN
   12,R
   37,R,J
   40,R,K
+#0:07.089(417)
    1,J
   24,R,J
    1,K,G
@@ -435,7 +437,7 @@ EndRepeat
    7,R
   40
 
-#lvl_Bissy_05 
+#lvl_Bissy_05
    7,R
    1,R,J
   14,R

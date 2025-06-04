@@ -2,13 +2,13 @@
 #Optimizations by Renatotheflowey, RichConnerGMN
 #14X
 
-RecordCount: 931
+RecordCount: 932
 
-console load SpringCollab2020/1-Beginner/Cat_in_Box_01 
+console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    1
 
 #Start
-#console display_message 1 0.65 50 false pansear, Renatotheflowey, RichConnerGMN
+console display_message 1 0.65 50 false "pansear, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_cat-00 (0X)
@@ -43,6 +43,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   11,L,J,G
    1,L
   12,L,K,G
+console hide_message 1
    5,L,J,G
    1,L
    1,K
@@ -92,7 +93,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    6,K,G
   40
 
-#lvl_cat-02 
+#lvl_cat-02
   11
   11,J,G
    1
@@ -160,7 +161,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   13,R
   40
 
-#lvl_cat-03 
+#lvl_cat-03
    5,R
   24,R,K
    8,J,G
@@ -372,7 +373,7 @@ EndRepeat
    2,L
   43
 
-#lvl_cat-05 
+#lvl_cat-05
    4,L
    1,L,J
    5,L

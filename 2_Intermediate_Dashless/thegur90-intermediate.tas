@@ -6,6 +6,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    1
 
 #Start
+console display_message 0 0.65 50 false Renatotheflowey
  190
 
 #lvl_1 (0X)
@@ -17,6 +18,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
 
 #lvl_2 (3X)
   37,L,D
+console hide_message 0
   27,R,D
    4,L,D
    6,D
@@ -144,5 +146,5 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    8,R,U,X
  106,R,D
   29,L,J
- 
+
 ChapterTime: 0:36.499(2147)

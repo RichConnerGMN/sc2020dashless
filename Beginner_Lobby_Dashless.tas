@@ -8,115 +8,95 @@ unsafe
 Add 197
 Add 1
 console wipedebug
-
 console load SpringCollab2020/0-Lobbies/1-Beginner
 
 #EnforceMaingame
    1
 
 #Start
-Read,1_Beginner_Lobby_Dashless\start-abby,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\abby-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\abby-cookie,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\cookie-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\cookie-rue,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\rue-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\rue-lichtbaulb,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\lichtbaulb-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\lichtbaulb-canadian,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\canadian-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\canadian-dantko,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\dantko-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\dantko-flagpole1up,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\flagpole1up-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\flagpole1up-hennyburgr,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\hennyburgr-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\hennyburgr-snas,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\snas-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\snas-itsabrody,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\itsabrody-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\itsabrody-isagoodfriend,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\isagoodfriend-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\isagoodfriend-skeleton,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\skeleton-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\skeleton-ghajestis,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\ghajestis-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\ghajestis-cruor,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\cruor-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\cruor-cat_in_box
-Read,EnterLevel
-Read,1_Beginner_Dashless\cat_in_box,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\cat_in_box-iamdadbod,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\iamdadbod-beginner,Start
-Read,ExitLevel
-   
-Read,1_Beginner_Lobby_Dashless\iamdadbod-bissy,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\bissy-beginner,Start
-Read,ExitLevel
-
-Read,1_Beginner_Lobby_Dashless\bissy-thegur90,Start
-Read,EnterLevel
-Read,1_Beginner_Dashless\thegur90-beginner,Start
-
-Read,ExitLevel
-
+Read 1_Beginner_Lobby_Dashless/start-abby Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/abby-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/abby-rue Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/rue-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/rue-cookie Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/cookie-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/cookie-lichtbaulb Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/lichtbaulb-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/lichtbaulb-canadian Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/canadian-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/canadian-dantko Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/dantko-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/dantko-flagpole1up Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/flagpole1up-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/flagpole1up-hennyburgr Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/hennyburgr-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/hennyburgr-snas Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/snas-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/snas-itsabrody Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/itsabrody-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/itsabrody-isagoodfriend Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/isagoodfriend-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/isagoodfriend-skeleton Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/skeleton-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/skeleton-ghajestis Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/ghajestis-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/ghajestis-cruor Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/cruor-beginner Start
+Read ExitLevel Start
   36
    1,Q
 
    1,J
   31
- 110
-   1,S
-   1,D,J
-  34
-Read,1_Beginner_Lobby_Dashless\start-heartside,Start
-Read,EnterHeartside
-Read,1_Beginner_Dashless\heartside-beginner,Start
- 200
-   1,O
+Read 1_Beginner_Lobby_Dashless/start-cat_in_box Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/cat_in_box-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/cat_in_box-iamdadbod Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/iamdadbod-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/iamdadbod-bissy Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/bissy-beginner Start
+Read ExitLevel Start
+Read 1_Beginner_Lobby_Dashless/bissy-thegur90 Start
+Read EnterLevel Start
+Read 1_Beginner_Dashless/thegur90-beginner Start
+Read ExitLevel Start
+  36
+   1,Q
+
+   1,J
+  31
+Read 1_Beginner_Lobby_Dashless/start-heartside Start
+Read EnterHeartside
+Read 1_Beginner_Dashless/heartside-beginner Start
+FileTime: 29:21.200(103600)

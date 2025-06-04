@@ -2,12 +2,13 @@
 #Dash save by Cr33pyCat
 #11X
 
-RecordCount: 1924
+RecordCount: 1925
 
-console load SpringCollab2020/2-Intermediate/Rocketguy2 
+console load SpringCollab2020/2-Intermediate/Rocketguy2
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, pansear"
  190
 
 #lvl_RG2_0 (0X)
@@ -28,6 +29,7 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
 
 #lvl_RG2_1 (0X)
   36,L,D
+console hide_message 0
   12,R
    3,R,D
    1,R,J

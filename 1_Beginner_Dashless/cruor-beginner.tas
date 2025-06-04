@@ -6,7 +6,7 @@ console load SpringCollab2020/1-Beginner/Cruor
    1
 
 #Start
-console display_message 1 0.65 50 false Cr33pyCat, pansear, RichConnerGMN
+console display_message 1 0.65 50 false "Cr33pyCat, pansear, RichConnerGMN"
  190
 
 #lvl_cruor_00 (0X)
@@ -37,6 +37,7 @@ console display_message 1 0.65 50 false Cr33pyCat, pansear, RichConnerGMN
    1,R,J
   21,R
   28,R,J
+console hide_message 1
    1,R
    1,R,J,G
    7,R
@@ -129,7 +130,7 @@ console hide_message 1
    7,R,J,G
   43
 
-#lvl_cruor_03_tp 
+#lvl_cruor_03_tp
    1,R
   13,R,U,X
    1,R,J,G
@@ -379,7 +380,7 @@ console hide_message 1
   19,R,J
   40
 
-#lvl_cruor_04 
+#lvl_cruor_04
   11,R
   15,R,U,X
    5,R

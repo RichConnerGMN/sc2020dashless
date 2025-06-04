@@ -1,11 +1,12 @@
 #drafted by Bred
 #optimizations by Toster, Sashabell, Renatotheflowey, Cr33pyCat
 
-RecordCount: 3732
+RecordCount: 3733
 console load SpringCollab2020/2-Intermediate/aridai
    1
 
 #Start
+console display_message 0 0.65 50 false "Bred, Cr33pyCat, Renatotheflowey, Sashabell, Toster"
   36
 
 #lvl_aridai-intro (0)(0x)
@@ -53,6 +54,7 @@ endrepeat
    2,R,J
 # -1f if rounding error
   23,R,J
+console hide_message 0
   31,R,D
   18,D
    7,R,D
@@ -135,7 +137,7 @@ endrepeat
    1,L,J
    3,L
   40
-  
+
 #lvl_aridai-02 (1)(1x)
    7,L,D,X
    1,L,J

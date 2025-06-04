@@ -3,12 +3,13 @@
 #Optimizations by RichConnerGMN and atpx8
 #5X
 
-RecordCount: 1525
+RecordCount: 1526
 
 console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1
 
 #Start
+console display_message 0 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_1a start (0X)
@@ -31,7 +32,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   18,L,D
   12,R,D
   40
-
+console hide_message 0
 #lvl_1b (1X)
    7,R,D
   40,R

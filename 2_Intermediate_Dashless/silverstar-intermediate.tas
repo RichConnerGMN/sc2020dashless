@@ -7,6 +7,7 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1
 
 #Start
+console display_message 0 0.65 50 false atpx8
  102
 
 #lvl_IntroRoom 3x
@@ -24,6 +25,7 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    7,R
   10,R,J
   28,L
+console hide_message 0
    6
    2,J
    1,R,J

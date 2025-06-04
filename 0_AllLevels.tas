@@ -1,0 +1,16 @@
+RecordCount: 4
+
+#Start
+Read StartFullCollabFile
+Read Prologue Start
+Read LoadBeginnerLobby
+Read Beginner_Lobby_Dashless Start
+Read LoadLobbyfromHeartside Start
+Read Intermediate_Lobby_Dashless Start
+Read LoadLobbyfromHeartside Start
+Read Advanced_Lobby_Dashless Start
+Read LoadLobbyfromHeartside Start
+Read Expert_Lobby_Dashless Start
+Read LoadLobbyfromHeartside
+Read Grandmaster_Lobby_Dashless Start
+FileTime: 3:31:13.704(745512)

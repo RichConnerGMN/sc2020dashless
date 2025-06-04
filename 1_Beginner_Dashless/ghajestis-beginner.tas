@@ -5,6 +5,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    1
 
 #Start
+console display_message 1 0.65 50 false RichConnerGMN
  190
 
 #lvl_Ghaj_1 (1X)
@@ -45,6 +46,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    1,R,K,G
    2,R,J,G
    7,R
+console hide_message 1
   40
 
 #lvl_Ghaj_1 (9X)
@@ -91,7 +93,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    7,R,D,X
   40
 
-#lvl_Ghaj_3 
+#lvl_Ghaj_3
    5,R
    1,R,J
    9,R,D
@@ -258,7 +260,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
   10,R
   40
 
-#lvl_Ghaj_6 
+#lvl_Ghaj_6
    2,R
   23,R,J
   15,R,X

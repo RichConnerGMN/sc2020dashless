@@ -7,6 +7,7 @@ console load SpringCollab2020/2-Intermediate/Bissy
    1
 
 #Start
+console display_message 0 0.65 50 false "amber, Renatotheflowey"
   36
 
 #lvl_Bissy_00
@@ -71,6 +72,7 @@ console load SpringCollab2020/2-Intermediate/Bissy
   15,L,U,Z
    6,L
    9,L,K
+console hide_message 0
   40
 
 #lvl_Bissy_04
@@ -197,7 +199,7 @@ console load SpringCollab2020/2-Intermediate/Bissy
 repeat, 60
    1,R
    1,L
- EndRepeat
+EndRepeat
    1,R
    1,L
 

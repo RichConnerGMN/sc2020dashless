@@ -1,0 +1,109 @@
+Set,SpeedrunClock,2
+
+# 100
+#   1,O
+#  46
+unsafe
+Add 197
+Add 1
+console wipedebug
+console load SpringCollab2020/0-Lobbies/2-Intermediate
+   1
+# Start
+Read 2_Intermediate_Lobby_Dashless/start-rocketguy Start
+Read,EnterLevel
+Read 2_Intermediate_Dashless/rocketguy2-intermediate
+Read, ExitLevel, Start, extra frame
+Read, 2_Intermediate_Lobby_Dashless/rocketguy-phant, Start
+Read,EnterLevel
+Read, 2_Intermediate_Dashless/phant-intermediate, Start
+Read, ExitLevel, Start, extra frame
+Read, 2_Intermediate_Lobby_Dashless/phant-hennyburgr, Start
+Read, EnterLevel
+Read 2_Intermediate_Dashless/hennyburgr-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/hennyburgr-chloe Start
+Read, EnterLevel
+Read, 2_Intermediate_Dashless/chloe-intermediate, Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/chloe-aridai Start
+Read EnterLevel
+Read 2_Intermediate_Dashless/aridai-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/aridai-aleph_null Start
+Read EnterLevel
+Read 2_Intermediate_Dashless/aleph-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/aleph_null-lichtbaulb Start
+Read EnterLevel
+Read 2_Intermediate_Dashless/lichtbaulb-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/lichtbaulb-silverstar Start
+Read EnterLevel
+read 2_Intermediate_Dashless/silverstar-intermediate Start
+Read, ExitLevel, Start, extra frame
+read 2_Intermediate_Lobby_Dashless/silverstar-iamdadbod Start
+read EnterLevel
+read 2_Intermediate_Dashless/iamdadbod-intermediate Start
+Read, ExitLevel, Start, extra frame
+read 2_Intermediate_Lobby_Dashless/iamdadbod-bissy Start
+read EnterLevel
+read 2_Intermediate_Dashless/bissy-intermediate Start
+Read, ExitLevel, Start, extra frame
+read 2_Intermediate_Lobby_Dashless/bissy-thegur90 Start
+read EnterLevel
+Read 2_Intermediate_Dashless/thegur90-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/thegur90-gg19 Start
+Read EnterLevel
+Read 2_Intermediate_Dashless/gg19-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/gg19-hallow Start
+Read EnterLevel
+Read 2_Intermediate_Dashless/hallow-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/hallow-skeleton Start
+Read EnterLevel
+read 2_Intermediate_Dashless/skeleton-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/skeleton-bonicle start
+Read EnterLevel
+Read 2_Intermediate_Dashless/bonicle-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/bonicle-proxas start
+Read EnterLevel
+Read 2_Intermediate_Dashless/proxas-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/proxas-oppen_heimer start
+Read EnterLevel
+Read 2_Intermediate_Dashless/oppen_heimer-intermediate start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/oppen_heimer-theadvertisement start
+Read EnterLevel
+Read 2_Intermediate_Dashless/theadvertisement-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/theadvertisement-goat start
+Read EnterLevel
+Read 2_Intermediate_Dashless/goat-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/goat-donker19 start
+Read EnterLevel
+Read 2_Intermediate_Dashless/donker19-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/donker19-noax start
+Read EnterLevel
+Read 2_Intermediate_Dashless/noax-intermediate Start
+Read, ExitLevel, Start, extra frame
+Read 2_Intermediate_Lobby_Dashless/noax-evilleafy start
+Read EnterLevel
+Read 2_Intermediate_Dashless/evilleafy-intermediate Start
+Read, ExitLevel, Start, extra frame
+  36
+   1,Q
+
+   1,J
+  31
+Read 2_Intermediate_Lobby_Dashless/start-heartside start
+Read EnterHeartside
+Read 2_Intermediate_Dashless/heartside-intermediate Start
+FileTime: 41:50.815(147695)

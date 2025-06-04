@@ -3,12 +3,13 @@
 #Optimizations by Renatotheflowey, Cr33pyCat, Ratatouy
 #46x
 
-RecordCount: 5823
+RecordCount: 5824
 
 console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Ratatouy, Renatotheflowey, Toster"
  190
 
 #lvl_int_heart_00
@@ -48,6 +49,7 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
    1,R
    1,R,K,G
+console hide_message 0
    2,R,J,G
    3,R
    1,R,K,G

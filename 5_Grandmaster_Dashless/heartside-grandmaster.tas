@@ -1,6 +1,6 @@
 #Redrafted by atpx8
 #Optimizations by Renatotheflowey
-#Dash saves by Cr33pyCat, atpx8
+#Dash saves by Cr33pyCat, atpx8, Gregovin
 #--OLD CREDITS--
 #Made by atpx8, aleph_null
 #Optimizations by amber, Renatotheflowey
@@ -1778,6 +1778,11 @@ EndRepeat
   10,L,J,G
   10,R,K,G
   24,L,J,G
+# moon cycle
+   1,D
+ 227
+  13,G
+   2,R,J,G
 Repeat, 3
    2,K,G
    2,J,G
@@ -1943,13 +1948,20 @@ EndRepeat
   20,L
   21,J
   20,L,J
-  35,R,K
-   6
+  41,R,K
    8,R,J
-  31,R
-   5,L,U,X
-  36,L,G
-  45,L,U,J,G
+  29,R
+  22,R,U,G
+   1,R
+  20,D
+   7,L,D
+  21,L,J
+  58,L,U,J,G
+   1,L,D
+   1,J
+   6,L,J
+  15,L
+  34,L,U,G
   48,L,U,K,G
   50,L,U,J,G
    5,L,U,K,G
@@ -1965,7 +1977,9 @@ EndRepeat
   54,D,G
    1,L,D
   14,L
- 233
+  96
+   3,J
+ 140
    1,L
    1,L,J
    7,L
@@ -1980,7 +1994,7 @@ EndRepeat
   39,L,U,J,G
   30,L,K,G
   25,D,G
-  44,G
+  47,G
    4,L,G
   44,L,J,G
    1,L,D
@@ -1993,7 +2007,7 @@ EndRepeat
  146,L,U,G
   29,D,G
    1,D
-  39
+  41
   20,J
   66
    1,L
@@ -2021,7 +2035,8 @@ EndRepeat
    3,L
    1,L,J,G
   10,L
-  81,L,J
+  76,L,J
+   5,L,D
   13,G
   18,L,G
   13,L,D,G
@@ -2248,6 +2263,7 @@ EndRepeat
 # not for stunning anything
 # they need to be removed
 # but im not doing that
+# The pauses are actually for pause buffering jumps in bino storage, we need them :)
   60
    1,S
    1,J
@@ -2260,6 +2276,7 @@ EndRepeat
    1,J
    8
   32,R,J,AD
+# 23, x=18041.72
   14,R,J
    7,R,U,J
    2,J
@@ -2270,10 +2287,10 @@ EndRepeat
    1,J,O
    8,R,J
   28,R,J
-   1,J,S
-   1,J,O
-   8,J
-   3,R,U,J
+#    1,J,S
+#    1,J,O
+#    9,J
+   2,R,U,J
 # were far away of the
 # lightning here bc of
 # ooo weirdness causing
@@ -2285,7 +2302,7 @@ EndRepeat
 # oh its moon cycle
 # dependent too btw
 # hahahahahahahahaha
-  60,R,J,G,AD
+  56,R,J,G,AD
    1,J,S
    1,J,O
    8
@@ -2301,10 +2318,11 @@ EndRepeat
    7
   13,G
   20,R,D,G
-  25,R,G,MU
-  29,R,D,G
+  26,R,G,MU
+  28,R,D,G
   11,L,D,G
- 237,L,G,MU
+  13,G,MU
+ 228,L,G,MU
    1,L,U,G
    1,L,G,AD,MU
   20,L,G,MU
@@ -4018,7 +4036,7 @@ EndRepeat
   23,R,K,G
    1,K,G
    1,R,D,K
-## 
+##
 ## getting to the next jelly
   21,G
    1,D
@@ -8040,7 +8058,7 @@ EndRepeat
   91,R,G
    1,L,J
  104,L,K
-## 
+##
   15,U,X
    7,L
    2
@@ -8320,4 +8338,4 @@ EndRepeat
   14,U,X
  135
 
-ChapterTime: 18:21.600(64800)
+ChapterTime: 18:27.295(65135)

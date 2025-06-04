@@ -8,8 +8,9 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1
 
 #Start
+console display_message 0 0.65 50 false "Cirion02, Cr33pyCat, exopta, pansear, Toster"
  106
- 
+
 #lvl_bonicle_00
    5,R
 Repeat, 7
@@ -71,6 +72,7 @@ EndRepeat
   16,R
    1,R,J
    1,R
+console hide_message 0
   40
 
 #lvl_bonicle_01 (6X)
@@ -228,7 +230,7 @@ endrepeat
 repeat 4
    1,L,J
   14,L
- endrepeat
+endrepeat
   20,L,D
   20,L
    5,R
@@ -321,11 +323,11 @@ repeat 4
   21,R,G
   97,L,U,J,G
    3,D
-   Repeat, 4
+Repeat, 4
    1,J
   39,L,J,G
    3,D
-   EndRepeat
+EndRepeat
    6,L,J,G
   75,L,D,G
   56,R,D,G
@@ -337,11 +339,11 @@ repeat 4
    1,L
    1,L,J
  112,L,U,K,G
-   Repeat, 4
+Repeat, 4
    3,D
    1,J
   39,L,J,G
-   EndRepeat
+EndRepeat
    1,L
    1,R,J
   44,R,K,G
@@ -561,7 +563,7 @@ endrepeat
   32,R,D,G
   40
 
-#lvl_bonicle_04 (1)
+#lvl_bonicle_04
    7,R,D,G
    1,R,J,G
   64,R,D,G

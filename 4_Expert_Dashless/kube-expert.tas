@@ -56,7 +56,7 @@ console load SpringCollab2020/4-Expert/Kube
   48,L,K
   40
 
-#lvl_Kube_1 (1)
+#lvl_Kube_1 (0)
    8,L
    3,J,G
    1,R,J
@@ -77,7 +77,7 @@ console load SpringCollab2020/4-Expert/Kube
   18,L,D,G
   40
 
-#lvl_Kube_1 (2)
+#lvl_Kube_1 (1)
    7,L,U,G
    1,J,G
    9,L,U,J,G
@@ -137,7 +137,7 @@ console load SpringCollab2020/4-Expert/Kube
    9,L,D,G
   40
 
-#lvl_Kube_1 (3)
+#lvl_Kube_1 (2)
    5,L,G
    7,R,U,J,G
   40
@@ -389,7 +389,7 @@ console load SpringCollab2020/4-Expert/Kube
    3,L
   40
 
-#lvl_Kube_2 (6)
+#lvl_Kube_2 (4)
    1
    1,L
    1
@@ -429,7 +429,7 @@ console load SpringCollab2020/4-Expert/Kube
   50,R,D,G
   40
 
-#lvl_Kube_1 (6)
+#lvl_Kube_1 (3)
   36,R,D,G
   77,D,G
   33,R,D,G

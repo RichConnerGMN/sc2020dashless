@@ -1,9 +1,9 @@
 #TASed by RichConnerGMN, atpx8
-#Optimizations by Ralp, Cr33pyCat, NoHa, Guest_
+#Optimizations by Ralp, Cr33pyCat, NoHa, Guest_, Gregovin
 #XNA/FNA resync from Bred
 #55X
 
-RecordCount: 3730
+RecordCount: 3731
 
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
@@ -12,7 +12,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
 
 #Start
 #lvl_beg_heart_00 (0X)
-#console display_message 1 0.65 50 false atpx8, Bred, Cr33pyCat, NoHa, RichConnerGMN
+console display_message 1 0.65 50 false "atpx8, Bred, Cr33pyCat, Gregovin, Guest_, NoHa, Ralp, RichConnerGMN"
   36
    7,R
   10,R,J
@@ -67,7 +67,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
    6,R
   40
-
+console hide_message 1
 #lvl_beg_heart_01 (9X)
    1,R
    1

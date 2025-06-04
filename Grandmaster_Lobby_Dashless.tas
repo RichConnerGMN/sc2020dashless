@@ -1,0 +1,85 @@
+Set,SpeedrunClock,2
+
+# 100
+#   1,O
+#  46
+#Read,prologue,Start
+unsafe
+Add 197
+Add 1
+console wipedebug
+
+console load SpringCollab2020/0-Lobbies/5-Grandmaster
+
+#EnforceMaingame
+   1
+
+#Start
+Read 5_Grandmaster_Lobby_Dashless/start-deathkontrol Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/deathkontrol-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/deathkontrol-problemstrol Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/problemstrol-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/problemstrol-dog Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/dog-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/dog-cyber Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/cyber-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/cyber-canadian Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/canadian-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/canadian-1nkfal1con Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/1nkf4lcon-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/1nkfa1c0n-fishtank_overflow Start
+Read EnterLevel Start
+Read,5_Grandmaster_Dashless/fishtankoverflow-grandmaster,lvl_fishtank_00 1x
+Read,ExitLevel,Start,extra frame
+Read,5_Grandmaster_Lobby_Dashless/fishtank_overflow-bod dole,start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/bobdole-grandmaster Start
+Read ExitLevel Start
+  36
+   1,Q
+   1,J
+  31
+Read 5_Grandmaster_Lobby_Dashless/start-davsmasher(mid) Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/thedavsmasher-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/davsmasher-thegur90 start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/thegur90-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/thegur90-Bissy Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/bissy-grandmaster Start
+Read ExitLevel Start
+Read 5_Grandmaster_Lobby_Dashless/bissy-iamdadbod Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/iamdadbod-grandmaster Start
+Read ExitLevel Start
+  36
+   1,Q
+   1,J
+  31
+Read 5_Grandmaster_Lobby_Dashless/start-hydro Start
+Read EnterLevel Start
+Read 5_Grandmaster_Dashless/hydro-grandmaster Start
+Read ExitLevel Start
+  36
+   1,Q
+   1,J
+  31
+Read 5_Grandmaster_Lobby_Dashless/start-heartside Start
+Read EnterHeartside
+Read 5_Grandmaster_Dashless/heartside-grandmaster Start
+FileTime: 46:33.304(164312)

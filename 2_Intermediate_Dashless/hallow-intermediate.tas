@@ -4,10 +4,11 @@
 
 RecordCount: 1513
 
-console load SpringCollab2020/2-Intermediate/Hallow 
+console load SpringCollab2020/2-Intermediate/Hallow
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, pansear"
  190
 
 #lvl_Hallow_01
@@ -45,7 +46,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
    6,R,J
    5,R
   40
-
+console hide_message 0
 #lvl_Hallow_02
   21,R,D
    1,R,J
@@ -389,7 +390,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1,R,J,G
    1,R,K,G
    9,R
- 
+
    1,R,J
   14,R
 #moon block cycle
@@ -429,7 +430,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
    2,R
   26
    1,L,D
-#manual inputs  should probably be featherlined  
+#manual inputs  should probably be featherlined
   22,F,170
    9,F,155
   13,F,140

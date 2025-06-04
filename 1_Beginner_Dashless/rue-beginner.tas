@@ -5,6 +5,7 @@ console load SpringCollab2020/1-Beginner/Rue
    1
 
 #Start
+console display_message 1 0.65 50 false "mlseg, nebs, Tyran, Vampire Flower"
  190
 
 #lvl_Intro (0X)
@@ -64,6 +65,7 @@ console load SpringCollab2020/1-Beginner/Rue
   14,R,D,J
   13,R,K,G
    4,L,J
+console hide_message 1
    5,L
    1,L,K
    2,L
@@ -476,7 +478,7 @@ console load SpringCollab2020/1-Beginner/Rue
   10,R
   40
 
-#lvl_Rue_Outro 
+#lvl_Rue_Outro
    4,R
    1,R,J
   30,R,D

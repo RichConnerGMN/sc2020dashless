@@ -7,6 +7,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    1
 
 #Start
+console display_message 1 0.65 50 false "amber, Cr33pyCat, pansear, RichConnerGMN"
   88
 
 #lvl_totk_intro (2X)
@@ -103,7 +104,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   14,R,K,G
    1,L,K
   40
-
+console hide_message 1
 #lvl_totk1 (4X)
    1,L,K
   14,R,U,Z
@@ -324,7 +325,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    4,R,D,J
   40
 
-#lvl_totk4 
+#lvl_totk4
    4,R,J
    2,R
    2,L
@@ -505,7 +506,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    8,K,G
   40
 
-#lvl_totk_exit 
+#lvl_totk_exit
    2
    1,L
   14,R,J,G

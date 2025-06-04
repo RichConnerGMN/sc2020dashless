@@ -6,6 +6,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    1
 
 #Start
+console display_message 1 0.65 50 false "Algorythm, Cr33pyCat, RichConnerGMN"
  190
 
 #lvl_hennyburgr-intro (0X)
@@ -69,7 +70,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    3,K,G
   10,J
   40
-
+console hide_message 1
 #lvl_hennyburgr-1 (0X)
   11,R
    1,R,J,G
@@ -171,7 +172,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   14,R
   40
 
-#lvl_hennyburgr-2 
+#lvl_hennyburgr-2
    1,R,J
   18,R
    1,R,J
@@ -307,7 +308,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   13,R,K
   40
 
-#lvl_hennyburgr-4 
+#lvl_hennyburgr-4
   12,R
    1,R,J,G
    1,R,K,G
@@ -366,7 +367,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    8,R
   40
 
-#lvl_hennyburgr-5 
+#lvl_hennyburgr-5
    2,R,J
    3,R
    2,R,J
@@ -583,7 +584,7 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   10,R
   40
 
-#lvl_hennyburgr_outro 
+#lvl_hennyburgr_outro
    4,R
    1,R,J
   14,R

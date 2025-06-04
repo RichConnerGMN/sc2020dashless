@@ -3,12 +3,13 @@
 #Optimizations by Renatotheflowey, atpx8, Curcuit
 #26x
 
-RecordCount: 2427
+RecordCount: 2428
 
 console load SpringCollab2020/2-Intermediate/aleph_null
    1
 
 #Start
+console display_message 0 0.65 50 false "baamboo, Cirion02, pansear, Toster, Tyran"
   69
 
 #lvl_aleph_start (1X)
@@ -43,7 +44,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1,R,J
    1,R
   40
-
+console hide_message 0
 #lvl_aleph_entrance (4X)
   14,R
    1,R,J
@@ -648,5 +649,4 @@ Repeat, 9
    1,J
    1,K
 EndRepeat
-  30
 ChapterTime: 1:10.533(4149)

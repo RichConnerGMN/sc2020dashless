@@ -4,6 +4,7 @@
 console load SpringCollab2020/2-Intermediate/GG19
    1
 #Start
+console display_message 0 0.65 50 false Exopta
  193
 
 #lvl_Gabe_intro
@@ -17,7 +18,6 @@ console load SpringCollab2020/2-Intermediate/GG19
    1,R
    6,R,J
   40
-
 #lvl_Gabe_1 (4x)
    3,R,J
    5,R
@@ -46,6 +46,7 @@ console load SpringCollab2020/2-Intermediate/GG19
    1,D
    1,J
    3,K,G
+console hide_message 0
    8,R,K
    8,R
   12,R,K

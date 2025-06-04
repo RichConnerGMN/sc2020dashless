@@ -5,10 +5,11 @@
 
 RecordCount: 788
 
-console load SpringCollab2020/2-Intermediate/Noax 
+console load SpringCollab2020/2-Intermediate/Noax
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, pansear, RichConnerGMN"
  190
 
 #lvl_Noax_00
@@ -43,6 +44,7 @@ console load SpringCollab2020/2-Intermediate/Noax
   14,L
    1,L,J
   14,L
+console hide_message 0
    2,L,J
    7,L
    2,L,K

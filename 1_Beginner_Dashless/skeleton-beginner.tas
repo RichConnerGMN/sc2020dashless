@@ -8,6 +8,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, exopta, Renatotheflowey, RichConnerGMN, Wirare"
  190
 
 #lvl_skeleton2_00 (0X)
@@ -73,6 +74,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,R,J
    5,R
   40
+console hide_message 1
 
 #lvl_skeleton2_01
    9,R
@@ -833,7 +835,7 @@ EndRepeat
    5,R,D
    6,D
   40
-   
+
 #lvl_skeleton2_04_berry (0X)
    3,D
   11,R,D

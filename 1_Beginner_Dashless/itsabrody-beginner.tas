@@ -6,6 +6,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1
 
 #Start
+console display_message 1 0.65 50 false "Kataiser, lmjacks, sashabell, Tyran"
  190
 
 #lvl_intro (0X)
@@ -77,6 +78,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1
    1,K,G
    3
+console hide_message 1
   24,L,D
    2,D
    1,L
@@ -1131,7 +1133,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    8,R
   40
 
-#lvl_outro 
+#lvl_outro
    1,R
    1,R,J
   18,R

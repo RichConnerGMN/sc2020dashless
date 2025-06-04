@@ -6,7 +6,7 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
 #start
 
 #lvl_hub(0) 0x
-
+console display_message 0 0.65 50 false Bred
  190
    5,R
    1,R,J
@@ -58,6 +58,7 @@ endrepeat
   12,K,G
    5,J,G
    1,L,J
+console hide_message 0
    1,J
    1,L,J
    1,R,J

@@ -1,8 +1,8 @@
 #TASed by Wirare, Renatotheflowey
 #Dash saves by Cr33pyCat, atpx8
-#Optimizations by atpx8
+#Optimizations by atpx8, Renatotheflowey
 #7X
-RecordCount: 5367
+RecordCount: 5846
 
 console load SpringCollab2020/4-Expert/ChaotiC
    1
@@ -930,82 +930,126 @@ EndRepeat
    8,R
   47,D
    2,R
-Repeat,126
+Repeat,66
    1,K
    1,J
 EndRepeat
-  72,R,K
+   1,K
+  46,R
+   3,R,D
+   1,L,D
+   1,R,D
+   2,L,D
    1,J
-   1,L,K,G
-   6,R,K
+   2,K,G
+   3,R,J,G
    9,R
+   1
+   1,R
+  21,R,J,G
+   2,R
+   6,R,J
+   2
+   2,R
+   1
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
    1,R,K,G
-  13,R,D
-  10,D
-   1,J
-
-  25
-  10,R
+  23,R,D
+   5,L
+   1,L,J
+   6,L
+   5,R
+   3,L,D
+   2,L
+   1,L,D
+   2,L,G
+   1,K,G
+   7
+   2,R
    1,R,J
    1,L,K,G
-   7,R,K
-   1,R
-   6,R,J
-   4,R
-   8,D
-   2,R
-   1,K,G
-  10,R
-   1,L
-  10,R,J
-   8,L,J
-   8,L
-   3
-  32,L,J
-  17,L,K,G
-  11,L
-   5,L,K
-   7,L
-  11
-   2,R
-   1,J
-   1,L,K,G
-   3,R,K
+   6,R,K
+  22,R,G
    5,R,J,G
-  10,R,D
- 125,L,D
-
-  36,R
-Repeat,58
-   1,J
+  20,R
+   6
+  10,L,J
+   4,L
+   1,L,K,G
+   8,L,J,G
+  56,L,U,G
+  10,L
+  39,R
    1,K
-EndRepeat
-  61,R
-   1,L
-   1,J
-   1,K,G
-   1,R,J,G
-   3,R
    1,L,J,G
-   7,R,J
+   1,R,J
    1,R
-   4,R,J
-   1,J
-  11,R
-   1,R,J,G
+   8,R,J
+   1,R
+   1,R,J
+   4,R
+   1,J,G
+   7,R,D
+   3,D
+   1,L
+   1,R,D
+   3,L
+  18,R,D
+   1,D
+  14,R
+   2,L
+   3,L,D
+   1,L
+   2,L,D
+   1,K,G
+  10
+   2,R
+   1,R,J
+   1,L,K,G
+  25,R,K
+  34,R
+   1,R,D,J
+  27,R,J
+   8,R,D
+   2,R,K,G
   21,R,D
+   1,R,J
+  14,R
+   1,R,K
+  14,R
+   1,R,J
+   3,R
   40
 
 #lvl_ChaotiC_outro (1X)
-   2,R,J
-   2,R
-   7,R,K,G
+  12,R
+   1
    1,R
-   3,R
-   5,J,G
-   6,L,J
-  11,K
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+   2,R
+   1,R,J,G
+  12,R
+   1,R,J
+   1,R,K,G
+   1,J,G
+   3,R,J
+   6,J
+   2,L,J
+   1,K
+   1,J
+   5,R,J
+   5,J
   15,U,X
- 135
+ 136
 
-ChapterTime: 2:06.565(7445)
+ChapterTime: 2:03.165(7245)
