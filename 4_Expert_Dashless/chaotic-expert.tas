@@ -2,12 +2,13 @@
 #Dash saves by Cr33pyCat, atpx8
 #Optimizations by atpx8, Renatotheflowey
 #7X
-RecordCount: 5846
+RecordCount: 5849
 
 console load SpringCollab2020/4-Expert/ChaotiC
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, Wirare"
  190
 
 #lvl_ChaotiC_00 (0X)
@@ -60,6 +61,7 @@ console load SpringCollab2020/4-Expert/ChaotiC
   12,R,J
   17,R
    4,R,J
+console hide_message 1
   12,J
    7,R,J
    1,R,D,J
@@ -496,12 +498,10 @@ EndRepeat
    1
    1,K
   20
-Repeat,1
   25,K
   15,L,K
   25,J
   13,L,J
-EndRepeat
   25,K
   15,L,K
   34,J
@@ -516,12 +516,10 @@ EndRepeat
    1
    1,K
   20
-Repeat,1
   25,K
   15,L,K
   25,J
   13,L,J
-EndRepeat
   25,K
   13,L,K
    2,L
@@ -699,10 +697,8 @@ EndRepeat
   12,R,K
    1,L,J
   12,L,K
-Repeat,1
   12,J,G
   12,K,G
-EndRepeat
   12,J,G
    4,K,G
    2,R,K

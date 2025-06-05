@@ -1,15 +1,16 @@
 #Made by Renatotheflowey
-#Dash saves by Cr33pycat, Tyran
+#Dash saves by Cr33pyCat, Tyran
 #Optimization by Toster
 #52x
 
 
-RecordCount: 7166
+RecordCount: 7167
 
 console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, Toster, Tyran"
  190
 
 #lvl_ExHS_Intro
@@ -84,6 +85,7 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
 
 #lvl_ExHS_01
 #7x
+console hide_message 1
   14,R
    9,R,N
  342,U

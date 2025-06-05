@@ -1,12 +1,13 @@
 #Made by atpx8, pansear
 #17X
 
-RecordCount: 1713
+RecordCount: 1714
 
 console load SpringCollab2020/4-Expert/Kube
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, pansear"
  190
 
 #lvl_Kube_1 (0)(2X)
@@ -50,6 +51,7 @@ console load SpringCollab2020/4-Expert/Kube
   40
 
 #lvl_Kube_2 (0)
+console hide_message 1
    8,R
   18,L
   12,L,J

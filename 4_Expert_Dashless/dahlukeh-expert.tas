@@ -2,11 +2,12 @@
 #Dash saves by Cr33pyCat
 #Optimizations by RichConnerGMN, Renatotheflowey
 #13X
-RecordCount: 4888
+RecordCount: 4890
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_dahlukeh_01
@@ -69,6 +70,7 @@ Repeat,2
    1,L,K
    1,R,K
 EndRepeat
+console hide_message 1
    1,K
    9,L,K
    1,L
@@ -240,10 +242,8 @@ endrepeat
    2,L
    1,J
   26,R,J
-Repeat,1
    1,R,G
    1
-EndRepeat
   11,J,G
    3,L,J
    1,J

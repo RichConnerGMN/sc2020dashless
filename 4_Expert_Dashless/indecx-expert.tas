@@ -2,12 +2,13 @@
 #Dash saves by Renatotheflowey
 #Optimisations by Renatotheflowey
 #9x
-RecordCount: 2245
+RecordCount: 2246
 
 console load SpringCollab2020/4-Expert/Indecx
    1
 
 #Start
+console display_message 1 0.65 50 false "Renatotheflowey, RichConnerGMN, Toster"
  190
 
 #lvl_0-intro (0X)
@@ -55,6 +56,7 @@ console load SpringCollab2020/4-Expert/Indecx
   18,R,D
    2
   10,R,X
+console hide_message 1
    8,R,J
    1,J
    1,R,J

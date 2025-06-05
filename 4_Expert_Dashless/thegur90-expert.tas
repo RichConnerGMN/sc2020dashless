@@ -2,11 +2,12 @@
 #Dash saves by Cr33pyCat
 #30X
 
-RecordCount: 1382
+RecordCount: 1383
 console load SpringCollab2020/4-Expert/Thegur90
    1
 
 #Start
+console display_message 1 0.65 50 false "ayalyn, Cr33pyCat"
   36
 
 #lvl_thegur90_FAB_0
@@ -114,6 +115,7 @@ console load SpringCollab2020/4-Expert/Thegur90
 
 #lvl_thegur90_FAB_2
 #3x
+console hide_message 1
    9,R,J
    6,R
    8,R,K,G

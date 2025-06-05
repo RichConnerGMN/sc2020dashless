@@ -3,11 +3,12 @@
 #Timesave by RichConnerGMN, Tyran
 #15X
 
-RecordCount: 6781
+RecordCount: 6782
 console load SpringCollab2020/4-Expert/DeathKontrol
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, RichConnerGMN, Tyran"
   69
 
 #lvl_start
@@ -70,6 +71,7 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   51,R,D
    3,R,J
   16,R
+console hide_message 1
   89
    1,R
    1

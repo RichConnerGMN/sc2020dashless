@@ -15,6 +15,7 @@ unsafe
 
 #lvl_mineman_intro
 #3x
+console display_message 1 0.65 50 false "atpx8, Cr33pyCat, RichConnerGMN, Toster"
  190
    1,R,N
    1,R,J
@@ -64,6 +65,7 @@ unsafe
    1,R
    1,R,J
    2,R
+console hide_message 1
   16,R,Z
    3,L
    3,L,J

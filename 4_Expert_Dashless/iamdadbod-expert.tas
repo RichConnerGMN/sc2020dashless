@@ -6,6 +6,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1
 
 #Start
+console display_message 1 0.65 50 false "amber, atpx8, ayalyn, Renatotheflowey"
   61
 
 #lvl_dad intro room
@@ -55,6 +56,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
   10,L,D,X
   21,R,J
    7,J
+console hide_message 1
   41,U,X
   17,L
   10,R

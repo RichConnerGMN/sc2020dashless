@@ -2,11 +2,12 @@
 #Dash saves by rosellarade, Renatotheflowey, Cr33pyCat
 #Optimizations by Curcuit, RichConnerGMN, Toster
 #47x
-RecordCount: 3341
+RecordCount: 3342
 console load SpringCollab2020/4-Expert/deskilln
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, Curcuit, Renatotheflowey, RichConnerGMN, rosellarade, Toster"
  190
 
 #lvl_Deskilln_Intro (5x)
@@ -74,6 +75,7 @@ console load SpringCollab2020/4-Expert/deskilln
   40
 
 #lvl_Deskilln_01 (12x)
+console hide_message 1
    2,L
    1,R,J,G
    1,R,K,G

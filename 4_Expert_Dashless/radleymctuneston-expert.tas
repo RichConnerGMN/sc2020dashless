@@ -1,12 +1,13 @@
 #Made by Renatotheflowey
-#Dash saves by Cr33pyCat (5)
+#Dash saves by Cr33pyCat
 #17x
-RecordCount: 1798
+RecordCount: 1799
 
 console load SpringCollab2020/4-Expert/RadleyMcTuneston
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey"
  190
 
 #lvl_?1
@@ -62,6 +63,7 @@ Repeat,4
    1,R,J
    1,L,J
 EndRepeat
+console hide_message 1
   32,R,K
    2,R,K
    4,R,K

@@ -2,12 +2,13 @@
 # Dash Saves by deliciousandnutritious, Tyran
 # 29x
 
-RecordCount: 1930
+RecordCount: 1931
 
 console load SpringCollab2020/4-Expert/Bissy
    1
 
 #Start
+console display_message 1 0.65 50 false "deliciousandnutritious, Renatotheflowey, Tyran"
   96
 
 #lvl_Bissy_00 (2x)
@@ -45,6 +46,7 @@ console load SpringCollab2020/4-Expert/Bissy
   40
 
 #lvl_Bissy_01 (4x)
+console hide_message 1
    4,R
    1,R,J,G
    8,R

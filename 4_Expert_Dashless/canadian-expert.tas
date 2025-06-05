@@ -2,11 +2,12 @@
 #Dash saves by Cr33pyCat, amber, RichConnerGMN, Gregovin
 #Optimizations by atpx8, RichConnerGMN
 #32x
-RecordCount: 3557
+RecordCount: 3558
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
 #Start
+console display_message 1 0.65 50 false "amber, atpx8, Cr33pyCat, Gregovin, RichConnerGMN"
  190
 
 #lvl_1 1x
@@ -35,6 +36,7 @@ EndRepeat
   14,R
    1,R,J
   31,R
+console hide_message 1
   73,U
   11,R
    1,R,D,J

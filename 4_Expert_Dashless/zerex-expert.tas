@@ -1,12 +1,13 @@
 #Made by pansear
 #Dash saves by amber, Cr33pyCat
 #28x
-RecordCount: 1886
+RecordCount: 1888
 
 console load SpringCollab2020/4-Expert/Zerex
    1
 
 #Start
+console display_message 1 0.65 50 false "amber, Cr33pyCat, pansear"
  190
 
 #lvl_Zerex_01
@@ -72,6 +73,7 @@ console load SpringCollab2020/4-Expert/Zerex
    3,R,K
    5,R
    2,R,J
+console hide_message 1
   19,R
    7,R,J
   12,K,G

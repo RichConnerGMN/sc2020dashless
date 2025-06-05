@@ -2,12 +2,13 @@
 #Optimizations by Renatotheflowey, RichConnerGMN
 #64X
 
-RecordCount: 1251
+RecordCount: 1252
 
 console load SpringCollab2020/4-Expert/LethargicDoggo
    1
 
 #Start
+console display_message 1 0.65 50 false "panear, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_1
@@ -57,6 +58,7 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   27,R,J
   10,U,X
   50,R,J
+console hide_message 1
    6,R,D
   23,R,X
    4,R
