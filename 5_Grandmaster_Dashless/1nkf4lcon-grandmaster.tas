@@ -2,12 +2,13 @@
 # Dash saves by Bred, Bain8renn, Renatotheflowey, Tyran
 # 39x
 
-RecordCount: 4269
+RecordCount: 4270
 
 console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    1
 
 #Start
+console display_message 1 0.65 50 false "Bain8renn, Bred, Renatotheflowey, Tyran"
  190
 
 #lvl_1nkFa1c0n_00 (2x)
@@ -24,7 +25,7 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   40
 
 #lvl_1nkFa1c0n_01 (3x)
-
+console hide_message 1
   14,R,D,G
   10,R,G
    1,R,J

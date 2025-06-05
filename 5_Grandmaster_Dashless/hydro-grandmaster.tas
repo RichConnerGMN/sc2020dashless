@@ -2,11 +2,12 @@
 #Optimizations by RichConnerGMN
 #22x
 
-RecordCount: 1071
+RecordCount: 1072
 console load SpringCollab2020/5-Grandmaster/Hydro0
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, RichConnerGMN"
  190
 
 #lvl_hydro_00 2x
@@ -52,6 +53,7 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
   40
 
 #lvl_hydro_01 5x
+console hide_message 1
    5,R
   15,R,Z
   10,U,X

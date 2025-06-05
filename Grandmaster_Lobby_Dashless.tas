@@ -41,7 +41,8 @@ Read 5_Grandmaster_Dashless/1nkf4lcon-grandmaster Start
 Read ExitLevel Start
 Read 5_Grandmaster_Lobby_Dashless/1nkfa1c0n-fishtank_overflow Start
 Read EnterLevel Start
-Read,5_Grandmaster_Dashless/fishtankoverflow-grandmaster,lvl_fishtank_00 1x
+Read,5_Grandmaster_Dashless/fishtankoverflow-grandmaster,Start
+***
 Read,ExitLevel,Start,extra frame
 Read,5_Grandmaster_Lobby_Dashless/fishtank_overflow-bod dole,start
 Read EnterLevel Start

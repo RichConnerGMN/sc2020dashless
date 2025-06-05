@@ -3,11 +3,12 @@
 #Optimizations by atpx8, Toster
 #46x
 
-RecordCount: 4776
+RecordCount: 4777
 console load SpringCollab2020/5-Grandmaster/CANADIAN
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, ImDart, Toster"
  190
 
 #lvl_CANADIAN_00 (1) (9X)
@@ -74,6 +75,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    6,R
   63,R,K
   21,R,U,X
+console hide_message 1
    3
    3,J,G
    3,R,J

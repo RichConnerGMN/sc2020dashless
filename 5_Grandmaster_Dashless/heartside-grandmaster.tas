@@ -11,6 +11,7 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
 #Start
+console display_message 1 0.65 50 false "amber, atpx8, ayalyn, Cr33pyCat, Gregovin, Renatotheflowey"
  190
 
 #lvl_a-00 1x
@@ -76,6 +77,7 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1,R,K,G
    6,R,J,G
   23,R
+console hide_message 1
   27,R,J
   17,R,U,Z
   10,R,J

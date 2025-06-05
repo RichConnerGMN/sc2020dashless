@@ -5,6 +5,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    1
 
 #Start
+console display_message 1 0.65 50 false Cr33pyCat
  190
 
 #lvl_iamdadbod_intro
@@ -63,6 +64,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
 
 #lvl_iamdadbod_1
 #6x
+console hide_message 1
   13,R
   12,R,J
   18,R

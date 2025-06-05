@@ -1,16 +1,14 @@
-#Made by atpx and Renatotheflowey
+#Made by atpx8 and Renatotheflowey
 #Dash saves by Renatotheflowey
 #Optimisations by Renatotheflowey
 
-# SpringCollab2020
-# https://gamebanana.com/mods/150813
-
-RecordCount: 1942
+RecordCount: 1943
 
 console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, Renatotheflowey"
  190
 
 #lvl_a-00
@@ -45,6 +43,7 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
   40
 
 #lvl_a-01
+console hide_message 1
    5,R
    9,R,J
    1,R
@@ -579,12 +578,10 @@ EndRepeat
    3,R,J
    1,R
    6,R,D
-Repeat,1
    2,R,J
    1,R
    1,R,J
    6,R,D
-EndRepeat
    1,R,J
   40
 

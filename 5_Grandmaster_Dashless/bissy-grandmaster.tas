@@ -3,12 +3,13 @@
 #Optimizations by: Toster
 #53x
 
-RecordCount: 3097
+RecordCount: 3100
 
 console load SpringCollab2020/5-Grandmaster/Bissy
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, Toster"
  190
 
 #Spinner cycle
@@ -68,7 +69,9 @@ console load SpringCollab2020/5-Grandmaster/Bissy
   14,R
    1,R,J
   11,R
-  40
+  15
+console hide_message 1
+  25
 
 #lvl_Bissy_01
 #10x

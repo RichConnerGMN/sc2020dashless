@@ -9,6 +9,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    1
 
 #Start
+console display_message 1 0.65 50 false "atpx8, Cr33pyCat, fishmcmuffins, nebs, Renatotheflowey, Toster"
   54
 
 #lvl_0 (0)
@@ -57,6 +58,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   14,R
    6,R,J
   40
+console hide_message 1
 
 #lvl_1 (0)
 #1x

@@ -5,6 +5,7 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    1
 
 #Start
+console display_message 1 0.65 50 false Cr33pyCat
  190
 
 #lvl_0
@@ -71,6 +72,7 @@ EndRepeat
    1,R,K
    6,K
    7,J
+console hide_message 1
    1,R,J
    1,R,K,G
   11,R,J,G

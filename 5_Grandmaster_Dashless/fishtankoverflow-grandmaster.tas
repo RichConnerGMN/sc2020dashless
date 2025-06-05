@@ -2,12 +2,16 @@
 #Dash save by Cr33pyCat
 #Optimizations by Curcuit
 #7X
-RecordCount: 1239
+RecordCount: 1240
+
 console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1
 
-#lvl_fishtank_00 1x
+#Start
+console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Curcuit, RichConnerGMN"
   69
+
+#lvl_fishtank_00 1x
    8,R,J
    1,R
    1,R,D,X
@@ -46,6 +50,7 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
   40
 
 #lvl_fishtank_02 1x
+console hide_message 1
   15,R
   31,R,U,X
    1,J

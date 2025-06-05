@@ -1,12 +1,13 @@
 #Made by Renatotheflowey
 #Dash saves by Cr33pyCat and Tyran
 #35X
-RecordCount: 1273
+RecordCount: 1274
 
 console load SpringCollab2020/5-Grandmaster/Thegur90
    1
 
 #Start
+console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, Tyran"
   33
 
 #lvl_TheHeck90_Intro
@@ -71,6 +72,7 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   15,U,C
   12,R
   15,R,X
+console hide_message 1
    8,R,D
   24,D
    5,J
