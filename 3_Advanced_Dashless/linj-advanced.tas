@@ -2,6 +2,7 @@
 console load SpringCollab2020/3-Advanced/LinjKarma
    1
 #start
+console display_message 0 0.65 50 false Bred
  190
 
 #lvl_Intro (1x)
@@ -36,7 +37,7 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,J
 
 #lvl_1 (5x)
-
+console hide_message 0
   77,R,D
    1,R,J
   19,R

@@ -9,6 +9,8 @@ console load SpringCollab2020/3-Advanced/Thegur90
 
 #Start
 #lvl_intro (2x)
+console display_message 0 0.65 50 false "Cr33pyCat, DDSalvy, msleg, pansear, Renatotheflowey,"
+console display_message 1 0.65 100 false "RichConnerGMN, TheChickenLeg, Vampire Flower"
   36
    3,R
    1,R,J
@@ -83,6 +85,8 @@ console load SpringCollab2020/3-Advanced/Thegur90
   28,R,J
    6,R,U,C
    7,R,X
+console hide_message 0
+console hide_message 1
    6,R,D,C
   15,R,X
    9,R

@@ -5,6 +5,7 @@ console load SpringCollab2020/3-Advanced/Rufus
    1
 
 #Start
+console display_message 0 0.65 50 false Cr33pyCat
  190
 
 #lvl_Intro
@@ -33,6 +34,7 @@ console load SpringCollab2020/3-Advanced/Rufus
    1,L,K,G
    4,D,K,G
   25,R,D,K,G
+console hide_message 0
    2,R,D,G
   40
 

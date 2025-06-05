@@ -8,6 +8,7 @@ console load SpringCollab2020/3-Advanced/Dozing
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_Dozing_01 0x
@@ -48,6 +49,7 @@ console load SpringCollab2020/3-Advanced/Dozing
    1,R
    1
    3,R
+console hide_message 0
    1,R,J
    1,R,K,G
    3,R,J,G

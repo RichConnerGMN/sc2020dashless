@@ -3,11 +3,12 @@
 #Optimizations by RichConnerGMN
 
 #35x
-RecordCount: 1636
+RecordCount: 1637
 
 console load SpringCollab2020/3-Advanced/Cookie
    1
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_CookieC_intro 0x
@@ -42,6 +43,7 @@ console load SpringCollab2020/3-Advanced/Cookie
    4,R
    1,R,J
   14,R
+console hide_message 0
   19,R,J
   18,R,D
   12,R,J

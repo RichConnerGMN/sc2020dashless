@@ -6,6 +6,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    1
 
 #Start
+console display_message 0 0.65 50 false "Bred, Cr33pyCat, exopta, Tyran"
  190
 
 #lvl_BeginningRoom (1x)
@@ -41,6 +42,7 @@ endrepeat
    5
   10,L
   27,L,U,Z
+console hide_message 0
    2,L,G
    4,L,J,G
   25,L,K,G

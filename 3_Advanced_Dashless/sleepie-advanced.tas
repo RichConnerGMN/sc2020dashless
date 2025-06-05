@@ -9,6 +9,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1
 
 #Start
+console display_message 0 0.65 50 false "atpx8, Bred, Cr33pyCat, RichConnerGMN, Toster, Wirare"
   84
 
 #lvl_room_0 (0X)
@@ -43,6 +44,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1,R,K,G
    2,K
   46,R,J,G
+console hide_message 0
    1,K,G
    2,L,K
   18,L,J

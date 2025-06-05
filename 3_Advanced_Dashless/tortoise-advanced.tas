@@ -10,6 +10,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, exopta, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_ATortoise_Intro
@@ -72,6 +73,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,R
    1
    7,R
+console hide_message 0
    1,R,J
   26,R,D
    1,R,J

@@ -9,6 +9,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey, Toster, Vampire Flower"
   61
 
 #lvl_spoopy_01
@@ -78,6 +79,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    7
   20,R,D
    4,D
+console hide_message 0
    4,R,D
    4,R
    1,R,K,G

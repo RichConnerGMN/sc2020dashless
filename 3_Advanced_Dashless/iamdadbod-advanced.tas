@@ -8,6 +8,7 @@ console load SpringCollab2020/3-Advanced/iamdadbod
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey"
   86
 
 #lvl_iamdadbod_intro 1x
@@ -44,6 +45,7 @@ console load SpringCollab2020/3-Advanced/iamdadbod
   13,R
    1,R,J
   14,R
+console hide_message 0
   40
 
 #lvl_iamdadbod_1 7x

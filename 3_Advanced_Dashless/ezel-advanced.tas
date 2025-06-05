@@ -6,6 +6,7 @@ console load SpringCollab2020/3-Advanced/Ezel
    1
 
 #Start
+console display_message 0 0.65 50 false RichConnerGMN
  190
 
 #lvl_Ezel_00 (0X)
@@ -40,6 +41,7 @@ Repeat,12
 EndRepeat
   12,R
   25,R,J
+console hide_message 0
   12,R,D
    1,R
    1,J

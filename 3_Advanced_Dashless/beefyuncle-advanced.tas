@@ -7,6 +7,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    1
 
 #Start
+console display_message 0 0.65 50 false "atpx8, RichConnerGMN"
  190
 
 #lvl_beefy_00 (1X)
@@ -37,6 +38,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    8,R
    8,R,J
   25,R
+console hide_message 0
    6,L,Z
    1,R,J
   10,R

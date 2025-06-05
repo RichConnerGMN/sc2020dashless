@@ -8,6 +8,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Hane"
   36
 
 #Spinner Cycle
@@ -78,7 +79,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   17,R,J
    5,R
   22,R,Z
-
+console hide_message 0
 #-15f without bino interact
 #  18,R
 #   2,R,J

@@ -3,13 +3,14 @@
 #Optimisations by Renatotheflowey and RichConnerGMN
 #22X
 
-RecordCount: 2146
+RecordCount: 2147
 #added late
 
 console load SpringCollab2020/3-Advanced/Holly
    1
 
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, pansear, Renatotheflowey, RichConnerGMN, Wirare"
   36
 
 #lvl_Holly_00
@@ -79,6 +80,7 @@ console load SpringCollab2020/3-Advanced/Holly
    1,R,J
    1,K,G
    8,L,K
+console hide_message 0
    6,R,J,G
   11,L,K
    1,R,K

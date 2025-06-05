@@ -5,6 +5,7 @@ console load SpringCollab2020/3-Advanced/Bissy
    1
 
 #Start
+console display_message 0 0.65 50 false Hane
  190
 
 #lvl_Bissy_00 (10X)
@@ -25,6 +26,7 @@ console load SpringCollab2020/3-Advanced/Bissy
    8,R,U,Z
   16,U
    6,R,U,Z
+console hide_message 0
    7,U
    1
    2,R

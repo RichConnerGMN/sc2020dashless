@@ -8,6 +8,7 @@ console load SpringCollab2020/3-Advanced/taco360
    1
 
 #Start
+console display_message 0 0.65 50 false "Mathb0y, Renatotheflowey, Toster"
  190
 
 #lvl_taco360_00
@@ -49,6 +50,7 @@ EndRepeat
    1,R,K,G
    1,R,J,G
   11,R
+console hide_message 0
    1,R,J
   14,R
    1,R,J

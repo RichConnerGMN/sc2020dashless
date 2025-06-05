@@ -6,6 +6,7 @@ RecordCount: 1156
 console load SpringCollab2020/3-Advanced/Percussive
    1
 #Start
+console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey"
  190
 
 #lvl_Percussive_Intro 1x
@@ -19,6 +20,7 @@ console load SpringCollab2020/3-Advanced/Percussive
   47,L,D,X
    7,R,J
   19,R,K
+console hide_message 0
    1,K
   10,R,K
    1,K

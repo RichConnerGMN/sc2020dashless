@@ -9,6 +9,7 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    1
 
 #Start
+console display_message 0 0.65 50 false "amber, Cr33pyCat, Renatotheflowey, Tyran"
  193
 
 #lvl_JaThePlayer_0
@@ -38,6 +39,7 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    1,S
    1,D,O
   34
+console hide_message 0
    9,R
    7,R,J
    1,R,K
