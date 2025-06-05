@@ -4,7 +4,7 @@
 console load SpringCollab2020/2-Intermediate/GG19
    1
 #Start
-console display_message 0 0.65 50 false Exopta
+console display_message 0 0.65 50 false "Exopta, Renatotheflowey"
  193
 
 #lvl_Gabe_intro
