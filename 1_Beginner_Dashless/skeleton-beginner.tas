@@ -1,18 +1,19 @@
-#Made by RichConnerGMN, Wirare, Renatotheflowey
-#Dash saves by RichConnerGMN, exopta, Cr33pyCat
-# Optimization by Curcuit
-#6X
+#MadebyRichConnerGMN,Wirare, Renatotheflowey
+#DashsavesbyRichConnerGMN,exopta, Cr33pyCat
+#Optimizationby Curcuit
+ #6X
 
 RecordCount: 2783
 
 console load SpringCollab2020/1-Beginner/Skeleton
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Cr33pyCat, Curcuit, exopta, Renatotheflowey, RichConnerGMN, Wirare"
  190
 
-#lvl_skeleton2_00 (0X)
+#(0X)
+#lvl_skeleton2_00
    5,R
    1,R,J
   14,R
@@ -77,7 +78,7 @@ console display_message 1 0.65 50 false "Cr33pyCat, Curcuit, exopta, Renatothefl
   40
 console hide_message 1
 
-#lvl_skeleton2_01
+ #lvl_skeleton2_01
    9,R
    1,R,J
   14,R
@@ -181,7 +182,7 @@ console hide_message 1
    6,R
   40
 
-#lvl_skeleton2_02
+ #lvl_skeleton2_02
   11,R,K
    1,X
   42
@@ -368,7 +369,7 @@ EndRepeat
    2,J
   40
 
-#lvl_skeleton2_03
+ #lvl_skeleton2_03
    4,R
    1,R,J,G
    1,R
@@ -517,7 +518,8 @@ EndRepeat
    7,J,G
   40
 
-#lvl_skeleton2_04 (0x)
+#(0x)
+#lvl_skeleton2_04
    6,R
    7,L,J
    6,R,K
@@ -837,7 +839,8 @@ EndRepeat
    6,D
   40
 
-#lvl_skeleton2_04_berry (0X)
+#(0X)
+#lvl_skeleton2_04_berry
    3,D
   11,R,D
    8,R,J
@@ -869,7 +872,8 @@ EndRepeat
    7,L,J
   40
 
-#lvl_skeleton2_04 (0X)
+#(0X)
+#lvl_skeleton2_04
    3
    1,R
    1,L
@@ -880,7 +884,7 @@ EndRepeat
    3,R,K,G
   40
 
-#lvl_skeleton2_05
+ #lvl_skeleton2_05
   28,R
   28,R,J
   15,R,U,X

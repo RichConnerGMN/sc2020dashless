@@ -1,4 +1,4 @@
-#TASed by RichConnerGMN
+#TASedby RichConnerGMN
 #24X
 
 console load SpringCollab2020/1-Beginner/Ghajestis
@@ -8,7 +8,8 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 console display_message 1 0.65 50 false RichConnerGMN
  190
 
-#lvl_Ghaj_1 (1X)
+#(1X)
+#lvl_Ghaj_1
    2,L
    1,L,J
   12,R,Z
@@ -49,7 +50,8 @@ console display_message 1 0.65 50 false RichConnerGMN
 console hide_message 1
   40
 
-#lvl_Ghaj_1 (9X)
+#(9X)
+#lvl_Ghaj_2
    4,R
    2,R,J
   11,R
@@ -115,7 +117,8 @@ console hide_message 1
   12,R,Z
   40
 
-#lvl_Ghaj_4 (3X)
+#(3X)
+#lvl_Ghaj_4
    1,R,Z
    1,R,J
    3,R
@@ -174,7 +177,8 @@ console hide_message 1
    8,R,X
   40
 
-#lvl_Ghaj_5 (6X)
+#(6X)
+#lvl_Ghaj_5
   52,R
   11,L,D,X
    4,R,J

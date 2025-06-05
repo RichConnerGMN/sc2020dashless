@@ -1,17 +1,18 @@
-#TASed by pansear
-#Optimizations by amber, Renatotheflowey, RichConnerGMN
-#14X
+#TASedby pansear
+#Optimizationsbyamber,Renatotheflowey, RichConnerGMN
+ #14X
 
 RecordCount: 932
 
 console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "amber, pansear, Renatotheflowey, RichConnerGMN"
  190
 
-#lvl_cat-00 (0X)
+#(0X)
+#lvl_cat-00
    5,R
    1,R,J
   14,R
@@ -27,7 +28,8 @@ console display_message 1 0.65 50 false "amber, pansear, Renatotheflowey, RichCo
   12,R
   40
 
-#lvl_cat-01 (5X)
+#(5X)
+#lvl_cat-01
    2,R
    1,R,J
   14,R
@@ -93,7 +95,7 @@ console hide_message 1
    6,K,G
   40
 
-#lvl_cat-02
+ #lvl_cat-02
   11
   11,J,G
    1
@@ -161,7 +163,7 @@ console hide_message 1
   13,R
   40
 
-#lvl_cat-03
+ #lvl_cat-03
    5,R
   24,R,K
    8,J,G
@@ -216,7 +218,8 @@ console hide_message 1
    4,R
   40
 
-#lvl_cat-04 (5X)
+#(5X)
+#lvl_cat-04
   10,R
    1,R,J
   38,R,D
@@ -373,7 +376,7 @@ EndRepeat
    2,L
   43
 
-#lvl_cat-05
+ #lvl_cat-05
    4,L
    1,L,J
    5,L

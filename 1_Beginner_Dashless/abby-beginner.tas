@@ -1,14 +1,15 @@
-#TASed by nimiala
-#Dash saves by nebs
-#Optimizations by amber nebs, RichConnerGMN, Noha, Curcuit
-#14X
+#TASedby nimiala
+#Dashsavesby nebs
+#Optimizationsbyambernebs,RichConnerGMN,Noha, Curcuit
+ #14X
 
 console load SpringCollab2020/1-Beginner/Abby
    1
 
-#Start
+ #Start
 
-#lvl_Jude_00 (0X)
+#(0X)
+#lvl_Jude_00
 console display_message 0 0.65 50 false "amber, Curcuit, nebs, nimiala, NoHa, RichConnerGMN"
   61
    2,R
@@ -26,7 +27,7 @@ console display_message 0 0.65 50 false "amber, Curcuit, nebs, nimiala, NoHa, Ri
   83
   40
 
-#lvl_Jude_01
+ #lvl_Jude_01
    8
    1,S
    1,D,J
@@ -93,7 +94,8 @@ console hide_message 0
   55
   40
 
-#lvl_Jude_02 (3X)
+#(3X)
+#lvl_Jude_02
   37
   51,R,Z
    4,R,J
@@ -122,7 +124,8 @@ console hide_message 0
   65
   40
 
-#lvl_Jude_03 (3X)
+#(3X)
+#lvl_Jude_03
    4
   44,R
   27,R,X
@@ -161,7 +164,7 @@ console hide_message 0
   62
   40
 
-#lvl_Jude_04
+ #lvl_Jude_04
   10
   41
   97,L,D
@@ -177,7 +180,8 @@ console hide_message 0
   82
   40
 
-#lvl_Jude_05 (4X)
+#(4X)
+#lvl_Jude_05
    4
   48,R
   38,R
@@ -224,7 +228,7 @@ console hide_message 0
   68
   40
 
-#lvl_Jude_end
+ #lvl_Jude_end
   68,R
    5,R
    1,R,J

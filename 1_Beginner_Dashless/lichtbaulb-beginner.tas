@@ -1,5 +1,5 @@
-#Made by RichConnerGMN
-#Optimizations by sashabell
+#Madeby RichConnerGMN
+#Optimizationsby sashabell
 #4X
 
 console load SpringCollab2020/1-Beginner/Lichtbaulb
@@ -9,7 +9,8 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
 console display_message 1 0.65 50 false "RichConnerGMN, sashabell"
  190
 
-#lvl_pre pre 1 (0X)
+#(0X)
+#lvl_pre pre 1
    5,R
    1,R,J
   18,R
@@ -25,7 +26,8 @@ console display_message 1 0.65 50 false "RichConnerGMN, sashabell"
   12,R
   40
 
-#lvl_pre 1 (0X)
+#(0X)
+#lvl_pre 1
    1,R,J
   21,R
    1,R,J
@@ -90,7 +92,8 @@ console hide_message 1
    6,R
   40
 
-#lvl_1 (0X)
+#(0X)
+#lvl_1
   12,R
    1,R,J
   28,R,D

@@ -1,16 +1,17 @@
-#TASed by RichConnerGMN, Vampire Flower
-#Dash saves by Cr33pyCat
-#51X
+#TASedbyRichConnerGMN,Vampire Flower
+#Dashsavesby Cr33pyCat
+ #51X
 
 RecordCount: 1041
 console load SpringCollab2020/1-Beginner/DanTKO
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Cr33pyCat, RichConnerGMN, Vampire Flower"
  190
 
-#lvl_DanTKO_Intro (0X)
+#(0X)
+#lvl_DanTKO_Intro
    5,R
    1,R,J
   14,R
@@ -64,7 +65,8 @@ console display_message 1 0.65 50 false "Cr33pyCat, RichConnerGMN, Vampire Flowe
 console hide_message 1
   40
 
-#lvl_DanTKO_01 (6X)
+#(6X)
+#lvl_DanTKO_01
    6,R
    1,R,J
   18,R
@@ -105,7 +107,8 @@ console hide_message 1
    8,R
   40
 
-#lvl_DanTKO_02 (7X)
+#(7X)
+#lvl_DanTKO_02
    2
   16,R,D
    1
@@ -203,7 +206,8 @@ console hide_message 1
   27,R
   40
 
-#lvl_DanTKO_03 (11X)
+#(11X)
+#lvl_DanTKO_03
    5,D
    4,R,D
    1,D
@@ -263,7 +267,8 @@ console hide_message 1
    1,J
   40
 
-#lvl_DanTKO_04 (12X)
+#(12X)
+#lvl_DanTKO_04
    1,R,J,G
    1,R
    3,R,J,G
@@ -337,7 +342,8 @@ console hide_message 1
    1,K
   40
 
-#lvl_DanTKO_05 (14X)
+#(14X)
+#lvl_DanTKO_05
    3,R,J,G
    2,R
    1
@@ -428,7 +434,7 @@ console hide_message 1
   21,R
   40
 
-#lvl_DanTKO_Outro
+ #lvl_DanTKO_Outro
    2
   15,R,D
    1,R

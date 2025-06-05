@@ -1,12 +1,13 @@
-#Made by amber, sashabell
-#Optimized by RichConnerGMN
-#1X
+#Madebyamber, sashabell
+#Optimizedby RichConnerGMN
+ #1X
 
 console load SpringCollab2020/1-Beginner/Thegur90
    1
 
-#Start
-#lvl_Thegur90_Beginner_I (0X)
+ #Start
+#(0X)
+#lvl_Thegur90_Beginner_I
 console display_message 1 0.65 50 false "amber, sashabell, RichConnerGMN"
   36
    5,R
@@ -39,7 +40,8 @@ console display_message 1 0.65 50 false "amber, sashabell, RichConnerGMN"
    1
   40
 
-#lvl_Thegur90_Beginner_1 (0X)
+#(0X)
+#lvl_Thegur90_Beginner_1
    1,R,J
   14,R
    1,R,J
@@ -103,7 +105,8 @@ console hide_message 1
    1,R
   40
 
-#lvl_Thegur90_Beginner_2 (0X)
+#(0X)
+#lvl_Thegur90_Beginner_2
   13,R
    5,R,J
    8,R
@@ -236,7 +239,8 @@ console hide_message 1
    1,R
   40
 
-#lvl_Thegur90_Beginner_3 (0X)
+#(0X)
+#lvl_Thegur90_Beginner_3
   13,R
    1,R,J
   14,R
@@ -354,7 +358,8 @@ console hide_message 1
    7,R
   40
 
-#lvl_Thegur90_Beginner_4 (0X)
+#(0X)
+#lvl_Thegur90_Beginner_4
    3,R
    1,R,J
    1
@@ -514,7 +519,8 @@ console hide_message 1
    5,R
   40
 
-#lvl_Thegur90_Beginner_5 (0X)
+#(0X)
+#lvl_Thegur90_Beginner_5
    9,R
    1,R,J
   14,R
@@ -691,7 +697,7 @@ console hide_message 1
    5,R
   40
 
-#lvl_Thegur90_Beginner_O
+ #lvl_Thegur90_Beginner_O
    2,R
    6,R,J
    4,R

@@ -1,15 +1,15 @@
-#Made by RichConnerGMN, Algorythm
-#Optimization Tyran, rosellarade
-#11X
+#MadebyRichConnerGMN, Algorythm
+#OptimizationTyran, rosellarade
+ #11X
 
 console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Algorythm, RichConnerGMN, rosellarade, Tyran"
   88
 
-#lvl_Isa_Intro
+ #lvl_Isa_Intro
   11,R,J
   51,R,X
    4,R,J
@@ -17,7 +17,8 @@ console display_message 1 0.65 50 false "Algorythm, RichConnerGMN, rosellarade, 
    2,R,J,G
    8,R,D,X
 
-#lvl_Isa_00 (3X)
+#(3X)
+#lvl_Isa_00
   40
   24,R
    4,R,J
@@ -43,7 +44,8 @@ console display_message 1 0.65 50 false "Algorythm, RichConnerGMN, rosellarade, 
 console hide_message 1
   40
 
-#lvl_Isa_01 (0X)
+#(0X)
+#lvl_Isa_01
    3,R
    1
    8,R,D
@@ -101,7 +103,7 @@ console hide_message 1
   10,R
   40
 
-#lvl_Isa_02
+ #lvl_Isa_02
    4,R
    1,R,J
   14,R
@@ -137,7 +139,7 @@ console hide_message 1
    6,R,J
   40
 
-#lvl_Isa_03
+ #lvl_Isa_03
    5
    5,L
    1
@@ -181,7 +183,7 @@ console hide_message 1
    1,K
   40
 
-#lvl_Isa_04
+ #lvl_Isa_04
    1,R,K,G
    1,J,G
    1,L,J
@@ -197,7 +199,7 @@ console hide_message 1
   29,U,X
   43
 
-#lvl_Isa_Exit
+ #lvl_Isa_Exit
    1,L
    1,R,J,G
    1,R,K,G

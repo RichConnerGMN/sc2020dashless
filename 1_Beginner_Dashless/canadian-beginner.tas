@@ -1,16 +1,16 @@
-#TASed by RichConnerGMN
-#Dash saves by Cr33pyCat, Algorythm
-#Optimizations by amber, Algorythm, NoHa
-#12X
+#TASedby RichConnerGMN
+#DashsavesbyCr33pyCat, Algorythm
+#Optimizationsbyamber,Algorythm, NoHa
+ #12X
 
 console load SpringCollab2020/1-Beginner/CANADIAN
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Algorythm, amber, Cr33pyCat, NoHa, RichConnerGMN"
  190
 
-#lvl_01
+ #lvl_01
    4,R
    1,R,J
   14,R
@@ -70,7 +70,8 @@ console display_message 1
   40
 
 
-#lvl_02 (0X)
+#(0X)
+#lvl_02
    7,R,J
    3,L,J
    2,L,K,G
@@ -131,7 +132,8 @@ console display_message 1
    5,R
   40
 
-#lvl_03 (4X)
+#(4X)
+#lvl_03
    9,R
    9,R,J
    2,R
@@ -195,7 +197,8 @@ console display_message 1
  106,R,C
   40
 
-#lvl_04 (3X)
+#(3X)
+#lvl_04
    6
    3,J,G
    5,L,J
@@ -288,7 +291,8 @@ EndRepeat
    1,R,J
   40
 
-#lvl_05 (0X)
+#(0X)
+#lvl_05
    3,R
    1
    1,R,J,G
@@ -316,7 +320,8 @@ EndRepeat
    3,R
   40
 
-#lvl_06 (3X)
+#(3X)
+#lvl_06
   11,R
    2,R,J
   15,R
@@ -436,7 +441,7 @@ EndRepeat
   14,R
   40
 
-#lvl_07
+ #lvl_07
    6,R,J
    7,R
    1,R,J

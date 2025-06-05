@@ -1,18 +1,19 @@
-#Made by RichConnerGMN
-#Dash saves by amber, Tyran, exopta, Cr33pyCat
-#Optimizations by amber, pansear, Curcuit
-#15X
+#Madeby RichConnerGMN
+#Dashsavesbyamber,Tyran,exopta, Cr33pyCat
+#Optimizationsbyamber,pansear, Curcuit
+ #15X
 
 RecordCount: 724
 
 console load SpringCollab2020/1-Beginner/Snas
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "amber, Cr33pyCat, Curcuit, exopta, pansear, RichConnerGMN, Tyran"
  190
 
-#lvl_Snas00 (0X)
+#(0X)
+#lvl_Snas00
    5,R
    3,R,J
   28,R
@@ -36,7 +37,7 @@ console display_message 1 0.65 50 false "amber, Cr33pyCat, Curcuit, exopta, pans
    9,R
    1,R,J
   14,R
-#no, more cbs aren't faster
+#no,morecbsaren't faster
    1,R,J
    1,R,K,G
    7,R
@@ -49,7 +50,7 @@ console display_message 1 0.65 50 false "amber, Cr33pyCat, Curcuit, exopta, pans
   40
 console hide_message 1
 
-#lvl_Snas01
+ #lvl_Snas01
    6,R,J
   19,R
   51,R,X
@@ -70,7 +71,7 @@ console hide_message 1
   10,R
   40
 
-#lvl_Snas02
+ #lvl_Snas02
    7,R,J
   31,R,D
   12,R,J
@@ -112,7 +113,8 @@ console hide_message 1
    5,R,J
   40
 
-#lvl_Snas03 3x
+#3x
+#lvl_Snas03
    3,R,J
    5,K
   10,L,J,G
@@ -150,7 +152,8 @@ console hide_message 1
    7,R
   40
 
-#lvl_Snas04 (3x)
+#(3x)
+#lvl_Snas04
    7,R
    1,R,J
    3,J
@@ -197,7 +200,8 @@ console hide_message 1
    6,R
   40
 
-#lvl_Snas05 (6X)
+#(6X)
+#lvl_Snas05
    1,R,J
    5,R
    8,R,D,J
@@ -247,7 +251,7 @@ console hide_message 1
   76
   40
 
-#lvl_Snas06
+ #lvl_Snas06
   69
    5,L
    1,L,J

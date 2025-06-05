@@ -1,16 +1,17 @@
-#Made by RichConnerGMN
-#Dash saves by Cr33pyCat
-#Optimizations by amber, pansear
-#20X
+#Madeby RichConnerGMN
+#Dashsavesby Cr33pyCat
+#Optimizationsbyamber, pansear
+ #20X
 
 console load SpringCollab2020/1-Beginner/iamdadbod
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "amber, Cr33pyCat, pansear, RichConnerGMN"
   88
 
-#lvl_totk_intro (2X)
+#(2X)
+#lvl_totk_intro
    1,R
    1
    7,R
@@ -105,7 +106,8 @@ console display_message 1 0.65 50 false "amber, Cr33pyCat, pansear, RichConnerGM
    1,L,K
   40
 console hide_message 1
-#lvl_totk1 (4X)
+#(4X)
+#lvl_totk1
    1,L,K
   14,R,U,Z
    1,L,J,G
@@ -151,7 +153,8 @@ console hide_message 1
    6,R
   40
 
-#lvl_totk2 (3X)
+#(3X)
+#lvl_totk2
    2,R,J
   10,R,D
   12,L,D,X
@@ -195,7 +198,8 @@ console hide_message 1
   22,R
   40
 
-#lvl_totk3 (6X)
+#(6X)
+#lvl_totk3
   23,R
    2
   11,J
@@ -325,7 +329,7 @@ console hide_message 1
    4,R,D,J
   40
 
-#lvl_totk4
+ #lvl_totk4
    4,R,J
    2,R
    2,L
@@ -398,7 +402,8 @@ console hide_message 1
   13,R
   40
 
-#lvl_totk5 (3X)
+#(3X)
+#lvl_totk5
    1,R
    1,R,J
   14,R
@@ -506,7 +511,7 @@ console hide_message 1
    8,K,G
   40
 
-#lvl_totk_exit
+ #lvl_totk_exit
    2
    1,L
   14,R,J,G

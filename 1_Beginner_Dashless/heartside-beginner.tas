@@ -1,6 +1,7 @@
-#TASed by RichConnerGMN, atpx8
-#Optimizations by Ralp, Cr33pyCat, NoHa, Guest_, Gregovin
-#XNA/FNA resync from Bred
+#atpx8
+#TASedbyRichConnerGMN,
+#OptimizationsbyRalp,Cr33pyCat,NoHa,Guest_, Gregovin
+#XNA/FNAresyncfrom Bred
 #55X
 
 RecordCount: 3731
@@ -11,7 +12,8 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
 
 
 #Start
-#lvl_beg_heart_00 (0X)
+#(0X)
+#lvl_beg_heart_00
 console display_message 1 0.65 50 false "atpx8, Bred, Cr33pyCat, Gregovin, Guest_, NoHa, Ralp, RichConnerGMN"
   36
    7,R
@@ -68,7 +70,8 @@ console display_message 1 0.65 50 false "atpx8, Bred, Cr33pyCat, Gregovin, Guest
    6,R
   40
 console hide_message 1
-#lvl_beg_heart_01 (9X)
+#(9X)
+#lvl_beg_heart_01
    1,R
    1
    1,R
@@ -232,7 +235,8 @@ console hide_message 1
   75
   40
 
-#lvl_beg_heart_02 (11X)
+#(11X)
+#lvl_beg_heart_02
    8
   17,R
   13,L,J
@@ -435,7 +439,8 @@ console hide_message 1
   20,R,U,K,G
   40
 
-#lvl_beg_heart_03 (7X)
+#(7X)
+#lvl_beg_heart_03
   42,R,U,G
   14,R,D,G
   25,G
@@ -545,7 +550,8 @@ console hide_message 1
   68,U,G
   43
 
-#lvl_beg_heart_04 (0X)
+#(0X)
+#lvl_beg_heart_04
    1,L,G
   11,R,G
    3,G
@@ -557,8 +563,8 @@ console hide_message 1
    4,R,K,G
   18,U,K,G
 #Waterspeeding is
-#wack, prepare for
-#the big funny
+#wack,prepare for
+#thebig funny
 AnalogueMode, Precise
    1,G,F,5.73918
    1,G,F,15.46604
@@ -836,7 +842,8 @@ AnalogMode, Precise
   10,R,G
   40
 
-#lvl_beg_heart_06 (25X)
+#(25X)
+#lvl_beg_heart_06
   11,R,G
    4,R,D
    6,R,G
@@ -1022,8 +1029,8 @@ AnalogMode, Precise
   12,R,K,G
    5,R,J,G
   40
-
-#lvl_beg_heart_07 #1X
+#1X
+#lvl_beg_heart_07
   11,R
    2,J,G
   14,L,J

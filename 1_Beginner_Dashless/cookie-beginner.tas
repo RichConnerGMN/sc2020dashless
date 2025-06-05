@@ -1,4 +1,5 @@
-#TASed by sashabell, exopta
+#exopta
+#TASedbysashabell,
 #4X
 RecordCount: 6165
 
@@ -57,8 +58,7 @@ console display_message 1 0.65 50 false "exopta, sashabell"
    2,R,J,G
 console hide_message 1
   40
-
-#lvl_CookieBeg_1
+#lvl_ CookieBeg_1
   14,R,J,G
    1,J
   15,U,X
@@ -264,7 +264,8 @@ console hide_message 1
   19,R,G
   40
 
-#lvl_ CookieBeg_4 (0X)
+#(0X)
+#lvl_CookieBeg_4
    5,R
    1,R,J
   14,R
@@ -439,7 +440,8 @@ console hide_message 1
    3,R,J
   40
 
-#lvl_ CookieBeg_3 (0X)
+#(0X)
+#lvl_CookieBeg_3
    2,R,J
    2,R
    1
@@ -606,7 +608,8 @@ console hide_message 1
   11,R,G
   40
 
-#lvl_ CookieBeg_5 (0X)
+#(0X)
+#lvl_CookieBeg_5
    4,R,G
    1,R,J,G
   14,R,G
@@ -796,7 +799,8 @@ console hide_message 1
    7,R,J,G
   40
 
-#lvl_ CookieBeg_Outro (0X)
+#(0X)
+#lvl_CookieBeg_Outro
    1,R,J,G
   19,R,G
  137,R

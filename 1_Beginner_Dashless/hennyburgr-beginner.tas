@@ -1,5 +1,5 @@
-#Made by Algorythm, RichConnerGMN
-#Dash save by Cr33pyCat
+#MadebyAlgorythm, RichConnerGMN
+#Dashsaveby Cr33pyCat
 #4x
 
 console load SpringCollab2020/1-Beginner/hennyburgr
@@ -9,7 +9,8 @@ console load SpringCollab2020/1-Beginner/hennyburgr
 console display_message 1 0.65 50 false "Algorythm, Cr33pyCat, RichConnerGMN"
  190
 
-#lvl_hennyburgr-intro (0X)
+#(0X)
+#lvl_hennyburgr-intro
    5,R
    1,R,J
   14,R
@@ -71,7 +72,8 @@ console display_message 1 0.65 50 false "Algorythm, Cr33pyCat, RichConnerGMN"
   10,J
   40
 console hide_message 1
-#lvl_hennyburgr-1 (0X)
+#(0X)
+#lvl_hennyburgr-1
   11,R
    1,R,J,G
    2,R,K,G
@@ -246,7 +248,8 @@ console hide_message 1
    9,R
   40
 
-#lvl_hennyburgr-3 (0X)
+#(0X)
+#lvl_hennyburgr-3
    1,R,J
   14,R
    1,R,D,J
@@ -433,8 +436,8 @@ console hide_message 1
    2,L,D
   20,R,J
   14,R
-#cycle can prob be skipped
-#but i can't manage to do it
+#cyclecanprobbe skipped
+#butican'tmanagetodo it
    6,G
    1,R
   36,G
@@ -584,7 +587,7 @@ console hide_message 1
   10,R
   40
 
-#lvl_hennyburgr_outro
+#lvl_hennyburgr-outro
    4,R
    1,R,J
   14,R

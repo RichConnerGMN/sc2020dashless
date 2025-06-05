@@ -1,5 +1,5 @@
-#TASed by Algorythm
-#Optimizations by RichConnerGMN, NoHa, amber
+#TASedby Algorythm
+#OptimizationsbyRichConnerGMN,NoHa, amber
 #3X
 
 console load SpringCollab2020/1-Beginner/Bissy
@@ -164,7 +164,8 @@ EndRepeat
    5,K
   40
 
-#lvl_Bissy_02 (0X)
+#(0X)
+#lvl_Bissy_02
    3
    8,R
    1,R,K,G
@@ -243,7 +244,8 @@ EndRepeat
   10,R,K
   40,K
 
-#lvl_Bissy_03 (0X)
+#(0X)
+#lvl_Bissy_03
   36,R,K
   35,R,J
   18,R,K
@@ -321,7 +323,8 @@ EndRepeat
   13,R,K,G
   40
 
-#lvl_Bissy_04 (0X)
+#(0X)
+#lvl_Bissy_04
    3,R
    1,R,J,G
   11,R,K,G
