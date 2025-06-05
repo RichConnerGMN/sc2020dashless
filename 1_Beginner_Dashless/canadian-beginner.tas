@@ -1,13 +1,13 @@
 #TASed by RichConnerGMN
 #Dash saves by Cr33pyCat, Algorythm
-#Optimizations by Algorythm, NoHa
+#Optimizations by amber, Algorythm, NoHa
 #12X
 
 console load SpringCollab2020/1-Beginner/CANADIAN
    1
 
 #Start
-console display_message 1 0.65 50 false "Algorythm, Cr33pyCat, NoHa, RichConnerGMN"
+console display_message 1 0.65 50 false "Algorythm, amber, Cr33pyCat, NoHa, RichConnerGMN"
  190
 
 #lvl_01

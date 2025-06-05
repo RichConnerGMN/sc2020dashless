@@ -1,12 +1,12 @@
 #By Tyran, Kataiser, lmjacks, sashabell
-#Optimizations by Bred
+#Optimizations by Bred, RichConnerGMN
 #1X
 
 console load SpringCollab2020/1-Beginner/itsabrody
    1
 
 #Start
-console display_message 1 0.65 50 false "Kataiser, lmjacks, sashabell, Tyran"
+console display_message 1 0.65 50 false "Bred, Kataiser, lmjacks, sashabell, Tyran, RichConnerGMN"
  190
 
 #lvl_intro (0X)

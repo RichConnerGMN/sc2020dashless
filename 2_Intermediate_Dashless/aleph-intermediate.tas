@@ -1,6 +1,6 @@
 #Made by Toster
 #Dash saves by Cirion02, pansear, baamboo, Tyran
-#Optimizations by Renatotheflowey, atpx8, Curcuit
+#Optimizations by Renatotheflowey, atpx8, Curcuit, RichConnerGMN
 #26x
 
 RecordCount: 2428
@@ -9,7 +9,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    1
 
 #Start
-console display_message 0 0.65 50 false "baamboo, Cirion02, pansear, Toster, Tyran"
+console display_message 0 0.65 50 false "atpx8, baamboo, Cirion02, Curcuit, pansear, RichConnerGMN, Toster, Tyran"
   69
 
 #lvl_aleph_start (1X)

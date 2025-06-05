@@ -1,11 +1,12 @@
 #Made by Vampire Flower, mlseg, Tyran, nebs
+#Optimized by RichConnerGMN
 #1X
 
 console load SpringCollab2020/1-Beginner/Rue
    1
 
 #Start
-console display_message 1 0.65 50 false "mlseg, nebs, Tyran, Vampire Flower"
+console display_message 1 0.65 50 false "mlseg, nebs, RichConnerGMN, Tyran, Vampire Flower"
  190
 
 #lvl_Intro (0X)

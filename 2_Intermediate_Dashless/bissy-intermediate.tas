@@ -1,13 +1,14 @@
 #Made by Renatotheflowey
 #Dash save by amber
-#12X
+#Optimizations by pansear, RichConnerGMN
+#12,X
 RecordCount: 758
 
 console load SpringCollab2020/2-Intermediate/Bissy
    1
 
 #Start
-console display_message 0 0.65 50 false "amber, Renatotheflowey"
+console display_message 0 0.65 50 false "amber, pansear, Renatotheflowey, RichConnerGMN"
   36
 
 #lvl_Bissy_00

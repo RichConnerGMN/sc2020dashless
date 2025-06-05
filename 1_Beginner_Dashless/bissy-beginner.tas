@@ -1,12 +1,12 @@
 #TASed by Algorythm
-#Optimizations by RichConnerGMN, NoHa
+#Optimizations by RichConnerGMN, NoHa, amber
 #3X
 
 console load SpringCollab2020/1-Beginner/Bissy
    1
 
 #Start
-console display_message 1 0.65 50 false "Algorythm, NoHa, RichConnerGMN"
+console display_message 1 0.65 50 false "Algorythm, amber, NoHa, RichConnerGMN"
  190
 
 #lvl_Bissy_00

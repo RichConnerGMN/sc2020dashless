@@ -1,5 +1,6 @@
 #TASed by Algorythm
 #Added entertainment by masrock9
+#Resynced by RichConnerGMN
 #5X
 
 console load SpringCollab2020/1-Beginner/Flagpole1up
@@ -7,7 +8,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
 
 #Start
 #lvl_Flagpole1up_00_Intro
-console display_message 1 0.65 50 false "Algorythm, masrock9"
+console display_message 1 0.65 50 false "Algorythm, masrock9, RichConnerGMN"
   84
    4,R
    1,R,J

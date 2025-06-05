@@ -1,5 +1,6 @@
 #Made by pansear
 #Dash save by Cr33pyCat
+#Optimizations by Tyran
 #11X
 
 RecordCount: 1925
@@ -8,7 +9,7 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
    1
 
 #Start
-console display_message 0 0.65 50 false "Cr33pyCat, pansear"
+console display_message 0 0.65 50 false "Cr33pyCat, pansear, Tyran"
  190
 
 #lvl_RG2_0 (0X)

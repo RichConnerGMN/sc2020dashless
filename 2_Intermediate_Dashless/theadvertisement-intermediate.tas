@@ -1,6 +1,6 @@
 #Draft by wirare
-#Dash save by Cr33pyCat
-#Optimizations by Toster
+#Dash save by Cr33pyCat, Tyran
+#Optimizations by amber, Toster, pansear
 #4x
 
 RecordCount: 2789
@@ -9,7 +9,7 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1
 
 #Start
-console display_message 0 0.65 50 false "Cr33pyCat, Toster, wirare"
+console display_message 0 0.65 50 false "amber, Cr33pyCat, pansear, Toster, Tyran, wirare"
  190
 
 #lvl_TheAd_00

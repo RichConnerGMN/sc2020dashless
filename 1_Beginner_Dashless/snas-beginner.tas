@@ -1,6 +1,6 @@
 #Made by RichConnerGMN
 #Dash saves by amber, Tyran, exopta, Cr33pyCat
-#Optimizations by amber
+#Optimizations by amber, pansear, Curcuit
 #15X
 
 RecordCount: 724
@@ -9,7 +9,7 @@ console load SpringCollab2020/1-Beginner/Snas
    1
 
 #Start
-console display_message 1 0.65 50 false "amber, Cr33pyCat, exopta, RichConnerGMN, Tyran"
+console display_message 1 0.65 50 false "amber, Cr33pyCat, Curcuit, exopta, pansear, RichConnerGMN, Tyran"
  190
 
 #lvl_Snas00 (0X)

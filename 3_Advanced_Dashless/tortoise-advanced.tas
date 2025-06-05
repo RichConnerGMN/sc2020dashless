@@ -1,5 +1,6 @@
 #Made by Renatotheflowey
 #Dash saves by exopta, Cr33pyCat
+#Optimized by RichConnerGMN
 #1x
 
 #console clrsav
@@ -101,7 +102,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    3,R
   40
 
-#lvl_ATortoise_1 (1)
+#lvl_ATortoise_1 (0)
 #0x
   11,R
    1,R,J
@@ -224,7 +225,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    5,R,K,G
   40
 
-#lvl_BTortoise_B1 (1)
+#lvl_BTortoise_B1 (0)
 #0x
    5
   12,J,G
@@ -232,7 +233,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    9,L,D
   43
 
-#lvl_ATortoise_1 (2)
+#lvl_ATortoise_1 (1)
 #0x
    1,S
    1,D,J
@@ -277,7 +278,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
   15,R
   40
 
-#lvl_Tortoise_2 (1)
+#lvl_Tortoise_2 (0)
 #0x
   30,R,D
    6,R
@@ -446,7 +447,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,D,J
   16
 
-#lvl_Tortoise_2 (2)
+#lvl_Tortoise_2 (1)
 #0x
  208
    5,R
@@ -618,7 +619,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,L,J
   43
 
-#lvl_BTortoise_B1 (2)
+#lvl_BTortoise_B1 (1)
 #0x
    3,L,J
   38,L,D
@@ -675,7 +676,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
  104,R,X
   43
 
-#lvl_Tortoise_2 (3)
+#lvl_Tortoise_2 (2)
 #0x
  115
   43
@@ -891,28 +892,28 @@ console load SpringCollab2020/3-Advanced/Tortoise
   14,R
    1,R,D,J
   14,R
- Repeat, 4
+Repeat, 4
    2,R,D
    1,R
- EndRepeat
+EndRepeat
   11,R,D,J
    6,R
    1,R,J
   12,R
    3,R,D
- Repeat,7
+Repeat,7
    2,R,D
    1,R
- EndRepeat
+EndRepeat
   11,R,D,J
    6,R
    1,R,J
   12,R
   10,R,D
- Repeat,26
+Repeat,26
    2,R,D
    1,R
- EndRepeat
+EndRepeat
    1,R,D
    1,R,D,J
   15,R,X

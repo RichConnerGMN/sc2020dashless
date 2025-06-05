@@ -324,7 +324,7 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   12,R
   40
 
-#lvl_a-01
+#lvl_a-01 (0)
 #0x
    9,R
    1
@@ -621,7 +621,7 @@ EndRepeat
    7,R
   40
 
-#lvl_a-01
+#lvl_a-01 (1)
 #0x
   10,R
    1,R,J
@@ -874,7 +874,7 @@ EndRepeat
    7,R
   40
 
-#lvl_a-01
+#lvl_a-01 (2)
 #0x
   10,R
    1,R,J

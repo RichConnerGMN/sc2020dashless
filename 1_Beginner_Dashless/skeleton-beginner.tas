@@ -1,5 +1,6 @@
 #Made by RichConnerGMN, Wirare, Renatotheflowey
 #Dash saves by RichConnerGMN, exopta, Cr33pyCat
+# Optimization by Curcuit
 #6X
 
 RecordCount: 2783
@@ -8,7 +9,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1
 
 #Start
-console display_message 1 0.65 50 false "Cr33pyCat, exopta, Renatotheflowey, RichConnerGMN, Wirare"
+console display_message 1 0.65 50 false "Cr33pyCat, Curcuit, exopta, Renatotheflowey, RichConnerGMN, Wirare"
  190
 
 #lvl_skeleton2_00 (0X)

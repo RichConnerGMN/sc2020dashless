@@ -1,6 +1,5 @@
-# SpringCollab2020
-# https://gamebanana.com/mods/150813
-
+#Made by Hane
+#Daves by Cr33pyCat
 #58x
 
 RecordCount: 8439
@@ -732,7 +731,7 @@ Repeat,11
 EndRepeat
 #intentionally losing 6f
 #to remove spinner cycle
-#because room is 
+#because room is
 #cycle locked by bumper,
 #optimally there are
 #3 fewer grab spams
@@ -1353,7 +1352,7 @@ EndRepeat
    1,R,J,G
   18,R,D,G
   40
-   
+
 #lvl_Heartside_5
 #1x
   13,R,D,G

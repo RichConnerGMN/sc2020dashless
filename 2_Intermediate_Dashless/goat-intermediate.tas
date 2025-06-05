@@ -1,5 +1,5 @@
 #Made by Kirbz
-#Optimizations by RichConnerGMN
+#Optimizations by RichConnerGMN, pansear
 #22X
 
 console load SpringCollab2020/2-Intermediate/Goat
@@ -7,7 +7,7 @@ console load SpringCollab2020/2-Intermediate/Goat
 
 #Start
 #lvl_Intro (1X)
-console display_message 0 0.65 50 false "Kirbz, RichConnerGMN"
+console display_message 0 0.65 50 false "Kirbz, pansear, RichConnerGMN"
   61
    1,R,D,J
   14,R

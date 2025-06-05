@@ -1,11 +1,12 @@
 #Made by RichConnerGMN, Algorythm
+#Optimization Tyran, rosellarade
 #11X
 
 console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1
 
 #Start
-console display_message 1 0.65 50 false "Algorythm, RichConnerGMN"
+console display_message 1 0.65 50 false "Algorythm, RichConnerGMN, rosellarade, Tyran"
   88
 
 #lvl_Isa_Intro

@@ -1,4 +1,5 @@
 #Made by atpx8
+#Dash save by Tyran
 #60x
 
 RecordCount: 848
@@ -7,7 +8,7 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1
 
 #Start
-console display_message 0 0.65 50 false atpx8
+console display_message 0 0.65 50 false "atpx8, Tyran"
  102
 
 #lvl_IntroRoom 3x

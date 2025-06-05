@@ -1,4 +1,5 @@
 #Made by Renatotheflowey
+#Optimization by pansear
 #9X
 RecordCount: 627
 
@@ -6,7 +7,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    1
 
 #Start
-console display_message 0 0.65 50 false Renatotheflowey
+console display_message 0 0.65 50 false "Renatotheflowey, pansear"
  190
 
 #lvl_1 (0X)

@@ -98,7 +98,7 @@ EndRepeat
    7,R
   40
 
-#lvl_taco360_02
+#lvl_taco360_02 (0)
 #0x
    7,R,G
    1,R,J
@@ -283,7 +283,7 @@ EndRepeat
    1,R,J
   40
 
-#lvl_taco360_berry
+#lvl_taco360_berry (0)
   14,R
    1,R,J
   14,R
@@ -315,7 +315,7 @@ EndRepeat
    1,R,J,G
   14,R,D,G
   40
-  
+
 #lvl_taco360_berry (1)
   15,R,D,G
    5,R,J,G
@@ -343,7 +343,7 @@ EndRepeat
   14,L,G
   40
 
-#lvl_taco360_02
+#lvl_taco360_02 (2)
 #0x
    4,L,G
    6,R,G

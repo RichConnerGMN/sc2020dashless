@@ -13,7 +13,7 @@ console load SpringCollab2020/3-Advanced/NeoKat
 
 #lvl_1
 #0x
-   
+
 #spinner cycle +2f
    5,R
    1,R,J

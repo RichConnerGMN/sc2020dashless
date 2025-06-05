@@ -1,6 +1,6 @@
 #TASed by nimiala
 #Dash saves by nebs
-#Optimizations by nebs, RichConnerGMN, Noha
+#Optimizations by amber nebs, RichConnerGMN, Noha, Curcuit
 #14X
 
 console load SpringCollab2020/1-Beginner/Abby
@@ -9,7 +9,7 @@ console load SpringCollab2020/1-Beginner/Abby
 #Start
 
 #lvl_Jude_00 (0X)
-console display_message 0 0.65 50 false "nebs, nimiala, NoHa, RichConnerGMN"
+console display_message 0 0.65 50 false "amber, Curcuit, nebs, nimiala, NoHa, RichConnerGMN"
   61
    2,R
    1,R,J

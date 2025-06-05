@@ -1,5 +1,5 @@
 #Made by mathb0y, Toster
-#Dash saves by Renatotheflowey, Cr33pyCat, ninz, atpx8
+#Dash saves by Renatotheflowey, Cr33pyCat, ninz, atpx8, amber
 #Optimizations by Renatotheflowey
 #29x
 
@@ -11,7 +11,7 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
 #Start
 #lvl_hennyburgr_intro
 #1x
-console display_message 0 0.65 50 false "atpx8, Cr33pyCat, mathb0y, ninz, Renatotheflowey, Toster"
+console display_message 0 0.65 50 false "amber, atpx8, Cr33pyCat, mathb0y, ninz, Renatotheflowey, Toster"
   28,L,J
   11
    1,L

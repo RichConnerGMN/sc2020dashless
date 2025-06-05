@@ -1,13 +1,13 @@
 #Made by masrock9
 #Dash saves by exopta, atpx8, Cr33pyCat
-#Optimizations by RichConnerGMN, atpx8, Renatotheflowey, exopta, Cr33pyCat
+#Optimizations by RichConnerGMN, atpx8, Renatotheflowey, exopta, Cr33pyCat, pansear
 #14x
 
 console load SpringCollab2020/2-Intermediate/Donker19
    1
 
 #Start
-console display_message 0 0.65 50 false "atpx8, Cr33pyCat, exopta, masrock9, Renatotheflowey, RichConnerGMN"
+console display_message 0 0.65 50 false "atpx8, Cr33pyCat, exopta, masrock9, pansear, Renatotheflowey, RichConnerGMN"
  190
 
 #lvl_1 (0x)

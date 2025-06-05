@@ -1,6 +1,6 @@
 #Made by pansear
 #Dash save by Cr33pyCat
-#Optimizations by RichConnerGMN
+#Optimizations by amber, RichConnerGMN
 #22x
 
 RecordCount: 788
@@ -9,7 +9,7 @@ console load SpringCollab2020/2-Intermediate/Noax
    1
 
 #Start
-console display_message 0 0.65 50 false "Cr33pyCat, pansear, RichConnerGMN"
+console display_message 0 0.65 50 false "amber, Cr33pyCat, pansear, RichConnerGMN"
  190
 
 #lvl_Noax_00

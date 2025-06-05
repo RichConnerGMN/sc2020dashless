@@ -1,5 +1,6 @@
 #Made by Renatotheflowey
-#Dash saves by Cr33pyCat
+#Dash saves by Cr33pyCat, Tyran
+#Optimization by amber
 #9x
 
 RecordCount: 1352
@@ -420,7 +421,7 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
   20,L,X
 Repeat,78
    1
- #Weeeeeee
+#Weeeeeee
    1
 EndRepeat
   40

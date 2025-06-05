@@ -92,7 +92,7 @@ EndRepeat
   33,R,J,G
   40
 
-#lvl_1 (1)
+#lvl_1 (0)
 #0x
   19,R,G
    3,R,D,G
@@ -225,7 +225,7 @@ EndRepeat
   16,L,D
   40
 
-#lvl_2 (1)
+#lvl_2 (0)
 #0x
   21,R,D
   30,R,J
@@ -263,7 +263,7 @@ EndRepeat
    3,L,J,G
   40
 
-#lvl_1 (2)
+#lvl_1 (1)
 #0x
   25,L,J,G
    1,D
@@ -286,7 +286,7 @@ EndRepeat
   22,D,G
   40
 
-#lvl_2 (2)
+#lvl_2 (1)
 #0x
   31,D,G
   12,R,D,G
