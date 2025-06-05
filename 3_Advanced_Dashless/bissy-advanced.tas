@@ -1,11 +1,11 @@
-# Made by Hane
+# Made by Renatotheflowey, Hane
 # 36X
 RecordCount: 858
 console load SpringCollab2020/3-Advanced/Bissy
    1
 
 #Start
-console display_message 0 0.65 50 false Hane
+console display_message 0 0.65 50 false "Hane, Renatotheflowey"
  190
 
 #lvl_Bissy_00 (10X)
