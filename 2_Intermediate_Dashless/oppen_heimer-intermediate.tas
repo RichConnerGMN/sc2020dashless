@@ -1,11 +1,12 @@
-#TASed by Bred
+#TASedby Bred
 RecordCount: 4902
 
 console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1
-#start
+ #start
 
-#lvl_hub(0) 0x
+#0x
+#lvl_hub(0)
 console display_message 0 0.65 50 false Bred
  190
    5,R
@@ -75,7 +76,8 @@ console hide_message 0
   47,R,D
   40
 
-#lvl_room_3 (0) 0x
+#0x
+#lvl_room_3(0)
 
    1,S
    1,D,J
@@ -399,7 +401,8 @@ endrepeat
    8,J
   40
 
-#lvl_hub (1) 0x
+#0x
+#lvl_hub(1)
 
   12,K
   12,J
@@ -424,7 +427,8 @@ endrepeat
   11,L
   40
 
-#lvl_room_1 (0) 5x
+#5x
+#lvl_room_1(0)
 
    1,S
    1,D,J
@@ -943,7 +947,8 @@ endrepeat
   10,R,G
   40
 
-#lvl_hub (2) 0x
+#0x
+#lvl_hub(2)
 
    4,R,G
    1,R,J,G
@@ -975,7 +980,8 @@ endrepeat
    7,R,D,G
   40
 
-#lvl_room_4 (0) 1x
+#1x
+#lvl_room_4(0)
 
    7,R,D,G
    8,R,J,G
@@ -1390,14 +1396,16 @@ endrepeat
    8,L,J
   40
 
-#lvl_hub (3) 0x
+#0x
+#lvl_hub(3)
 
    1,J,G
   10
    7,R
   40
 
-#lvl_room_4 (1) 0x
+#0x
+#lvl_room_4(1)
 
    9,R,D
    5,L,D
@@ -1596,7 +1604,8 @@ endrepeat
    7,L,J
   40
 
-#lvl_hub (4) 0x
+#0x
+#lvl_hub(4)
 
    1,L
    8,J
@@ -1630,7 +1639,8 @@ endrepeat
   38,L,K,G
   40
 
-#lvl_room_1 (1) 0x
+#0x
+#lvl_room_1(1)
 
 repeat 6
    8,L,J
@@ -1726,7 +1736,8 @@ endrepeat
   12,R,G
   40
 
-#lvl_hub (5) 0x
+#0x
+#lvl_hub(5)
 
    6,R,G
    1,G
@@ -1764,7 +1775,8 @@ endrepeat
   14,R,K,G
   40,K
 
-#lvl_room_2 (0) 3x
+#3x
+#lvl_room_2(0)
 
    7,R,K,G
 repeat 4
@@ -2105,7 +2117,8 @@ endrepeat
    4,L
   40
 
-#lvl_hub (6) 0x
+#0x
+#lvl_hub(6)
 
   10,L
   10,L,J
@@ -2120,7 +2133,8 @@ endrepeat
    6,R,D
   40
 
-#lvl_room_4 (2) 0x
+#0x
+#lvl_room_4(2)
 
    7,R,D
    1,R,J
@@ -2311,7 +2325,8 @@ endrepeat
    7,L,J
   40
 
-#lvl_hub (7) 0x
+#0x
+#lvl_hub(7)
 
    1,L
    8,J
@@ -2372,7 +2387,8 @@ endrepeat
    1,J
   40
 
-#lvl_bosses (0) 0x
+#0x
+#lvl_bosses(0)
 
    1,R,J,G
    2,R,K,G
@@ -2562,7 +2578,8 @@ endrepeat
    5,R,K,G
   40,K
 
-#lvl_outro (0) 1x
+#1x
+#lvl_outro(0)
 
    5,R,K
   19,R

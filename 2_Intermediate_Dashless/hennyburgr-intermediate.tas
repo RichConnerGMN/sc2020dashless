@@ -1,16 +1,16 @@
-#Made by mathb0y, Toster
-#Dash saves by Renatotheflowey, Cr33pyCat, ninz, atpx8, amber
-#Optimizations by Renatotheflowey
-#29x
+#Madebymathb0y, Toster
+#DashsavesbyRenatotheflowey,Cr33pyCat,ninz,atpx8, amber
+#Optimizationsby Renatotheflowey
+ #29x
 
 RecordCount: 5920
 
 console load SpringCollab2020/2-Intermediate/hennyburgr
    1
 
-#Start
-#lvl_hennyburgr_intro
-#1x
+ #Start
+ #lvl_hennyburgr_intro
+ #1x
 console display_message 0 0.65 50 false "amber, atpx8, Cr33pyCat, mathb0y, ninz, Renatotheflowey, Toster"
   28,L,J
   11
@@ -36,7 +36,7 @@ console display_message 0 0.65 50 false "amber, atpx8, Cr33pyCat, mathb0y, ninz,
   40
 
 #lvl_hennyburgr_1 (0)
-#1x
+ #1x
    8,R
    8,R,D,J
    5,R
@@ -92,8 +92,8 @@ console hide_message 0
    9,R
   40
 
-#lvl_hennyburgr_3
-#14x
+ #lvl_hennyburgr_3
+ #14x
    5,R
    1,R,D,J
    2,L,J
@@ -176,7 +176,7 @@ console hide_message 0
   40
 
 #lvl_hennyburgr_1 (1)
-#2x
+ #2x
   10,L
    4,L,J,G
   61,L,U,G
@@ -201,8 +201,8 @@ console hide_message 0
    8,L
   40
 
-#lvl_hennyburgr_4
-#7x
+ #lvl_hennyburgr_4
+ #7x
    5,L
    1,L,J
    5,L
@@ -312,7 +312,7 @@ console hide_message 0
   40
 
 #lvl_hennyburgr_1 (2)
-#1x
+ #1x
   31,R
    1,R,J
   10,R,D
@@ -347,8 +347,8 @@ console hide_message 0
   14,L,K
   40
 
-#lvl_hennyburgr_2
-#2x
+ #lvl_hennyburgr_2
+ #2x
    5,L
    1,L,J,G
    1,L,K,G
@@ -516,7 +516,7 @@ console hide_message 0
   40
 
 #lvl_hennyburgr_1 (3)
-#0x
+ #0x
    5,D
    2,L,D
    3,D
@@ -535,8 +535,8 @@ console hide_message 0
   19,D
   40
 
-#lvl_hennyburgr_outro
-#1x
+ #lvl_hennyburgr_outro
+ #1x
    1,D
   11,R,D
   12,R

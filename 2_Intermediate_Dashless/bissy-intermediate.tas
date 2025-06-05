@@ -1,17 +1,17 @@
-#Made by Renatotheflowey
-#Dash save by amber
-#Optimizations by pansear, RichConnerGMN
-#12,X
+#Madeby Renatotheflowey
+#Dashsaveby amber
+#Optimizationsbypansear, RichConnerGMN
+ #12,X
 RecordCount: 758
 
 console load SpringCollab2020/2-Intermediate/Bissy
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "amber, pansear, Renatotheflowey, RichConnerGMN"
   36
 
-#lvl_Bissy_00
+ #lvl_Bissy_00
    5,L
   18,L,D,J
    1,L
@@ -76,7 +76,7 @@ console display_message 0 0.65 50 false "amber, pansear, Renatotheflowey, RichCo
 console hide_message 0
   40
 
-#lvl_Bissy_04
+ #lvl_Bissy_04
    1,S
    1,D,O
   69,J
@@ -191,7 +191,7 @@ console hide_message 0
    1,G
   40
 
-#lvl_Bissy_06
+ #lvl_Bissy_06
    1,L,J
   23,U
   15,L,U,X

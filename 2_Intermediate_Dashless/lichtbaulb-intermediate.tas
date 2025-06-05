@@ -1,6 +1,7 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat
-#Optimizations by RichConnerGMN and atpx8
+#Madeby Renatotheflowey
+#Dashsavesby Cr33pyCat
+#atpx8
+#OptimizationsbyRichConnerGMNand
 #5X
 
 RecordCount: 1526
@@ -12,7 +13,8 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
 console display_message 0 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
-#lvl_1a start (0X)
+#(0X)
+#lvl_1a start
    4,L,J
   28,L,G
    1,L,K,G
@@ -33,7 +35,8 @@ console display_message 0 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, Rich
   12,R,D
   40
 console hide_message 0
-#lvl_1b (1X)
+#(1X)
+#lvl_1b
    7,R,D
   40,R
    9
@@ -78,7 +81,8 @@ console hide_message 0
   11,L
   40
 
-#lvl_1c (1X)
+#(1X)
+#lvl_1c
    1,S,N
    1,D,O
   69,J
@@ -116,7 +120,8 @@ console hide_message 0
   38,L,D
   40
 
-#lvl_1d (1X)
+#(1X)
+#lvl_1d
    2,L,D
    3,L,J
   16,L,G
@@ -204,7 +209,8 @@ EndRepeat
    1
   40
 
-#lvl_1e (1X)
+#(1X)
+#lvl_1e
   21,R,G
    8,L
    2
@@ -254,7 +260,8 @@ EndRepeat
    1,K
   40
 
-#lvl_1f end (1X)
+#(1X)
+#lvl_1f end
    1,L,J,G
    1,L,K,G
    9,L

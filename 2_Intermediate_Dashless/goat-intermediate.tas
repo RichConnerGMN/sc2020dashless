@@ -1,12 +1,13 @@
-#Made by Kirbz
-#Optimizations by RichConnerGMN, pansear
-#22X
+#Madeby Kirbz
+#OptimizationsbyRichConnerGMN, pansear
+ #22X
 
 console load SpringCollab2020/2-Intermediate/Goat
    1
 
-#Start
-#lvl_Intro (1X)
+ #Start
+#(1X)
+#lvl_Intro
 console display_message 0 0.65 50 false "Kirbz, pansear, RichConnerGMN"
   61
    1,R,D,J
@@ -99,7 +100,8 @@ console hide_message 0
    3,R,J,G
   40
 
-#lvl_1 (7X)
+#(7X)
+#lvl_1
   12,R,J,G
   11,R,K,G
   12,R,J,G
@@ -184,7 +186,8 @@ console hide_message 0
    6,R,J
   40
 
-#lvl_2 (8X)
+#(8X)
+#lvl_2
    2,R,J
    7,L,K
    7,R,J
@@ -248,7 +251,8 @@ console hide_message 0
    4,R
   40
 
-#lvl_3 (2X)
+#(2X)
+#lvl_3
   33,R
   14,R,J
   12,L,K
@@ -343,7 +347,8 @@ console hide_message 0
    2,L,J
   40
 
-#lvl_5 (3X)
+#(3X)
+#lvl_5
    1,J,G
    7,L,J
    2,R,J
@@ -437,7 +442,8 @@ console hide_message 0
    7,R,J
   40
 
-#lvl_6 (1X)
+#(1X)
+#lvl_6
    9,R
    1,L,J
   11,L,K

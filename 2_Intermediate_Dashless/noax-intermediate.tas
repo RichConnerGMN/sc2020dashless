@@ -1,19 +1,19 @@
-#Made by pansear
-#Dash save by Cr33pyCat
-#Optimizations by amber, RichConnerGMN
-#22x
+#Madeby pansear
+#Dashsaveby Cr33pyCat
+#Optimizationsbyamber, RichConnerGMN
+ #22x
 
 RecordCount: 788
 
 console load SpringCollab2020/2-Intermediate/Noax
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "amber, Cr33pyCat, pansear, RichConnerGMN"
  190
 
-#lvl_Noax_00
-#0x
+ #lvl_Noax_00
+ #0x
    5,L
    1,L,J
   21,L
@@ -58,8 +58,8 @@ console hide_message 0
    8,R,D
   40
 
-#lvl_Noax_01
-#5x
+ #lvl_Noax_01
+ #5x
   29,R,D
    1,R
    1,R,J
@@ -110,8 +110,8 @@ console hide_message 0
    6,R,K
   40
 
-#lvl_Noax_02
-#2x
+ #lvl_Noax_02
+ #2x
    1,R
   36,R,X
    4,R,J
@@ -130,8 +130,8 @@ console hide_message 0
   37,U,C
   40
 
-#lvl_Noax_03
-#3x
+ #lvl_Noax_03
+ #3x
   17,U
   21,R,X
    4,R,J
@@ -193,8 +193,8 @@ console hide_message 0
    6,R
   40
 
-#lvl_Noax_04
-#11x
+ #lvl_Noax_04
+ #11x
   11,R
    1,R,N
    3,L,J
@@ -306,8 +306,8 @@ console hide_message 0
   31,U,C
   40
 
-#lvl_Noax_05
-#1x
+ #lvl_Noax_05
+ #1x
    5
    7,R
   14,R,J,G

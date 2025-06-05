@@ -1,19 +1,19 @@
-#Made by Toster, Renatotheflowey, Cr33pyCat
-#Dash saves by Renatothefowey, Cr33pyCat
-#Optimizations by Renatotheflowey, Cr33pyCat, Ratatouy
-#46x
+#MadebyToster,Renatotheflowey, Cr33pyCat
+#DashsavesbyRenatothefowey, Cr33pyCat
+#OptimizationsbyRenatotheflowey,Cr33pyCat, Ratatouy
+ #46x
 
 RecordCount: 5824
 
 console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, Ratatouy, Renatotheflowey, Toster"
  190
 
-#lvl_int_heart_00
-#3x
+ #lvl_int_heart_00
+ #3x
    5,L
    1,L,J
   14,L
@@ -131,8 +131,8 @@ console hide_message 0
    5,R
   40
 
-#lvl_int_heart_01
-#13x
+ #lvl_int_heart_01
+ #13x
    9,R
    1,R,J
   14,R
@@ -331,8 +331,8 @@ console hide_message 0
   11,R
   40
 
-#lvl_int_heart_02
-#17x
+ #lvl_int_heart_02
+ #17x
    6,R
    1,R,J
   14,R
@@ -516,8 +516,8 @@ console hide_message 0
   14,R,D,G
   40
 
-#lvl_int_heart_03
-#3x
+ #lvl_int_heart_03
+ #3x
   31,R,J,G
    2,R,D,G
   10,L,D,G
@@ -976,16 +976,16 @@ EndRepeat
   17,R,D,G
    1,R,D,J,G
   40,R,D,G
-#slowdown to avoid
-#skipping the space trigger
-#(doesnt lose any time)
+#slowdownto avoid
+#skippingthespace trigger
+#(doesntloseany time)
    5,D,G
    1,R,J,G
    2,J,G
   40,J
 
-#lvl_int_heart_04
-#8x
+ #lvl_int_heart_04
+ #8x
    9,R,J,G
    2,R,J
    1,K,G
@@ -1171,7 +1171,7 @@ EndRepeat
   11,R,J
    3,L,J
   21,L,J,G
-#this isnt optimized
+#thisisnt optimized
 #at all
   22,F,351.3
    7,F,329.1
@@ -1248,8 +1248,8 @@ EndRepeat
  278,R,D,G
   40
 
-#lvl_int_heart_05
-#1x
+ #lvl_int_heart_05
+ #1x
  345,R,D,G
   14,R,U,G
    1,R,D,G
@@ -1300,8 +1300,8 @@ EndRepeat
   42,R,D
   40
 
-#lvl_int_heart_06
-#1x
+ #lvl_int_heart_06
+ #1x
    1,S,N
    1,D,J
   69,O
@@ -1411,7 +1411,7 @@ EndRepeat
    1,R
    2,R,K
    7,R
-#lazy resync 2
+#lazyresync 2
    1,J,G
   10,R,J
    3,R

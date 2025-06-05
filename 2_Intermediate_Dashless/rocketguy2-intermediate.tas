@@ -1,18 +1,19 @@
-#Made by pansear
-#Dash save by Cr33pyCat
-#Optimizations by Tyran
-#11X
+#Madeby pansear
+#Dashsaveby Cr33pyCat
+#Optimizationsby Tyran
+ #11X
 
 RecordCount: 1925
 
 console load SpringCollab2020/2-Intermediate/Rocketguy2
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, pansear, Tyran"
  190
 
-#lvl_RG2_0 (0X)
+#(0X)
+#lvl_RG2_0
    1,L,J
    5,L
   13
@@ -28,7 +29,8 @@ console display_message 0 0.65 50 false "Cr33pyCat, pansear, Tyran"
    9,D
   40
 
-#lvl_RG2_1 (0X)
+#(0X)
+#lvl_RG2_1
   36,L,D
 console hide_message 0
   12,R
@@ -82,7 +84,8 @@ console hide_message 0
    8,R
   40
 
-#lvl_RG2_2 (2X)
+#(2X)
+#lvl_RG2_2
   22,R,J
    1,R,G
    1,R,J,G
@@ -121,7 +124,8 @@ console hide_message 0
    1,K
   40
 
-#lvl_RG2_3 (2X)
+#(2X)
+#lvl_RG2_3
    1,R,J,G
    1,R,K,G
   12,R
@@ -257,7 +261,8 @@ EndRepeat
    1,J
   40
 
-#lvl_RG2_4 (6X)
+#(6X)
+#lvl_RG2_4
    1,L,J,G
    1,L,K,G
   12,L
@@ -286,7 +291,7 @@ EndRepeat
    2,L,D,J
    1,L
    2,L,J
-#time this part later with intended
+#timethispartlaterwith intended
   10
   38
    5,L
@@ -368,12 +373,12 @@ EndRepeat
    1,R
   14,R,D
   10,D
-#closest i can get dashless
-#  16
-#  13,R
-#   1
+#closesticanget dashless
+# 16
+# 13,R
+# 1
 # 500,R
-#---------
+ #---------
   13
    2,R
    1
@@ -442,7 +447,7 @@ EndRepeat
    5,R
    6,R,D,J
   25,R
-#death warp could be faster maybe
+#deathwarpcouldbefaster maybe
    1,J
    6,R,J
   19,R
@@ -457,7 +462,8 @@ EndRepeat
    1,R
   40
 
-#lvl_RG2_5 (0X)
+#(0X)
+#lvl_RG2_5
   13,R
    1,R,J
   28,R
@@ -592,7 +598,7 @@ endrepeat
    1,R
    1
    2,R
-#this part kinda sucks
+#thispartkinda sucks
    1,R,J
    1,J
    1,K,G
@@ -610,12 +616,13 @@ endrepeat
    1,R
    1,R,K,G
    1,R,J,G
-#0.000009px from 9f landing
+#0.000009pxfrom9f landing
   10,R
    1,R,J
   40
 
-#lvl_RG2_6 (1X)
+#(1X)
+#lvl_RG2_6
 repeat 14
   14,R
    1,R,J

@@ -1,4 +1,4 @@
-#Made by Exopta, Tyran and Cr33ps
+#MadebyExopta,Tyranand Cr33ps
 #22x
 
 console load SpringCollab2020/2-Intermediate/Skeleton
@@ -44,7 +44,8 @@ console hide_message 0
    4,R
   43
 
-#lvl_skeleton_01 (6x)
+#(6x)
+#lvl_skeleton_01
    7,R
    4,R,D
    1,R
@@ -171,7 +172,8 @@ console hide_message 0
    1,R
   43
 
-#lvl_skeleton_02 (1x)
+#(1x)
+#lvl_skeleton_02
   22,R
    1,R,J
    8,R
@@ -262,7 +264,8 @@ EndRepeat
   10,R
   43
 
-#lvl_skeleton_03 (5x)
+#(5x)
+#lvl_skeleton_03
   26,R
   10,R,D,J
    7,R
@@ -410,7 +413,8 @@ EndRepeat
    5,R,J
   40
 
-#lvl_skeleton_04 (8x)
+#(8x)
+#lvl_skeleton_04
    2,R,J
   14,R
    2,R,J
@@ -535,7 +539,8 @@ EndRepeat
    3,R,K,G
   40
 
-#lvl_skeleton_05 (2x)
+#(2x)
+#lvl_skeleton_05
    6,R,K
   21,R,D
   53,R,J
@@ -628,7 +633,8 @@ EndRepeat
    1,R
   40
 
-#lvl_skeleton_05 (1x)
+#(1x)
+#lvl_skeleton_06_end
    9,R
    1,R,K
    1,R,J

@@ -1,17 +1,18 @@
-#Made by pansear, exopta
-#Dash saves by Cirion02, Toster, Cr33pyCat
-#19X
+#exopta
+#Madebypansear,
+#DashsavesbyCirion02,Toster, Cr33pyCat
+ #19X
 
 RecordCount: 1871
 
 console load SpringCollab2020/2-Intermediate/Bonicle
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cirion02, Cr33pyCat, exopta, pansear, Toster"
  106
 
-#lvl_bonicle_00
+ #lvl_bonicle_00
    5,R
 Repeat, 7
    1,R,J
@@ -75,7 +76,8 @@ EndRepeat
 console hide_message 0
   40
 
-#lvl_bonicle_01 (6X)
+#(6X)
+#lvl_bonicle_01
   13,R
    1,R,J
   14,R
@@ -187,7 +189,8 @@ console hide_message 0
   25,R,D
   40
 
-#lvl_bonicle_02 (0)(4X)
+#(0)(4X)
+#lvl_bonicle_02
    8,R,D
   12,R
   19,R,D
@@ -225,7 +228,7 @@ endrepeat
    8,L
   40
 
-#lvl_bonicle_02b
+ #lvl_bonicle_02b
    6,L
 repeat 4
    1,L,J
@@ -250,7 +253,8 @@ endrepeat
   16,R,G
   40
 
-#lvl_bonicle_02 (1) (2X)
+#(2X)
+#lvl_bonicle_02(1)
    8,R,G
   12,R,J,G
   12,K,G
@@ -302,7 +306,8 @@ endrepeat
   11,R,D,G
   40
 
-#lvl_bonicle_03 (3X)
+#(3X)
+#lvl_bonicle_03
   17,R,D,G
   25,R,G
    5,R,J,G
@@ -356,7 +361,8 @@ EndRepeat
    6,R,D,G
   40
 
-#lvl_bonicle_04 (0)(1X)
+#(0)(1X)
+#lvl_bonicle_04
   23,R,D,G
    1,R,J,G
   25,R,U,G
@@ -528,7 +534,7 @@ endrepeat
    1,L,J
   18,L,K
   14,L
-#dcb should be possible but dumb
+#dcbshouldbepossiblebut dumb
    1,L,J
    1,L,K,G
   13,L
@@ -550,7 +556,7 @@ endrepeat
   13,L
   40
 
-#lvl_bonicle_04b
+ #lvl_bonicle_04b
    1,L
    1,L,J
   14,L
@@ -563,7 +569,7 @@ endrepeat
   32,R,D,G
   40
 
-#lvl_bonicle_04
+ #lvl_bonicle_04
    7,R,D,G
    1,R,J,G
   64,R,D,G
@@ -577,16 +583,17 @@ endrepeat
    3,R,D,G
   40
 
-#lvl_bonicle_05 (2X)
+#(2X)
+#lvl_bonicle_05
   25,R,D,G
-#this is faster but gets worse cycles
-#   1,R,J,G
-#  28,R,D,G
+#thisisfasterbutgetsworse cycles
+# 1,R,J,G
+# 28,R,D,G
   36,G
    1,R,G
    1,G
   39,R,G
-##
+ ##
    3,R,J,G
   35,R,G
    5,R,D
@@ -659,7 +666,8 @@ endrepeat
  109,R,D
   40
 
-#lvl_bonicle_06 (1X)
+#(1X)
+#lvl_bonicle_06
    9,L,D
   26,R,D
    1,R,J

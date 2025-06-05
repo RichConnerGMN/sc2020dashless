@@ -1,19 +1,19 @@
-#Draft by wirare
-#Dash save by Cr33pyCat, Tyran
-#Optimizations by amber, Toster, pansear
-#4x
+#Draftby wirare
+#DashsavebyCr33pyCat, Tyran
+#Optimizationsbyamber,Toster, pansear
+ #4x
 
 RecordCount: 2789
 
 console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "amber, Cr33pyCat, pansear, Toster, Tyran, wirare"
  190
 
-#lvl_TheAd_00
-#0x
+ #lvl_TheAd_00
+ #0x
    1,R,J
   18,R
    1,R,D
@@ -61,8 +61,8 @@ console display_message 0 0.65 50 false "amber, Cr33pyCat, pansear, Toster, Tyra
    7,R
   40
 
-#lvl_TheAd_01
-#2x
+ #lvl_TheAd_01
+ #2x
   10,R,D
    1,R,J
   14,R
@@ -101,7 +101,7 @@ console hide_message 0
   57,R,G
    3,R,D,G
   14,R,J,G
-#lost some frames resyncing
+#lostsomeframes resyncing
    5,J,G
    7,L,K,G
    1,J
@@ -115,14 +115,14 @@ console hide_message 0
    9,R
    1,R,J,G
    1,R,K,G
-#this is a 9f landing but i couldnt get the resync easily
+#thisisa9flandingbuticouldntgettheresync easily
   10,R
    1,R,J
    9,R
   40
 
-#lvl_TheAd_02
-#1x
+ #lvl_TheAd_02
+ #1x
    5,R
    1,R,J
   14,R
@@ -198,8 +198,8 @@ console hide_message 0
    7,R
   43
 
-#lvl_TheAd_03
-#0x
+ #lvl_TheAd_03
+ #0x
    4,R
    7,R,J
    5,R
@@ -221,7 +221,7 @@ console hide_message 0
    2,R
    1,R,J,G
    3,R,K,G
-#wasting time because of fireball cycle
+#wastingtimebecauseoffireball cycle
   10,R
    2,R,J
    1,J
@@ -271,8 +271,8 @@ console hide_message 0
   86,R,X
   58
 
-#lvl_TheAd_04
-#1x
+ #lvl_TheAd_04
+ #1x
   41
    3,R,J,G
    3,L,J
@@ -343,8 +343,8 @@ EndRepeat
   13,R,D
   40
 
-#lvl_TheAd_05
-#0x
+ #lvl_TheAd_05
+ #0x
    3,R,D
    6,L,D
   17,R,D
@@ -600,8 +600,8 @@ endrepeat
    5,R
   40
 
-#lvl_TheAd_06
-#0x
+ #lvl_TheAd_06
+ #0x
    9,R
    1,R,J
   14,R

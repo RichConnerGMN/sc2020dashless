@@ -1,18 +1,18 @@
-#Made by pansear
-#Dash save by Cr33pyCat
-#22X
+#Madeby pansear
+#Dashsaveby Cr33pyCat
+ #22X
 
 RecordCount: 1513
 
 console load SpringCollab2020/2-Intermediate/Hallow
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, pansear"
  190
 
-#lvl_Hallow_01
-#0x
+ #lvl_Hallow_01
+ #0x
    5,R
    1,R,J
   14,R
@@ -47,7 +47,7 @@ console display_message 0 0.65 50 false "Cr33pyCat, pansear"
    5,R
   40
 console hide_message 0
-#lvl_Hallow_02
+ #lvl_Hallow_02
   21,R,D
    1,R,J
    1,R,K
@@ -122,8 +122,8 @@ console hide_message 0
   12,R
   40
 
-#lvl_Hallow_03
-#10x
+ #lvl_Hallow_03
+ #10x
    4,R
    5,R,J
    5,R
@@ -181,8 +181,8 @@ console hide_message 0
   10,R,D,J
   40
 
-#lvl_Hallow_04
-#4x
+ #lvl_Hallow_04
+ #4x
    9,R,J
    3,L,J
    5,L,K,G
@@ -255,8 +255,8 @@ console hide_message 0
   10,R
   40
 
-#lvl_Hallow_05
-#4x
+ #lvl_Hallow_05
+ #4x
    2,R
    5,R,J
    5,R
@@ -326,8 +326,8 @@ console hide_message 0
    5,R
   40
 
-#lvl_Hallow_06
-#1x
+ #lvl_Hallow_06
+ #1x
    7,R
    3,R,J
    5,R
@@ -393,7 +393,7 @@ console hide_message 0
 
    1,R,J
   14,R
-#moon block cycle
+#moonblock cycle
    1
   12,U,X
   11,R,J
@@ -430,7 +430,7 @@ console hide_message 0
    2,R
   26
    1,L,D
-#manual inputs  should probably be featherlined
+#manualinputsshouldprobablybe featherlined
   22,F,170
    9,F,155
   13,F,140
@@ -509,8 +509,8 @@ console hide_message 0
    6,R
   40
 
-#lvl_Hallow_07
-#1x
+ #lvl_Hallow_07
+ #1x
    8,R
    1,R,J
   51,R,D

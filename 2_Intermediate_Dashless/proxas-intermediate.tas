@@ -1,18 +1,18 @@
-#Made by pansear
-#Dash save by Cr33pyCat
-#10x
+#Madeby pansear
+#Dashsaveby Cr33pyCat
+ #10x
 
 RecordCount: 1542
 
 console load SpringCollab2020/2-Intermediate/ProXas
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, pansear"
   76
 
-#lvl_intro
-#1x
+ #lvl_intro
+ #1x
    4,R
    1,R,J
   14,R
@@ -97,8 +97,8 @@ console hide_message 0
    7,R,K,G
   40
 
-#lvl_r-1
-#4x
+ #lvl_r-1
+ #4x
    5,R
    1,R,J,G
    5,R
@@ -255,8 +255,8 @@ console hide_message 0
    6,K,G
   40
 
-#lvl_r-2
-#0x
+ #lvl_r-2
+ #0x
    3,J,G
    2
    6,R,K,G
@@ -293,7 +293,7 @@ console hide_message 0
    5,R
    9,L,D
    2
-#slow subpixel manip
+#slowsubpixel manip
    7,U,G
    1,G
   20,R
@@ -558,8 +558,8 @@ console hide_message 0
    6,R,J
   40
 
-#lvl_r-3
-#4x
+ #lvl_r-3
+ #4x
    2,R
    1,J
    2,L,J
@@ -947,8 +947,8 @@ EndRepeat
    2,R
   40
 
-#lvl_outro
-#1x
+ #lvl_outro
+ #1x
    3,R
    6,R,J,G
   11,L,J

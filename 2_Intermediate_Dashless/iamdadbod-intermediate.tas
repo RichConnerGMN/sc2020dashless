@@ -1,12 +1,12 @@
-#Made by Algorythm
-#Dash save by Cr33pyCat
-#Optimizations by RichConnerGMN, pansear
+#Madeby Algorythm
+#Dashsaveby Cr33pyCat
+#OptimizationsbyRichConnerGMN, pansear
 #38x
 console load SpringCollab2020/2-Intermediate/iamdadbod
    1
 
 #Start
-#lvl_dad0
+#lvl_intro
 console display_message 0 0.65 50 false "Algorythm, Cr33pyCat, pansear, RichConnerGMN"
   69
    1,R,J
@@ -38,7 +38,8 @@ console display_message 0 0.65 50 false "Algorythm, Cr33pyCat, pansear, RichConn
    8,R
   40
 
-#lvl_dad1 (5X)
+#(5X)
+#lvl_dad1
    1,R
    4,R,J
    9,R
@@ -112,7 +113,8 @@ console hide_message 0
    5,R
   40
 
-#lvl_dad2 (17X)
+#(17X)
+#lvl_dad2
    1,L
    5,R
    1,R,J
@@ -384,7 +386,8 @@ console hide_message 0
    2,R,J
   40
 
-#lvl_dad3 (3X
+#(3X
+#lvl_dad3
    3,R,J
    5,R
    2,R,K
@@ -426,7 +429,8 @@ console hide_message 0
   11,R
   40
 
-#lvl_dad4 (11X)
+#(11X)
+#lvl_dad4
    3,R
    2,R,J
    5,R
@@ -657,7 +661,8 @@ console hide_message 0
    8,R
   40
 
-#lvl_outro1 (1X)
+#(1X)
+#lvl_outro1
    1,R
    3,R,J
   28,R
@@ -688,7 +693,8 @@ console hide_message 0
    1,D,J
  224
 
-#lvl_outro2 (1X)
+#(1X)
+#lvl_outro2
    5,R
    5,R,J
   10,R

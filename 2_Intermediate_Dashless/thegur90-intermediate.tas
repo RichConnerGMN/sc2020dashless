@@ -1,23 +1,25 @@
-#Made by Renatotheflowey
-#Optimization by pansear
-#9X
+#Madeby Renatotheflowey
+#Optimizationby pansear
+ #9X
 RecordCount: 627
 
 console load SpringCollab2020/2-Intermediate/Thegur90
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Renatotheflowey, pansear"
  190
 
-#lvl_1 (0X)
+#(0X)
+#lvl_1
    1,R,J
   15,R,D
  110,D
   16,L,D
   40
 
-#lvl_2 (3X)
+#(3X)
+#lvl_2
   37,L,D
 console hide_message 0
   27,R,D
@@ -50,7 +52,8 @@ console hide_message 0
   12,L,D
   40
 
-#lvl_3 (3X)
+#(3X)
+#lvl_3
    1,L,D
   27,D
   21,L,D
@@ -80,7 +83,8 @@ console hide_message 0
   55,D
   40
 
-#lvl_4 (0X)
+#(0X)
+#lvl_4
   17,D
    3,L,D
   68,D
@@ -103,7 +107,8 @@ console hide_message 0
    6,D
   40
 
-#lvl_5 (2X)
+#(2X)
+#lvl_5
    1,R,D
   85,D
   12,L,D
@@ -142,7 +147,8 @@ console hide_message 0
    5,R,K
   40
 
-#lvl_6 (0X)
+#(0X)
+#lvl_6
   15,R
    8,R,U,X
  106,R,D

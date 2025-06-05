@@ -1,18 +1,19 @@
-#Made by Toster
-#Dash saves by Cirion02, pansear, baamboo, Tyran
-#Optimizations by Renatotheflowey, atpx8, Curcuit, RichConnerGMN
-#26x
+#Madeby Toster
+#DashsavesbyCirion02,pansear,baamboo, Tyran
+#OptimizationsbyRenatotheflowey,atpx8,Curcuit, RichConnerGMN
+ #26x
 
 RecordCount: 2428
 
 console load SpringCollab2020/2-Intermediate/aleph_null
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "atpx8, baamboo, Cirion02, Curcuit, pansear, RichConnerGMN, Toster, Tyran"
   69
 
-#lvl_aleph_start (1X)
+#(1X)
+#lvl_aleph_start
    1,R,J
   14,R
    1,R,J
@@ -45,7 +46,8 @@ console display_message 0 0.65 50 false "atpx8, baamboo, Cirion02, Curcuit, pans
    1,R
   40
 console hide_message 0
-#lvl_aleph_entrance (4X)
+#(4X)
+#lvl_aleph_entrance
   14,R
    1,R,J
   14,R
@@ -96,7 +98,8 @@ console hide_message 0
    5,R,J
   40
 
-#lvl_aleph_main (1) 0x
+#0x
+#lvl_aleph_main(1)
    7,R,J
    1,J
   11,K
@@ -169,7 +172,8 @@ console hide_message 0
    6,L
   40
 
-#lvl_aleph_left (7X)
+#(7X)
+#lvl_aleph_left
    8,L
    2,L,J
    4,R,J
@@ -288,7 +292,8 @@ console hide_message 0
   11,R,D
   40
 
-#lvl_aleph_entrance (1) 0x
+#0x
+#lvl_aleph_entrance(1)
   23,R
   16,R,D
    2,R
@@ -320,7 +325,8 @@ console hide_message 0
    4,R,J
   40
 
-#lvl_aleph_main (2) 0x
+#0x
+#lvl_aleph_main(2)
    9,R,J
    1,K
    8,R,K
@@ -382,7 +388,8 @@ EndRepeat
   12,D
   40
 
-#lvl_aleph_down (6X)
+#(6X)
+#lvl_aleph_down
    1
    1,D
    1,F,187.20
@@ -482,7 +489,8 @@ EndRepeat
   11,U
   40
 
-#lvl_aleph_main (3) (1X)
+#(1X)
+#lvl_aleph_main(3)
    1,R,J,G
    4,F,89.999
 Repeat,3
@@ -556,7 +564,8 @@ EndRepeat
    2,R
   40
 
-#lvl_aleph_right (2X)
+#(2X)
+#lvl_aleph_right
    3,R
    1,R,J
    3,R
@@ -585,7 +594,8 @@ EndRepeat
    4,L,D
   40
 
-#aleph_main (4) (5X)
+#(5X)
+#aleph_main(4)
   22,L,D
    1,L,J
   57,L,D
@@ -636,7 +646,8 @@ EndRepeat
   12,L,J
   40
 
-#lvl_aleph_end (1X)
+#(1X)
+#lvl_aleph_end
    2,R
    1,L
    1,L,J,G

@@ -1,16 +1,18 @@
-#Made by Toster
-#Dash saves by Cr33pyCat
-#Optimizations by atpx8
-#9X
+#Madeby Toster
+#Dashsavesby Cr33pyCat
+#atpx8
+#Optimizationsby
+ #9X
 
 console load SpringCollab2020/2-Intermediate/phant
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "atpx8, Cr33pyCat, Toster"
  190
 
-#lvl_phant-start (2X)
+#(2X)
+#lvl_phant-start
   10,L
    1,D
    1
@@ -36,7 +38,8 @@ EndRepeat
  133
   40
 console hide_message 0
-#lvl_phant-01 (4X)
+#(4X)
+#lvl_phant-01
   72
    4,R
    1,R,J
@@ -172,7 +175,8 @@ console hide_message 0
    1,J
   40
 
-#lvl_phant-02 (2X)
+#(2X)
+#lvl_phant-02
    1,R,J,G
   11,R
    2
@@ -244,7 +248,8 @@ console hide_message 0
    4,R
   40
 
-#lvl_phant-03 (0X)
+#(0X)
+#lvl_phant-03
   10,R
    4,R,J
   14,R
@@ -319,7 +324,8 @@ console hide_message 0
   43,R,D
   40
 
-#lvl_phant-end (1X)
+#(1X)
+#lvl_phant-end
    3,R,D
    3,R,J
    4,R
