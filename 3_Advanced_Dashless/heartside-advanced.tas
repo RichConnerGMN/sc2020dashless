@@ -1,21 +1,21 @@
-#Made by Hane
-#Daves by Cr33pyCat
-#58x
+#Madeby Hane
+#Davesby Cr33pyCat
+ #58x
 
 RecordCount: 8439
 
 console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, Hane"
   36
 
 #Spinner Cycle
    0
 
-#lvl_Heartside_0
-#0x
+ #lvl_Heartside_0
+ #0x
    3,R
    1,R,J
   18,R
@@ -66,8 +66,8 @@ console display_message 0 0.65 50 false "Cr33pyCat, Hane"
    1,R,J
   40
 
-#lvl_Heartside_1
-#17x
+ #lvl_Heartside_1
+ #17x
   18,R
    1,J,N
    3,R,J
@@ -80,16 +80,16 @@ console display_message 0 0.65 50 false "Cr33pyCat, Hane"
    5,R
   22,R,Z
 console hide_message 0
-#-15f without bino interact
-#  18,R
-#   2,R,J
-#   3,R,K,G
-#   1,R
-#   1,R,J,G
-#  10,R
-#  17,R,J
-#  14,R,Z
-##
+#-15fwithoutbino interact
+# 18,R
+# 2,R,J
+# 3,R,K,G
+# 1,R
+# 1,R,J,G
+# 10,R
+# 17,R,J
+# 14,R,Z
+ ##
    5,R,J
   15,R,D,J,X
    3,R,D,J
@@ -310,8 +310,8 @@ console hide_message 0
   39,U,X
   40
 
-#lvl_Heartside_2
-#24x
+ #lvl_Heartside_2
+ #24x
   23,R
    4,J
    7,R,J
@@ -666,8 +666,8 @@ console hide_message 0
    4,R,J
   40
 
-#lvl_Heartside_3
-#9x
+ #lvl_Heartside_3
+ #9x
    1,R,J
    3
    5,R
@@ -701,8 +701,9 @@ console hide_message 0
    1,R,K,G
 
 #optimal inputs
-#   5,R,J,G
-#  13,U,X
+# 5,R,J,G
+#13,U,X
+#
 
    1,R,J,G
    9,R
@@ -730,12 +731,12 @@ Repeat,11
    1,R,D
    1,D,G
 EndRepeat
-#intentionally losing 6f
-#to remove spinner cycle
-#because room is
-#cycle locked by bumper,
-#optimally there are
-#3 fewer grab spams
+#intentionallylosing 6f
+#toremovespinner cycle
+#becauseroom is
+#cyclelockedby bumper,
+#optimallythere are
+#3fewergrab spams
 Repeat,8
    1
    1,G
@@ -905,13 +906,13 @@ EndRepeat
    1,J
   25,R,J
 
-#cycle lock 2
+#cyclelock 2
 #optimal inputs:
-#   1,R,K,G
-#   1,R,J,G
-#   1,R
-#   1
-#  11,R
+# 1,R,K,G
+# 1,R,J,G
+# 1,R
+# 1
+# 11,R
 
    1,K,G
    1,L,K
@@ -1001,8 +1002,8 @@ EndRepeat
    1,R,J
   40
 
-#lvl_Heartside_4
-#7x
+ #lvl_Heartside_4
+ #7x
    2,R
    2,R,J
    7,R
@@ -1354,8 +1355,8 @@ EndRepeat
   18,R,D,G
   40
 
-#lvl_Heartside_5
-#1x
+ #lvl_Heartside_5
+ #1x
   13,R,D,G
    2,R,G
    1,R,D,G

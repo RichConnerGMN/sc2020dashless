@@ -1,15 +1,16 @@
-#Made by RichConnerGMN
-#22X
+#Madeby RichConnerGMN
+ #22X
 RecordCount: 3754
 
 console load SpringCollab2020/3-Advanced/Ezel
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false RichConnerGMN
  190
 
-#lvl_Ezel_00 (0X)
+#(0X)
+#lvl_Ezel_00
    3,R
    1,R,J
   14,R
@@ -174,7 +175,8 @@ EndRepeat
    9,R
   40
 
-#lvl_Ezel_01 (3X)
+#(3X)
+#lvl_Ezel_01
    5,R
    1,R,D,J
   26,R
@@ -288,7 +290,7 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   10,R
-#9f might be possible with rounding error
+#9fmightbepossiblewithrounding error
    1,R,J
   14,R
    1,R,J
@@ -297,7 +299,8 @@ EndRepeat
   14,R
   40
 
-#lvl_Ezel_02 (5X)
+#(5X)
+#lvl_Ezel_02
    1,R,J
   14,R
    1,R,J
@@ -356,7 +359,8 @@ EndRepeat
    6,R
   40
 
-#lvl_Ezel_03 (1X)
+#(1X)
+#lvl_Ezel_03
    8,R
    1,R,J
   14,R
@@ -615,7 +619,8 @@ EndRepeat
   10,R
   40
 
-#lvl_Ezel_04 (6X)
+#(6X)
+#lvl_Ezel_04
    6
    1,R
    6
@@ -762,7 +767,7 @@ EndRepeat
   22,R
    1
   11,L,J
-#1:57.657(6921)
+ #1:57.657(6921)
 
   13,L
    1,L,K
@@ -829,7 +834,8 @@ EndRepeat
    2,J
   40
 
-#lvl_Ezel_05 (6X)
+#(6X)
+#lvl_Ezel_05
   12,R
    1,R,J,G
    1,R,K,G
@@ -1044,7 +1050,8 @@ EndRepeat
    8,R
   40
 
-#lvl_Ezel_06 (1X)
+#(1X)
+#lvl_Ezel_06
    6,R
    6,R,J
   19,R

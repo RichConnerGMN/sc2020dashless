@@ -1,6 +1,6 @@
-#Made by: Toster
-#Dash saves by Cr33pyCat
-#Optimization by Vampire Flower, Renatotheflowey
+#Madeby: Toster
+#Dashsavesby Cr33pyCat
+#OptimizationbyVampireFlower, Renatotheflowey
 #22x
 
 RecordCount: 3532
@@ -185,8 +185,8 @@ console hide_message 0
    2,L,J
    1
   31,L,Z
-#lazy resync, most likely
-#faster to climbjump here
+#lazyresync,most likely
+#fastertoclimbjump here
    1,J
   10,L,J
    5,L
@@ -318,7 +318,7 @@ console hide_message 0
    1,L
   40
 
-#lvl_spoopy_03
+#lvl_spoopy_04
 #3x
   13,L
    1,L,J

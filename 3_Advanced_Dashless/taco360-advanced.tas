@@ -1,18 +1,18 @@
-#Made by Renatotheflowey, Mathb0y
-#Optimizations by Toster
-#15x
+#MadebyRenatotheflowey, Mathb0y
+#Optimizationsby Toster
+ #15x
 
 RecordCount: 5117
 
 console load SpringCollab2020/3-Advanced/taco360
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Mathb0y, Renatotheflowey, Toster"
  190
 
-#lvl_taco360_00
-#1x
+ #lvl_taco360_00
+ #1x
    5,R
    1,R,J
    6,R
@@ -36,8 +36,8 @@ console display_message 0 0.65 50 false "Mathb0y, Renatotheflowey, Toster"
   21,U,X
   40
 
-#lvl_taco360_01
-#2x
+ #lvl_taco360_01
+ #2x
    1,R
    1,R,J,G
    1,R,K,G
@@ -101,7 +101,7 @@ console hide_message 0
   40
 
 #lvl_taco360_02 (0)
-#0x
+ #0x
    7,R,G
    1,R,J
   14,L
@@ -310,7 +310,7 @@ console hide_message 0
    1,L,J,G
    4,R,D,G
   40
-#3050
+ #3050
 
 #lvl_taco360_02 (1)
   24,R,D,G
@@ -346,7 +346,7 @@ console hide_message 0
   40
 
 #lvl_taco360_02 (2)
-#0x
+ #0x
    4,L,G
    6,R,G
   12,L,U,K,G
@@ -400,8 +400,8 @@ console hide_message 0
   23,L,U,J,G
   40
 
-#lvl_taco360_03
-#2x
+ #lvl_taco360_03
+ #2x
   27,L,U,J,G
   19,L,J,G
   17,L,U,J,G
@@ -477,8 +477,8 @@ console hide_message 0
   11,L
   40
 
-#lvl_taco360_04
-#10x
+ #lvl_taco360_04
+ #10x
   10,L
    1,L,J
   14,L
@@ -683,7 +683,7 @@ console hide_message 0
   18,R,D,G
   40
 
-#lvl_taco360_05
+ #lvl_taco360_05
   10,R,D,G
    1,R,J,G
   28,R,D,G
@@ -699,7 +699,7 @@ console hide_message 0
    5,R,D,G
   40
 
-#lvl_taco360_06
+ #lvl_taco360_06
   23,R,D,G
    1,R,D,J,G
   28,R,D,G

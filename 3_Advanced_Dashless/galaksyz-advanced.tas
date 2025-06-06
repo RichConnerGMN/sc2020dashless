@@ -1,17 +1,18 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat
-#Optimizations by Renatotheflowey, RichConnerGMN
-#33x
+#Madeby Renatotheflowey
+#Dashsavesby Cr33pyCat
+#OptimizationsbyRenatotheflowey, RichConnerGMN
+ #33x
 RecordCount: 1981
 
 console load SpringCollab2020/3-Advanced/Galaksyz
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey RichConnerGMN"
   84
 
-#lvl_Galaksyz_00 0x
+#0x
+#lvl_Galaksyz_00
    5,R
    1,R,J
   18,R,D
@@ -41,7 +42,8 @@ console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey RichConnerGM
   11,R,D
   40
 
-#lvl_Galaksyz_01 4x
+#4x
+#lvl_Galaksyz_01
   10,R,D
    8,R,J
   29,U,X
@@ -90,7 +92,8 @@ console hide_message 0
    6,R
   40
 
-#lvl_Galaksyz_02 6x
+#6x
+#lvl_Galaksyz_02
   12,R,D
   17,U,X
   26,R,J
@@ -126,7 +129,8 @@ console hide_message 0
    4,R
   40
 
-#lvl_Galaksyz_03 9x
+#9x
+#lvl_Galaksyz_03
   23,R,D
   40,R,X
    5,R,J
@@ -186,7 +190,8 @@ EndRepeat
    4,R
   40
 
-#lvl_Galaksyz_04 13x
+#13x
+#lvl_Galaksyz_04
    8,R
    1
    1,R
@@ -278,7 +283,8 @@ EndRepeat
   10,R
   40
 
-#lvl_Galaksyz_05 1x
+#1x
+#lvl_Galaksyz_05
    4,R
    1,R,J
   13,R

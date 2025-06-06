@@ -1,17 +1,18 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat
-#Optimizations by Cr33pyCat and Renatotheflowey
-#32x
+#Madeby Renatotheflowey
+#Dashsavesby Cr33pyCat
+#OptimizationsbyCr33pyCatand Renatotheflowey
+ #32x
 RecordCount: 1470
 
 console load SpringCollab2020/3-Advanced/iamdadbod
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey"
   86
 
-#lvl_iamdadbod_intro 1x
+#1x
+#lvl_iamdadbod_intro
    3,R
    1,R,J
   14,R
@@ -48,7 +49,8 @@ console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey"
 console hide_message 0
   40
 
-#lvl_iamdadbod_1 7x
+#7x
+#lvl_iamdadbod_1
    2,R
    1
    1,R
@@ -108,7 +110,8 @@ console hide_message 0
    9,R
   40
 
-#lvl_iamdadbod_2 3x
+#3x
+#lvl_iamdadbod_2
    5,R
    1,R,J
   14,R
@@ -188,7 +191,8 @@ console hide_message 0
   10,R
   40
 
-#lvl_iamdadbod_3 7x
+#7x
+#lvl_iamdadbod_3
    8,R,D
   10,R,J
   14,R,X
@@ -253,7 +257,8 @@ console hide_message 0
   13,R
   40
 
-#lvl_iamdadbod_4 4x
+#4x
+#lvl_iamdadbod_4
    1,R
    1,R,J
   14,R
@@ -306,7 +311,8 @@ console hide_message 0
   11,R
   40
 
-#lvl_iamdadbod_5 9x
+#9x
+#lvl_iamdadbod_5
    3,R
    1,R,J
   14,R
@@ -467,7 +473,8 @@ console hide_message 0
    1,R,J
   40
 
-#lvl_iamdadbod_outro 1x
+#1x
+#lvl_iamdadbod_outro
   14,R
    1,R,J
   18,R

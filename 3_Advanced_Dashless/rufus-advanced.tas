@@ -1,15 +1,15 @@
-#Made by Cr33pyCat
-#18x
+#Madeby Cr33pyCat
+ #18x
 
 console load SpringCollab2020/3-Advanced/Rufus
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false Cr33pyCat
  190
 
-#lvl_Intro
-#1x
+ #lvl_Intro
+ #1x
    5,R
    1,R,J
   12,R
@@ -38,8 +38,8 @@ console hide_message 0
    2,R,D,G
   40
 
-#lvl_Rufus_01
-#4x
+ #lvl_Rufus_01
+ #4x
    2,R,D
   14,D
    1,R,D
@@ -143,7 +143,7 @@ console hide_message 0
   40
 
 #lvl_Rufus_02 (0)
-#7x
+ #7x
    3,R,J
    1,R
    5,R,J
@@ -253,7 +253,7 @@ EndRepeat
   40
 
 #lvl_Rufus_03 (0)
-#0x
+ #0x
    6,R
    1,R,J
   14,R
@@ -269,14 +269,14 @@ EndRepeat
   40
 
 #lvl_Rufus_02 (1)
-#0x
+ #0x
    3
    1,R,D,J,G
    9,R,D,G
   40
 
 #lvl_Rufus_03 (1)
-#2x
+ #2x
   20,R,D,G
    1,R,D
    1,J
@@ -419,8 +419,8 @@ EndRepeat
   28,R,D,G
   40
 
-#lvl_Rufus_04
-#3x
+ #lvl_Rufus_04
+ #3x
   19,R,D,G
   16,R,U,J,G
   15,L,U,K,G
@@ -518,8 +518,8 @@ EndRepeat
   14,R,D,G
   40
 
-#lvl_Outro
-#1x
+ #lvl_Outro
+ #1x
   13,R,D,G
    1,L
    1,R,J

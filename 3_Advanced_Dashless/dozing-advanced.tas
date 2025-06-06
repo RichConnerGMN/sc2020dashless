@@ -1,17 +1,18 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat, RichConnerGMN
-#Optimizations by RichConnerGMN
-#50x
+#Madeby Renatotheflowey
+#DashsavesbyCr33pyCat, RichConnerGMN
+#Optimizationsby RichConnerGMN
+ #50x
 RecordCount: 1337
 
 console load SpringCollab2020/3-Advanced/Dozing
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
-#lvl_Dozing_01 0x
+#0x
+#lvl_Dozing_01
    1,R,J
   21,R,D
    1,R,J
@@ -35,7 +36,8 @@ console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey, RichConnerG
    4,R
   40
 
-#lvl_Dozing_02 3x
+#3x
+#lvl_Dozing_02
   10,R
    1,R,J
    7,R
@@ -88,7 +90,8 @@ console hide_message 0
   12,R
   40
 
-#lvl_Dozing_03 7x
+#7x
+#lvl_Dozing_03
    6,R
    8,R,J
   41,R
@@ -168,7 +171,8 @@ console hide_message 0
    8,R
   40
 
-#lvl_Dozing_04 6x
+#6x
+#lvl_Dozing_04
    3,R
   22,R,J
   37,R
@@ -263,7 +267,8 @@ console hide_message 0
    5,R
   40
 
-#lvl_Dozing_05 13x
+#13x
+#lvl_Dozing_05
   15,R
    1,R,J
   18,R
@@ -324,7 +329,8 @@ console hide_message 0
   91
   40
 
-#lvl_Dozing_06 19x
+#19x
+#lvl_Dozing_06
   69
    5,J
    8,L,J
@@ -390,7 +396,8 @@ console hide_message 0
  157
   40
 
-#lvl_Dozing_07 2x
+#2x
+#lvl_Dozing_07
   73
   11,L,J
    3,L

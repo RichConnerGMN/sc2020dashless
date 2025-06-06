@@ -1,16 +1,20 @@
-# Made by RichConnerGMN
-# Dash saves by atpx8
-# Optimizations by atpx8
-# 39X
+#Madeby RichConnerGMN
+#atpx8
+#Dashsavesby
+#atpx8
+#Optimizationsby
+#39X
+#
 RecordCount: 1133
 console load SpringCollab2020/3-Advanced/BeefyUncle
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "atpx8, RichConnerGMN"
  190
 
-#lvl_beefy_00 (1X)
+#(1X)
+#lvl_beefy_00
   13,R,X
   20,R,J
    2,J
@@ -34,7 +38,8 @@ console display_message 0 0.65 50 false "atpx8, RichConnerGMN"
    6,R
   40
 
-#lvl_beefy_01 (5X)
+#(5X)
+#lvl_beefy_01
    8,R
    8,R,J
   25,R
@@ -72,7 +77,8 @@ console hide_message 0
   10,R
   40
 
-#lvl_beefy_02 (8X)
+#(8X)
+#lvl_beefy_02
    4,R
    1,R,J
   14,R
@@ -171,7 +177,8 @@ console hide_message 0
    4,L
   40
 
-#lvl_beefy_03 (7X)
+#(7X)
+#lvl_beefy_03
   11,L
   18,L,J
   12,U,X
@@ -201,7 +208,8 @@ console hide_message 0
    8,L
   40
 
-#lvl_beefy_04 (0) (4X)
+#(4X)
+#lvl_beefy_04(0)
    6,L
    1,L,J
   12,L
@@ -235,7 +243,8 @@ console hide_message 0
    3,R,J
   40
 
-#lvl_beefy_05 (1X)
+#(1X)
+#lvl_beefy_05
    4,R,J
    2,R
   10,R,J
@@ -259,7 +268,8 @@ console hide_message 0
    4,L
   40
 
-#lvl_beefy_04 (1) (0X)
+#(0X)
+#lvl_beefy_04(1)
    1,S
    1,D,J
   69,O
@@ -268,7 +278,8 @@ console hide_message 0
   11,R
   40
 
-#lvl_beefy_06 (12X)
+#(12X)
+#lvl_beefy_06
    3,R
    1,R,J
   14,R
@@ -346,7 +357,8 @@ console hide_message 0
   10,R,K
   40
 
-#lvl_beefy_07 (1X)
+#(1X)
+#lvl_beefy_07
    1,R
    1
    1,R

@@ -1,14 +1,15 @@
-#Made by DDSalvy, msleg, TheChickenLeg, Vampire Flower
-#Dash saves by RichConnerGMN, pansear, Cr33pyCat
-#Optimizations by RichConnerGMN, Renatotheflowey
-#TODO: check who actually just did optimizations lol
-#6X
+#MadebyDDSalvy,msleg,TheChickenLeg,Vampire Flower
+#DashsavesbyRichConnerGMN,pansear, Cr33pyCat
+#OptimizationsbyRichConnerGMN, Renatotheflowey
+#TODO:checkwhoactuallyjustdidoptimizations lol
+ #6X
 
 console load SpringCollab2020/3-Advanced/Thegur90
    1
 
-#Start
-#lvl_intro (2x)
+ #Start
+#(2x)
+#lvl_intro
 console display_message 0 0.65 50 false "Cr33pyCat, DDSalvy, msleg, pansear, Renatotheflowey,"
 console display_message 1 0.65 100 false "RichConnerGMN, TheChickenLeg, Vampire Flower"
   36
@@ -67,7 +68,8 @@ console display_message 1 0.65 100 false "RichConnerGMN, TheChickenLeg, Vampire 
    4,R,J
   40
 
-#lvl_1 (3x)
+#(3x)
+#lvl_1
    2,R,J
    9,R
    1,R,J
@@ -147,7 +149,8 @@ console hide_message 1
    5,L
   40
 
-#lvl_3 (1x)
+#(1x)
+#lvl_3
    1
   72,O
    1,J
@@ -208,7 +211,8 @@ console hide_message 1
    2,R
   40
 
-#lvl_5 (1x
+#(1x
+#lvl_5
    1,R
    9,R,J
    5,R
@@ -295,7 +299,7 @@ console hide_message 1
    3,R
   40
 
-#lvl_outro
+ #lvl_outro
   11,R
   36,R,J
    5,D,X

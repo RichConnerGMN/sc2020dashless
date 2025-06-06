@@ -1,19 +1,19 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat, Tyran
-#Optimization by amber
-#9x
+#Madeby Renatotheflowey
+#DashsavesbyCr33pyCat, Tyran
+#Optimizationby amber
+ #9x
 
 RecordCount: 1352
 
 console load SpringCollab2020/3-Advanced/JaThePlayer
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "amber, Cr33pyCat, Renatotheflowey, Tyran"
  193
 
-#lvl_JaThePlayer_0
-#0x
+ #lvl_JaThePlayer_0
+ #0x
    4,L
    1,L,J
   18,L
@@ -28,8 +28,8 @@ console display_message 0 0.65 50 false "amber, Cr33pyCat, Renatotheflowey, Tyra
   10,L,J
   40
 
-#lvl_JaThePlayer_1
-#0x
+ #lvl_JaThePlayer_1
+ #0x
    1,R,J
   10,R
    1,R,J
@@ -71,8 +71,8 @@ console hide_message 0
    1,R,J
   40
 
-#lvl_JaThePlayer_2
-#0x
+ #lvl_JaThePlayer_2
+ #0x
    1
    6,R,J
    1,R,K,G
@@ -115,8 +115,8 @@ console hide_message 0
    8,R
   40
 
-#lvl_JaThePlayer_3
-#1x
+ #lvl_JaThePlayer_3
+ #1x
    4,R,J
    1,L,J
    4,R,J
@@ -200,8 +200,9 @@ console hide_message 0
   59,U
   40
 
-#lvl_JaThePlayer_4
-#2x (+2x)
+ #lvl_JaThePlayer_4
+#(+2x)
+#2x
    1,S
    1,D,J
   69,O
@@ -285,8 +286,9 @@ console hide_message 0
  157,L,J
   40
 
-#lvl_JaThePlayer_5
-#2x (+1x)
+ #lvl_JaThePlayer_5
+#(+1x)
+#2x
   65,R
    7,L,J
    2,L
@@ -423,13 +425,13 @@ console hide_message 0
   20,L,X
 Repeat,78
    1
-#Weeeeeee
+ #Weeeeeee
    1
 EndRepeat
   40
 
-#lvl_JaThePlayer_6
-#1x
+ #lvl_JaThePlayer_6
+ #1x
   73
    6,J
    9,R,J

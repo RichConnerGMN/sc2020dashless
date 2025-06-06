@@ -1,21 +1,21 @@
-#Made by pansear, Toster
-#Dash saves by Renatotheflowey, Cr33pyCat
-#Optimizations by Renatotheflowey
-#26x
+#Madebypansear, Toster
+#DashsavesbyRenatotheflowey, Cr33pyCat
+#Optimizationsby Renatotheflowey
+ #26x
 
 RecordCount: 1500
 
 console load SpringCollab2020/3-Advanced/NeoKat
    1
 
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, pansear, Renatotheflowey, Toster"
   76
 
-#lvl_1
-#0x
+ #lvl_1
+ #0x
 
-#spinner cycle +2f
+#spinnercycle +2f
    5,R
    1,R,J
    9,R
@@ -51,8 +51,8 @@ EndRepeat
   14,J
   40
 
-#lvl_2
-#7x
+ #lvl_2
+ #7x
    1,S
    1,D,J
   69,O
@@ -121,8 +121,8 @@ console hide_message 0
    1,K,G
   40
 
-#lvl_3
-#13x
+ #lvl_3
+ #13x
    2,K,G
    5,L,K
    2,L
@@ -303,8 +303,8 @@ console hide_message 0
    6,R,K,G
   40
 
-#lvl_4
-#5x
+ #lvl_4
+ #5x
    1,L,J
    6,L,K
    6,R,J
@@ -394,8 +394,8 @@ console hide_message 0
    1,R
   40
 
-#lvl_5
-#1x
+ #lvl_5
+ #1x
   19,D
    1,R,D
    1,R,J

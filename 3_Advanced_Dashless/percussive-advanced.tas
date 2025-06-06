@@ -1,20 +1,22 @@
-#Made by Renatotheflowey
-#Dash save by Cr33pyCat
+#Madeby Renatotheflowey
+#Dashsaveby Cr33pyCat
 
 RecordCount: 1156
 
 console load SpringCollab2020/3-Advanced/Percussive
    1
-#Start
+ #Start
 console display_message 0 0.65 50 false "Cr33pyCat, Renatotheflowey"
  190
 
-#lvl_Percussive_Intro 1x
+#1x
+#lvl_Percussive_Intro
   95,L,X
    4,L,J
   40
 
-#lvl_Percussive_1 7x
+#7x
+#lvl_Percussive_1
    9,L
    1,L,J
   47,L,D,X
@@ -76,7 +78,8 @@ EndRepeat
    6,R
   40
 
-#lvl_Percussive_2 8x
+#8x
+#lvl_Percussive_2
    4,R
    5,R,J
    1,R
@@ -126,7 +129,8 @@ EndRepeat
   15,R,J
   40
 
-#lvl_Percussive_3 7x
+#7x
+#lvl_Percussive_3
    9,R
   10,R,K,G
    1,R
@@ -171,7 +175,8 @@ EndRepeat
    8,R,Z
   40
 
-#lvl_Percussive_Exit 2x
+#2x
+#lvl_Percussive_Exit
  120,R
    4,R,J
    1,R,K
