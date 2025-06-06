@@ -1,23 +1,23 @@
-#Made by Toster
-#Dash saves by: Cr33pyCat, Toster
-#Optimizations by: Toster
-#53x
+#Madeby Toster
+#Dashsavesby:Cr33pyCat, Toster
+#Optimizationsby: Toster
+ #53x
 
 RecordCount: 3100
 
 console load SpringCollab2020/5-Grandmaster/Bissy
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Cr33pyCat, Toster"
  190
 
 #Spinner cycle
    1
-#-------------
+ #-------------
 
-#lvl_Bissy_00
-#6x
+ #lvl_Bissy_00
+ #6x
    6,L,D,X
    1,R,J
    7,R
@@ -73,8 +73,8 @@ console display_message 1 0.65 50 false "Cr33pyCat, Toster"
 console hide_message 1
   25
 
-#lvl_Bissy_01
-#10x
+ #lvl_Bissy_01
+ #10x
    1,S,N
    1,D,J
   69,O
@@ -213,8 +213,8 @@ console hide_message 1
    7,R,J,G
   40
 
-#Bissy_02
-#4x
+ #Bissy_02
+ #4x
    2,R,J
   15,U,X
    6,R
@@ -256,8 +256,8 @@ console hide_message 1
    1,L,J
   40
 
-#Bissy_03
-#15x
+ #Bissy_03
+ #15x
    5,L,J
    7,L
    1,L,J
@@ -386,8 +386,8 @@ console hide_message 1
    9,R
   40
 
-#lvl_Bissy_04
-#16x
+ #lvl_Bissy_04
+ #16x
    6,R
   19,R,J
    3,R,J
@@ -509,8 +509,8 @@ console hide_message 1
    1,R,J
   40
 
-#lvl_Bissy_05
-#1x
+ #lvl_Bissy_05
+ #1x
    3,R,J
    1,R
    1,R,J

@@ -1,18 +1,20 @@
-#Made by atpx8
-#Dash Save by Toster
-#Optimizations by Toster
-#42x
+#atpx8
+#Madeby
+#DashSaveby Toster
+#Optimizationsby Toster
+ #42x
 RecordCount: 1521
 
 console load SpringCollab2020/5-Grandmaster/Cyber
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Toster"
   96
 
 
-#lvl_Cyber_intro 0x
+#0x
+#lvl_Cyber_intro
    3,R
    1,R,J
   14,R
@@ -33,7 +35,8 @@ console display_message 1 0.65 50 false "atpx8, Toster"
    1,R
   40
 
-#lvl_Cyber_01 14x
+#14x
+#lvl_Cyber_01
   13,R
   12,R,J
   47,R,U,X
@@ -125,7 +128,8 @@ console hide_message 1
    1,R,J
   40
 
-#lvl_Cyber_02 10x
+#10x
+#lvl_Cyber_02
    7
    4,R
    1
@@ -264,7 +268,8 @@ console hide_message 1
    7,R
   43
 
-#lvl_Cyber_03 7x
+#7x
+#lvl_Cyber_03
    7,R
    1,R,J
   25,R
@@ -323,7 +328,7 @@ console hide_message 1
   17,R,D
   15,R,G
    5,R,D,G
-# this looks saveable but idk
+#thislookssaveablebut idk
   39,R,X
   27,R,J
   28,L,K
@@ -366,7 +371,8 @@ console hide_message 1
   12,R
   40
 
-#lvl_Cyber_04 10x
+#10x
+#lvl_Cyber_04
    2,R
    1,R,J
   18,R
@@ -454,7 +460,8 @@ console hide_message 1
   16,R
   40
 
-#lvl_Cyber_outro 0x
+#0x
+#lvl_Cyber_outro
    2,R
    1,R,J
   14,R

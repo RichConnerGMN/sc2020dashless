@@ -1,5 +1,6 @@
-#Made by atpx8
-#Optimizations by RichConnerGMN
+#atpx8
+#Madeby
+#Optimizationsby RichConnerGMN
 #22x
 
 RecordCount: 1072
@@ -10,7 +11,8 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
 console display_message 1 0.65 50 false "atpx8, RichConnerGMN"
  190
 
-#lvl_hydro_00 2x
+#2x
+#lvl_hydro_00
    4,R,Z
    1,R,J
    1,R,K
@@ -51,8 +53,8 @@ console display_message 1 0.65 50 false "atpx8, RichConnerGMN"
    1,R,K
    9,R
   40
-
-#lvl_hydro_01 5x
+#5x
+#lvl_hydro_01
 console hide_message 1
    5,R
   15,R,Z
@@ -81,8 +83,8 @@ console hide_message 1
    9,D
    7,L,D
   40
-
-#lvl_hydro_01 2x
+#2x
+#lvl_hydro_02
    1
   72,O
    2,R
@@ -93,22 +95,22 @@ console hide_message 1
   23,R,D
   23,L,D
 
-#saves around half a second
-#but 0.00003 x pixels precise
-#  29,L,J
-#   8,D
-#   1,R,D
-#   1,L,D
-#   2,D
-#   1
-#  14,R
-#   1
-#Invoke, Player.MoveH, 0.01665
-#   6,R
-#   6,R,D
-#  18,D
-#   2,R,D
-#   1,R
+#savesaroundhalfa second
+#but0.00003xpixels precise
+# 29,L,J
+# 8,D
+# 1,R,D
+# 1,L,D
+# 2,D
+# 1
+# 14,R
+# 1
+#Invoke,Player.MoveH, 0.01665
+# 6,R
+# 6,R,D
+# 18,D
+# 2,R,D
+# 1,R
 
    8,L,J
    8,L

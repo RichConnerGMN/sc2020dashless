@@ -1,17 +1,18 @@
-#Made by atpx8, RichConnerGMN
-#Dash save by Cr33pyCat
-#Optimizations by Curcuit
-#7X
+#Madebyatpx8, RichConnerGMN
+#Dashsaveby Cr33pyCat
+#Optimizationsby Curcuit
+ #7X
 RecordCount: 1240
 
 console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Curcuit, RichConnerGMN"
   69
 
-#lvl_fishtank_00 1x
+#1x
+#lvl_fishtank_00
    8,R,J
    1,R
    1,R,D,X
@@ -32,7 +33,8 @@ console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Curcuit, RichConnerGM
   10,R
   43
 
-#lvl_fishtank_01 0x
+#0x
+#lvl_fishtank_01
    4,R
    4,R,D,J
    8,R,K,G
@@ -49,7 +51,8 @@ console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Curcuit, RichConnerGM
   10,R,J,G
   40
 
-#lvl_fishtank_02 1x
+#1x
+#lvl_fishtank_02
 console hide_message 1
   15,R
   31,R,U,X
@@ -139,7 +142,8 @@ console hide_message 1
   40
 
 
-#lvl_fishtank_03 2x
+#2x
+#lvl_fishtank_03
   13,R
    3,R,D
    1,R,D,X
@@ -164,7 +168,8 @@ console hide_message 1
    9,R
   40
 
-#lvl_fishtank_04 0x
+#0x
+#lvl_fishtank_04
    1,R
    9,R,D,J
    6,R
@@ -220,7 +225,8 @@ console hide_message 1
    1,K
   43
 
-#lvl_fishtank_05 2x
+#2x
+#lvl_fishtank_05
    1,R
    1,R,J,G
   10,L,J
@@ -275,7 +281,8 @@ console hide_message 1
    2,R
   43
 
-#lvl_fishtank_07 (1X)
+#(1X)
+#lvl_fishtank_07
    1,R
    4,R,J
    2,R

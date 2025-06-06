@@ -1,15 +1,15 @@
-#Made by Cr33pyCat
-#14x
+#Madeby Cr33pyCat
+ #14x
 
 console load SpringCollab2020/5-Grandmaster/iamdadbod
    1
 
-#Start
-console display_message 1 0.65 50 false Cr33pyCat
+ #Start
+console display_message 1 0.65 50 false "Cr33pyCat"
  190
 
-#lvl_iamdadbod_intro
-#1x
+ #lvl_iamdadbod_intro
+ #1x
    5,R
    1,R,J
   23,R
@@ -62,8 +62,8 @@ console display_message 1 0.65 50 false Cr33pyCat
    1,R
   40
 
-#lvl_iamdadbod_1
-#6x
+ #lvl_iamdadbod_1
+ #6x
 console hide_message 1
   13,R
   12,R,J
@@ -236,8 +236,8 @@ EndRepeat
    1,L,J
   40
 
-#lvl_iamdadbod_2
-#0x
+ #lvl_iamdadbod_2
+ #0x
    1,K
    6,L,K
    1,J,G
@@ -643,8 +643,8 @@ EndRepeat
   23,R
   40
 
-#lvl_iamdadbod_3
-#3x
+ #lvl_iamdadbod_3
+ #3x
    8,R
   22,R,J
    1,R
@@ -927,8 +927,8 @@ EndRepeat
    6,R
   40
 
-#lvl_iamdadbod_berry_2
-#0x
+ #lvl_iamdadbod_berry_2
+ #0x
    3,R
    1,R,J
    4,R
@@ -962,9 +962,9 @@ EndRepeat
    1,R,D,G
    2,D,G
 #unoptimized movement
-#but shouldn't matter
-#because of bottleneck
-#(dashless water tasers help)
+#butshouldn't matter
+#becauseof bottleneck
+#(dashlesswatertasers help)
   17,F,180
   15,F,144.2
   63,F,93.2
@@ -988,8 +988,8 @@ EndRepeat
    7,R
   40
 
-#lvl_iamdadbod_4
-#0x
+ #lvl_iamdadbod_4
+ #0x
   29,R,D
    1,D
    1,R
@@ -1138,8 +1138,8 @@ EndRepeat
    1,R,J
   40
 
-#lvl_iamdadbod_5
-#2x
+ #lvl_iamdadbod_5
+ #2x
    1,S,N
    1,D,J
   72,O
@@ -1518,8 +1518,8 @@ EndRepeat
    4,R
   43
 
-#lvl_iamdadbod_outro
-#1x
+ #lvl_iamdadbod_outro
+ #1x
    4,R
    3,R,J
    1,R,D

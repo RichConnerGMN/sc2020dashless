@@ -1,6 +1,8 @@
-# Made by Renatotheflowey
-# Dash saves by Bred, Bain8renn, Renatotheflowey, Tyran
-# 39x
+#lvl_1
+#Madeby Renatotheflowey
+#DashsavesbyBred,Bain8renn,Renatotheflowey, Tyran
+#39x
+#
 
 RecordCount: 4270
 
@@ -11,7 +13,8 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
 console display_message 1 0.65 50 false "Bain8renn, Bred, Renatotheflowey, Tyran"
  190
 
-#lvl_1nkFa1c0n_00 (2x)
+#(2x)
+#lvl_1nkFa1c0n_00
   16,R,G
    5,R,J,G
    7,R
@@ -24,7 +27,8 @@ console display_message 1 0.65 50 false "Bain8renn, Bred, Renatotheflowey, Tyran
    1,R,J,G
   40
 
-#lvl_1nkFa1c0n_01 (3x)
+#(3x)
+#lvl_1nkFa1c0n_01
 console hide_message 1
   14,R,D,G
   10,R,G
@@ -188,7 +192,8 @@ console hide_message 1
    8,R
   40
 
-#lvl_1nkFa1c0n_02 (13x)
+#(13x)
+#lvl_1nkFa1c0n_02
    6,R
    1,R,J
   14,R
@@ -442,7 +447,8 @@ console hide_message 1
   11,R,J,G
   40
 
-#lvl_1nkFa1c0n_03 (12x)
+#(12x)
+#lvl_1nkFa1c0n_03
    4,R,J,G
    2,J,G
    4,D,J
@@ -641,7 +647,8 @@ EndRepeat
    4,R
   40
 
-#lvl_1nkFa1c0n_04 (8x)
+#(8x)
+#lvl_1nkFa1c0n_04
   10,R
   18,R,J
    1,K,G
@@ -687,10 +694,8 @@ EndRepeat
   18,R,K
    4,U,G
    2
-Repeat,1
    1,G
    1
-Endrepeat
    1,J
    3,R,J
   19,R,D
@@ -788,7 +793,8 @@ Endrepeat
   10,R,D,G
   40
 
-#lvl_1nkFa1c0n_end (0x)
+#(0x)
+#lvl_1nkFa1c0n_end
    7,R,G
 Repeat, 2
    1,R,J,G

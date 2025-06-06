@@ -1,17 +1,17 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat and Tyran
-#35X
+#Madeby Renatotheflowey
+#DashsavesbyCr33pyCatand Tyran
+ #35X
 RecordCount: 1274
 
 console load SpringCollab2020/5-Grandmaster/Thegur90
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, Tyran"
   33
 
-#lvl_TheHeck90_Intro
-#0x
+ #lvl_TheHeck90_Intro
+ #0x
    5,R
    1,R,J
    8,R
@@ -57,8 +57,8 @@ console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, Tyran"
    9,R
   40
 
-#lvl_TheHeck90_01
-#7x
+ #lvl_TheHeck90_01
+ #7x
    7,R,D,X
    3,R,J
    1
@@ -138,8 +138,8 @@ console hide_message 1
   13,R
   40
 
-#lvl_TheHeck90_02
-#7x
+ #lvl_TheHeck90_02
+ #7x
   11,R,Z
    1,R,J
    3,R
@@ -237,8 +237,8 @@ console hide_message 1
    4,R
   40
 
-#lvl_TheHeck90_03
-#8x
+ #lvl_TheHeck90_03
+ #8x
   14,R,X
    1,R,J,G
    1,L,J
@@ -339,8 +339,8 @@ console hide_message 1
   12,R
   40
 
-#lvl_TheHeck90_04
-#3x
+ #lvl_TheHeck90_04
+ #3x
    6,R
    1,R,J
   16,R
@@ -407,8 +407,8 @@ console hide_message 1
    1,J,G
   43
 
-#lvl_TheHeck90_05
-#9x
+ #lvl_TheHeck90_05
+ #9x
    1,R
    1,L
    5,J,G
@@ -562,8 +562,8 @@ console hide_message 1
    9,R
   43
 
-#lvl_TheHeck90_Outro
-#1x
+ #lvl_TheHeck90_Outro
+ #1x
    1
    1,R,J
   14,R

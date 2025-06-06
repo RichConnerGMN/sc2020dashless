@@ -1,19 +1,20 @@
-#Made by nebs and atpx8
-#Dash saves by Cr33pyCat, Renatotheflowey
-#Optimizations by fishmcmuffins, Toster, Renatotheflowey
-#19X
+#atpx8
+#Madebynebsand
+#DashsavesbyCr33pyCat, Renatotheflowey
+#Optimizationsbyfishmcmuffins,Toster, Renatotheflowey
+ #19X
 
 RecordCount: 5607
 
 console load SpringCollab2020/5-Grandmaster/BobDole
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Cr33pyCat, fishmcmuffins, nebs, Renatotheflowey, Toster"
   54
 
 #lvl_0 (0)
-#5x
+ #5x
    6,R,Z
    1,R,J
    7,R
@@ -61,7 +62,7 @@ console display_message 1 0.65 50 false "atpx8, Cr33pyCat, fishmcmuffins, nebs, 
 console hide_message 1
 
 #lvl_1 (0)
-#1x
+ #1x
   18,R,J
   15,U,X
   25,L,U,G
@@ -101,7 +102,7 @@ console hide_message 1
   40
 
 #lvl_1 (1)
-#2x
+ #2x
    7,R,D,G
    3,R,G
   11,R,D,G
@@ -417,8 +418,8 @@ console hide_message 1
    2,R,U,G
   40
 
-#lvl_2
-#1x
+ #lvl_2
+ #1x
    5,R,U,G
    5,R,J,G
   20,R,G
@@ -521,8 +522,8 @@ EndRepeat
    4,D,G
   40
 
-#lvl_3
-#6x
+ #lvl_3
+ #6x
   11,D,G
    6,L,D,J
    6,L
@@ -730,8 +731,8 @@ Endrepeat
   62,R,U,G
   40
 
-#lvl_4
-#2x
+ #lvl_4
+ #2x
    1,L
    1,R
    1,R,J,G
@@ -832,8 +833,8 @@ Endrepeat
   70,L,D,G
   40
 
-#lvl_5
-#1x
+ #lvl_5
+ #1x
   11,L,D,G
    1,R,J,G
   72,R,D,G
@@ -1013,8 +1014,8 @@ Endrepeat
   14,R,Z
   40
 
-#lvl_6
-#1x
+ #lvl_6
+ #1x
   13,R
    1,R,J
   14,R

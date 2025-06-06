@@ -1,20 +1,22 @@
-#Redrafted by atpx8
-#Optimizations by Renatotheflowey
-#Dash saves by Cr33pyCat, atpx8, Gregovin
+#atpx8
+#Redraftedby
+#Optimizationsby Renatotheflowey
+#DashsavesbyCr33pyCat,atpx8, Gregovin
 #--OLD CREDITS--
-#Made by atpx8, ayalyn
-#Optimizations by amber, Renatotheflowey
-#Dash saves by ayalyn, amber, Renatotheflowey
-#84x
+#Madebyatpx8, ayalyn
+#Optimizationsbyamber, Renatotheflowey
+#Dashsavesbyayalyn,amber, Renatotheflowey
+ #84x
 
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "amber, atpx8, ayalyn, Cr33pyCat, Gregovin, Renatotheflowey"
  190
 
-#lvl_a-00 1x
+#1x
+#lvl_a-00
 #Intro 1
   13,L,J
    1,K,G
@@ -162,8 +164,9 @@ console hide_message 1
    6,R
   40
 
-#lvl_a-01 19x
-#TheHeck90
+#19x
+#lvl_a-01
+ #TheHeck90
    1,S
    1,D,J
   72,O
@@ -296,7 +299,7 @@ console hide_message 1
    1,D
    2,L,D
   28,D
-#Error418
+ #Error418
   46,D
   16,R,D
    2,R
@@ -355,7 +358,8 @@ console hide_message 1
    4,R,D
   40
 
-#lvl_a-02 14x
+#14x
+#lvl_a-02
 #Tripeak Trail
    1,R,D
   72,O
@@ -549,7 +553,8 @@ AnalogMode,Precise
    5,R,G
   40
 
-#lvl_a-02b (1) 1x
+#1x
+#lvl_a-02b(1)
   23,R,D,G
    2,R,J,G
   38,R,G
@@ -574,8 +579,9 @@ AnalogMode,Precise
    2,R,G
   40
 
-#lvl_a-03 (1) 0x
-#Crypt of the Kevins
+#0x
+#lvl_a-03(1)
+#Cryptofthe Kevins
   11,R,G
   18,L,J
   13,G
@@ -602,7 +608,8 @@ AnalogMode,Precise
   40
    3
 
-#lvl_a-02b (2) 0x
+#0x
+#lvl_a-02b(2)
    1,D
   14,J
    3,R,J
@@ -610,7 +617,8 @@ AnalogMode,Precise
    6,R,J,G
   40
 
-#lvl_a-03 (2) 1x
+#1x
+#lvl_a-03(2)
    4,R,J,G
   17,R,G
    8,R,D,G
@@ -623,7 +631,8 @@ AnalogMode,Precise
   40
    3
 
-#lvl_a-02b (3) 1x
+#1x
+#lvl_a-02b(3)
   10,D
   11,U,X
   13,G
@@ -631,14 +640,16 @@ AnalogMode,Precise
   15,R,J,G
   40
 
-#lvl_a-03 (3) 0x
+#0x
+#lvl_a-03(3)
   25,L,U,J,G
    4,L,G
    1,L,D,G
   40
    3
 
-#lvl_a-02b (4) 1x
+#1x
+#lvl_a-02b(4)
   13,R,D
    1,D
    1,R,D
@@ -648,7 +659,8 @@ AnalogMode,Precise
   13,G
   40
 
-#lvl_a-03 (4) 1x
+#1x
+#lvl_a-03(4)
   19,J,G
   16,R,J,G
    1,L
@@ -854,7 +866,8 @@ EndRepeat
   40
    3
 
-#lvl_a-04 8x
+#8x
+#lvl_a-04
 #Theo Hell
   11,L,K,G
    6,R,J,G
@@ -876,10 +889,10 @@ EndRepeat
   60,L,D,G
   40,L,U,G
   60,R,U,G
-#this section is time locked
-#between the switch to cold mode
-#and the switch back to hot mode
-#dont bother improving this stall
+#thissectionistime locked
+#betweentheswitchtocold mode
+#andtheswitchbacktohot mode
+#dontbotherimprovingthis stall
    1,D
   13,G
    9,R,G
@@ -917,7 +930,7 @@ EndRepeat
   17,D,G
   17,L
   13,G
-#ok the stall is over now
+#okthestallisover now
  207,R,U,J,G
    3,U,G
    1,J
@@ -1023,7 +1036,7 @@ EndRepeat
   13,U,X
   13,G
   16,G
-#Forest Of The Ancients
+#ForestOfThe Ancients
   58,R,U,G
   15,R,D,G
    1,R,J,G
@@ -1299,7 +1312,8 @@ EndRepeat
   10,R,G
   40
 
-#lvl_a-05 9x
+#9x
+#lvl_a-05
 #Fish Hell
   19,R,D,G
    1,R,J,G
@@ -1677,8 +1691,9 @@ EndRepeat
   13,R,K,G
   40
 
-#lvl_a-06 0x
-#KoKoDoKo?
+#0x
+#lvl_a-06
+ #KoKoDoKo?
   12,J,G
    6,G
    7,D
@@ -1771,8 +1786,9 @@ EndRepeat
    4,R,K,G
   40
 
-#lvl_a-07 (1) 17x
-#Heart of the Storm
+#17x
+#lvl_a-07(1)
+#Heartofthe Storm
   13,L,J,G
   12,R,K,G
   12,L,J,G
@@ -1780,7 +1796,7 @@ EndRepeat
   10,L,J,G
   10,R,K,G
   24,L,J,G
-# moon cycle
+#moon cycle
    1,D
  227
   13,G
@@ -2052,191 +2068,191 @@ EndRepeat
    6,U
   40,D
    1,U,N
-#2
+ #2
   35
   38,U
   55,D
    1,U,N
-#3
+ #3
   35
   34,U
   54,D
    1,U,N
-#4
+ #4
   35
   32,U
    1
   54,D
    1,U,N
-#5
+ #5
   35
   30,U
    2
   55,D
    1,U,N
-#6
+ #6
   35
   28,U
    4
   55,D
    1,U,N
-#7
+ #7
   35
   26,U
    6
   55,D
    1,U,N
-#8
+ #8
   35
   24,U
    9
   54,D
    1,U,N
-#9
+ #9
   35
   22,U
   13
   52,D
    1,U,N
-#10
+ #10
   35
   20,U
   16
   51,D
    1,U,N
-#11
+ #11
   35
   18,U
   18
   51,D
    1,U,N
-#12
+ #12
   35
   16,U
   22
   49,D
    1,U,N
-#13
+ #13
   35
   14,U
   26
   47,D
    1,U,N
-#14
+ #14
   35
   12,U
   29
   46,D
    1,U,N
-#15
+ #15
   35
   10,U
   39
   38,D
    1,U,N
-#16
+ #16
   35
   10,U
   39
   38,D
    1,U,N
-#17
+ #17
   35
   10,U
   38
   39,D
    1,U,N
-#18
+ #18
   35
   10,U
   38
   39,D
    1,U,N
-#19
+ #19
   35
   10,U
   38
   39,D
    1,U,N
-#20
+ #20
   35
   10,U
   38
   39,D
    1,U,N
-#21
+ #21
   35
   10,U
   38
   39,D
    1,U,N
-#22
+ #22
   35
   10,U
   38
   39,D
    1,U,N
-#23
+ #23
   35
   10,U
   30
   48,D
    1,U,N
-#24
+ #24
   35
   10,U
   30
   48,D
    1,U,N
-#25
+ #25
   35
   10,U
   30
   47,D
    1,U,N
-#26
+ #26
   35
   10,U
   30
   47,D
    1,U,N
-#27
+ #27
   35
   10,U
   30
   47,D
    1,U,N
-#28
+ #28
   35
   10,U
   30
   47,D
    1,U,N
-#29
+ #29
   35
   10,U
   30
   47,D
    1,U,N
-#30
+ #30
   35
   10,U
   30
   47,D
    1,U,N
-#31
+ #31
   35
   10,U
   30
   47,D
    1,U,N
-#32
+ #32
   35
   10,U
   30
   47,D
    1,U,N
-#33
+ #33
   78
    8,R,U,J
   10,R,J
@@ -2257,15 +2273,15 @@ EndRepeat
   55,R,G,MU
    1,U
    1,F,0,0.5
-# god bless whoever's soul
-# who has to deal with this
-# this is like triple cycle
-# dependent, the pauses are
-# for manipping the cycle
-# not for stunning anything
-# they need to be removed
-# but im not doing that
-# The pauses are actually for pause buffering jumps in bino storage, we need them :)
+#godblesswhoever's soul
+#whohastodealwith this
+#thisisliketriple cycle
+#dependent,thepauses are
+#formanippingthe cycle
+#notforstunning anything
+#theyneedtobe removed
+#butimnotdoing that
+#Thepausesareactuallyforpausebufferingjumpsinbinostorage,weneedthem :)
   60
    1,S
    1,J
@@ -2278,7 +2294,8 @@ EndRepeat
    1,J
    8
   32,R,J,AD
-# 23, x=18041.72
+#x=18041.72
+#23,
   14,R,J
    7,R,U,J
    2,J
@@ -2289,20 +2306,21 @@ EndRepeat
    1,J,O
    8,R,J
   28,R,J
-#    1,J,S
-#    1,J,O
-#    9,J
+# 1,J,S
+# 1,J,O
+# 9,J
    2,R,U,J
-# were far away of the
-# lightning here bc of
-# ooo weirdness causing
-# the inview hitbox
-# to be offset
+#werefarawayof the
+#lightningherebc of
+#oooweirdness causing
+#hitbox
+#theinview
+#tobe offset
    2,J,F,72.34
    4,R,J
    1,R,U,J
-# oh its moon cycle
-# dependent too btw
+#ohitsmoon cycle
+#dependenttoo btw
 # hahahahahahahahaha
   56,R,J,G,AD
    1,J,S
@@ -2329,7 +2347,7 @@ EndRepeat
    1,L,G,AD,MU
   20,L,G,MU
   27,L,G
-# also cycle dependent :)
+#alsocycledependent :)
    1,G,F,315,0.92
    1,L,G,AD,MU
  120,L,G,MU
@@ -2475,7 +2493,7 @@ EndRepeat
   15,J,G
    1,R,J,G
    1,J,G
-# cycle dependent again
+#cycledependent again
    1,J,G,F,0,0.48
    1,J,G,AD
    2,J,G
@@ -3448,7 +3466,7 @@ EndRepeat
    3,R,J,G
    3,J,G
    1,J,MD
-# these arent optimal
+#thesearent optimal
 # idrc
 Repeat, 7
   16,J,G
@@ -3458,7 +3476,8 @@ EndRepeat
   68,R,J,G,MU
   40
 
-#lvl_a-08 (1) 0x
+#0x
+#lvl_a-08(1)
 #Ultra Difficult
    1,S
    1,D,J
@@ -3500,13 +3519,15 @@ EndRepeat
   10,R,G
   40
 
-#lvl_a-07 (2) 0x
+#0x
+#lvl_a-07(2)
    9,R,D,G
    1,R,J,G
    7,R,G
   40
 
-#lvl_a-08 (2) 4x
+#4x
+#lvl_a-08(2)
   32,R,U,G
    6,R,G
   20,R,J
@@ -3625,7 +3646,7 @@ EndRepeat
   18,R,G
    1,G
    1,D
-## downladder to core block
+##downladdertocore block
   21,G
    1,R,D
   13,G
@@ -3813,7 +3834,7 @@ EndRepeat
   14,G
    7,R,G
    1,R
-##
+ ##
   76,R,U,G
   65,U,G
    3,L,U,G
@@ -3828,7 +3849,7 @@ EndRepeat
   13,R,D,G
   10,L,J,G
    1,D,J
-## ladders to reach next block
+##ladderstoreachnext block
   21,G
    1,D
   13,G
@@ -4038,8 +4059,8 @@ EndRepeat
   23,R,K,G
    1,K,G
    1,R,D,K
-##
-## getting to the next jelly
+ ##
+##gettingtothenext jelly
   21,G
    1,D
   13,G
@@ -4112,8 +4133,8 @@ EndRepeat
    9,R,J,G
    1,J,G
    1,D
-##
-## The Big Ass Jadders with the Evil Eye Who Read Fortunes and Know Everything Before It Happens
+ ##
+##TheBigAssJadderswiththeEvilEyeWhoReadFortunesandKnowEverythingBeforeIt Happens
   21,G
    1,R,D
   13,G
@@ -8060,7 +8081,7 @@ EndRepeat
   91,R,G
    1,L,J
  104,L,K
-##
+ ##
   15,U,X
    7,L
    2
@@ -8091,7 +8112,8 @@ EndRepeat
   14,R,G
   40
 
-#lvl_a-heart 6x
+#6x
+#lvl_a-heart
   18,R,J
   13,G
    8,R,J,G
@@ -8303,7 +8325,8 @@ EndRepeat
    5,L,K
    6,L,D
 
-#a-end 1x
+#1x
+#a-end
   18,R,D
    9,D
   12,R,D

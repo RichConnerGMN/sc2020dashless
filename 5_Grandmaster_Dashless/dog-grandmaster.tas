@@ -1,21 +1,22 @@
-#Made by atpx8, Cr33pyCat, and Tyran
-# Dash saves by Tyran, Renatotheflowey
-# Optimizations by Tyran, Renatotheflowey
-#30x
+#Madebyatpx8,Cr33pyCat,and Tyran
+#DashsavesbyTyran, Renatotheflowey
+#OptimizationsbyTyran, Renatotheflowey
+ #30x
 
 RecordCount: 2511
 
 console load SpringCollab2020/5-Grandmaster/dog
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, Tyran"
   36
 
-#lvl_doggo_intro (1) 0x
+#0x
+#lvl_doggo_intro(1)
    1,R
    1,R,J
-# this is good enough for now
+#thisisgoodenoughfor now
   18,R,D
 Repeat, 8
    1,R,D
@@ -54,7 +55,8 @@ EndRepeat
    1,R
   40
 
-#lvl_doggo_01 (1) 1x
+#1x
+#lvl_doggo_01(1)
 console hide_message 1
   30,R,D
    1,R,J
@@ -95,7 +97,8 @@ console hide_message 1
   12,L,G
   40
 
-#lvl_doggo_intro (2) 0x
+#0x
+#lvl_doggo_intro(2)
   11,L,D,G
    1,R,J,G
   14,R,G
@@ -103,7 +106,8 @@ console hide_message 1
    4,R,G
   40
 
-#lvl_doggo_01 (2) 2x
+#2x
+#lvl_doggo_01(2)
   48,R,D,G
    1,R,J,G
    1,R,K,G
@@ -254,12 +258,13 @@ console hide_message 1
   22,R,D,G
    1,R,J,G
    5,R,G
-#0:32.844(1932)
+ #0:32.844(1932)
   40
 
-#lvl_doggo_02 0x
+#0x
+#lvl_doggo_02
   27,R,D,G
-# you know what that means: fish cycle! we want to be able to hit the spring with the launch regrab. maybe theres a way to hit the spring 0x without it? but i cant see much else
+#youknowwhatthatmeans:fishcycle!wewanttobeabletohitthespringwiththelaunchregrab.maybetheresawaytohitthespring0xwithoutit?buticantseemuch else
    7,G
 Repeat, 34
    1,D
@@ -294,12 +299,12 @@ EndRepeat
   15,L
   13,G
    8,L,G
-# need to throw jelly somewhere, otherwise you die, thowing it as early as possible is prob optimal
+#needtothrowjellysomewhere,otherwiseyoudie,thowingitasearlyaspossibleisprob optimal
    1,R
   33,R,D
   10,D
    9,R,D
-# this regrab is weird to optimize
+#thisregrabisweirdto optimize
 Repeat, 3
    1,G
    1
@@ -309,7 +314,7 @@ EndRepeat
    3,R
   13,G
    5,R,J,G
-# is this the fastest? idk but it works
+#isthisthefastest?idkbutit works
   17,R,D,G
   27,L,G
    8,L,D,G
@@ -322,7 +327,7 @@ EndRepeat
   12,J
    6,R,J
   13,G
-# need to hit fish low
+#needtohitfish low
    2,R,G
   36,L,U,G
    6
@@ -339,11 +344,11 @@ EndRepeat
   11,K
    4,R
    3,K
-# i *think* this is better than doing weird walljump jank
+#i*think*thisisbetterthandoingweirdwalljump jank
    1,R,K
   13,G
   15,K,G
-# the 1dk doesnt affect the jadder at all, but it makes the repeat command a little cleaner
+#the1dkdoesntaffectthejadderatall,butitmakestherepeatcommandalittle cleaner
 Repeat, 4
    1,D,K
   13,G
@@ -380,7 +385,8 @@ EndRepeat
    2,L,K,G
   40
 
-#lvl_doggo_03 4x
+#4x
+#lvl_doggo_03
   56,R,U,G
    7,R,G
   20,R,J,G
@@ -703,8 +709,9 @@ EndRepeat
   11,J,G
   40
 
-# This room needs to be rerouted still
-#lvl_doggo_04 (?x)
+#Thisroomneedstobererouted still
+#(?x)
+#lvl_doggo_04
    5,J,G
    1,D,J
    6,J
@@ -806,7 +813,7 @@ EndRepeat
   13,L
   39,L,U,J,G
    2,L,G
-#Any change before this section will desync it due to moon block cycles and it will either improve, worse or simply nothing would change.
+#Anychangebeforethissectionwilldesyncitduetomoonblockcyclesanditwilleitherimprove,worseorsimplynothingwould change.
   46,R,U,J,G
    3,R,D,G
    1,U,G
@@ -855,8 +862,8 @@ EndRepeat
   40
 
 
-#lvl_doggo_outro
-#1x
+ #lvl_doggo_outro
+ #1x
   13,R,D
    4,R,J
    1,R,K,G
