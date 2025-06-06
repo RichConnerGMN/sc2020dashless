@@ -1,16 +1,17 @@
-#Made by atpx8, RichConnerGMN
-#Dash saves by Cr33pyCat, amber, RichConnerGMN, Gregovin
-#Optimizations by atpx8, RichConnerGMN
-#32x
+#Madebyatpx8, RichConnerGMN
+#DashsavesbyCr33pyCat,amber,RichConnerGMN, Gregovin
+#Optimizationsbyatpx8, RichConnerGMN
+ #32x
 RecordCount: 3558
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "amber, atpx8, Cr33pyCat, Gregovin, RichConnerGMN"
  190
 
-#lvl_1 1x
+#1x
+#lvl_1
   34,R
 Repeat,62
    1,L,D
@@ -135,7 +136,8 @@ console hide_message 1
    1,R
   40
 
-#lvl_2b 1x
+#1x
+#lvl_2b
   28,R
    4
    1,R,D
@@ -232,7 +234,7 @@ EndRepeat
    6,L,J
    1,L,K,G
    8,L
-### Start Double Raise
+###StartDouble Raise
  341
 Repeat, 8
   13,J
@@ -408,7 +410,7 @@ Repeat, 104
    6,G
    1
 EndRepeat
-### End Double Raise
+###EndDouble Raise
    5,J
    1,R
   10
@@ -620,7 +622,8 @@ EndRepeat
    6,L,K
   40
 
-#lvl_3 5x
+#5x
+#lvl_3
    1,S
    1,D,J
   69,O
@@ -712,7 +715,8 @@ EndRepeat
    2,L
   40
 
-#lvl_4 5x
+#5x
+#lvl_4
    1,R
    1
    1,R
@@ -784,7 +788,8 @@ EndRepeat
    7,R,J,G
   40
 
-#lvl_5b 11x
+#11x
+#lvl_5b
   13,R
    9
   26,R
@@ -923,10 +928,11 @@ EndRepeat
    4,L
   40
 
-#lvl_6 8x
-#technically possible tave
-#im not doing it
-#i want to be free oomfie
+#8x
+#lvl_6
+#technicallypossible tave
+#imnotdoing it
+#iwanttobefree oomfie
   51,L
   65
    5,L
@@ -998,13 +1004,13 @@ EndRepeat
    4,L
   31,R
 # 100,R
-#1000
-#  12,L
-#  17,L,D,J
-#   9,L,K
-#  12,L
-#  23,R
-##RESYNC
+ #1000
+# 12,L
+# 17,L,D,J
+# 9,L,K
+# 12,L
+# 23,R
+ ##RESYNC
    3,L,J
    1,L
   19,L,J
@@ -1195,7 +1201,8 @@ EndRepeat
   10,R,D
   40
 
-#lvl_7 1x
+#1x
+#lvl_7
    1,R
   12,R,D
   16,L,D

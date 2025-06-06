@@ -1,17 +1,18 @@
-#Made by RichConnerGMN, Toster
-#Dash saves by Renatotheflowey
-#Optimisations by Renatotheflowey
-#9x
+#MadebyRichConnerGMN, Toster
+#Dashsavesby Renatotheflowey
+#Optimisationsby Renatotheflowey
+ #9x
 RecordCount: 2246
 
 console load SpringCollab2020/4-Expert/Indecx
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Renatotheflowey, RichConnerGMN, Toster"
  190
 
-#lvl_0-intro (0X)
+#(0X)
+#lvl_0-intro
    5,R
    1,R,J
   14,R
@@ -28,7 +29,8 @@ console display_message 1 0.65 50 false "Renatotheflowey, RichConnerGMN, Toster"
    1,R,J
   40
 
-#lvl_1 (4X)
+#(4X)
+#lvl_1
   14,R
    1,R,J
   14,R
@@ -98,7 +100,8 @@ console hide_message 1
   14,R
   40
 
-#lvl_2 (0x)
+#(0x)
+#lvl_2
    1,R,J
   14,R
    1,R,J
@@ -117,13 +120,15 @@ console hide_message 1
    6,R,D,G
   40
 
-#lvl_1 (0x)
+#(0x)
+#lvl_1
   22,R,D,G
    1,R,J,G
   11,R,D,G
   40
 
-#lvl_2 (2) (0x)
+#(0x)
+#lvl_2(2)
   17,R,D,G
    1,R,J,G
   20,R,G
@@ -307,7 +312,8 @@ EndRepeat
   15,R,D,G
   40
 
-#lvl_3 (0x)
+#(0x)
+#lvl_3
   13,R,D,G
    1,R,J,G
   33,R,D,G
@@ -382,7 +388,8 @@ EndRepeat
   10,R
   40
 
-#lvl_4 (3x)
+#(3x)
+#lvl_4
    4,R
    1,R,J
   14,R
@@ -436,7 +443,8 @@ EndRepeat
   12,R
   40
 
-#lvl_5 (0x)
+#(0x)
+#lvl_5
    2,R
    1,R,J
   14,R
@@ -448,11 +456,13 @@ EndRepeat
    1,R,J,G
   40
 
-#lvl_4 (1) (0x)
+#(0x)
+#lvl_4(1)
   20,R,D,G
   40
 
-#lvl_5 (1x)
+#(1x)
+#lvl_5
    8,R,D,G
    1,R,J,G
   25,R,D,G
@@ -683,7 +693,8 @@ endrepeat
    4,R
   40
 
-#lvl_5-outro (1x)
+#(1x)
+#lvl_5-outro
    8,R
    2
 repeat 29

@@ -1,15 +1,15 @@
-#Made by atpx8, Cr33pyCat
-#2x
+#Madebyatpx8, Cr33pyCat
+ #2x
 RecordCount: 1753
 console load SpringCollab2020/4-Expert/Mun
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Cr33pyCat"
  190
 
-#lvl_Intro
-#1x
+ #lvl_Intro
+ #1x
   15,U,X
    8
    2,L
@@ -94,7 +94,7 @@ EndRepeat
   40
 
 #lvl_1 (0)
-#0x
+ #0x
 console hide_message 1
   19,R,G
    3,R,D,G
@@ -228,7 +228,7 @@ console hide_message 1
   40
 
 #lvl_2 (0)
-#0x
+ #0x
   21,R,D
   30,R,J
    5,R
@@ -266,7 +266,7 @@ console hide_message 1
   40
 
 #lvl_1 (1)
-#0x
+ #0x
   25,L,J,G
    1,D
   17,L,J,G
@@ -289,7 +289,7 @@ console hide_message 1
   40
 
 #lvl_2 (1)
-#0x
+ #0x
   31,D,G
   12,R,D,G
    5,R,G
@@ -458,8 +458,8 @@ console hide_message 1
   15,R,J,G
   40
 
-#lvl_3
-#0x
+ #lvl_3
+ #0x
   30,R,D,G
    1,R,J,G
   56,R,D,G
@@ -670,7 +670,7 @@ console hide_message 1
    1,R,D,G
   40
 
-#lvl_4
+ #lvl_4
   21,R,D,G
    6,R,J,G
   27,R,U,G
@@ -821,7 +821,7 @@ console hide_message 1
    8,D
   40
 
-#lvl_Outro
+ #lvl_Outro
  146,D
   15,R,D
   65,D,X

@@ -1,17 +1,18 @@
-#Made by atpx8
-#Dash saves by Cr33pyCat
-#Optimizations by RichConnerGMN, Renatotheflowey
-#13X
+#atpx8
+#Madeby
+#Dashsavesby Cr33pyCat
+#OptimizationsbyRichConnerGMN, Renatotheflowey
+ #13X
 RecordCount: 4890
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, RichConnerGMN"
  190
 
-#lvl_dahlukeh_01
-#3x
+ #lvl_dahlukeh_01
+ #3x
    5,R
    1,R,J
   14,R
@@ -51,8 +52,8 @@ console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, Rich
    7,R,J
   40
 
-#lvl_dahlukeh_02
-#1x
+ #lvl_dahlukeh_02
+ #1x
    5,J
    1,L,J
    1,K,G
@@ -181,8 +182,8 @@ EndRepeat
    8,R
   40
 
-#lvl_dahlukeh_03
-#2x
+ #lvl_dahlukeh_03
+ #2x
    1,R
    1,R,J
   14,R
@@ -336,8 +337,8 @@ endrepeat
   11,R
   40
 
-#lvl_dahlukeh_04
-#5x
+ #lvl_dahlukeh_04
+ #5x
    2,R
    9,R,J
    1,K
@@ -394,8 +395,8 @@ endrepeat
    1,R,J
   40
 
-#lvl_dahlukeh_05
-#0x
+ #lvl_dahlukeh_05
+ #0x
    5,R
    2,R,J
    6,R
@@ -412,8 +413,8 @@ endrepeat
    8,J,G
   40
 
-#lvl_dahlukeh_06
-#1x
+ #lvl_dahlukeh_06
+ #1x
    8,J
    1,L,K,G
    4,R,K
@@ -471,8 +472,8 @@ endrepeat
   14,R
   40
 
-#lvl_dahlukeh_07
-#1x
+ #lvl_dahlukeh_07
+ #1x
    1,R,J
   14,R
    1,R,J

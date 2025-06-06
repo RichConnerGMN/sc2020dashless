@@ -1,17 +1,19 @@
-#TASed by Wirare, Renatotheflowey
-#Dash saves by Cr33pyCat, atpx8
-#Optimizations by atpx8, Renatotheflowey
-#7X
+#TASedbyWirare, Renatotheflowey
+#atpx8
+#DashsavesbyCr33pyCat,
+#Optimizationsbyatpx8, Renatotheflowey
+ #7X
 RecordCount: 5849
 
 console load SpringCollab2020/4-Expert/ChaotiC
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, Wirare"
  190
 
-#lvl_ChaotiC_00 (0X)
+#(0X)
+#lvl_ChaotiC_00
    1,R,J
   11,R,U,G
   11,R,J
@@ -39,7 +41,8 @@ console display_message 1 0.65 50 false "atpx8, Cr33pyCat, Renatotheflowey, Wira
    5,R,J
   40
 
-#lvl_ChaotiC_01 (4X)
+#(4X)
+#lvl_ChaotiC_01
    7,R,J
    1,L,J
    1,K
@@ -402,7 +405,8 @@ EndRepeat
    1,R,J
   40
 
-#lvl_ChaotiC_02 (0X)
+#(0X)
+#lvl_ChaotiC_02
   14,R
    1,R,J
   14,R
@@ -470,7 +474,8 @@ EndRepeat
    1
   40
 
-#lvl_ChaotiC_03 (1X)
+#(1X)
+#lvl_ChaotiC_03
   22,D
   17,R
    2
@@ -706,7 +711,8 @@ EndRepeat
    2,K,G
   40
 
-#lvl_ChaotiC_04 (0X)
+#(0X)
+#lvl_ChaotiC_04
    4
    1,J
    4,K,G
@@ -818,7 +824,8 @@ EndRepeat
    6,R,K
   40
 
-#lvl_ChaotiC_05 (1X)
+#(1X)
+#lvl_ChaotiC_05
    4,R
    1,R,J,G
    2,R,K,G
@@ -1021,7 +1028,8 @@ EndRepeat
    3,R
   40
 
-#lvl_ChaotiC_outro (1X)
+#(1X)
+#lvl_ChaotiC_outro
   12,R
    1
    1,R

@@ -1,17 +1,17 @@
-#Made by ayalyn
-#Dash saves by Cr33pyCat
-#30X
+#Madeby ayalyn
+#Dashsavesby Cr33pyCat
+ #30X
 
 RecordCount: 1383
 console load SpringCollab2020/4-Expert/Thegur90
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "ayalyn, Cr33pyCat"
   36
 
-#lvl_thegur90_FAB_0
-#1x
+ #lvl_thegur90_FAB_0
+ #1x
    3,R
    1,R,J
   14,R
@@ -26,8 +26,8 @@ console display_message 1 0.65 50 false "ayalyn, Cr33pyCat"
    3,K
   40
 
-#lvl_thegur90_FAB_1
-#5x
+ #lvl_thegur90_FAB_1
+ #5x
   13,R,U,Z
    1,R,J,G
    1,J
@@ -113,8 +113,8 @@ console display_message 1 0.65 50 false "ayalyn, Cr33pyCat"
    2,R,J
   43
 
-#lvl_thegur90_FAB_2
-#3x
+ #lvl_thegur90_FAB_2
+ #3x
 console hide_message 1
    9,R,J
    6,R
@@ -210,8 +210,8 @@ EndRepeat
   12,R
   43
 
-#lvl_thegur90_FAB_3
-#4x
+ #lvl_thegur90_FAB_3
+ #4x
    3,R
    1,R,J
   14,R
@@ -310,8 +310,8 @@ EndRepeat
    2,R
   40
 
-#lvl_thegur90_FAB_4
-#11x
+ #lvl_thegur90_FAB_4
+ #11x
    1,S
    1,D,O
   69,J
@@ -430,8 +430,8 @@ EndRepeat
    9,R
   40
 
-#lvl_thegur90_FAB_5
-#5x
+ #lvl_thegur90_FAB_5
+ #5x
    5,R
    1,R,J
   14,R
@@ -503,8 +503,8 @@ EndRepeat
    6,R,J
   40
 
-#lvl_thegur90_FAB_6
-#1x
+ #lvl_thegur90_FAB_6
+ #1x
    9,R
   14,R,U,X
  135

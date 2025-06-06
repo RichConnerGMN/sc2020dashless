@@ -1,17 +1,19 @@
-# Made by Renatotheflowey
-# Dash Saves by deliciousandnutritious, Tyran
-# 29x
+#Madeby Renatotheflowey
+#DashSavesbydeliciousandnutritious, Tyran
+#29x
+#
 
 RecordCount: 1931
 
 console load SpringCollab2020/4-Expert/Bissy
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "deliciousandnutritious, Renatotheflowey, Tyran"
   96
 
-#lvl_Bissy_00 (2x)
+#(2x)
+#lvl_Bissy_00
    1,L
    1,L,J
   14,L
@@ -45,7 +47,8 @@ console display_message 1 0.65 50 false "deliciousandnutritious, Renatotheflowey
   10,R
   40
 
-#lvl_Bissy_01 (4x)
+#(4x)
+#lvl_Bissy_01
 console hide_message 1
    4,R
    1,R,J,G
@@ -132,7 +135,8 @@ EndRepeat
    7,R
   40
 
-#lvl_Bissy_02 (7x)
+#(7x)
+#lvl_Bissy_02
    5,R
    1,R,G
    1
@@ -247,7 +251,8 @@ EndRepeat
   10,R
   40
 
-#lvl_Bissy_03 (7x)
+#(7x)
+#lvl_Bissy_03
    4,R
    1,R,J
    1
@@ -344,7 +349,8 @@ EndRepeat
    3,R
   40
 
-#lvl_Bissy_04 (8x)
+#(8x)
+#lvl_Bissy_04
    2,R,J
    1,R
    1,R,J
@@ -433,7 +439,8 @@ EndRepeat
    1,J
   40
 
-#lvl_Bissy_05 (1x)
+#(1x)
+#lvl_Bissy_05
    3,L,J
    3,L,K,G
    1,L

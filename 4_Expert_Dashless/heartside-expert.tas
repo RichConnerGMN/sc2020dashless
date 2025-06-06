@@ -1,7 +1,7 @@
-#Made by Renatotheflowey
-#Dash saves by Cr33pyCat, Tyran
-#Optimization by Toster
-#52x
+#Madeby Renatotheflowey
+#DashsavesbyCr33pyCat, Tyran
+#Optimizationby Toster
+ #52x
 
 
 RecordCount: 7167
@@ -9,12 +9,12 @@ RecordCount: 7167
 console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, Toster, Tyran"
  190
 
-#lvl_ExHS_Intro
-#2x
+ #lvl_ExHS_Intro
+ #2x
    4,R
    1,R,J
   20,R
@@ -83,8 +83,8 @@ console display_message 1 0.65 50 false "Cr33pyCat, Renatotheflowey, Toster, Tyr
    5,R,J
   40,J
 
-#lvl_ExHS_01
-#7x
+ #lvl_ExHS_01
+ #7x
 console hide_message 1
   14,R
    9,R,N
@@ -206,8 +206,8 @@ console hide_message 1
    1,D
   40
 
-#lvl_ExHS_02
-#6x
+ #lvl_ExHS_02
+ #6x
   14,R,D
    6,D
    6,R,D,J
@@ -348,8 +348,8 @@ console hide_message 1
    1,R,K,G
   29,R,D,G
   40
-#lvl_ExHS_03
-#15x
+ #lvl_ExHS_03
+ #15x
   14,R,D,G
    8,R,J,G
    5,R,G
@@ -648,8 +648,8 @@ console hide_message 1
   21,R,D
   40
 
-#lvl_ExHS_04
-#6x
+ #lvl_ExHS_04
+ #6x
    1,R,J
   14,R
    1,R,N
@@ -806,8 +806,8 @@ console hide_message 1
   30,R,X
   40
 
-#lvl_ExHS_05
-#1x
+ #lvl_ExHS_05
+ #1x
 
   14,R,D
    1,R,J
@@ -923,8 +923,8 @@ console hide_message 1
    4,R,U,J,G
   40
 
-#lvl_ExHS_06
-#3x
+ #lvl_ExHS_06
+ #3x
 
 
   23,R,U,J,G
@@ -1075,8 +1075,8 @@ console hide_message 1
    7,R,J
   40
 
-#lvl_ExHS_07
-#10x
+ #lvl_ExHS_07
+ #10x
    1,S
    1,D,J
   69,O
@@ -1347,8 +1347,8 @@ console hide_message 1
   12,R
   40
 
-#lvl_ExHS_Outro
-#3x
+ #lvl_ExHS_Outro
+ #3x
    2,R
    1,R,J
   14,R

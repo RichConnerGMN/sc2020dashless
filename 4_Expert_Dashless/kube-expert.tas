@@ -1,16 +1,17 @@
-#Made by atpx8, pansear
-#17X
+#Madebyatpx8, pansear
+ #17X
 
 RecordCount: 1714
 
 console load SpringCollab2020/4-Expert/Kube
    1
 
-#Start
+ #Start
 console display_message 1 0.65 50 false "atpx8, pansear"
  190
 
-#lvl_Kube_1 (0)(2X)
+#(0)(2X)
+#lvl_Kube_1
   94,R,U
    4,R,J
    1,R,K
@@ -202,7 +203,7 @@ console hide_message 1
   10,R,U,J,G
   40
 
-#lvl_Kube_3
+ #lvl_Kube_3
   13,R,D,G
    8,D,G
    1,R,J,G
@@ -456,7 +457,8 @@ console hide_message 1
   19,R,G
   40
 
-#lvl_Kube_4 (5X)
+#(5X)
+#lvl_Kube_4
    2,R,G
    8,R,U,X
    4,L,J
@@ -521,8 +523,8 @@ repeat 66
    1
 endrepeat
    1,G
-#funny 9px gap thing?
-#can definitely be optimised
+#funny9pxgap thing?
+#candefinitelybe optimised
    1,J,G
    1,K
    1,R,J,G
@@ -532,7 +534,8 @@ endrepeat
    5,R
   40
 
-#lvl_Kube_5 (4X)
+#(4X)
+#lvl_Kube_5
    9,R
    1,R,D,J
    1
@@ -614,7 +617,7 @@ endrepeat
   10,R,D,G
   40
 
-#lvl_Kube_6
+ #lvl_Kube_6
   18,R,D,G
    1,R,J,G
   26,R,G
@@ -629,7 +632,8 @@ endrepeat
    9,R,G
   40
 
-#lvl_Kube_7 (2X)
+#(2X)
+#lvl_Kube_7
   19,R,D,G
   12,R,J,G
   21,R,U,X
@@ -639,7 +643,8 @@ endrepeat
  147,G
   40
 
-#lvl_Kube_b1 (3X)
+#(3X)
+#lvl_Kube_b1
   51,R,D,G
    1,R,J,G
   28,R,D,G
@@ -832,7 +837,8 @@ endrepeat
    7,L,J
   40
 
-#lvl_Kube_b2 (1X)
+#(1X)
+#lvl_Kube_b2
    2,L,J
    1,K
    1,R,K
